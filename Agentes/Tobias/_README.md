@@ -14,16 +14,26 @@
 
 ## Conexões Ativas
 
-- [ ] Telegram (bot aguardando criação)
-- [ ] Composio (integrado, aguardar conexões específicas)
-- [ ] Obsidian Vault (pasta Agentes/Tobias/)
+- [x] Telegram (bot conectado e rodando)
+- [x] Composio (integrado)
+- [x] Obsidian Vault (pasta Agentes/Tobias/)
 
 ## Status
 
-- Profile criado e configurado
-- SOUL.md personalizado
-- Gateway aguardando token do Telegram
-- Documentação pendente
+- [x] Profile criado e configurado
+- [x] SOUL.md personalizado
+- [x] Gateway instalado e rodando (user service)
+- [x] Documentos de treinamento criados (6 arquivos)
+
+## Documentos de Treinamento
+
+| Arquivo | Conteúdo |
+|---|---|
+| **Index.md** | Missão, ferramentas, próximos passos |
+| **Visão Geral da Empresa.md** | História, produtos, segmentos, diferenciais |
+| **Cadeia de Suprimentos e Operações.md** | Fornecedores, fabricação, sazonalidade, compras |
+| **Gestão de Estoque e Indicadores.md** | KPI's, giro, ruptura, acuracidade, inventário |
+| **CD Valinhos e Logística de Entrega.md** | Operação do CD, transportes, entregas, logística reversa |
 
 ## Escopo
 
