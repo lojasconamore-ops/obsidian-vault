@@ -1,0 +1,65 @@
+ASSUNTO: Correção de URLs e Redirecionamentos — Conamore (conamore.com.br)
+
+Olá, equipe Increazy,
+
+Identificamos 21 links quebrados no site conamore.com.br que estão prejudicando a navegação e o SEO. Solicitamos a correção conforme abaixo.
+
+## 1. CORRIGIR URLs DO MENU PRINCIPAL
+
+Item do Menu → URL Atual (ERRADA) → URL Correta
+─────────────────────────────────────────────────
+Lençóis → /lencois → /lencol-para-hotelaria
+Toalhas → /toalhas → /toalhas-para-hoteis-pousadas
+Colchas → /colchas → /colchas-e-cobreleitos
+Edredons → /edredons → /edredons-para-hotelaria
+Protetores → /protetores → /protetores-de-colchao
+Cobertores → /cobertores → /cobertor-hotelaria
+Amenities → /amenities → /amenities-para-hotelaria
+
+## 2. REDIRECIONAMENTOS 301 (CRIAR)
+
+Origem → Destino
+─────────────────────────────────────────────────
+/lencois → /lencol-para-hotelaria
+/lencois.html → /lencol-para-hotelaria
+/lencol-para-hotelaria.html → /lencol-para-hotelaria
+/toalhas → /toalhas-para-hoteis-pousadas
+/colchas → /colchas-e-cobreleitos
+/edredons → /edredons-para-hotelaria
+/protetores → /protetores-de-colchao
+/cobertores → /cobertor-hotelaria
+/amenities → /amenities-para-hotelaria
+/hotelaria → /
+/hospitalar → /
+/casa → /
+/contato → /contatos
+/sobre-nos → /quem-somos
+/kit-airbnb → /enxoval-para-airbnb
+
+## 3. SUBMENUS COM ERRO
+
+Menu → Subitem → URL Atual → URL Correta
+─────────────────────────────────────────────────
+Lençóis > Linha de Produtos → /lencol-para-hotelaria/linha-de-produto → /lencol-para-hotelaria/linha-de-produto.html
+Edredons > Tamanho → /edredons-para-hotelaria/tamanho → /edredons-para-hotelaria.html/tamanho
+Edredons > Linha de Produto → /edredons-para-hotelaria/linha-de-produto → /edredons-para-hotelaria.html/linha-de-produto
+Colchas > Por Tamanho → /colchas-e-cobreleitos/por-tamanho-colcha → /colchas-e-cobreleitos/por-tamanho-colcha.html
+Colchas > Linha de Produto → /colchas-e-cobreleitos/linha-de-produto → /colchas-e-cobreleitos/linha-de-produto.html
+
+## 4. DUPLICIDADE DE CONTEÚDO (CANONICAL)
+
+Adicionar tag canonical nas páginas abaixo apontando para a versão principal:
+- /lencol-para-hotelaria.html → canônico: /lencol-para-hotelaria
+- /lencois.html → canônico: /lencol-para-hotelaria
+
+As páginas com .html estão dividindo o tráfego com as versões sem .html, gerando conteúdo duplicado perante o Google.
+
+## EVIDÊNCIAS (GA4 - últimos 30 dias)
+- /lencois: 3.451 page views (caindo em 404)
+- /lencois.html: 2.141 page views
+- /lencol-para-hotelaria.html: 8.198 page views (duplicada)
+
+Agradecemos a atenção e ficamos à disposição para qualquer dúvida.
+
+Atenciosamente,
+Flávia — Marketing Digital Conamore
