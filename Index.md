@@ -11,12 +11,19 @@ Crie notas em Markdown (`.md`) em qualquer subpasta. O Hermes pode:
 - **Pesquisar** com `search_files`
 - **Editar** com `patch`
 
+## Projetos Ativos
+
+- **[[Projetos/Lojas Conamore/README|Lojas Conamore]]** — Operação digital
+  - [[Projetos/Lojas Conamore/SOUL|SOUL — Identidade do DigitalCEO]]
+  - [[Projetos/Lojas Conamore/Lázaro do Carmo|Lázaro do Carmo — Referência]]
+
 ## Estrutura sugerida
 
 ```
 Documents/Obsidian Vault/
 ├── Index.md                 ← Você está aqui
 ├── Projetos/               ← Notas de projetos
+│   └── Lojas Conamore/     ← Projeto principal
 ├── Diário/                 ← Notas diárias
 └── Referências/            ← Documentação, links
 ```
