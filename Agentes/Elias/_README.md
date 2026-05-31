@@ -32,22 +32,35 @@ Secretário executivo pessoal e profissional do Sérgio. Cuida do dia a dia exec
 
 - **Composio MCP** ✅ — Google, email, calendário e ferramentas gerais
 - **RD Station** ❌ — removido (não faz sentido para secretário executivo)
-- **Telegram** 🔜 — próprio bot (a configurar)
+- **Telegram** ✅ — bot próprio ativo e autorizado
+
+## Documentos de Treinamento
+
+| Documento | Descrição |
+|---|---|
+| **Index.md** | Missão, ferramentas, hierarquia, regras de ouro |
+| **Visão Geral da Conamore.md** | História, produtos, pilares, presença digital |
+| **O Time.md** | Quem é quem: Sérgio, DigitalCEO, Flávia, Tobias |
+| **Guia de Operação do Secretário.md** | Workflows, comunicação, boas práticas |
 
 ## Estrutura
 
 ```
 ~/.hermes/profiles/elias/
 ├── config.yaml         # pt-BR, personality elias, composio ativo
-├── .env                # Token do Telegram (a configurar)
+├── .env                # Token do Telegram configurado
 ├── SOUL.md             # Personalidade própria
 ├── memories/           # Memória isolada
 ├── sessions/           # Sessões separadas
-└── cron/               # Jobs agendados
+└── logs/
+    └── gateway.log     # Log do gateway
 
 ~/Documents/Obsidian Vault/Agentes/Elias/
-├── _README.md          ← este arquivo
-└── (documentos de treinamento futuros)
+├── _README.md
+├── Index.md
+├── Visão Geral da Conamore.md
+├── O Time.md
+└── Guia de Operação do Secretário.md
 ```
 
 ## Notas
@@ -55,4 +68,4 @@ Secretário executivo pessoal e profissional do Sérgio. Cuida do dia a dia exec
 - Elias é **paralelo** ao DigitalCEO — cada um tem seu domínio, nenhum manda no outro
 - Cooperação lateral entre Elias e DigitalCEO quando necessário
 - Informações pessoais do Sérgio devem ser tratadas com discrição absoluta
-- O bot do Telegram precisa ser criado via @BotFather (Sérgio precisa fazer isso)
+- Telegram: usuário autorizado 8830886324 (Sérgio Ladeira)
