@@ -50,6 +50,16 @@ A Conamore atende **todo o Brasil**, com concentração maior em:
 - Sul (PR, SC, RS)
 - Centro-Oeste (DF, GO)
 
+### Transporte e Rastreamento (Intelipost)
+
+A gestão de fretes é feita via **Intelipost (TMS)**, integrada por API. Através dela:
+
+- **Cotação de frete** em tempo real com múltiplas transportadoras
+- **Rastreamento individual** de pedidos pelo número (`100-XXXXXXXX-X`)
+- **8 transportadoras** ativas: Correios Sedex, Frota Interna, Via Pajucara, Jamef, Rodonaves, Pacífico, Rápido Figueiredo, Favorita Transportes
+- **Script de tracking** via CLI (`intelipost-track.py`)
+- **Limitação:** API não tem dados agregados — para volume de pedidos, cruzar com GA4 Hotelaria (`properties/379729087`)
+
 ## Embalagem
 
 A embalagem adequada é crítica para produtos têxteis:

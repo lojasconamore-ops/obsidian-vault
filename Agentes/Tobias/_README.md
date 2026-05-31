@@ -16,6 +16,7 @@
 
 - [x] Telegram (bot conectado e rodando)
 - [x] Composio (integrado)
+- [x] Intelipost TMS (API tracking, cotação, transportadoras)
 - [x] Obsidian Vault (pasta Agentes/Tobias/)
 
 ## Status

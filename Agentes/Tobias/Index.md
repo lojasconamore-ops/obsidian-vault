@@ -20,6 +20,7 @@ Bem-vindo, Tobias. Este guia contém tudo que você precisa saber para assumir a
 
 ## Ferramentas à Disposição
 
+- **Intelipost (TMS)** — API de tracking, cotação de frete e transportadoras. Script CLI: `intelipost-track.py`
 - **Composio** — integração com apps externos (Google Sheets, Google Analytics, etc.)
 - **Obsidian Vault** — seu cérebro documental (pasta `Agentes/Tobias/`)
 - **Terminal** — acesso ao servidor e scripts

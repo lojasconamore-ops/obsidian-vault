@@ -1,8 +1,8 @@
-# Plano de Integração — API Intelipost
+# Integração — API Intelipost
 
-**Data:** 30/05/2026
+**Data:** 31/05/2026
 **Autor:** Tobias — Gerente de Logística e Supply Chain
-**Status:** Pesquisa concluída. Aguardando aprovação para iniciar implementação.
+**Status:** ✅ IMPLEMENTADA E OPERACIONAL
 
 ---
 
@@ -149,7 +149,62 @@ Checkout (site/marketplace)
 6. [ ] Homologar fluxo completo com time Intelipost
 7. [ ] Implantar fallback (contingência) para indisponibilidade
 
-## 8. Contato Intelipost
+## 8. Status da Implementação (31/05/2026)
+
+### ✅ Concluído — Operacional
+
+| Item | Status |
+|------|--------|
+| API Key ativa no ambiente (.env) | ✅ |
+| Script CLI de tracking (`intelipost-track.py`) | ✅ |
+| Skill Hermes (`intelipost-integracao`) | ✅ |
+| Consulta de rastreamento por order_number | ✅ (endpoint `/shipment_order/{id}`) |
+| Consulta de dados brutos do pedido | ✅ |
+| Cotação de frete (quote) | ✅ |
+| Listagem de transportadoras ativas | ✅ |
+| Verificação de saúde da API (status) | ✅ |
+| Documentação no Obsidian Vault | ✅ |
+| Rate limit — 100 req/min | ✅ monitorado |
+
+### ⚠️ Limitações Conhecidas
+
+- **API não tem endpoints de listagem/relatório** — consulta apenas individual por número de pedido
+- **Sem dados agregados** — não é possível extrair total de pedidos no mês, % entregue no prazo, volumes por transportadora diretamente da API
+- **Para volume/contexto:** cruzar com GA4 Hotelaria (`properties/379729087`) — métrica `transactions` e `totalRevenue`
+- **Tracking via `_events` endpoint** usa JWT expirado — não usar
+- **Não usar browser tool para rastrear** — site público intelipost.com.br é B2B/marketing, sem tracking público
+
+### 🔧 Como Usar (scripts)
+
+```bash
+cd ~/.hermes/profiles/tobias
+source .env
+python3 scripts/intelipost-track.py tracking "100-XXXXXXXX-X"   # rastrear pedido
+python3 scripts/intelipost-track.py quote <cep_origem> <cep_destino>  # cotar frete
+python3 scripts/intelipost-track.py delivery-methods  # listar transportadoras
+python3 scripts/intelipost-track.py status  # health check da API
+```
+
+### 🚧 Pendente (Próximos Passos)
+
+- [ ] Webhook de tracking (push) — precisa de URL pública para receber notificações automáticas
+- [ ] Integração com ERP/WMS para criação automática de shipment_order pós-faturamento
+- [ ] Logística reversa via API (troca/devolução automatizada)
+- [ ] Dashboard consolidado Intelipost + GA4 (volume de pedidos + tracking)
+- [ ] Contingência/fallback offline para indisponibilidade da API
+
+## 9. Transportadoras Ativas (Conamore)
+
+- Correios Sedex (EXPRESS)
+- Frota Interna / Frete Valor Fixo
+- Via Pajucara Standard
+- Jamef Standard
+- Rodonaves Standard
+- Pacífico Standard
+- Rápido Figueiredo
+- Favorita Transportes
+
+## 10. Contato Intelipost
 
 - **E-mail para integrações:** integracoes@intelipost.com.br
 - **SDK PHP:** https://github.com/intelipost/sdk-php
