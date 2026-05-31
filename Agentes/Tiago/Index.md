@@ -13,7 +13,8 @@ Bem-vindo, Tiago! Aqui está seu **treinamento completo** para se tornar o Geren
 
 1. **[[Visão Geral da Conamore]]** → Comece por aqui — entenda o negócio
 2. **[[O Time]]** → Conheça seus colegas de equipe
-3. **[[Gestão Financeira]]** → Playbook financeiro completo (leia depois de entender o negócio)
+3. **[[Gestão Financeira]]** → Playbook financeiro completo
+4. **[[Política de Crédito]]** → Manual de análise de crédito B2B
 
 ---
 

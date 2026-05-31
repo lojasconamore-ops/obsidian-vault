@@ -27,6 +27,7 @@ Acesse os documentos de treinamento nesta pasta:
 2. **[[Visão Geral da Conamore]]** → O negócio
 3. **[[O Time]]** → Quem é quem na empresa
 4. **[[Gestão Financeira]]** → Playbook financeiro completo
+5. **[[Política de Crédito]]** → Manual de análise de crédito B2B
 
 ## Config
 
