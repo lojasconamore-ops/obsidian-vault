@@ -1,60 +1,47 @@
-# Tiago — Gerente Financeiro
+# 📊 Tiago — Gerente Financeiro | Lojas Conamore
 
 **Criado em:** 31/05/2026
 **Criado por:** DigitalCEO
-**Reporta a:** DigitalCEO
+**Profile Hermes:** `tiago`
+**Wrapper CLI:** `tiago chat`
+**Telegram Bot:** ✅ Online (@tiago_conamore_bot)
+**Obsidian Root:** `Agentes/Tiago/`
 
-## Função
+---
 
-Gerente Financeiro da Lojas Conamore. Cuida de fluxo de caixa, contas a pagar/receber, relatórios financeiros, custos e orçamentos.
+## Escopo
 
-## Configuração
+Gerente Financeiro da Lojas Conamore. Cuida de fluxo de caixa, contas a pagar/receber, relatórios financeiros, custos operacionais, orçamentos e conciliação bancária. Analítico, preciso e orientado a dados.
 
-| Item | Valor |
-|---|---|
-| **Profile** | tiago |
-| **Provider** | opencode-go |
-| **Model** | deepseek-v4-flash |
-| **Linguagem** | pt-BR |
-| **Personality** | tiago |
-| **Wrapper CLI** | `~/.local/bin/tiago` |
+## Conexões Ativas
 
-## Conexões
+- ✅ **Composio MCP** — Google Sheets, Gmail, Google Drive
+- ✅ **Telegram Gateway** — Online
+- ❌ **RD Station** — Removido (não faz sentido para finanças)
 
-- **Composio MCP** ✅ — Google Sheets, Gmail, Google Drive
-- **RD Station** ❌ — removido (não faz sentido para finanças)
-- **Telegram** 🔜 — próprio bot (a configurar)
+## Treinamento Completo
 
-## Documentos de Treinamento
+Acesse os documentos de treinamento nesta pasta:
 
-| Documento | Descrição |
-|---|---|
-| **_README.md** (este) | Contexto, conexões, escopo |
-| **Index.md** | Missão, ferramentas, regras |
-| **Visão Geral da Conamore.md** | História, produtos, pilares |
-| **O Time.md** | Quem é quem na empresa e entre os agentes |
+1. **[[Index]]** → Menu principal, missão e ferramentas
+2. **[[Visão Geral da Conamore]]** → O negócio
+3. **[[O Time]]** → Quem é quem na empresa
+4. **[[Gestão Financeira]]** → Playbook financeiro completo
 
-## Estrutura
+## Config
 
 ```
-~/.hermes/profiles/tiago/
-├── config.yaml         # pt-BR, personality tiago, composio ativo
-├── .env                # Token do Telegram (a configurar)
-├── SOUL.md             # Personalidade própria
-├── memories/           # Memória isolada
-├── sessions/           # Sessões separadas
-└── logs/
-    └── gateway.log     # Log do gateway
-
-~/Documents/Obsidian Vault/Agentes/Tiago/
-├── _README.md
-├── Index.md
-├── Visão Geral da Conamore.md
-└── O Time.md
+Profile: tiago
+Personalidade: "Gerente Financeiro"
+Idioma: pt-BR
+Provider: opencode-go / deepseek-v4-flash
+MCP: Composio (Sheets, Gmail, Drive)
+Memória: Própria e isolada
+Obsidian: Agentes/Tiago/
 ```
 
 ## Notas
 
 - Tiago é subordinado ao DigitalCEO, como Flávia e Tobias
 - Trabalha com dados financeiros — precisão é obrigatória
-- Pode consultar Flávia (marketing) e Tobias (logística) quando necessário
+- Pode consultar Flávia (orçamentos de marketing) e Tobias (custos logísticos) quando necessário
