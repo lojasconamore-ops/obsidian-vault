@@ -24,7 +24,7 @@ Coordenado e supervisionado por mim:
 | **Tiago** | tiago | Gerente Financeiro |
 | **Elias** | elias | Secretário Executivo (Sergio + Camila) |
 | **Adrian** | adrian | Advogado/Consultor Jurídico |
-| **Natália** | natalia | Gerente Comercial |
+| **Natália** | natalia | Gerente de Fábrica e Confecção |
 | **Fabricia** | fabricia | Gerente de Fábrica |
 
 ## Ordem de Leitura

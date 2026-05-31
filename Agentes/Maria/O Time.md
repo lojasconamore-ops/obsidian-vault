@@ -43,10 +43,10 @@ Sergio Ladeira (CEO) ←→ Camila Ladeira (Presidente Conselho)
 - Absenteísmo
 - Segurança do trabalho (NRs)
 
-### Natália (Comercial)
-- Equipe de vendas
-- Comissionamento e metas
-- Treinamento comercial
+### Natália (Fábrica e Confecção)
+- Planejamento de produção
+- Equipe de corte, costura e acabamento
+- Controle de qualidade e prazos
 
 ### Flávia (Marketing)
 - Comunicação interna

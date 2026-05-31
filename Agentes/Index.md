@@ -12,7 +12,7 @@ Este é o diretório dos agentes no Obsidian Vault.
 - [[Adrian/Index|Adrian / Jurídico]]
 - [[Matias/Index|Matias / TI]]
 - [[Maria/Index|Maria / RH]]
-- [[Natália/Index|Natália / Comercial]]
+- [[Natália/Index|Natália / Fábrica e Confecção]]
 - [[Fabricia/Index|Fabricia / Fábrica]]
 
 ## Observações
