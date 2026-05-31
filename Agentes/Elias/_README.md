@@ -22,8 +22,8 @@ Secretário executivo pessoal e profissional do Sérgio. Cuida do dia a dia exec
 | Item | Valor |
 |---|---|
 | **Profile** | elias |
-| **Provider** | opencode-go |
-| **Model** | deepseek-v4-flash |
+| **Provider** | custom (OpenAI) |
+| **Model** | gpt-4o-mini |
 | **Linguagem** | pt-BR |
 | **Personality** | elias |
 | **Wrapper CLI** | `~/.local/bin/elias` |

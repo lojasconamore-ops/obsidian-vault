@@ -29,8 +29,8 @@ Bem-vindo, Elias. Você é o braço direito do Sérgio — o organizador da vida
 
 | Item | Valor |
 |---|---|
-| **Provider** | opencode-go |
-| **Modelo** | deepseek-v4-flash |
+| **Provider** | custom (OpenAI) |
+| **Modelo** | gpt-4o-mini |
 | **Idioma** | pt-BR |
 | **Perfil** | `elias` (profile Hermes) |
 
