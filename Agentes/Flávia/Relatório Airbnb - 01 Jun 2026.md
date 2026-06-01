@@ -145,6 +145,44 @@ Monitorei as 2 principais seções da Comunidade Airbnb Brasil. Identifiquei **3
 
 ---
 
+## 🏆 Tópico ESTRATÉGICO: "Qual marca de lençol vocês usam? Onde compram?"
+
+**Seção:** Otimize seu anúncio (não monitorada inicialmente — descoberto via pesquisa direta)
+**Link:** https://community.withairbnb.com/t5/Otimize-seu-an%C3%BAncio/Qual-marca-de-Len%C3%A7ol-voc%C3%AAs-usam-Onde-Compram/m-p/1317465#M596
+**Postagens:** 6+ respostas
+**Tópico criado:** Julho/2020, **última atividade: 14/05/2026** 😱 (ainda ativo!)
+
+**Pergunta original:** Anfitriã usava Zelo (100% algodão 200 fios), Zelo aumentou preços, ela quer opções melhores.
+
+**🔥 CONAMORE É CITADA 3 VEZES POR ANFITRIÕES DIFERENTES:**
+
+**Menção 1 — Recomendação espontânea:**
+> "Uma marca com muita qualidade e preços bacanas é a **Conamore**. Eles são especialistas em lençóis para hotel e tem muita facilidade de comprar peças avulsas, seja para primeira compra ou reposições necessárias. Dá para comprar tudo pelo site: www.conamore.com.br"
+
+**Menção 2 — Comparação de preço com Zelo (ALERTA):**
+> "O jogo de lençol queen percal 200 fios da Linha Hotel [Zelo], sai por 239,90. O mesmo jogo na Conamore por exemplo (que vc precisa comprar as peças avulsas) sai em torno de 323,00."
+
+**Menção 3 — Defesa da Conamore:**
+> "Vale a pena acompanhar o site da Conamore pois esses dias teve promoção na linha de lençóis e o preço ficou melhor ainda."
+
+### Análise estratégica:
+
+✅ **Ponto positivo:** A Conamore já tem reputação espontânea na comunidade — anfitriões recomendam sem incentivo nosso. Isso é prova social legítima.
+
+⚠️ **Alerta:** Uma anfitriã comparou o jogo queen Conamore (R$ 323) com o Zelo (R$ 239,90) e apontou que a Conamore é mais cara. **Outra anfitriã rebateu** dizendo que em promoção fica melhor — mas a percepção de preço elevado existe.
+
+🎯 **Oportunidade:** Esse é o tópico MAIS IMPORTANTE da comunidade para nós. Precisamos:
+1. **Responder** (quando autorizado) justificando o valor: fabricação própria, durabilidade maior, reposição de peças avulsas
+2. **Monitore** regularmente — novos anfitriões perguntam sobre marcas e este tópico é referência
+3. **Use como insumo** para revisar preços ou criar um kit exclusivo para anfitriões Airbnb
+
+**🎯 Sugestão de comentário (se aprovado):**
+> "Que bom ver a Conamore sendo lembrada por aqui! Só para contextualizar: a diferença de preço que mencionaram se deve à **fabricação própria** e à **qualidade dos insumos** — usamos algodão de fio longo (fibra mais resistente) e acabamento reforçado nas costuras, que é o que realmente faz o enxoval durar dezenas de lavagens sem desfiar ou perder a maciez.
+>
+> Além disso, vendemos **peças avulsas** — então se perder uma fronha ou precisar repor só o lençol de baixo, não precisa comprar um jogo inteiro. No longo prazo, isso reduz bastante o custo de reposição. E sim, vale acompanhar as promoções do site! 😉"
+
+---
+
 ## 🔍 Tópicos de Baixa Relevância (apenas registro)
 
 | Tópico | Seção | Link | Por que não comentar |
@@ -166,8 +204,11 @@ Monitorei as 2 principais seções da Comunidade Airbnb Brasil. Identifiquei **3
 2. **Anfitriões iniciantes** são extremamente carentes de orientação — ótimo público para nosso eBook e checklist de enxoval
 3. **Qualidade x durabilidade** é o dilema central — podemos nos posicionar como a marca que equilibra os dois com fabricação própria
 4. **Nenhum concorrente direto** está atuando na comunidade (não encontrei posts da Karsten, Buddem, Truss ou outra marca de enxoval)
-5. **Tom ideal**: consultivo e educacional, nunca comercial — a comunidade é de pares, não de vendas
-6. **Ritmo sugerido**: 1 comentário por semana, nos tópicos mais quentes, para construir presença consistente sem parecer spam
+5. **Conamore já é citada espontaneamente 3x** no tópico "Qual marca de lençol vocês usam?" — temos reputação orgânica para capitalizar
+6. **Zelo é o principal concorrente na percepção dos anfitriões** — comparam preço conosco diretamente
+7. **A seção "Otimize seu anúncio" é tão relevante quanto "Melhore seu espaço"** — incluir no monitoramento regular
+8. **Tom ideal**: consultivo e educacional, nunca comercial — a comunidade é de pares, não de vendas
+9. **Ritmo sugerido**: 1 comentário por semana, nos tópicos mais quentes, para construir presença consistente sem parecer spam
 
 ---
 
@@ -185,6 +226,7 @@ Monitorei as 2 principais seções da Comunidade Airbnb Brasil. Identifiquei **3
 
 | Comentário | Link | 👍 | ✏️ Ajustar | ❌ Pular |
 |---|---|---|---|---|
+| **🏆** Qual marca de lençol (responder Conamore) | [link](https://community.withairbnb.com/t5/Otimize-seu-an%C3%BAncio/Qual-marca-de-Len%C3%A7ol-voc%C3%AAs-usam-Onde-Compram/m-p/1317465#M596) | ☐ | ☐ | ☐ |
 | 1️⃣ Troca de lençóis/travesseiros (v1 técnica) | [link](https://community.withairbnb.com/t5/Melhore-seu-espa%C3%A7o/Com-que-frequ%C3%AAncia-voc%C3%AA-troca-travesseiros-e-len%C3%A7%C3%B3is-na/td-p/1889466) | ☐ | ☐ | ☐ |
 | 1️⃣ Troca de lençóis/travesseiros (v2 direta) | [link](https://community.withairbnb.com/t5/Melhore-seu-espa%C3%A7o/Com-que-frequ%C3%AAncia-voc%C3%AA-troca-travesseiros-e-len%C3%A7%C3%B3is-na/td-p/1889466) | ☐ | ☐ | ☐ |
 | 2️⃣ Limpeza profunda | [link](https://community.withairbnb.com/t5/Melhore-seu-espa%C3%A7o/Com-que-frequ%C3%AAncia-voc%C3%AA-realiza-uma-limpeza-profunda-no-seu/td-p/2247981) | ☐ | ☐ | ☐ |
