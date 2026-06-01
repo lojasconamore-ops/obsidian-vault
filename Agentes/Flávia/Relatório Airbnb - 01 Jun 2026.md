@@ -347,5 +347,82 @@ Preparei sugestões de comentário para **8 tópicos** — **nenhum foi publicad
 
 ---
 
+## 🔍 Análise do Novo Catálogo Conamore Hotelaria 2026
+
+> Análise baseada no PDF de 46 páginas + cruzamento com os 54 tópicos da comunidade Airbnb.
+
+### ✅ Pontos Fortes
+
+| Aspecto | Observação |
+|---------|------------|
+| **Design e estrutura** | Profissional, bem diagramado. A página 4 ("Como montar a cama perfeita") é excelente |
+| **Segmentação por linhas** | Harmony → Serenity, com especificações técnicas claras (fios, composição, gramatura) |
+| **Kits para Airbnb (pág 42)** | 🎯 **Acertou em cheio!** Exatamente o que a comunidade está pedindo |
+| **Amenities inclusos** | Shampoo, condicionador, sabonete — solução completa |
+| **Personalização com bordado** | Diferencial competitivo importante |
+| **Seção de banho completa** | Toalhas de 340 a 580 g/m², inclusive linha de piscina |
+| **Cobreleitos e colchas** | Cobertura completa de cama, mesa e banho |
+
+### ⚠️ Oportunidades de Melhoria
+
+| # | O que | Por que |
+|---|-------|---------|
+| 1 | **Falta: seção de cuidados e manutenção** | A maior dor na comunidade é **manchas e durabilidade** — o catálogo não ensina como cuidar para durar mais |
+| 2 | **Peças avulsas não são destacadas** | Na comunidade, anfitriões **elogiam** a Conamore por vender avulso — mas o catálogo mostra só linhas completas |
+| 3 | **Mínimo de R$ 1.000 para desconto nos Kits Airbnb** | Para anfitrião individual de 1-2 imóveis, esse valor é alto. Talvez R$ 500 fosse mais acessível |
+| 4 | **Travesseiros: apenas 2 modelos** | A comunidade DISCUTE travesseiros (pluma, altura, firmeza). Só Suporte Médio e Ecopluma podem ser limitantes |
+| 5 | **Sem tabela comparativa de custo-benefício** | Na comunidade, uma anfitriã comparou Conamore (R$ 323) vs Zelo (R$ 239,90). Precisamos justificar o valor |
+| 6 | **Linguagem mais hoteleira que Airbnb** | O catálogo fala muito em "hotelaria" — os anfitriões Airbnb se identificam mais com "hospedagem" e "acolhimento" |
+| 7 | **Sem menção a resistência a manchas** | Protetor solar e maquiagem são o pesadelo dos anfitriões — nenhuma linha é posicionada como "fácil de limpar" |
+| 8 | **Sem selos ou certificações** | Não vi menção a certificações de qualidade, hipoalergênico, etc. (o travesseiro Ecopluma é hipoalergênico, mas não tem destaque) |
+
+### 🎯 Sugestões Práticas
+
+**1. Adicionar um encarte "Guia Rápido de Cuidados"**
+> Uma página dupla com: como lavar, como tirar manchas (protetor solar, maquiagem, vinho), frequência ideal de troca, como armazenar. Isso transforma o catálogo de "lista de produtos" em "solução completa".
+
+**2. Destacar "Peças Avulsas" na contracapa ou na página 42**
+> Algo como: "Precisa só de um lençol de baixo? Vendemos peças avulsas de todas as linhas."
+
+**3. Revisar a página dos Kits Airbnb (pág 42)**
+> Incluir faixa de preço sugerida para cada kit e um call-to-action mais direto: "Monte seu kit em 3 minutos" com link ou QR code.
+
+**4. Criar conteúdo complementar digital:**
+- **Vídeo:** "Como montar a cama perfeita para Airbnb" (baseado na página 4)
+- **Post de blog:** "Qual linha Conamore escolher para seu Airbnb?" (quiz rápido)
+- **Instagram:** Carrossel comparando as linhas (Harmony vs Prime vs Supreme)
+
+**5. Posicionamento de preço:**
+> Na página 24 (tabela comparativa de fios), adicionar uma coluna "Custo por lavagem estimado" ou "Durabilidade estimada em lavagens" para justificar o investimento nas linhas superiores.
+
+### 📊 Alinhamento com a Comunidade Airbnb
+
+| O que a comunidade pede | O catálogo entrega | Nota |
+|------------------------|-------------------|------|
+| "Qual marca comprar?" | ✅ Marca presente com linhas claras | 🟢 |
+| "Quero kit pronto" | ✅ Kits para Airbnb (pág 42) | 🟢 |
+| "Preciso de peças avulsas" | ⚠️ Tem, mas não destaca | 🟡 |
+| "Como tirar manchas?" | ❌ Não aborda | 🔴 |
+| "Qual tecido dura mais?" | ⚠️ Mostra fios, mas não traduz em benefício prático | 🟡 |
+| "Vale pagar mais caro?" | ⚠️ Tabela comparativa existe, mas sem custo-benefício | 🟡 |
+| "Toalha que não desfia" | ✅ Costura dupla nas laterais | 🟢 |
+| "Quanto de estoque ter?" | ❌ Não aborda | 🔴 |
+
+### 🚀 Ação Sugerida
+
+**Curto prazo (esta semana):**
+- Criar um **post de Instagram** com as novas páginas dos Kits Airbnb
+- Preparar um **comentário** no tópico "Qual marca de lençol?" mencionando os kits
+
+**Médio prazo (próximos 15 dias):**
+- Produzir o **Guia de Cuidados** (formato blog + PDF para download)
+- Gravar **vídeo "como montar a cama perfeita"** para YouTube/Instagram
+
+**Longo prazo (próximo mês):**
+- Revisão da página 42 com faixas de preço e QR code
+- Criar **calculadora de enxoval** para Airbnb (quantos kits por imóvel)
+
+---
+
 *Relatório gerado por Flávia — Marketing Conamore*
 *Aguardando aprovação antes de qualquer publicação.*
