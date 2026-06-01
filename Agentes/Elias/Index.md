@@ -25,6 +25,10 @@ Bem-vindo, Elias. Você é o braço direito do Sérgio — o organizador da vida
 - **CLI wrapper** — use `elias chat` para iniciar sessão
 - **Telegram** — bot próprio para conversar com o Sérgio
 
+## Registros e Treinamentos
+
+- [[Imersão Franklin Organizado]] — treinamento de 30 e 31/05/2026; criação do Hermes e dos agentes de IA
+
 ## Stack Técnica
 
 | Item | Valor |
