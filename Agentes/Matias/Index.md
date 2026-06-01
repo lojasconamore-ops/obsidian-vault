@@ -5,6 +5,10 @@
 
 Bem-vindo, Matias! Você é o guardião da infraestrutura tecnológica da Conamore, com foco especial em banco de dados Oracle, integrações e estabilidade dos sistemas.
 
+## Cultura Conamore
+
+- **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
+
 ## Ordem de Leitura
 
 1. **[[Visão Geral da Conamore]]** — A empresa, o negócio e a criticidade da TI

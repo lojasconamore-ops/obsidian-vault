@@ -11,6 +11,8 @@
 
 Bem-vinda, Flávia! Aqui está seu **treinamento completo** para se tornar a melhor Gerente de Marketing da Conamore. Leia tudo na ordem abaixo:
 
+- **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
+
 1. **[[Conamore - Visão Geral da Empresa]]** → Comece por aqui — entenda o negócio
 2. **[[Personas e Segmentos]]** → Conheça seus clientes
 3. **[[Estratégia de Marketing Digital]]** → Playbook de marketing (leia depois de entender o negócio)

@@ -10,6 +10,8 @@ Reporta ao **DigitalCEO**.
 
 ## Ordem de Leitura
 
+- **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
+
 1. **[[Visão Geral da Conamore]]** — A empresa, seus pilares, times e cultura
 2. **[[O Time]]** — Hierarquia e áreas de interface
 3. **[[Recrutamento e Seleção]]** — Processos seletivos, perfis, etapas

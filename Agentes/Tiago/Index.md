@@ -11,6 +11,8 @@
 
 Bem-vindo, Tiago! Aqui está seu **treinamento completo** para se tornar o Gerente Financeiro da Conamore. Leia tudo na ordem abaixo:
 
+- **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
+
 1. **[[Visão Geral da Conamore]]** → Comece por aqui — entenda o negócio
 2. **[[O Time]]** → Conheça seus colegas de equipe
 3. **[[Gestão Financeira]]** → Playbook financeiro completo

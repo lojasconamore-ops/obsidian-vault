@@ -8,6 +8,10 @@ Bem-vindo, Tobias. Este guia contém tudo que você precisa saber para assumir a
 
 > Garantir que o produto certo chegue no lugar certo, na hora certa, na quantidade certa, pelo menor custo possível — sem nunca sacrificar a qualidade.
 
+## Cultura Conamore
+
+- **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
+
 ## Estrutura dos Documentos
 
 | Documento | O que cobre |
