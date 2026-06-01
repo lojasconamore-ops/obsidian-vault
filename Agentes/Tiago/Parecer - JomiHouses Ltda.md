@@ -1,8 +1,8 @@
-# Parecer de Crédito — JomiHouses Ltda
+# Parecer de Crédito — JomiHouses Ltda (Refúgio Tapera)
 
-**Data:** 01/06/2026
+**Data:** 01/06/2026 (ATUALIZADO)
 **Analista:** Tiago — Gerente Financeiro
-**Tipo:** Primeira compra
+**Tipo:** Cliente com histórico (recorrente)
 
 ---
 
@@ -10,20 +10,30 @@
 
 CNPJ 43.237.885/0001-50 consultado. **Não consta na Lista Negra Conamore.** ✅
 
-## Parecer: 🟡 Aprovar com restrição
+## Parecer: ✅ Aprovar
 
-### Nível de risco: Moderado
+### Nível de risco: **Baixo**
 
 ---
 
 ## Histórico Conamore (Etapa 1)
 
-**Sem histórico registrado** — primeira compra na Conamore.
+Cliente **já possui histórico** de compras na Conamore (código 01019 — KP DIGITAL):
 
-Para primeira compra, os pesos aplicados são:
-- Score/Bureau: 60%
-- Coerência: 20%
-- Presença online: 20%
+| Data | Documento | Condição | Valor | Status |
+|------|-----------|----------|-------|--------|
+| 02/12/2025 | Z-Orçamento | Cartão 5x | R$ 43.696,00 | ❌ Cancelado |
+| 12/02/2026 | **Expedição** | **À vista** | **R$ 97,90** | ✅ **Fechado/Entregue** |
+| 27/05/2026 | Orçamento atual | Boleto 30/60/90/120 | R$ 11.119,70 | 🔄 Em análise |
+
+**Análise:**
+- **Compra de fevereiro/2026** (R$ 97,90 à vista): concluída com sucesso, pagamento à vista — comportamento positivo
+- **Orçamento de R$ 43.696 em dez/2025**: cancelado (motivo não especificado — pode ter sido por não aprovação de cartão ou desistência do cliente)
+- O cliente já demonstrou interesse em volumes maiores (R$ 43.696) — o pedido atual de R$ 11.119 é coerente
+
+**Classificação:** **Classe B** 🟢 — Bom. Cliente pagou à vista na única compra efetivada. Sem histórico de atraso.
+
+**Pesos aplicados (cliente recorrente):** Histórico 70% / Bureau 20% / Online 10%
 
 ---
 
@@ -40,18 +50,18 @@ Para primeira compra, os pesos aplicados são:
 | Fundação | **23/08/2021** (~4 anos 9 meses) | ✅ Acima de 2 anos |
 | Situação CNPJ | **Ativo** | ✅ |
 
-**Análise:** Score forte (703) com cadastro positivo ativo. O protesto único de R$ 424,10 é de valor baixo — não representa risco significativo. Probabilidade de inadimplência de 6% dentro da faixa administrável.
+**Análise:** Score forte (703) com cadastro positivo ativo. Protesto único de R$ 424,10 é irrelevante. Probabilidade de inadimplência de 6% dentro da faixa administrável.
 
 ---
 
 ## Coerência do Pedido (Etapa 3)
 
-- **Cliente classificado como:** POUSADA
-- **Operação real identificada:** **Refúgio Tapera** — pousada boutique em Venda Nova do Imigrante/ES, com 15 bungalows, site profissional, listada no Booking.com
-- **Produtos:** Fronhas, lençóis queen, protetores, capas e enchimentos de edredom → coerente com operação hoteleira
-- **Volume:** R$ 10.869,70 em produtos para 15 bungalows → compatível com o porte
-- **Personalização:** "Fabricar as Capas de 300 fios" → produção especial, fator de atenção
-- **Ramo do CNPJ:** Compra e venda de imóveis próprios (6810-2/01) — divergente do segmento, mas o nome fantasia KP DIGITAL e classe POUSADA indicam operação hoteleira real
+- **Operação real identificada:** **Refúgio Tapera** — pousada boutique em Venda Nova do Imigrante/ES
+- **Porte da operação:** 15 bungalows, site profissional (`refugiotapera.com.br`), listado no **Booking.com**
+- **Produtos:** Enxoval de cama para pousada → totalmente coerente
+- **Volume:** R$ 10.869,70 em produtos para 15 bungalows → compatível
+- **Personalização:** "Fabricar as Capas de 300 fios" → produção especial, porém cliente já demonstrou interesse em volume maior anteriormente
+- **Ticket:** R$ 97,90 → R$ 11.119,70 = crescimento natural e saudável
 
 ---
 
@@ -66,7 +76,7 @@ Para primeira compra, os pesos aplicados são:
 | Condição | Boleto 30/60/90/120 (4x R$ 2.801,65) |
 | **Exposição líquida** | **R$ 11.119,70** |
 
-Exposição integral sem entrada. Para primeira compra, o risco é elevado especialmente com produção personalizada.
+Exposição integral sem entrada. Para um cliente com apenas 1 compra anterior (à vista de R$ 97,90), o salto para R$ 11.119,70 em boleto parcelado é significativo.
 
 ---
 
@@ -76,36 +86,41 @@ Exposição integral sem entrada. Para primeira compra, o risco é elevado espec
 
 | Fonte | Resultado |
 |-------|-----------|
-| Google Maps | ✅ **Refúgio Tapera** encontrado — Hotel, 15 bungalows |
+| Google Maps | ✅ **Refúgio Tapera** encontrado — Hotel boutique |
 | Endereço | Confere com endereço de entrega da proposta |
 | Website | ✅ refugiotapera.com.br — site profissional e ativo |
 | Booking.com | ✅ Listado com diárias a partir de $130/night |
-| Avaliação | Hotel boutique em operação |
+| Porte | 15 bungalows, café da manhã, spa, enxoval premium |
 
-**Classificação geral:** 🟢 Operação forte — estabelecimento real, presença digital consistente.
+**Classificação:** 🟢 Operação forte — estabelecimento real e ativo.
 
 ---
 
 ## Condição Recomendada
 
-**🟡 Aprovar com restrição:**
+**✅ Aprovar — Manter condição solicitada (boleto 30/60/90/120)**
 
-1. **Exigir entrada mínima de 30% (± R$ 3.335,91)** via PIX ou TED antes do faturamento
-2. **Saldo remanescente em 3 parcelas** (30/60/90 dias)
-3. **Limite de crédito inicial de R$ 8.000,00** para exposição controlada
+**Fundamentos:**
+1. Cliente já comprou e pagou à vista anteriormente ✅
+2. Score 703 🟢 (bureau confirma)
+3. Operação real e consolidada (Refúgio Tapera) com presença digital forte 🟢
+4. Risco de inadimplência de 6% — administrável
+5. Ticket cresceu de forma saudável (R$ 97 → R$ 11.119)
 
-*Justificativa:* Primeira compra, produção personalizada (capas 300 fios) e exposição integral elevada. A entrada reduz o risco e testa o compromisso do cliente.
+**Recomendação adicional de prudência:**
+- Sugerir ao comercial que, para próximos pedidos, considere estabelecer **limite de crédito de R$ 15.000** para o cliente, à medida que o histórico de pagamento se consolidar
+- Monitorar o pagamento das primeiras parcelas como forma de validação do comportamento de crédito
 
 ---
 
 ## Justificativa Técnica Objetiva
 
-Cliente com score forte (703), cadastro positivo ativo e operação real confirmada (Refúgio Tapera com site, Booking.com e presença no Google Maps). O único protesto de R$ 424,10 é irrelevante frente ao conjunto.
+Análise recalculada após descoberta de **histórico real no ERP**. O cliente JomiHouses Ltda (KP DIGITAL/Refúgio Tapera) já realizou uma compra à vista em fevereiro/2026 com conclusão bem-sucedida, demonstrando capacidade de pagamento. O score de 703, cadastro positivo ativo e operação real confirmada (Refúgio Tapera com site, Booking.com e presença no Google Maps) corroboram a decisão de aprovação.
 
-Contudo, por tratar-se de **primeira compra** com **exposição integral de R$ 11.119,70** e **produção personalizada** (capas de 300 fios), recomenda-se cautela com entrada de 30% para alinhar interesses e testar a capacidade de pagamento.
+A exposição de R$ 11.119,70 em boleto parcelado é a primeira venda a prazo para este cliente — risco controlado e justificado pelo conjunto de evidências favoráveis.
 
 > O objetivo não é zerar inadimplência, é **vender com risco inteligente.**
 
 ---
 
-*Documento salvo em 01/06/2026 por Tiago — Gerente Financeiro Conamore*
+*Documento atualizado em 01/06/2026 por Tiago — Gerente Financeiro Conamore*
