@@ -288,5 +288,64 @@ Preparei sugestões de comentário para **8 tópicos** — **nenhum foi publicad
 
 ---
 
+## 📝 Ideias de Conteúdo para Blog — Baseado nas Dores Reais da Comunidade
+
+> Baseado na varredura de 54 tópicos e nas dores explícitas dos anfitriões Airbnb na comunidade.
+
+### 🔥 Prioridade 1 — Conteúdos com demanda comprovada
+
+| # | Título sugerido | Dor que resolve | Oportunidade SEO |
+|---|---|---|---|
+| 1 | **Qual marca de lençol comprar para Airbnb? Comparativo 2026** | Anfitriões comparam marcas (Zelo, Conamore, Santista) e não têm um guia único | Palavra-chave exata usada na comunidade |
+| 2 | **Como remover manchas de protetor solar e maquiagem de lençóis** | A maior dor não resolvida — vários anfitriões relataram perda de peças | Conteúdo evergreen, alta demanda |
+| 3 | **Guia completo do enxoval para Airbnb: o que comprar para começar** | Anfitriões iniciantes perdidos sem orientação | Ótimo para novos anfitriões (nosso funil) |
+| 4 | **Lençol branco x colorido: qual dura mais e dá menos trabalho?** | Debate recorrente na comunidade | Baixo esforço, alto engajamento |
+| 5 | **De quanto em quanto tempo trocar o enxoval do Airbnb?** | Tópico mais discutido na seção "Melhore seu espaço" | Já temos o conteúdo da discussão |
+
+### 📊 Prioridade 2 — Conteúdos de Apoio e Diferenciação
+
+| # | Título sugerido | Dor que resolve |
+|---|---|---|
+| 6 | **Quantos kits de enxoval ter por imóvel? (Calculadora de estoque)** | Anfitriões não sabem dimensionar estoque |
+| 7 | **Cama arrumada vende: como fotos de enxoval podem aumentar suas reservas** | Anfitriões querem melhorar anúncios |
+| 8 | **Limpeza profunda do enxoval: cuidados que fazem durar 2x mais** | Conexão com tópico de limpeza profunda |
+| 9 | **Presentes de boas-vindas que geram avaliações 5 estrelas** | Tópico popular e relação direta com enxoval |
+| 10 | **Enxoval hoteleiro x doméstico: qual a diferença e por que escolher** | Posicionamento da Conamore como especialista |
+
+### 🎯 Prioridade 3 — Conteúdos de Conversão (Funil Inferior)
+
+| # | Título sugerido | Objetivo |
+|---|---|---|
+| 11 | **Protetores de colchão e travesseiro: por que são o investimento mais inteligente** | Produto de alto valor agregado |
+| 12 | **Toalhas de alta gramatura valem o investimento? Análise de custo por lavagem** | Justificar preço vs durabilidade |
+| 13 | **Kit enxoval Airbnb: o combo completo para anfitriões (com calculadora de economia)** | Conversão direta — pode virar LP |
+| 14 | **Como aumentar sua nota de limpeza no Airbnb em 30 dias** | Relação direta com selo Superhost |
+| 15 | **Peças avulsas x jogos completos: o que vale mais a pena?** | Diferencial competitivo da Conamore |
+
+### 📌 Plano de Distribuição
+
+| Conteúdo | Canal principal | Reforço |
+|----------|-----------------|---------|
+| Guias práticos (1, 3, 4, 5) | Blog hotelaria.conamore.com.br | Compartilhar nos comentários da comunidade |
+| Dicas rápidas (7, 8, 9) | Instagram @conamorehotelaria | Adaptar para posts e stories |
+| Comparativos (1, 10, 15) | Blog + LinkedIn | Material de apoio para time B2B |
+| Conteúdo de conversão (11-15) | LP RD Station + E-mail marketing | Nutrir leads do funil |
+
+### 🚀 Sugestão de Calendário Editorial (Primeiros 2 meses)
+
+**Semana 1-2:** Post "Guia completo do enxoval para Airbnb" → Comentar no tópico "Iniciante" e no tópico de marcas
+**Semana 3-4:** Post "Lençol branco x colorido" ou "Como remover manchas" → Comentar no tópico de troca de lençóis
+**Semana 5-6:** Post "Cama arrumada vende" → Comentar nos tópicos "Melhoria do anúncio" e "Aumentar reservas"
+**Semana 7-8:** Post "Presentes de boas-vindas" → Comentar no tópico de presentes + criar LP com checklist
+
+### 💡 Ideias Extras (Baixo Esforço)
+
+- **Posts derivados:** Cada guia pode render 3-4 posts de Instagram
+- **eBook "Kit Airbnb"**: Compilar os 5 guias prioritários em um eBook para captura de leads no RD Station
+- **Calculadora interativa:** "Quanto de enxoval você precisa?" — ótimo para engajamento
+- **Checklist de enxoval:** PDF para download — material de troca por lead
+
+---
+
 *Relatório gerado por Flávia — Marketing Conamore*
 *Aguardando aprovação antes de qualquer publicação.*
