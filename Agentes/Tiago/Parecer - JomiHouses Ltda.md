@@ -10,7 +10,7 @@
 
 CNPJ 43.237.885/0001-50 consultado. **Não consta na Lista Negra Conamore.** ✅
 
-## Parecer: ✅ Aprovar
+## Parecer: 🟡 Aprovar com restrição (conforme diretriz da diretoria)
 
 ### Nível de risco: **Baixo**
 
@@ -98,18 +98,28 @@ Exposição integral sem entrada. Para um cliente com apenas 1 compra anterior (
 
 ## Condição Recomendada
 
-**✅ Aprovar — Manter condição solicitada (boleto 30/60/90/120)**
+**🟡 Aprovar com restrição — 50% de entrada + saldo parcelado**
+
+Conforme diretriz da diretoria, o protesto de R$ 424,10 (embora de valor baixo) é um sinal amarelo. Conforme orientação do Sérgio Ladeira: *"quem é bom pagador não deveria ter protestos nenhum."*
+
+**Condição final:**
+
+| Parcela | Valor | Prazo |
+|---------|-------|-------|
+| **Entrada (PIX/TED)** | **R$ 5.559,85** | **Antes do faturamento** |
+| Saldo 1 | R$ 1.853,28 | 30 dias |
+| Saldo 2 | R$ 1.853,28 | 60 dias |
+| Saldo 3 | R$ 1.853,29 | 90 dias |
+| **Total** | **R$ 11.119,70** | |
+
+> Alternativa: O cliente pode optar por **cartão de crédito 5x sem entrada** se preferir, mantendo o valor total.
 
 **Fundamentos:**
 1. Cliente já comprou e pagou à vista anteriormente ✅
 2. Score 703 🟢 (bureau confirma)
 3. Operação real e consolidada (Refúgio Tapera) com presença digital forte 🟢
-4. Risco de inadimplência de 6% — administrável
+4. ⚠️ **1 protesto registrado** — justifica a entrada de 50% para mitigação de risco
 5. Ticket cresceu de forma saudável (R$ 97 → R$ 11.119)
-
-**Recomendação adicional de prudência:**
-- Sugerir ao comercial que, para próximos pedidos, considere estabelecer **limite de crédito de R$ 15.000** para o cliente, à medida que o histórico de pagamento se consolidar
-- Monitorar o pagamento das primeiras parcelas como forma de validação do comportamento de crédito
 
 ---
 
@@ -117,7 +127,7 @@ Exposição integral sem entrada. Para um cliente com apenas 1 compra anterior (
 
 Análise recalculada após descoberta de **histórico real no ERP**. O cliente JomiHouses Ltda (KP DIGITAL/Refúgio Tapera) já realizou uma compra à vista em fevereiro/2026 com conclusão bem-sucedida, demonstrando capacidade de pagamento. O score de 703, cadastro positivo ativo e operação real confirmada (Refúgio Tapera com site, Booking.com e presença no Google Maps) corroboram a decisão de aprovação.
 
-A exposição de R$ 11.119,70 em boleto parcelado é a primeira venda a prazo para este cliente — risco controlado e justificado pelo conjunto de evidências favoráveis.
+A exposição de R$ 11.119,70 em boleto parcelado é a primeira venda a prazo para este cliente. Apesar do conjunto de evidências favoráveis (score 703, operação real, histórico de compra à vista), a existência de 1 protesto (R$ 424,10) levou à decisão de **exigir 50% de entrada**, conforme diretriz da diretoria — mitigando o risco sem inviabilizar o negócio.
 
 > O objetivo não é zerar inadimplência, é **vender com risco inteligente.**
 
