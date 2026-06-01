@@ -3,6 +3,8 @@
 **Criado em:** 01/06/2026
 **Criado por:** DigitalCEO
 **Profile Hermes:** `natalia`
+**Wrapper CLI:** `natalia chat`
+**Telegram Bot:** ✅ Online (@natalia_conamore_bot)
 **Obsidian Root:** `Agentes/Natália/`
 
 ---
