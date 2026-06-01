@@ -1,13 +1,27 @@
 # 📊 Relatório de Monitoramento — Comunidade Airbnb
 **Data:** 01 de junho de 2026
 **Analista:** Flávia (Marketing)
-**Seções monitoradas:** "Melhore seu espaço" e "Receber hóspedes"
+**Seções monitoradas:** TODAS as 6 seções da comunidade BrPT
 
 ---
 
-## 🎯 Resumo Executivo
+## 🎯 Resumo Executivo — Varredura Completa
 
-Monitorei as 2 principais seções da Comunidade Airbnb Brasil. Identifiquei **3 tópicos com alto potencial de engajamento** para a Conamore e **4 com médio potencial**. Preparei sugestões de comentário para cada um — **nenhum foi publicado**, tudo aguarda sua aprovação.
+**Total: 54 tópicos analisados em 6 seções** (mais 2 seções vazias)
+
+| Seção | Tópicos | Relevância |
+|-------|---------|------------|
+| 🏆 Otimize seu anúncio | 11 | ⭐ ESTRATÉGICO + 2 médios |
+| 🛏️ Melhore seu espaço | 10 | ⭐ 1 prioritário + 2 médios |
+| 🎁 Receber hóspedes | 10 | ⭐ 1 prioritário + 3 médios |
+| 💼 Gerencie seu negócio | 10 | 🔍 Baixa |
+| 📖 Guias de anfitriões | 12 | 🔍 Baixa (guias oficiais) |
+| ☕ Café com a comunidade | 11 | 🔍 Baixa (social) |
+| 🎯 Experiências / Serviços | 0 | Vazias |
+
+**Achado principal:** Conamore é citada 3x no tópico "Qual marca de lençol vocês usam?" (Seção Otimize seu anúncio) — sendo 2 posts seus e 1 espontâneo.
+
+Preparei sugestões de comentário para **8 tópicos** — **nenhum foi publicado**, tudo aguarda sua aprovação.
 
 ---
 
@@ -145,6 +159,38 @@ Monitorei as 2 principais seções da Comunidade Airbnb Brasil. Identifiquei **3
 
 ---
 
+### 8️⃣ Melhoria do anúncio (nova seção: Otimize seu anúncio)
+**Seção:** Otimize seu anúncio
+**Link:** https://community.withairbnb.com/t5/Otimize-seu-an%C3%BAncio/Pergunta-%C3%A0-comunidade-Melhoria-do-anuncio/td-p/2201260
+**Tom da conversa:** Anfitrião recebendo críticas construtivas
+
+**Análise:**
+- Tópico onde anfitriões experientes dão dicas de melhoria
+- Um post menciona especificamente **"fotos do sofá-cama com lençóis e travesseiros"**
+- Outro post menciona problema com **"lençóis sujos e mofados"** como algo que derruba avaliações
+- Oportunidade de reforçar a importância de enxoval limpo e de qualidade
+
+**🎯 Sugestão de comentário:**
+> "Só complementando o que já foi dito: a **qualidade do enxoval** aparece indiretamente nas avaliações de limpeza e conforto. Lençóis com Aspecto de desgaste, toalhas ásperas ou manchadas são um dos motivos mais comuns de avaliações 4 estrelas (e não 5). Invista em peças de boa procedência — algodão percal de pelo menos 200 fios — e tenha um estoque de reposição para não ser pego desprevenido."
+
+---
+
+### 9️⃣ Aumentar reservas (menção a lençóis sujos)
+**Seção:** Otimize seu anúncio
+**Link:** https://community.withairbnb.com/t5/Otimize-seu-an%C3%BAncio/Aumentar-reservas/td-p/2254563
+**Tom da conversa:** Crítico, anfitrião recebendo diagnóstico
+
+**Análise:**
+- Um anfitrião teve diagnóstico DETALHADO de 15 anúncios
+- **Menção explícita:** "problemas com limpeza, **lençóis sujos e mofados**, baratas na cozinha, falta de itens anunciados, colchões..."
+- Isso mostra que enxoval sujo/mofado é um problema REAL que impacta avaliações e reservas
+- Conamore pode se posicionar como solução
+
+**🎯 Sugestão de comentário:**
+> "Sobre a questão dos **lençóis e toalhas** que você mencionou — muitas vezes o problema não é só a lavagem, mas a **qualidade do tecido** que já está no fim da vida útil. Lençóis com fiação desgastada acumulam manchas e perdem a brancura mesmo lavados corretamente. Vale considerar a troca periódica do enxoval (a cada 12-18 meses para uso intensivo) e investir em peças com fio longo de algodão, que duram mais."
+
+---
+
 ## 🏆 Tópico ESTRATÉGICO: "Qual marca de lençol vocês usam? Onde compram?"
 
 **Seção:** Otimize seu anúncio (não monitorada inicialmente — descoberto via pesquisa direta)
@@ -200,15 +246,17 @@ Monitorei as 2 principais seções da Comunidade Airbnb Brasil. Identifiquei **3
 
 ## 📈 Insights Estratégicos
 
-1. **Manchas em lençóis** é a maior dor não resolvida dos anfitriões — poderíamos criar um post/blog "Como remover manchas de protetor solar e maquiagem do enxoval" e linkar nas respostas
-2. **Anfitriões iniciantes** são extremamente carentes de orientação — ótimo público para nosso eBook e checklist de enxoval
-3. **Qualidade x durabilidade** é o dilema central — podemos nos posicionar como a marca que equilibra os dois com fabricação própria
-4. **Nenhum concorrente direto** está atuando na comunidade (não encontrei posts da Karsten, Buddem, Truss ou outra marca de enxoval)
-5. **Conamore já é citada espontaneamente 3x** no tópico "Qual marca de lençol vocês usam?" — temos reputação orgânica para capitalizar
+1. **"Qual marca de lençol vocês usam?"** é o tópico MAIS VALIOSO da comunidade — principal referência sobre marcas de enxoval, ativo desde 2020 com atividade recente (mai/2026)
+2. **Manchas em lençóis** é a maior dor não resolvida dos anfitriões — poderíamos criar um post/blog "Como remover manchas de protetor solar e maquiagem do enxoval"
+3. **Anfitriões iniciantes** são extremamente carentes de orientação — ótimo público para nosso eBook e checklist de enxoval
+4. **Qualidade x durabilidade** é o dilema central — podemos nos posicionar como a marca que equilibra os dois com fabricação própria
+5. **Conamore já é citada espontaneamente** no tópico de marcas — temos reputação orgânica para capitalizar
 6. **Zelo é o principal concorrente na percepção dos anfitriões** — comparam preço conosco diretamente
-7. **A seção "Otimize seu anúncio" é tão relevante quanto "Melhore seu espaço"** — incluir no monitoramento regular
-8. **Tom ideal**: consultivo e educacional, nunca comercial — a comunidade é de pares, não de vendas
-9. **Ritmo sugerido**: 1 comentário por semana, nos tópicos mais quentes, para construir presença consistente sem parecer spam
+7. **"Lençóis sujos e mofados"** aparecem como reclamação real de hóspedes — podemos nos posicionar como antítese disso
+8. **Nenhum concorrente direto** está atuando na comunidade (Karsten, Buddem, Truss ausentes)
+9. **Seções mais relevantes:** "Melhore seu espaço" e "Otimize seu anúncio" — incluir no monitoramento quinzenal
+10. **Tom ideal**: consultivo e educacional, nunca comercial
+11. **Ritmo sugerido**: 1 comentário por semana, começando pelo tópico estratégico das marcas
 
 ---
 
@@ -235,6 +283,8 @@ Monitorei as 2 principais seções da Comunidade Airbnb Brasil. Identifiquei **3
 | 5️⃣ Iniciante | [link](https://community.withairbnb.com/t5/Melhore-seu-espa%C3%A7o/Iniciante/td-p/2249188) | ☐ | ☐ | ☐ |
 | 6️⃣ Gostaria de hospedar mais | [link](https://community.withairbnb.com/t5/Melhore-seu-espa%C3%A7o/Gostaria-de-hospedar-mais-pessoas/td-p/2251896) | ☐ | ☐ | ☐ |
 | 7️⃣ Aumentar reservas | [link](https://community.withairbnb.com/t5/Receber-h%C3%B3spedes/Dicas-para-aumentar-reservas/td-p/2251775) | ☐ | ☐ | ☐ |
+| 8️⃣ Melhoria do anúncio (lençóis/travesseiros) | [link](https://community.withairbnb.com/t5/Otimize-seu-an%C3%BAncio/Pergunta-%C3%A0-comunidade-Melhoria-do-anuncio/td-p/2201260) | ☐ | ☐ | ☐ |
+| 9️⃣ Aumentar reservas (lençóis sujos) | [link](https://community.withairbnb.com/t5/Otimize-seu-an%C3%BAncio/Aumentar-reservas/td-p/2254563) | ☐ | ☐ | ☐ |
 
 ---
 
