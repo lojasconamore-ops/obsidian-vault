@@ -51,3 +51,46 @@ Sempre que um agente precisar consultar o DEBX:
 2. escolha a menor consulta que responda à dúvida;
 3. valide o resultado;
 4. registre a conclusão de forma clara para a equipe.
+
+## Material complementar recomendado
+
+Para a parte prática de conexão, reconhecimento de objetos e exemplos de consultas Oracle, consulte também:
+
+- [[Agentes/Matias/DEBX — Conexão e Consultas Oracle|DEBX — Conexão e Consultas Oracle]]
+
+Esse guia complementar é o melhor lugar para:
+
+- validar conexão com segurança;
+- descobrir tabelas, views e colunas;
+- testar consultas curtas antes de ampliar o recorte;
+- entender melhor a lógica operacional do DEBX.
+
+## Consultas mínimas sugeridas para qualquer agente
+
+Quando estiver em dúvida sobre o ambiente, use este fluxo:
+
+1. validar a sessão;
+2. confirmar o schema/serviço;
+3. descobrir o objeto correto;
+4. consultar poucos registros;
+5. só depois aprofundar.
+
+Exemplos de leitura segura:
+
+```sql
+select 1 as ok from dual;
+```
+
+```sql
+select
+  sys_context('USERENV','DB_NAME') as db_name,
+  sys_context('USERENV','SERVICE_NAME') as service_name,
+  sys_context('USERENV','SESSION_USER') as session_user
+from dual;
+```
+
+```sql
+select *
+from SCHEMA_AQUI.TABELA_AQUI
+where rownum <= 10;
+```
