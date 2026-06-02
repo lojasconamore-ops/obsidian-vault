@@ -44,3 +44,7 @@ Oracle é o coração técnico de muitas operações da Conamore. O Matias preci
 ## Regra de ouro
 
 Se o banco estiver degradando, a empresa inteira sente. Oracle não é só banco — é operação.
+
+## Referência prática
+
+- [[DEBX — Conexão e Consultas Oracle]] — guia operacional para conectar no banco do DEBX e executar consultas seguras.
