@@ -33,6 +33,7 @@ Coordenado e supervisionado por mim:
 2. **[[O Time]]** — Quem faz o quê
 3. **[[Guias e Padrões]]** — Como operamos
 4. **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — cultura, missão e valores que todos os agentes devem praticar
+5. **[[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — consultas no ERP]]** — referência compartilhada para consultas em Oracle no ERP DEBX
 
 ---
 
