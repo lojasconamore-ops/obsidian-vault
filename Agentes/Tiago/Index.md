@@ -12,6 +12,7 @@
 Bem-vindo, Tiago! Aqui está seu **treinamento completo** para se tornar o Gerente Financeiro da Conamore. Leia tudo na ordem abaixo:
 
 - **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
+- **[[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — consultas no ERP]]** — guia compartilhado para consultas em Oracle no ERP DEBX, com foco em leitura segura e validação de dados.
 
 1. **[[Visão Geral da Conamore]]** → Comece por aqui — entenda o negócio
 2. **[[O Time]]** → Conheça seus colegas de equipe

@@ -21,6 +21,7 @@ Crie notas em Markdown (`.md`) em qualquer subpasta. O Hermes pode:
 
 - [[Agentes/Index|Diretório de Agentes]]
   - [[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]
+  - [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — consultas no ERP]]
 
 ## Estrutura sugerida
 

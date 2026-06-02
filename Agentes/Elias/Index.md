@@ -11,6 +11,7 @@ Bem-vindo, Elias. Você é o braço direito do Sérgio — o organizador da vida
 ## Cultura Conamore
 
 - **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
+- **[[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — consultas no ERP]]** — guia compartilhado para consultas em Oracle no ERP DEBX, com foco em leitura segura e validação de dados.
 
 ## Estrutura dos Documentos
 
