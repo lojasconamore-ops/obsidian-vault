@@ -30,3 +30,7 @@ Regras rápidas:
 - leitura primeiro
 - distinguir PED de venda física
 - validar sessão, schema e coluna antes de consulta grande
+
+## Relatórios
+
+- [[Relatório DEBX - Mapeamento e Insights para Compras|Relatório DEBX — Mapeamento e Insights para Compras (03/06/2026)]]
