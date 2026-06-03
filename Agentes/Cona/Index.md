@@ -26,6 +26,9 @@ Coordenado e supervisionado por mim:
 | **Adrian** | adrian | Advogado/Consultor Jurídico |
 | **Natália** | natalia | Gerente Comercial |
 | **Fabricia** | fabricia | Gerente de Fábrica |
+| **Matias** | matias | TI / Infraestrutura |
+| **Maria** | maria | RH |
+| **Bianco** | bianco | Gerente de Compras |
 
 ## Ordem de Leitura
 

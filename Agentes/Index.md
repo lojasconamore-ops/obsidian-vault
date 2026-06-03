@@ -14,6 +14,7 @@ Este é o diretório dos agentes no Obsidian Vault.
 - [[Maria/Index|Maria / RH]]
 - [[Natália/Index|Natália / Comercial]]
 - [[Fabricia/Index|Fabricia / Fábrica]]
+- [[Bianco/Index|Bianco / Compras]]
 
 ## Observações
 
