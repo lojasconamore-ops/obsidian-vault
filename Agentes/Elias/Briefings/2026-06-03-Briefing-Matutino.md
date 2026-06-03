@@ -14,6 +14,7 @@
 ## Lembretes do dia
 - Nenhuma data importante identificada para hoje ou para os próximos 30 dias.
 - Revisar a data da Camila a partir de **15/06**, quando entra na janela de 30 dias.
+- **Lembrar o Sérgio de responder ao pessoal do marketing sobre a categoria de promoção do site.**
 
 ## Recomendações proativas
 1. **Camila (15/07):** começar a rascunhar agora as opções de presente, jantar ou experiência para decidir rápido quando a janela de 30 dias abrir.
