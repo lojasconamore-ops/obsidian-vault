@@ -7,6 +7,7 @@ Cada agente mantém sua própria pasta em `Agentes/[Nome]/` com:
 - **Visão Geral da Conamore.md** — Contexto da empresa
 - **O Time.md** — Estrutura hierárquica
 - **Documentos específicos** — Conhecimento da área
+- **Oracle e DEBX** — consultas, validação e leitura segura do ERP compartilhado
 
 ## Regras de Engajamento
 
