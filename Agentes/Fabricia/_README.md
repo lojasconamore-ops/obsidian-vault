@@ -23,3 +23,14 @@ Fabricia é a agente responsável pela fábrica da Lojas Conamore, com foco em p
 - Manter os documentos alinhados com o processo real da fábrica
 - Registrar mudanças de processo, padrões e melhorias sempre que surgirem
 - Atualizar o treinamento quando houver nova rotina, máquina, produto ou indicador relevante
+
+## Oracle e DEBX
+
+Para qualquer consulta em Oracle/DEBX, leia antes:
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — guia operacional]]
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Versão Padrão dos Agentes|Oracle e DEBX — versão padrão]]
+
+Regras rápidas:
+- leitura primeiro
+- distinguir PED de venda física
+- validar sessão, schema e coluna antes de consulta grande

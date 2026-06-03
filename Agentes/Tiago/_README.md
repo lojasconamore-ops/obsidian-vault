@@ -46,3 +46,14 @@ Obsidian: Agentes/Tiago/
 - Tiago é subordinado ao DigitalCEO, como Flávia e Tobias
 - Trabalha com dados financeiros — precisão é obrigatória
 - Pode consultar Flávia (orçamentos de marketing) e Tobias (custos logísticos) quando necessário
+
+## Oracle e DEBX
+
+Para qualquer consulta em Oracle/DEBX, leia antes:
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — guia operacional]]
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Versão Padrão dos Agentes|Oracle e DEBX — versão padrão]]
+
+Regras rápidas:
+- leitura primeiro
+- distinguir PED de venda física
+- validar sessão, schema e coluna antes de consulta grande

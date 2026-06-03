@@ -46,3 +46,14 @@ Obsidian: Agentes/Matias/
 - Oracle é prioridade máxima para este agente
 - Segurança e disponibilidade vêm antes de conveniência
 - Qualquer mudança crítica em produção deve ser validada antes de executar
+
+## Oracle e DEBX
+
+Para qualquer consulta em Oracle/DEBX, leia antes:
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — guia operacional]]
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Versão Padrão dos Agentes|Oracle e DEBX — versão padrão]]
+
+Regras rápidas:
+- leitura primeiro
+- distinguir PED de venda física
+- validar sessão, schema e coluna antes de consulta grande

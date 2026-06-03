@@ -14,3 +14,14 @@ Pasta de treinamento da Maria, Gerente de Recursos Humanos.
 | [[Legislação Trabalhista]] | CLT, NRs, riscos, convenção coletiva têxtil |
 | [[Clima e Cultura Organizacional]] | Pesquisas, endomarketing, treinamentos |
 | [[LGPD para RH]] | Dados de colaboradores, bases legais, retenção |
+
+## Oracle e DEBX
+
+Para qualquer consulta em Oracle/DEBX, leia antes:
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — guia operacional]]
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Versão Padrão dos Agentes|Oracle e DEBX — versão padrão]]
+
+Regras rápidas:
+- leitura primeiro
+- distinguir PED de venda física
+- validar sessão, schema e coluna antes de consulta grande
