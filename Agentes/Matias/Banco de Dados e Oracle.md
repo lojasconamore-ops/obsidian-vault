@@ -47,4 +47,4 @@ Se o banco estiver degradando, a empresa inteira sente. Oracle não é só banco
 
 ## Referência prática
 
-- [[DEBX — Conexão e Consultas Oracle]] — guia operacional para conectar no banco do DEBX e executar consultas seguras.
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes]] — guia compartilhado único para conectar no Oracle do DEBX e executar consultas seguras.

@@ -1,81 +1,52 @@
-# 🧠 Oracle e DEBX — Treinamento de Agentes
+---
+title: Oracle e DEBX — Treinamento de Agentes
+tags:
+  - debx
+  - oracle
+  - treinamento
+  - agentes
+  - conamore
+---
 
-Este documento é a referência compartilhada para todos os agentes que precisam consultar o ERP **DEBX** em banco de dados **Oracle**.
+# Oracle e DEBX — Guia Único Operacional
+
+Este é o **documento único e oficial** para qualquer agente que precise conectar no Oracle do DEBX e trabalhar com consultas operacionais da Conamore.
 
 ## Objetivo
 
-Garantir que todos os agentes consigam fazer consultas operacionais com segurança, clareza e consistência, sem depender de conhecimento improvisado.
+Dar um caminho rápido para:
 
-## Princípios de uso
+- conectar no banco com segurança;
+- validar a sessão;
+- entender onde estão os dados certos;
+- consultar em modo somente leitura;
+- interpretar o resultado sem misturar loja física, PED e estoque disponível.
 
-- Priorize **consultas de leitura** (`SELECT`).
-- Nunca faça alterações de dados sem autorização explícita.
-- Valide sempre a pergunta de negócio antes de montar a consulta.
-- Quando houver dúvida sobre tabela, coluna, relacionamento ou permissão, acione o **Matias**.
-- Prefira consultas objetivas, com filtros e recortes bem definidos.
-- Evite consultas pesadas sem necessidade; se a análise puder ser feita com menos linhas, melhor.
+## Regra principal
 
-## O que cada agente deve saber
+- **Leitura primeiro.** Em produção, o padrão é `SELECT`.
+- Não alterar dados sem autorização explícita.
+- Se houver dúvida de schema, coluna, relacionamento ou regra de negócio, chame o **Matias**.
+- Se a consulta puder ser menor e mais objetiva, faça menor.
 
-- Como identificar a informação certa no ERP antes de consultar.
-- Como formular a necessidade em linguagem de negócio.
-- Como pedir apoio técnico quando a estrutura do dado não estiver clara.
-- Como interpretar o resultado sem assumir conclusões não confirmadas.
+## Ambiente de conexão
 
-## Boas práticas de consulta em Oracle
+- **Banco:** Oracle `conamore`
+- **Host:** `172.169.0.11`
+- **Porta:** `1521`
+- **Contexto:** DEBX / Conamore
 
-- Use filtros por data, cliente, pedido, nota, filial ou outra chave de negócio quando possível.
-- Inclua limitações de volume quando a pergunta permitir.
-- Revise joins e condições para evitar duplicidade ou perda de registros.
-- Trate datas e horários com cuidado, principalmente em relatórios operacionais.
-- Sempre confirme se o resultado responde à pergunta original.
+Exemplo de string:
 
-## Limites e segurança
+```text
+//172.169.0.11:1521/conamore
+```
 
-- Não executar `INSERT`, `UPDATE`, `DELETE`, `MERGE`, `TRUNCATE` ou qualquer alteração em produção sem aprovação.
-- Não expor credenciais, tokens ou conexões sensíveis em notas abertas.
-- Não inventar nomes de tabelas ou colunas: valide com o Matias ou com documentação interna.
+Se a ferramenta pedir SID/service name, use o nome do ambiente informado para aquela sessão.
 
-## Quando chamar o Matias
+## Validação mínima da sessão
 
-- Dúvida sobre schema, permissão ou estrutura do banco.
-- Necessidade de performance, tuning ou análise de plano de execução.
-- Problemas de acesso ao Oracle.
-- Consultas que possam impactar a operação ou exigir validação técnica.
-
-## Uso no trabalho diário
-
-Sempre que um agente precisar consultar o DEBX:
-
-1. transforme a pergunta de negócio em critérios objetivos;
-2. escolha a menor consulta que responda à dúvida;
-3. valide o resultado;
-4. registre a conclusão de forma clara para a equipe.
-
-## Material complementar recomendado
-
-Para a parte prática de conexão, reconhecimento de objetos e exemplos de consultas Oracle, consulte também:
-
-- [[Agentes/Matias/DEBX — Conexão e Consultas Oracle|DEBX — Conexão e Consultas Oracle]]
-
-Esse guia complementar é o melhor lugar para:
-
-- validar conexão com segurança;
-- descobrir tabelas, views e colunas;
-- testar consultas curtas antes de ampliar o recorte;
-- entender melhor a lógica operacional do DEBX.
-
-## Consultas mínimas sugeridas para qualquer agente
-
-Quando estiver em dúvida sobre o ambiente, use este fluxo:
-
-1. validar a sessão;
-2. confirmar o schema/serviço;
-3. descobrir o objeto correto;
-4. consultar poucos registros;
-5. só depois aprofundar.
-
-Exemplos de leitura segura:
+Sempre comece com consultas inocentes:
 
 ```sql
 select 1 as ok from dual;
@@ -89,8 +60,167 @@ select
 from dual;
 ```
 
+Se isso falhar, o problema é de conexão/credencial/sessão — não de negócio.
+
+## Como o DEBX funciona na prática
+
+### 1) PED é o centro do negócio
+
+- A **PED** concentra pedidos e vendas.
+- `I_PDVAPROV` marca a **data de aprovação**.
+- Antes da aprovação, o registro tende a estar como orçamento/editável.
+- Depois da aprovação, vira pedido travado para separação, faturamento e envio.
+
+### 2) Estoque e loja física não são a mesma coisa
+
+- `v_estoq` representa o **estoque disponível para venda**.
+- Ele consolida saldos e desconta reservas de pedidos aprovados ainda sem NF.
+- Lojas físicas usam o estoque local `ALMOX`.
+- Se a pergunta for **venda da loja física**, o caminho validado é `F_MOVTO` com `MOV_NATIND = 100`.
+
+### 3) Intelipost pode estar separado por operação
+
+- Dados de rastreio e frete podem ficar por loja/schema.
+- Não assuma que a operação central responde por tudo.
+- Consulte a operação onde a NF foi emitida quando o tema for rastreamento/logística.
+
+## Tabelas e campos que mais aparecem
+
+### PED / venda central
+
+- `TEST_ACL.F_PEDVENDA` — cabeçalho do pedido
+- `TEST_ACL.F_PEDITEM` — itens do pedido
+- `TEST_ACL.F_PRODS` — descrição e classificação do produto
+
+Campos úteis:
+
+- `PDV_NUMPED`
+- `PDV_DATPED`
+- `PDV_STATUS`
+- `PDV_VALTOT`
+- `ITV_CODPRO`
+- `ITV_QTDITE`
+- `ITV_VALITE`
+
+### Loja física / movimentação
+
+- `TEST_ACL.F_MOVTO` — movimentos operacionais da loja
+
+Campos úteis:
+
+- `MOV_DATMOV`
+- `MOV_NATIND`
+- `MOV_CODPRO`
+- `MOV_QTDMOV`
+- `MOV_VALTOT`
+- `MOV_TIPMOV`
+
+## Padrões de consulta que funcionam
+
+### A. Vendas da PED por período
+
+Use quando a pergunta for pedido/aprovação/venda central.
+
 ```sql
-select *
-from SCHEMA_AQUI.TABELA_AQUI
-where rownum <= 10;
+select
+  trunc(p.pdv_datped, 'MM') as mes,
+  i.itv_codpro as sku,
+  max(pr.pro_descri) as descricao,
+  sum(i.itv_qtdite) as qtd,
+  round(sum(i.itv_valite), 2) as valor
+from test_acl.f_pedvenda p
+join test_acl.f_peditem i on i.itv_numped = p.pdv_numped
+join test_acl.f_prods pr on pr.pro_codpro = i.itv_codpro
+where p.pdv_datped >= date '2026-01-01'
+  and p.pdv_status = 'X'
+group by trunc(p.pdv_datped, 'MM'), i.itv_codpro
+order by mes, sku;
 ```
+
+### B. Venda da loja física por período
+
+Use quando a pergunta for **loja física**.
+
+```sql
+select
+  trunc(m.mov_datmov, 'MM') as mes,
+  m.mov_codpro as sku,
+  max(pr.pro_descri) as descricao,
+  sum(m.mov_qtdmov) as qtd,
+  round(sum(m.mov_valtot), 2) as valor
+from test_acl.f_movto m
+join test_acl.f_prods pr on pr.pro_codpro = m.mov_codpro
+where m.mov_natind = 100
+  and m.mov_datmov >= date '2026-01-01'
+  and upper(pr.pro_descri) like '%EDREDOM%'
+group by trunc(m.mov_datmov, 'MM'), m.mov_codpro
+order by mes, sku;
+```
+
+### C. Consulta inicial para descobrir objetos
+
+Quando não souber onde está o dado:
+
+```sql
+select owner, table_name
+from all_tables
+where owner in ('TEST_ACL','TEST_PED')
+order by owner, table_name;
+```
+
+```sql
+select column_name, data_type
+from all_tab_columns
+where owner = 'TEST_ACL'
+  and table_name = 'F_MOVTO'
+order by column_id;
+```
+
+## Regras de leitura segura
+
+- Comece com poucos registros.
+- Confirme nomes de coluna antes de montar joins grandes.
+- Não suponha que coluna com nome parecido existe em outra tabela.
+- Valide o filtro de data antes de fechar o relatório.
+- Se o total parecer estranho, compare com outra visão antes de concluir.
+
+## Quando usar qual base
+
+- **PED / aprovação / pedido comercial** → `F_PEDVENDA` + `F_PEDITEM`
+- **Venda da loja física** → `F_MOVTO` com `MOV_NATIND = 100`
+- **Estoques para venda** → `v_estoq`
+- **Estoque local da loja** → `ALMOX`
+- **Rastreio / transporte** → schema operacional da loja da NF
+
+## Erros comuns
+
+- Confundir venda da PED com venda da loja física.
+- Usar tabela errada e perder registros válidos.
+- Misturar estoque físico com disponível para venda.
+- Consultar loja central quando o dado é de uma operação específica.
+- Fazer join desnecessário e derrubar linhas.
+
+## Checklist rápido para qualquer agente
+
+1. Entenda a pergunta de negócio.
+2. Escolha a base correta: PED ou loja física.
+3. Valide a sessão no Oracle.
+4. Faça a menor consulta que responda a pergunta.
+5. Agrupe por mês/SKU quando houver volume.
+6. Confira total mensal e total geral.
+7. Registre a conclusão de forma clara.
+
+## Regra de trabalho
+
+Se a pergunta for sobre **venda da loja física**, o filtro base é:
+
+- `MOV_NATIND = 100`
+
+Se a pergunta for sobre **pedido comercial**, o caminho é a **PED**.
+
+## Referências relacionadas
+
+- [[Agentes/Matias/Banco de Dados e Oracle]]
+- [[Agentes/Matias/DEBX — Conexão e Consultas Oracle]]
+
+> Observação: este é o documento compartilhado que deve ser usado por todos os agentes. Os demais podem servir como apoio, mas esta é a referência operacional principal.
