@@ -1,0 +1,47 @@
+# CAIXA POR PERIODO COM ORIGEM — Pedidos de Ontem
+
+**Fonte:** SQL Server `hotel-finder` → `conamore.CAIXA_PERIODO_COM_ORIGEM`
+**Data analisada:** 02/06/2026
+**Consulta localizada:** sim, a tabela existe em `conamore`
+
+## Resumo rápido
+- **Pedidos:** 34
+- **Faturamento total:** R$ 55.513,40
+- **Origem:** 19 pedidos MAG / 15 pedidos sem origem preenchida
+- **Status:** 32 Aprovado / 1 Expedição / 1 Orçamento
+
+## Pedidos de ontem
+1. **0105332** — PITER OLIVEIRA GESTAO IMOBILIARIA LTDA — R$ 10.799,14 — origem: - — Expedição — PIX À VISTA — Á VISTA — SP
+2. **0106309** — ALCIDES CAUMO — R$ 7.570,00 — origem: MAG — Aprovado — CARTÃO VISA — CARTÃO 4X — MG
+3. **0106235** — 65.053.298 ERCISO DOS SANTOS OLIVEIRA — R$ 4.090,64 — origem: - — Aprovado — PAGAMENTO INCREAZY PIX — Á VISTA — BA
+4. **0105251** — ALCIONE DE OLIVEIRA MARINHO SANTOS — R$ 3.434,17 — origem: - — Aprovado — PAGAMENTO INCREAZY PIX — Á VISTA — SP
+5. **0105915** — CLAUDIO ALBARUS — R$ 2.809,15 — origem: - — Aprovado — PAGAMENTO INCREAZY PIX — Á VISTA — CE
+6. **0105653** — HOSTING LTDA — R$ 2.245,88 — origem: - — Aprovado — PAGAMENTO INCREAZY PIX — Á VISTA — MG
+7. **0106168** — MARIA DE FÁTIMA VASCONCELOS ALBUQUERQUE — R$ 2.194,20 — origem: - — Aprovado — PAGAMENTO INCREAZY CREDITO — CARTÃO 5X — BA
+8. **0106288** — SUSEL MARIA R F BANDOLI — R$ 2.101,90 — origem: MAG — Aprovado — CARTÃO MASTER CARD — CARTÃO 4X — RJ
+9. **0106083** — ERIKA CAMPOS — R$ 1.986,92 — origem: - — Aprovado — PAGAMENTO INCREAZY PIX — Á VISTA — SP
+10. **0105879** — ALAIDE ALVES MARTINS — R$ 1.958,00 — origem: - — Aprovado — PAGAMENTO INCREAZY CREDITO — CARTÃO 2X — MT
+11. **0106310** — PEDRI MARINELLI — R$ 1.942,56 — origem: MAG — Aprovado — PIX À VISTA — Á VISTA — SP
+12. **0105611** — PALOMA MOREIRA DE MORAIS 06651713663 — R$ 1.752,32 — origem: - — Aprovado — PAGAMENTO INCREAZY CREDITO — CARTÃO 5X — MG
+13. **0105970** — SOLANGE BITTENCOURT NEPOMUCENO CASTELO BRANCO — R$ 1.613,10 — origem: - — Orçamento — PAGAMENTO INCREAZY CREDITO — CARTÃO 5X — RJ
+14. **0105982** — ALDANA ROLON — R$ 1.527,30 — origem: - — Aprovado — PAGAMENTO INCREAZY PIX — Á VISTA — RJ
+15. **0104843** — PRISCYLLA BASSANI DE OLIVEIRA PORPINO — R$ 1.203,90 — origem: - — Aprovado — PAGAMENTO INCREAZY CREDITO — CARTÃO 5X — ES
+16. **0103515** — REGINA MORSELLI — R$ 1.185,81 — origem: - — Aprovado — PAGAMENTO INCREAZY PIX — Á VISTA — CE
+17. **0106311** — VICTOR P QUEIROZ — R$ 749,73 — origem: MAG — Aprovado — CARTÃO VISA — CARTÃO 4X — RN
+18. **0106297** — EDGAR BARBOSA MILAGRES — R$ 742,92 — origem: MAG — Aprovado — PIX À VISTA — Á VISTA — SP
+19. **0105326** — ALCIONE DE OLIVEIRA MARINHO SANTOS — R$ 607,80 — origem: - — Aprovado — PAGAMENTO INCREAZY CREDITO — CARTÃO 5X — SP
+20. **0106307** — VALQUIRIA LIMA DE OLIVEIRA — R$ 600,05 — origem: MAG — Aprovado — PIX À VISTA — Á VISTA — MG
+21. **0106292** — THAMIRIS KAREN DE SOUSA — R$ 595,26 — origem: MAG — Aprovado — CARTÃO MASTER CARD — CARTÃO 4X — SP
+22. **0100587** — ALEXANDRE MAURÍCIO DA SILVA — R$ 555,03 — origem: - — Aprovado — PAGAMENTO INCREAZY PIX — Á VISTA — SP
+23. **0106293** — FONTANELLA E FONTANELLA LTDA COSMOS MOTEL — R$ 524,53 — origem: MAG — Aprovado — PIX À VISTA — Á VISTA — SC
+24. **0106305** — ANA CAROLINA DE SOUZA — R$ 430,79 — origem: MAG — Aprovado — PIX À VISTA — Á VISTA — SP
+25. **0106299** — RENATO BAROUKH — R$ 404,00 — origem: MAG — Aprovado — CARTÃO MASTER CARD — CARTÃO 4X — SP
+26. **0106296** — THELMA MANCINI — R$ 361,40 — origem: MAG — Aprovado — PIX À VISTA — Á VISTA — SP
+27. **0106294** — DIANDRA OSMARI — R$ 332,03 — origem: MAG — Aprovado — CARTÃO VISA — CARTÃO 4X — RS
+28. **0106289** — MILENA SOUSA MELO RAMOS — R$ 284,80 — origem: MAG — Aprovado — CARTÃO VISA — CARTÃO 4X — SP
+29. **0106308** — FABIANA GOUVEIA — R$ 208,15 — origem: MAG — Aprovado — PIX À VISTA — Á VISTA — SP
+30. **0106295** — PATRICIA XAVIER — R$ 180,90 — origem: MAG — Aprovado — CARTÃO MASTER CARD — CARTÃO 3X — SP
+31. **0106306** — RICARDO DA ROCHA RODRIGUES — R$ 180,90 — origem: MAG — Aprovado — CARTÃO VISA — CARTÃO 3X — SP
+32. **0106291** — DIOGO SANTOS — R$ 163,04 — origem: MAG — Aprovado — PIX À VISTA — Á VISTA — DF
+33. **0106290** — FATORIAL PRODUCOES E EVENTOS LTDA FATORIAL PRODUCOES E EVENT — R$ 147,69 — origem: MAG — Aprovado — PIX À VISTA — Á VISTA — SP
+34. **0106298** — GUILHERME DIAS — R$ 29,39 — origem: MAG — Aprovado — PIX À VISTA — Á VISTA — SP
