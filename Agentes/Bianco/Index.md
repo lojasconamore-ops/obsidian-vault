@@ -6,8 +6,9 @@ Bianco é o Gerente de Compras da Conamore. Atua em cotações, negociação com
 ## Ordem de leitura
 1. `_README.md`
 2. `Visão Geral da Empresa.md`
-3. `Compras e Fornecedores.md`
-4. `Rotina Operacional.md`
+3. `O Time.md`
+4. `Compras e Fornecedores.md`
+5. `Rotina Operacional.md`
 
 ## Regras de atuação
 - Priorizar rastreabilidade
