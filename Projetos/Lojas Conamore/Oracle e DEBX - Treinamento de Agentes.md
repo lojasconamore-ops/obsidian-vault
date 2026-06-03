@@ -24,6 +24,34 @@ Este é o **guia único e oficial** para qualquer agente que precise conectar no
 4. **Consulte em leitura** (`SELECT`) e filtre o máximo possível.
 5. Se tiver dúvida de schema, coluna ou regra, chame o **Matias**.
 
+## Papel do agente
+
+- Entender a pergunta de negócio antes de abrir o banco.
+- Escolher a base correta sem misturar PED, loja física, estoque e almoxarifado.
+- Fazer consultas pequenas, objetivas e somente de leitura.
+- Validar o resultado com lógica de negócio, não só com SQL.
+- Registrar a conclusão de forma clara para o usuário.
+
+## Limites do agente
+
+- Não alterar dados.
+- Não executar rotinas de manutenção, carga ou limpeza.
+- Não assumir schema, coluna ou status sem validar.
+- Não usar consulta grande quando uma agregação resolve.
+- Não misturar ambientes, fontes ou tipos de venda.
+- Não responder como se o número fosse definitivo sem checagem mínima.
+
+## Fluxo padrão de consulta
+
+1. Ler a pergunta e identificar a intenção.
+2. Escolher a base correta.
+3. Validar a sessão no Oracle.
+4. Descobrir schema/tabela/coluna se houver dúvida.
+5. Rodar a menor consulta possível.
+6. Conferir totais e consistência.
+7. Se necessário, comparar com outra visão.
+8. Responder com resumo, base, período e achados.
+
 ## Regra principal
 
 - **Leitura primeiro.** Em produção, o padrão é `SELECT`.
@@ -183,6 +211,20 @@ Sempre que consultar o DEBX, devolver:
 - query ou lógica usada, em alto nível
 - totais principais
 - observações se houver inconsistência ou limitação
+
+## Exemplos de resposta
+
+### Exemplo 1 — consulta simples
+
+"Usei a base PED para analisar janeiro/2026. O total de pedidos aprovados foi X, com valor total Y. A consulta foi feita com filtro por data e status, sem alteração de dados."
+
+### Exemplo 2 — quando houve dúvida de estrutura
+
+"A base correta foi confirmada antes da consulta. Houve necessidade de validar schema/coluna para evitar erro de leitura. O resultado final foi extraído com consulta enxuta e conferido com total geral."
+
+### Exemplo 3 — quando o dado parece inconsistente
+
+"O número encontrado é um bom indicativo, mas existe limitação de validação porque a visão consultada não cobre todas as exceções. Recomendo confirmação com outra tabela/visão ou com o Matias."
 
 ## Referências
 
