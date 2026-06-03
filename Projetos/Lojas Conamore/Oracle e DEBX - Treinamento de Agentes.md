@@ -30,6 +30,15 @@ Este é o **guia único e oficial** para qualquer agente que precise conectar no
 - Não alterar dados sem autorização explícita.
 - Se a consulta puder ser menor e mais objetiva, faça menor.
 - Não misture **venda da PED** com **venda física**.
+- Se houver dúvida de tabela, schema ou coluna, confirme antes de executar uma consulta grande.
+
+## Quando usar cada base
+
+- **PED**: pedidos comerciais, aprovação, faturamento, análise de vendas central e itens de pedido.
+- **F_MOVTO + `MOV_NATIND = 100`**: venda da loja física.
+- **`v_estoq`**: estoque disponível para venda, já considerando reservas e disponibilidade operacional.
+- **`ALMOX`**: estoque local da loja física.
+- **Dúvida de estrutura**: consultar Matias ou fazer descoberta de schema/tabela/coluna antes do relatório.
 
 ## Conexão
 
@@ -147,12 +156,33 @@ order by mes, sku;
 ## Checklist rápido
 
 1. Entenda a pergunta de negócio.
-2. Escolha a base correta: PED ou loja física.
+2. Escolha a base correta: PED, loja física, estoque ou almoxarifado.
 3. Valide a sessão.
-4. Faça a menor consulta que responda à pergunta.
-5. Agrupe por mês e SKU quando houver volume.
-6. Confira total mensal e total geral.
-7. Registre a conclusão de forma clara.
+4. Descubra schema/tabela/coluna se houver qualquer dúvida.
+5. Faça a menor consulta que responda à pergunta.
+6. Agrupe por mês e SKU quando houver volume.
+7. Confira total mensal e total geral.
+8. Registre a conclusão de forma clara.
+
+## Erros comuns
+
+- Conectar no host/porta errados.
+- Informar service name incorreto.
+- Usar schema ou tabela sem prefixo quando a visão não está em `dbo`/default.
+- Misturar PED com venda física.
+- Rodar consulta grande sem filtro de data.
+- Usar `SELECT *` quando poucas colunas resolvem.
+- Assumir coluna sem validar o nome real.
+
+## Como o agente deve responder ao usuário
+
+Sempre que consultar o DEBX, devolver:
+- resumo curto da resposta de negócio
+- base usada
+- período consultado
+- query ou lógica usada, em alto nível
+- totais principais
+- observações se houver inconsistência ou limitação
 
 ## Referências
 
