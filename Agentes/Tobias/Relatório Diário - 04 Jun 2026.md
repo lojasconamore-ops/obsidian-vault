@@ -12,7 +12,9 @@
 
 ## Leitura operacional
 - O volume está **concentrado em Expedição**: 995 pedidos, R$ 3,11MM, ou **81,5% da receita do período**.
-- Os status **D + G** somam **44 pedidos** e **R$ 366.824,09** — isso precisa de validação com TI/ERP porque o significado operacional ainda não está fechado.
+- Os status **D + G** somam **44 pedidos** e **R$ 366.824,09**.
+  - **D** = pedidos pendentes por falta de algum produto para completar.
+  - **G** = pedidos programados com personalização (bordado, solo ou medida especial) em fabricação.
 - Existem **8 pedidos com mais de 60 dias parados**, totalizando **R$ 12.428,81** em aberto.
 
 ## Distribuição por status
