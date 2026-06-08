@@ -46,7 +46,7 @@ python3 scripts/daily-order-check.py --track-critical
 
 ## O Relatório Gera
 
-### 1. 📊 Resumo Executivo (60 dias)
+### 1. 📊 Resumo Executivo (15 dias)
 - Total pedidos, receita, frete total/médio, ticket médio, clientes atendidos
 
 ### 2. 📋 Status dos Pedidos
@@ -67,7 +67,7 @@ Maiores pedidos com vendedor e data
 ### 7. 👤 Top 10 Vendedores por Receita
 Ranking de performance
 
-### 8. 📈 Série Diária (últimos 30 dias)
+### 8. 📈 Série Diária (últimos 15 dias)
 Pedidos, receita e frete dia a dia
 
 ## Dados do Período (Abr-Mai/2026)
