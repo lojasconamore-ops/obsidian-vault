@@ -18,7 +18,20 @@ Sem evidência de cadastro na lista negra nos materiais consultados.
 
 ## Histórico Conamore
 
-Sem histórico interno localizado nas notas consultadas do Obsidian para este CNPJ / razão social / nome fantasia.
+**Hotel Finder (SQL Server)** encontrado para o mesmo cadastro:
+
+- ID_DEBX: **A7297**
+- Cliente: **PORTAL BEIJA FLOR**
+- Razão social: **SRM PROMOCAO DE EVENTOS E APOIO ADMINISTRATIVO LTDA.**
+- Qtde de registros: **1**
+- Primeira/última movimentação: **05/06/2026**
+- Número do pedido: **0106526**
+- Status: **Orçamento**
+- Condição: **À VISTA**
+- Valor total: **R$ 12.665,30**
+- Frete: **R$ 50,00**
+
+Isso caracteriza **histórico interno encontrado**, porém ainda **muito curto** e sem venda faturada concluída.
 
 ## Score / Bureau
 
