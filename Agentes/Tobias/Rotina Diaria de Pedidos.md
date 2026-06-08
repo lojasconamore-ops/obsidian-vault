@@ -9,22 +9,25 @@
 
 A tabela `debx.open_orders` contém dados **desatualizados** (Jun/2024 a Mai/2025 — parou de ser alimentada há mais de 1 ano).
 
-**A tabela correta para análise de pedidos atuais é `debx.PDV_Detalhes`**, que tem dados até **30/05/2026**.
+**O padrão oficial do relatório diário foi atualizado para o SQL Oracle DEBX** com base em `F_SAIDAS`, `F_MOVTO`, `F_PEDVENDA`, `FI_MAG_PEDIDOS`, `SSL_CAIXA_DETALHADO_MATERIAL` e `FI_MAG_DEPA_TRANSP`.
+
+**Escopo fixo:** últimos **15 dias**.
+**Formato fixo:** **Gerencial**, **Operacional** e **Consolidada**.
 
 ## Ferramentas Integradas
 
 | Fonte | Função |
 |-------|--------|
-| **SQL Server (Hotel Finder) — `debx.PDV_Detalhes`** | Pedidos recentes, status, valores, fretes, vendedores |
-| **Intelipost API** | Tracking individual de pedidos |
-| **Script `daily-order-check.py`** | Relatório automatizado (últimos 60 dias) |
+| **Oracle DEBX** — `F_SAIDAS`, `F_MOVTO`, `F_PEDVENDA`, `FI_MAG_PEDIDOS`, `SSL_CAIXA_DETALHADO_MATERIAL`, `FI_MAG_DEPA_TRANSP` | Base oficial do relatório diário (NF, faturamento, frete, cliente, transportadora e cruzamento pedido ↔ nota) |
+| **Intelipost API** | Tracking individual de pedidos e validação de transportadora |
+| **Script `daily-order-check.py`** | Legado operacional ainda consultando `debx.PDV_Detalhes`; não é a base oficial do novo relatório |
 
 ## O Script
 
 **Localização:** `~/.hermes/profiles/tobias/scripts/daily-order-check.py`
 
 ```bash
-# Relatório completo (padrão: últimos 60 dias)
+# Relatório completo (legado)
 cd ~/.hermes/profiles/tobias
 source .env
 python3 scripts/daily-order-check.py
@@ -38,6 +41,8 @@ python3 scripts/daily-order-check.py --days 30
 # Com tracking Intelipost nos pedidos críticos
 python3 scripts/daily-order-check.py --track-critical
 ```
+
+**Nota:** o relatório diário oficial agora segue o SQL Oracle DEBX de 15 dias, com 3 versões (Gerencial, Operacional e Consolidada).
 
 ## O Relatório Gera
 
