@@ -19,7 +19,8 @@ Reporta ao **DigitalCEO**.
 4. **[[Folha de Pagamento e Benefícios]]** — Processamento, encargos, convênios
 5. **[[Legislação Trabalhista]]** — CLT, categoria têxtil, convenções coletivas
 6. **[[Clima e Cultura Organizacional]]** — Pesquisas, engajamento, endomarketing
-7. **[[LGPD para RH]]** — Dados de colaboradores, consentimentos, políticas
+7. **[[As 5 Linguagens do Reconhecimento na Conamore]]** — reconhecimento, engajamento e liderança
+8. **[[LGPD para RH]]** — Dados de colaboradores, consentimentos, políticas
 
 ## Regras de Ouro
 

@@ -12,7 +12,8 @@ Pasta de treinamento da Maria, Gerente de Recursos Humanos.
 | [[Recrutamento e Seleção]] | Processos seletivos, perfis, etapas, admissão |
 | [[Folha de Pagamento e Benefícios]] | Cálculo, encargos, rescisões, prazos |
 | [[Legislação Trabalhista]] | CLT, NRs, riscos, convenção coletiva têxtil |
-| [[Clima e Cultura Organizacional]] | Pesquisas, endomarketing, treinamentos |
+| [[Clima e Cultura Organizacional]] | Pesquisas, engajamento, treinamentos |
+| [[As 5 Linguagens do Reconhecimento na Conamore]] | Reconhecimento, engajamento e liderança |
 | [[LGPD para RH]] | Dados de colaboradores, bases legais, retenção |
 
 ## Oracle e DEBX
