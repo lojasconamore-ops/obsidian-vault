@@ -92,6 +92,20 @@ As seguintes páginas existem em **duas versões** (com e sem `.html`), gerando 
 
 ---
 
+## ✅ Verificação atual — 10/06/2026
+
+Levantamento rápido feito no site hoje:
+- Home `https://www.conamore.com.br/` responde `200 OK`
+- `canonical` presente apontando para a home
+- `robots` com `index,follow`
+- título ainda genérico: `Inicial | Conamore`
+- `og:title`, `og:description`, `og:image` e `twitter:card` seguem ausentes
+- `JSON-LD` não foi encontrado no HTML
+- ainda existe 1 link interno `http://hotelaria.conamore.com.br/` retornando `406 Not Acceptable`
+- HTML da home está pesado (~453 KB)
+- 50 scripts carregados na home
+- 1 imagem sem `alt` no HTML verificado
+
 ## 📊 Anexo — Evidências
 
 Capturas de tela e logs disponíveis mediante solicitação.
