@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "5da7c06fc71de077",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ab02d38ee75b848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c41a8a1fdaefcc33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agentes/Cona/Guias e Padrões.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guias e Padrões"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c18dd1a7eb88d249",
+    "type": "split",
+    "children": [
+      {
+        "id": "63a1937f833102c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17720799588b6ffe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "1a98f9efea0199c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "57f3802d68edcda6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cdb733a53fcfbb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dbf49010b08fe32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d4a3d2ecc8acb73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sem título.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Sem título"
+            }
+          },
+          {
+            "id": "3b5c4cfd802b7f1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sem título.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Sem título"
+            }
+          },
+          {
+            "id": "746bd2a7e39cd257",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e0f32dbd64786c7c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "e47b289084f0330d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem título.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Sem título"
+            }
+          },
+          {
+            "id": "304795dd12b1ebe2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c41a8a1fdaefcc33",
+  "lastOpenFiles": [
+    "Agentes/Cona/_README.md",
+    "Projetos/Lojas Conamore/Lásaro do Carmo.md",
+    "Sem título 3.base",
+    "Sem título 2.base",
+    "Sem título 1.canvas",
+    "Sem título 1.base",
+    "Sem título.canvas",
+    "Sem título.base",
+    "Agentes/Elias/_README.md",
+    "Agentes/Flávia/_README.md",
+    "Agentes/Adrian/Contratos e Documentos.md",
+    "2026-05-31.md",
+    "Infra/Banco de Dados.md",
+    "Diário/README.md",
+    "Agentes/Tobias/Rotina Operacional.md",
+    "Agentes/Tobias/Rotina Diaria de Pedidos.md",
+    "Agentes/Matias/Stack Tecnológica.md",
+    "Agentes/Matias/Index.md",
+    "Agentes/Matias",
+    "Agentes/Maria/_README.md",
+    "Agentes/Maria/Visão Geral da Conamore.md",
+    "Agentes/Maria/Recrutamento e Seleção.md",
+    "Agentes/Maria/O Time.md",
+    "Agentes/Maria/LGPD para RH.md",
+    "Agentes/Maria/Legislação Trabalhista.md",
+    "Agentes/Maria/Index.md",
+    "Agentes/Maria/Folha de Pagamento e Benefícios.md",
+    "Agentes/Maria/Clima e Cultura Organizacional.md",
+    "Agentes/Maria",
+    "Agentes/Tobias/Gestão de Estoque e Indicadores.md",
+    "Agentes/Tobias/plano-integracao-intelipost.md",
+    "Agentes/Tobias/Index.md",
+    "Agentes/Tiago/Gestão Financeira.md",
+    "Agentes/Tiago/Política de Crédito.md",
+    "Agentes/Cona",
+    "Agentes/Flávia/para-enviar-increazy.txt",
+    "Agentes/Flávia"
+  ]
+}
