@@ -1,0 +1,234 @@
+---
+title: Oracle e DEBX — Treinamento de Agentes
+tags:
+  - debx
+  - oracle
+  - treinamento
+  - agentes
+  - conamore
+---
+
+# Oracle e DEBX — Guia Rápido para Agentes
+
+Este é o **guia único e oficial** para qualquer agente que precise conectar no Oracle do DEBX e trabalhar com consultas operacionais da Conamore.
+
+## Uso em 30 segundos
+
+1. **Conecte no Oracle** `conamore` em `172.169.0.11:1521`.
+2. **Valide a sessão** com `select 1 from dual` e `sys_context`.
+3. **Escolha a base certa**:
+   - **PED** = pedidos / aprovação / venda central
+   - **F_MOVTO + MOV_NATIND = 100** = venda da loja física
+   - **v_estoq** = estoque disponível para venda
+   - **ALMOX** = estoque local da loja
+4. **Consulte em leitura** (`SELECT`) e filtre o máximo possível.
+5. Se tiver dúvida de schema, coluna ou regra, chame o **Matias**.
+
+## Papel do agente
+
+- Entender a pergunta de negócio antes de abrir o banco.
+- Escolher a base correta sem misturar PED, loja física, estoque e almoxarifado.
+- Fazer consultas pequenas, objetivas e somente de leitura.
+- Validar o resultado com lógica de negócio, não só com SQL.
+- Registrar a conclusão de forma clara para o usuário.
+
+## Limites do agente
+
+- Não alterar dados.
+- Não executar rotinas de manutenção, carga ou limpeza.
+- Não assumir schema, coluna ou status sem validar.
+- Não usar consulta grande quando uma agregação resolve.
+- Não misturar ambientes, fontes ou tipos de venda.
+- Não responder como se o número fosse definitivo sem checagem mínima.
+
+## Fluxo padrão de consulta
+
+1. Ler a pergunta e identificar a intenção.
+2. Escolher a base correta.
+3. Validar a sessão no Oracle.
+4. Descobrir schema/tabela/coluna se houver dúvida.
+5. Rodar a menor consulta possível.
+6. Conferir totais e consistência.
+7. Se necessário, comparar com outra visão.
+8. Responder com resumo, base, período e achados.
+
+## Regra principal
+
+- **Leitura primeiro.** Em produção, o padrão é `SELECT`.
+- Não alterar dados sem autorização explícita.
+- Se a consulta puder ser menor e mais objetiva, faça menor.
+- Não misture **venda da PED** com **venda física**.
+- Se houver dúvida de tabela, schema ou coluna, confirme antes de executar uma consulta grande.
+
+## Quando usar cada base
+
+- **PED**: pedidos comerciais, aprovação, faturamento, análise de vendas central e itens de pedido.
+- **F_MOVTO + `MOV_NATIND = 100`**: venda da loja física.
+- **`v_estoq`**: estoque disponível para venda, já considerando reservas e disponibilidade operacional.
+- **`ALMOX`**: estoque local da loja física.
+- **Dúvida de estrutura**: consultar Matias ou fazer descoberta de schema/tabela/coluna antes do relatório.
+
+## Conexão
+
+- **Banco:** Oracle `conamore`
+- **Host:** `172.169.0.11`
+- **Porta:** `1521`
+- **Exemplo de string:** `//172.169.0.11:1521/conamore`
+
+## Validação mínima da sessão
+
+```sql
+select 1 as ok from dual;
+```
+
+```sql
+select
+  sys_context('USERENV','DB_NAME') as db_name,
+  sys_context('USERENV','SERVICE_NAME') as service_name,
+  sys_context('USERENV','SESSION_USER') as session_user
+from dual;
+```
+
+Se isso falhar, o problema é de conexão/credencial/sessão.
+
+## Como o DEBX funciona
+
+### PED
+- A **PED** concentra pedidos e vendas.
+- `I_PDVAPROV` marca a data de aprovação.
+- Antes da aprovação, tende a estar editável/orçamento.
+- Depois da aprovação, vira pedido travado para separação, faturamento e envio.
+
+### Estoque
+- `v_estoq` = estoque disponível para venda.
+- Ele consolida saldos e desconta reservas de pedidos aprovados sem NF.
+- `ALMOX` = estoque local da loja física.
+
+### Loja física
+- Para vender da **loja física**, use `F_MOVTO` com:
+  - `MOV_NATIND = 100`
+- Esse é o filtro validado para venda física da ACL.
+
+## Tabelas mais usadas
+
+### Venda central / PED
+- `TEST_ACL.F_PEDVENDA` — cabeçalho do pedido
+- `TEST_ACL.F_PEDITEM` — itens
+- `TEST_ACL.F_PRODS` — produtos
+
+Campos úteis:
+- `PDV_NUMPED`
+- `PDV_DATPED`
+- `PDV_STATUS`
+- `PDV_VALTOT`
+- `ITV_CODPRO`
+- `ITV_QTDITE`
+- `ITV_VALITE`
+
+### Venda física / movimentação
+- `TEST_ACL.F_MOVTO`
+
+Campos úteis:
+- `MOV_DATMOV`
+- `MOV_NATIND`
+- `MOV_CODPRO`
+- `MOV_QTDMOV`
+- `MOV_VALTOT`
+- `MOV_TIPMOV`
+
+## Padrões de consulta
+
+### 1) Venda física por mês e SKU
+
+```sql
+select
+  trunc(m.mov_datmov, 'MM') as mes,
+  m.mov_codpro as sku,
+  max(pr.pro_descri) as descricao,
+  sum(m.mov_qtdmov) as qtd,
+  round(sum(m.mov_valtot), 2) as valor
+from test_acl.f_movto m
+join test_acl.f_prods pr on pr.pro_codpro = m.mov_codpro
+where m.mov_natind = 100
+  and m.mov_datmov >= date '2026-01-01'
+group by trunc(m.mov_datmov, 'MM'), m.mov_codpro
+order by mes, sku;
+```
+
+### 2) PED por mês e SKU
+
+```sql
+select
+  trunc(p.pdv_datped, 'MM') as mes,
+  i.itv_codpro as sku,
+  max(pr.pro_descri) as descricao,
+  sum(i.itv_qtdite) as qtd,
+  round(sum(i.itv_valite), 2) as valor
+from test_acl.f_pedvenda p
+join test_acl.f_peditem i on i.itv_numped = p.pdv_numped
+join test_acl.f_prods pr on pr.pro_codpro = i.itv_codpro
+where p.pdv_datped >= date '2026-01-01'
+  and p.pdv_status = 'X'
+group by trunc(p.pdv_datped, 'MM'), i.itv_codpro
+order by mes, sku;
+```
+
+## Regras práticas
+
+- Comece com poucos registros.
+- Confirme nomes de coluna antes de joins grandes.
+- Valide o filtro de data antes de fechar relatório.
+- Se o total parecer estranho, compare com outra visão.
+- Consulte a operação certa quando o dado for de loja, frete ou rastreio.
+
+## Checklist rápido
+
+1. Entenda a pergunta de negócio.
+2. Escolha a base correta: PED, loja física, estoque ou almoxarifado.
+3. Valide a sessão.
+4. Descubra schema/tabela/coluna se houver qualquer dúvida.
+5. Faça a menor consulta que responda à pergunta.
+6. Agrupe por mês e SKU quando houver volume.
+7. Confira total mensal e total geral.
+8. Registre a conclusão de forma clara.
+
+## Erros comuns
+
+- Conectar no host/porta errados.
+- Informar service name incorreto.
+- Usar schema ou tabela sem prefixo quando a visão não está em `dbo`/default.
+- Misturar PED com venda física.
+- Rodar consulta grande sem filtro de data.
+- Usar `SELECT *` quando poucas colunas resolvem.
+- Assumir coluna sem validar o nome real.
+
+## Como o agente deve responder ao usuário
+
+Sempre que consultar o DEBX, devolver:
+- resumo curto da resposta de negócio
+- base usada
+- período consultado
+- query ou lógica usada, em alto nível
+- totais principais
+- observações se houver inconsistência ou limitação
+
+## Exemplos de resposta
+
+### Exemplo 1 — consulta simples
+
+"Usei a base PED para analisar janeiro/2026. O total de pedidos aprovados foi X, com valor total Y. A consulta foi feita com filtro por data e status, sem alteração de dados."
+
+### Exemplo 2 — quando houve dúvida de estrutura
+
+"A base correta foi confirmada antes da consulta. Houve necessidade de validar schema/coluna para evitar erro de leitura. O resultado final foi extraído com consulta enxuta e conferido com total geral."
+
+### Exemplo 3 — quando o dado parece inconsistente
+
+"O número encontrado é um bom indicativo, mas existe limitação de validação porque a visão consultada não cobre todas as exceções. Recomendo confirmação com outra tabela/visão ou com o Matias."
+
+## Referências
+
+- [[Agentes/Matias/Banco de Dados e Oracle]]
+- [[Agentes/Matias/DEBX — Conexão e Consultas Oracle]]
+
+> Este documento deve ser a referência principal para todos os agentes. Os demais servem como apoio ou histórico.

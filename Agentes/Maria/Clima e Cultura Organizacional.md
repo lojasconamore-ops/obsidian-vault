@@ -58,10 +58,11 @@
 | **Atendimento ao Cliente** | Vendas e comercial | Semestral |
 | **LGPD** | Todos | Anual |
 | **Liderança** | Gestores | Anual |
+| **As 5 Linguagens do Reconhecimento** | Lideranças e equipes | Conforme necessidade |
 | **Técnico Têxtil** | Produção | Conforme necessidade |
 
 ### Registro de Treinamentos
-Manter pasta com:
+
 - Lista de presença assinada
 - Conteúdo programático
 - Carga horária

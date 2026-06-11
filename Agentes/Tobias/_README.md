@@ -46,3 +46,14 @@
 ## Skills Disponíveis
 
 Herdadas do profile default (95 skills). Revisar quais são relevantes para logística.
+
+## Oracle e DEBX
+
+Para qualquer consulta em Oracle/DEBX, leia antes:
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — guia operacional]]
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Versão Padrão dos Agentes|Oracle e DEBX — versão padrão]]
+
+Regras rápidas:
+- leitura primeiro
+- distinguir PED de venda física
+- validar sessão, schema e coluna antes de consulta grande

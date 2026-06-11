@@ -7,6 +7,7 @@ Cada agente mantém sua própria pasta em `Agentes/[Nome]/` com:
 - **Visão Geral da Conamore.md** — Contexto da empresa
 - **O Time.md** — Estrutura hierárquica
 - **Documentos específicos** — Conhecimento da área
+- **Oracle e DEBX** — consultas, validação e leitura segura do ERP compartilhado
 
 ## Regras de Engajamento
 
@@ -15,6 +16,14 @@ Cada agente mantém sua própria pasta em `Agentes/[Nome]/` com:
 3. **Documentar no Obsidian** — conhecimento não pode ficar solto
 4. **Cada agente no seu Telegram** — não usar o bot de outro agente
 5. **Gmail exclusivo do Elias** — nenhum outro agente usa e-mail
+
+## Oracle e DEBX
+
+Quando surgir qualquer conversa sobre banco de dados, consultas operacionais ou validação de dados no Oracle/DEBX:
+- leia primeiro o guia oficial [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — consultas no ERP]]
+- use a [[Projetos/Lojas Conamore/Oracle e DEBX - Versão Padrão dos Agentes|versão padrão]] como base comum entre os agentes
+- mantenha o padrão de leitura segura: PED ≠ venda física, `SELECT` primeiro, validar sessão/schema/coluna antes de consultas grandes
+- se houver dúvida estrutural ou inconsistência de negócio, acione o Matias
 
 ## Padrão de Resposta Executiva
 

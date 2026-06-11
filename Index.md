@@ -17,6 +17,12 @@ Crie notas em Markdown (`.md`) em qualquer subpasta. O Hermes pode:
   - [[Projetos/Lojas Conamore/SOUL|SOUL — Identidade do DigitalCEO]]
   - [[Lásaro do Carmo|Lázaro do Carmo — Referência]]
 
+## Agentes
+
+- [[Agentes/Index|Diretório de Agentes]]
+  - [[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]
+  - [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — consultas no ERP]]
+
 ## Estrutura sugerida
 
 ```

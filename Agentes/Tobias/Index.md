@@ -8,6 +8,11 @@ Bem-vindo, Tobias. Este guia contém tudo que você precisa saber para assumir a
 
 > Garantir que o produto certo chegue no lugar certo, na hora certa, na quantidade certa, pelo menor custo possível — sem nunca sacrificar a qualidade.
 
+## Cultura Conamore
+
+- **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
+- **[[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — consultas no ERP]]** — guia compartilhado para consultas em Oracle no ERP DEBX, com foco em leitura segura e validação de dados.
+
 ## Estrutura dos Documentos
 
 | Documento | O que cobre |
@@ -21,6 +26,9 @@ Bem-vindo, Tobias. Este guia contém tudo que você precisa saber para assumir a
 ## Ferramentas à Disposição
 
 - **Intelipost (TMS)** — API de tracking, cotação de frete e transportadoras. Script CLI: `intelipost-track.py`
+- **Relatório Diário — Padrão Oracle DEBX** — base oficial do relatório diário de logística com NF, faturamento, frete e cruzamento pedido ↔ nota
+- [[Relatório Diário - Template Oracle DEBX|Template do relatório diário]] — estrutura pronta para uso diário
+- [[Relatório Diário - 10 Jun 2026|Relatório diário mais recente]] — coleta de hoje (Intelipost / Oracle)
 - **Composio** — integração com apps externos (Google Sheets, Google Analytics, etc.)
 - **Obsidian Vault** — seu cérebro documental (pasta `Agentes/Tobias/`)
 - **Terminal** — acesso ao servidor e scripts

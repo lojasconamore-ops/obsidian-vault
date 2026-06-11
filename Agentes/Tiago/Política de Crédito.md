@@ -80,6 +80,21 @@ Prosseguir para próxima etapa.
 
 Se existir histórico interno relevante, ele deve ter prioridade sobre o bureau.
 
+#### Consulta obrigatória ao Hotel Finder
+
+Antes de concluir qualquer parecer, consultar o **Hotel Finder (SQL Server)** do cliente analisado usando o mesmo **CNPJ / Razão Social / ID DEBX**.
+
+**Ordem recomendada:**
+1. `conamore.Customers` — confirmar cadastro, CNPJ, razão social e `ID_DEBX`
+2. `debx.PDV_Detalhes` — consultar pedidos, datas, status, condição de pagamento, valor total e vendedor
+3. `conamore.CAIXA_PERIODO_DETALHADO_POR_MATERIAL` — detalhar pedidos já faturados/expedidos quando houver linhas por material
+
+**Regras práticas:**
+- Se o cliente aparecer no Hotel Finder, tratar como **histórico interno relevante**, mesmo sem print do ERP enviado pelo usuário.
+- Se não houver registro, declarar claramente **"sem histórico encontrado no Hotel Finder"** e seguir como primeira compra/sem histórico.
+- Não usar `debx.open_orders` como fonte principal, pois está **desatualizada**.
+- Sempre registrar no parecer: quantidade de pedidos, primeira/última compra, valor total, ticket médio, status relevantes e observações de cancelamento/financeiro.
+
 #### Recorrência
 - Há quantas compras?
 - Frequência?

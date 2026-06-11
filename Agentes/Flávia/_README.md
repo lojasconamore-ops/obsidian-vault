@@ -47,3 +47,14 @@ Obsidian: Agentes/Marketing/
 - Provider alterado de opencode-go para opencode-zen em 30/05/2026 (falta de chave API)
 - LP "Marketing para Hotelaria CONAMORE" criada em 27/05 — NÃO PUBLICADA — pendente de revisão
 - Treinamento completo carregado no Obsidian em 30/05/2026 pelo DigitalCEO
+
+## Oracle e DEBX
+
+Para qualquer consulta em Oracle/DEBX, leia antes:
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — guia operacional]]
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Versão Padrão dos Agentes|Oracle e DEBX — versão padrão]]
+
+Regras rápidas:
+- leitura primeiro
+- distinguir PED de venda física
+- validar sessão, schema e coluna antes de consulta grande

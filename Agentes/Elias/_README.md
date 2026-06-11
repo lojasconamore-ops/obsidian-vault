@@ -69,3 +69,14 @@ Secretário executivo pessoal e profissional do Sérgio. Cuida do dia a dia exec
 - Cooperação lateral entre Elias e DigitalCEO quando necessário
 - Informações pessoais do Sérgio devem ser tratadas com discrição absoluta
 - Telegram: usuário autorizado 8830886324 (Sérgio Ladeira)
+
+## Oracle e DEBX
+
+Para qualquer consulta em Oracle/DEBX, leia antes:
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — guia operacional]]
+- [[Projetos/Lojas Conamore/Oracle e DEBX - Versão Padrão dos Agentes|Oracle e DEBX — versão padrão]]
+
+Regras rápidas:
+- leitura primeiro
+- distinguir PED de venda física
+- validar sessão, schema e coluna antes de consulta grande

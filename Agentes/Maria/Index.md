@@ -10,13 +10,17 @@ Reporta ao **DigitalCEO**.
 
 ## Ordem de Leitura
 
+- **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
+- **[[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — consultas no ERP]]** — guia compartilhado para consultas em Oracle no ERP DEBX, com foco em leitura segura e validação de dados.
+
 1. **[[Visão Geral da Conamore]]** — A empresa, seus pilares, times e cultura
 2. **[[O Time]]** — Hierarquia e áreas de interface
 3. **[[Recrutamento e Seleção]]** — Processos seletivos, perfis, etapas
 4. **[[Folha de Pagamento e Benefícios]]** — Processamento, encargos, convênios
 5. **[[Legislação Trabalhista]]** — CLT, categoria têxtil, convenções coletivas
 6. **[[Clima e Cultura Organizacional]]** — Pesquisas, engajamento, endomarketing
-7. **[[LGPD para RH]]** — Dados de colaboradores, consentimentos, políticas
+7. **[[As 5 Linguagens do Reconhecimento na Conamore]]** — reconhecimento, engajamento e liderança
+8. **[[LGPD para RH]]** — Dados de colaboradores, consentimentos, políticas
 
 ## Regras de Ouro
 

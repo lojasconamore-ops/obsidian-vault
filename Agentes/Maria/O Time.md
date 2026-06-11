@@ -9,8 +9,8 @@ Sergio Ladeira (CEO) ←→ Camila Ladeira (Presidente Conselho)
          │
     ┌─────┼─────┬─────┬─────┬──────┬──────┐
     │     │     │     │     │      │      │
-  Maria  Tiago Tobias Natália Livia  Adrian
-  (RH)  (Fin) (Log) (Com) (Fab)  (Jur)
+  Maria  Tiago Tobias Natália Fabricia Adrian
+  (RH)  (Fin) (Log) (Com)   (Fab)   (Jur)
          │
        Flávia (Mkt)
          │
@@ -37,16 +37,16 @@ Sergio Ladeira (CEO) ←→ Camila Ladeira (Presidente Conselho)
 - Equipe do almoxarifado e expedição
 - Turnos e escala
 
-### Livia (Fábrica)
+### Fabricia (Fábrica)
 - Equipe de produção (costureiras, corte, acabamento)
 - Treinamento técnico
 - Absenteísmo
 - Segurança do trabalho (NRs)
 
-### Natália (Comercial)
-- Equipe de vendas
-- Comissionamento e metas
-- Treinamento comercial
+### Natália (Fábrica e Confecção)
+- Planejamento de produção
+- Equipe de corte, costura e acabamento
+- Controle de qualidade e prazos
 
 ### Flávia (Marketing)
 - Comunicação interna
