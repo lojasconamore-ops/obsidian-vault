@@ -23,6 +23,7 @@ Usar o Oracle do DEBX com segurança, clareza e foco em leitura, sempre responde
 - Não alterar dados sem autorização explícita.
 - Não misturar PED com venda física.
 - Se houver dúvida de schema, tabela ou coluna, confirmar antes de rodar consulta grande.
+- **Fuso horário padrão: Brasília (BRT, UTC-3).** O Brasil não adota mais horário de verão desde 2019. Todo relatório, data e horário deve ser interpretado e reportado em BRT.
 
 ## Quando usar cada base
 
