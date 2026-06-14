@@ -11,7 +11,8 @@ A tabela `debx.open_orders` contém dados **desatualizados** (Jun/2024 a Mai/202
 
 **O padrão oficial do relatório diário foi atualizado para o SQL Oracle DEBX** com base em `F_SAIDAS`, `F_MOVTO`, `F_PEDVENDA`, `FI_MAG_PEDIDOS`, `SSL_CAIXA_DETALHADO_MATERIAL` e `FI_MAG_DEPA_TRANSP`.
 
-**Escopo fixo:** últimos **15 dias**.
+**Escopo fixo:** **últimos 15 dias** para relatórios manuais.  
+**Escopo cron:** **somente ontem** (`--yesterday`).  
 **Formato fixo:** **Gerencial**, **Operacional** e **Consolidada**.
 
 ## Ferramentas Integradas
@@ -27,22 +28,22 @@ A tabela `debx.open_orders` contém dados **desatualizados** (Jun/2024 a Mai/202
 **Localização:** `~/.hermes/profiles/tobias/scripts/daily-order-check.py`
 
 ```bash
-# Relatório completo (legado)
+# Relatório de ontem (padrão do cron)
 cd ~/.hermes/profiles/tobias
 source .env
-python3 scripts/daily-order-check.py
+python3 scripts/daily-order-check.py --yesterday
 
-# Apenas resumo executivo
-python3 scripts/daily-order-check.py --summary
+# Relatório de ontem — apenas resumo
+python3 scripts/daily-order-check.py --yesterday --summary
+
+# Relatório manual com 15 dias
+python3 scripts/daily-order-check.py
 
 # Período personalizado
 python3 scripts/daily-order-check.py --days 30
-
-# Com tracking Intelipost nos pedidos críticos
-python3 scripts/daily-order-check.py --track-critical
 ```
 
-**Nota:** o relatório diário oficial agora segue o SQL Oracle DEBX de 15 dias, com 3 versões (Gerencial, Operacional e Consolidada).
+**Nota:** o cron job roda `daily-order-check.sh --yesterday` diariamente às 8:30 BRT. Relatórios manuais ainda suportam `--days N`.
 
 ## O Relatório Gera
 
@@ -94,7 +95,9 @@ Pedidos, receita e frete dia a dia
 
 ## Cron Job Ativo
 
-- **Nome:** Rotina Diária de Pedidos
+- **Nome:** Rotina Diária de Pedidos (Ontem)
+- **Comando:** `daily-order-check.sh --yesterday`
 - **Horário:** 08:30 BRT (11:30 UTC) — todos os dias
 - **Entrega:** Telegram (Sergio Ladeira)
 - **Modo:** `no_agent` — saída direta do script, sem consumo de tokens LLM
+- **Escopo:** apenas o dia anterior (ontem), todas as séries 2, 3 versões
