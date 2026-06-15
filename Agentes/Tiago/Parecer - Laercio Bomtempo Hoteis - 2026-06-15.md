@@ -64,6 +64,23 @@ CNPJ 09.463.062/0001-04 e razão social "LAERCIO BOMTEMPO HOTEIS LTDA" não cons
 | 3 | 0062797 | 13/10/2025 | Expedição | R$ 1.260,00 | Entrada 50% + 30 dias |
 | 4 | 0107400 | 12/06/2026 | **Orçamento** | R$ 3.403,00 | Entrada 50% + 30/60 dias |
 
+### Detalhamento por pedido
+
+**0012234** (03/10/2024) — Cartão 5x — R$ 2.590,00
+- 100 un. Fronha Avulsa 50×70cm Percal 180 fios — R$ 9,50/un
+- 50 un. Toalha de Banho Suit 70×140cm 408g/m² — R$ 31,80/un
+
+**0027120** (28/03/2025) — Cartão 5x — R$ 3.729,16
+- 10 un. Lençol Solteiro 160×250cm Percal 180 fios — R$ 36,76/un
+- 8 un. Lençol Casal 220×250cm Percal 180 fios — R$ 50,05/un
+- 40 un. Fronha Avulsa 50×70cm Percal 180 fios — R$ 9,60/un
+- 6 un. Lençol Queen 250×250cm Percal 180 fios — R$ 59,66/un
+- 40 un. Toalha de Banho Suit 70×140cm — R$ 30,85/un
+- 40 un. Toalha de Piso Prime 50×80cm — R$ 23,38/un
+
+**0062797** (13/10/2025) — Entrada 50% + 30 dias — R$ 1.260,00
+- 100 un. Protetor Travesseiro Impermeável 50×70cm — R$ 12,10/un
+
 ### Resumo
 
 | Indicador | Valor |
@@ -196,6 +213,15 @@ Justificativa técnica objetiva: Cliente com 20 meses de relacionamento, 3 pedid
 
 ---
 
-## ⚠️ Nota Técnica — Divergência SQL Server vs DEBX
+## ⚠️ Nota Técnica — Divergência SQL Server vs DEBX (RESOLVIDA)
 
-O SQL Server `debx.PDV_Detalhes` retornou apenas 2 registros para o ID_DEBX A2051, enquanto a tela do DEBX ERP mostra 4 pedidos. Os pedidos 0012234 e 0027120 não apareceram na consulta SQL. Possível causa: filtro por `ID_DEBX` (varchar) vs `ID_DEBX2` (int), ou partição de dados. **Recomendo validar com o Matias (TI).**
+**Causa identificada:** O ID_DEBX mudou de formato ao longo do tempo:
+
+| Período | ID_DEBX | ID_DEBX2 |
+|---|---|---|
+| 2024–03/2025 | `02051` (sem "A", com zero) | 102051 |
+| 10/2025 em diante | `A2051` (com "A") | 2051 |
+
+A consulta original `WHERE ID_DEBX = 'A2051'` só capturou os pedidos recentes. Os pedidos 0012234 e 0027120 usam `ID_DEBX = '02051'`. **Mesmo cliente, dois formatos de ID no banco.** Isso indica provável migração ou mudança de padrão no DEBX entre março e outubro de 2025.
+
+**Lição aprendida:** Para garantir cobertura completa, buscar por `Razao_Social` + `ID_DEBX2` (customer id = 2051) em vez de confiar apenas no `ID_DEBX` varchar.
