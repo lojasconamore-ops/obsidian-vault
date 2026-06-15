@@ -2,7 +2,7 @@
 
 **Data da análise:** 15/06/2026
 **Analista:** Tiago (Gerente Financeiro)
-**Origem:** Orçamento nº 107400 + Relatório Equifax/Boa Vista
+**Origem:** Orçamento nº 107400 + Relatório Equifax/Boa Vista + tela DEBX (print Sérgio)
 
 ---
 
@@ -51,35 +51,44 @@ CNPJ 09.463.062/0001-04 e razão social "LAERCIO BOMTEMPO HOTEIS LTDA" não cons
 
 ## Etapa 1 — Histórico Interno Conamore
 
-**Base:** SQL Server `hotel-finder` — `conamore.Customers` + `debx.PDV_Detalhes`
+**Fontes:** SQL Server `hotel-finder` + tela DEBX ERP (print Sérgio Ladeira)
 
-**Cadastro:** ID_DEBX A2051, cliente desde data não especificada (cadastro antigo).
+**Cadastro:** ID_DEBX A2051, cliente antigo.
 
-### Histórico de Pedidos (1 registro faturado + 1 orçamento atual)
+### Histórico de Pedidos (3 faturados + 1 orçamento atual)
 
-| # | Pedido | Data | Valor | Status | Condição | Vendedor |
-|---|---|---|---|---|---|---|
-| 1 | 0062797 | 02/10/2025 | R$ 1.260,00 | Expedição | Entrada 50% + 30 dias | Brenda Kaliane |
-| 2 | 0107400 | 12/06/2026 | R$ 3.403,00 | **Orçamento** | Entrada 50% + 30/60 dias | Brenda Kaliane |
-
-### Detalhe do pedido anterior (0062797)
-
-- 100 un. Protetor Travesseiro Impermeável 50×70cm — R$ 12,10/un
-- Faturado e expedido com sucesso
+| # | Pedido | Data | Status | Valor | Condição |
+|---|---|---|---|---|---|
+| 1 | 0012234 | 03/10/2024 | Expedição | R$ 2.590,00 | Cartão 5x |
+| 2 | 0027120 | 28/03/2025 | Expedição | R$ 3.729,16 | Cartão 5x |
+| 3 | 0062797 | 13/10/2025 | Expedição | R$ 1.260,00 | Entrada 50% + 30 dias |
+| 4 | 0107400 | 12/06/2026 | **Orçamento** | R$ 3.403,00 | Entrada 50% + 30/60 dias |
 
 ### Resumo
 
 | Indicador | Valor |
 |---|---|
-| Total histórico faturado | R$ 1.260,00 |
-| Pedidos faturados | 1 |
-| Ticket único | R$ 1.260,00 |
-| Condição já operada | Entrada 50% + 30 dias ✅ |
+| Total histórico faturado | R$ 7.579,16 |
+| Pedidos faturados | **3** |
+| Ticket médio | R$ 2.526,39 |
+| Maior pedido | R$ 3.729,16 |
+| Primeira compra | 03/10/2024 (20 meses) |
+| Última compra faturada | 13/10/2025 |
+| Frequência | ~1 pedido a cada 6 meses |
 
-⚠️ **Histórico curto** — apenas 1 compra anterior. O pedido atual (R$ 3.403) representa um crescimento de 2,7× sobre o ticket anterior. Sem dados de atraso ou pontualidade interna.
+### Evolução do Ticket
 
-### Classificação: **Classe B — Bom (preliminar)**
-Histórico interno insuficiente para classificação definitiva, mas o único pedido foi faturado com sucesso na mesma condição (entrada 50% + prazo). O bureau compensa a falta de histórico.
+R$ 2.590 → R$ 3.729 → R$ 1.260 → R$ 3.403 (atual)
+
+📈 **Crescimento estável.** O pedido atual (R$ 3.403) está dentro do intervalo histórico e 35% acima do ticket médio — variação normal. Todos os pedidos foram faturados com sucesso (Expedição), zero cancelamentos.
+
+### Condições já operadas com sucesso
+
+- ✅ Cartão 5x (2 vezes)
+- ✅ Entrada 50% + 30 dias (1 vez)
+
+### Classificação: **Classe B — Bom**
+Cliente regular, 20 meses de relacionamento, 3 pedidos faturados com zero cancelamentos. Já operou entrada + prazo com sucesso. Bom histórico.
 
 ---
 
@@ -111,10 +120,10 @@ Histórico interno insuficiente para classificação definitiva, mas o único pe
 - **Segmento:** Hotelaria — classe HOTEL no cadastro Conamore
 - **Mix:** Toalhas de piso + banho + fronhas — itens típicos de reposição hoteleira
 - **Volume:** 170 peças — coerente com hotel de pequeno/médio porte
-- **Evolução:** De protetores de travesseiro (1ª compra) para toalhas e fronhas (2ª compra) — progressão natural de sortimento
-- **Crescimento de ticket:** 2,7× (R$ 1.260 → R$ 3.403) — salto moderado, justificável como ampliação de mix
+- **Histórico de itens:** Protetores de travesseiro (1ª compra) → toalhas e fronhas (atual) — evolução natural de sortimento
+- **Crescimento de ticket:** Dentro do intervalo histórico (R$ 1.260–R$ 3.729), 35% acima da média
 
-✅ **Pedido coerente** com o segmento e porte do cliente.
+✅ **Pedido totalmente coerente** com o segmento, porte e histórico do cliente.
 
 ---
 
@@ -153,16 +162,17 @@ Parecer: ✅ APROVAR
 
 Nível de risco: BAIXO
 
-Histórico Conamore: Cliente com 1 pedido anterior faturado (10/2025, R$ 1.260).
-  Já operou Entrada 50% + 30 dias com sucesso. Histórico interno curto mas limpo.
-  Classe B — Bom (preliminar).
+Histórico Conamore: Cliente desde 10/2024 (20 meses). 3 pedidos faturados (100% Expedição).
+  Total histórico R$ 7,6k | Ticket médio R$ 2,5k | Maior pedido R$ 3,7k.
+  Evolução estável. Já operou Entrada 50% + 30 dias e Cartão 5x com sucesso.
+  Classe B — Bom.
 
 Score / Bureau: 🏆 789 (Muito Forte) | Prob. 3,0% | 100% pagamento pontual 12 meses.
   Zero atrasos, zero restrições, zero protestos. CNPJ ativo há 18 anos.
   Perfil de bureau EXCEPCIONAL.
 
 Coerência do pedido: Totalmente coerente. Hotel comprando reposição de enxoval
-  (toalhas + fronhas). Mix compatível com o segmento. Evolução natural do 1º pedido.
+  (toalhas + fronhas). Ticket dentro do intervalo histórico. Mix compatível.
 
 Validação operacional online: 🟢 Operação Forte. Hotel Bomtempo no Google Maps (3.6★),
   telefone ativo, endereço consistente com orçamento.
@@ -172,13 +182,20 @@ Condição recomendada: MANTER CONDIÇÕES DA PROPOSTA
   • Saldo 30/60 dias (~R$ 863,25 + ~R$ 863,25)
   • Exposição líquida de apenas R$ 1.726,50
 
-Justificativa técnica objetiva: Apesar do histórico interno curto (apenas 1 compra),
-  o bureau é excepcional: score 789, 100% de pagamentos pontuais por 12 meses,
-  zero atrasos, 18 anos de CNPJ ativo. Hotel real verificado no Google Maps.
-  Exposição líquida baixíssima (R$ 1.726). Pedido coerente com o segmento.
-  O risco de inadimplência de 3% é o menor observado entre as análises recentes.
+Justificativa técnica objetiva: Cliente com 20 meses de relacionamento, 3 pedidos
+  faturados com sucesso e zero cancelamentos. Bureau excepcional: score 789, 100%
+  de pagamentos pontuais, 18 anos de CNPJ. Pedido atual dentro do intervalo histórico
+  e coerente com o segmento hoteleiro. Exposição líquida baixíssima (R$ 1.726).
+  Condição proposta (50% entrada + 30/60) já operada com sucesso em pedido anterior.
+  Soma de histórico interno positivo + bureau impecável + operação real = risco baixo.
 ```
 
 ---
 
-> **Princípio aplicado:** *"Histórico Conamore vale mais que score externo — mas quando o histórico é curto e o score é excepcional, o bureau compensa."*
+> **Princípio aplicado:** *"Vender com risco inteligente."* — Cliente com bom histórico interno, bureau excepcional e operação real comprovada. Aprovar fortalece o relacionamento.
+
+---
+
+## ⚠️ Nota Técnica — Divergência SQL Server vs DEBX
+
+O SQL Server `debx.PDV_Detalhes` retornou apenas 2 registros para o ID_DEBX A2051, enquanto a tela do DEBX ERP mostra 4 pedidos. Os pedidos 0012234 e 0027120 não apareceram na consulta SQL. Possível causa: filtro por `ID_DEBX` (varchar) vs `ID_DEBX2` (int), ou partição de dados. **Recomendo validar com o Matias (TI).**
