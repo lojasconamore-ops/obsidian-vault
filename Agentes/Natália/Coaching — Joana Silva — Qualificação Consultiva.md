@@ -55,6 +55,22 @@ A Joana **nunca perguntou**:
 
 Qualquer um desses cenários representa **receita recorrente que ficou na mesa**.
 
+### Promoção do mês ignorada: cross-sell de cobertores
+
+A cliente comprou **lençóis, fronhas e toalhas** — um enxoval de cama/banho quase completo. O complemento natural óbvio: **cobertor**. E justamente em junho a promoção vigente é **10% de desconto em TODOS os cobertores**.
+
+| O que a Joana perdeu | Impacto estimado |
+|---|---|
+| Não mencionou a promoção de cobertores | Cross-sell perdido de R$500 a R$2.000+ |
+| Não perguntou "falta cobertor nesse enxoval?" | Cliente pode comprar de outro fornecedor |
+| Não usou a urgência da promoção do mês | Perdeu o gatilho de escassez temporal |
+
+**Frase que deveria ter entrado na conversa:**
+
+> *"Joicimeire, vi que seu enxoval está bem completo. Aproveitando: este mês estamos com **10% de desconto em todos os cobertores** — é a promoção de junho. Falta cobertor nesse pedido? Posso incluir com o desconto e você já fecha o enxoval inteiro com a gente."*
+
+**Regra para o time:** antes de enviar link de pagamento, **sempre** verificar a promoção do mês e oferecer como complemento ao pedido atual.
+
 ---
 
 ## 🎯 Plano de Coaching
