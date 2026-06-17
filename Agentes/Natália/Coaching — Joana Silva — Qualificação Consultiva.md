@@ -55,19 +55,19 @@ A Joana **nunca perguntou**:
 
 Qualquer um desses cenários representa **receita recorrente que ficou na mesa**.
 
-### Promoção do mês ignorada: cross-sell de cobertores
+### Promoção do mês ignorada: cross-sell de protetores de colchão
 
-A cliente comprou **lençóis, fronhas e toalhas** — um enxoval de cama/banho quase completo. O complemento natural óbvio: **cobertor**. E justamente em junho a promoção vigente é **10% de desconto em TODOS os cobertores**.
+A cliente comprou **lençóis, fronhas e toalhas** — um enxoval de cama/banho. O item complementar de altíssima sinergia: **protetor de colchão**. Quem compra lençol normalmente quer proteger o colchão. E justamente em junho a promoção vigente é **10% de desconto na linha de Protetores de Colchão**.
 
 | O que a Joana perdeu | Impacto estimado |
 |---|---|
-| Não mencionou a promoção de cobertores | Cross-sell perdido de R$500 a R$2.000+ |
-| Não perguntou "falta cobertor nesse enxoval?" | Cliente pode comprar de outro fornecedor |
+| Não mencionou a promoção de protetores | Cross-sell perdido — ticket extra de R$500 a R$1.500 |
+| Não perguntou "vai precisar de protetor também?" | Cliente pode comprar de outro fornecedor |
 | Não usou a urgência da promoção do mês | Perdeu o gatilho de escassez temporal |
 
 **Frase que deveria ter entrado na conversa:**
 
-> *"Joicimeire, vi que seu enxoval está bem completo. Aproveitando: este mês estamos com **10% de desconto em todos os cobertores** — é a promoção de junho. Falta cobertor nesse pedido? Posso incluir com o desconto e você já fecha o enxoval inteiro com a gente."*
+> *"Joicimeire, vi que seu enxoval está bem completo. Aproveitando: este mês estamos com **10% de desconto em toda a linha de protetores de colchão** — é a promoção de junho. Você vai precisar de protetores também? Com o desconto, já fecha tudo com a gente."*
 
 **Regra para o time:** antes de enviar link de pagamento, **sempre** verificar a promoção do mês e oferecer como complemento ao pedido atual.
 
