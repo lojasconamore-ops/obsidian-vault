@@ -522,7 +522,7 @@ Temos **lojas físicas em Campinas/SP** com parte do mostruário de hotelaria. O
 
 ---
 
-## XSEC_FRONHAS: FRONHAS — TIPOS, MEDIDAS E VALORES
+## 🧷 SEÇÃO 16: FRONHAS — TIPOS, MEDIDAS E VALORES
 
 ### Q43: Quais os tipos de fronha que vocês vendem?
 **Resposta modelo:**
@@ -546,8 +546,6 @@ Valores de referência (linha Confort 180 fios):
 - **Fronha Avulsa:** Simples, abertura lateral. O travesseiro fica aparente. Mais econômica.
 - **Fronha com Aba:** Possui aba interna que "esconde" o travesseiro. Visual mais limpo e profissional.
 
-Para um jogo de cama completo, recomendamos 2 fronhas por cama.
-
 ---
 
 ### Q45: Vocês vendem fronha impermeável?
@@ -558,11 +556,11 @@ Temos o **Protetor de Travesseiro Impermeável** — diferente da fronha tradici
 
 ### Q46: As fronhas vêm em outras cores além do branco?
 **Resposta modelo:**
-As fronhas acompanham a cor dos lençóis. Na linha Confort 180 fios, disponível em **branco**. A cor branca é a mais usada em hotelaria por facilitar a lavagem.
+As fronhas acompanham a cor dos lençóis. Na linha Confort 180 fios, disponível em **branco**, a cor mais usada em hotelaria.
 
 ---
 
-## XSEC_LAVANDERIA: RESISTÊNCIA À LAVANDERIA INDUSTRIAL
+## 🧺 SEÇÃO 17: RESISTÊNCIA À LAVANDERIA INDUSTRIAL
 
 ### Q47: Os lençóis de vocês aguentam lavagem industrial?
 **Resposta modelo:**
@@ -589,11 +587,11 @@ Para hotéis que terceirizam lavanderia, recomendamos **RFID + bordado**.
 
 ### Q49: Vocês têm toalha que aguenta lavanderia industrial?
 **Resposta modelo:**
-Sim! As linhas **Fit (350g/m²)** e **Select (440g/m²)** são desenvolvidas para uso profissional com costura dupla, alta resistência à tração e secagem rápida.
+Sim! As linhas **Fit (350g/m²)** e **Select (440g/m²)** são desenvolvidas para uso profissional com costura dupla, alta resistência e secagem rápida.
 
 ---
 
-## XSEC_ESPECIAIS: LENÇÓIS ESPECIAIS
+## 🛏️ SEÇÃO 18: LENÇÓIS ESPECIAIS
 
 ### Q50: Vocês têm lençol redondo?
 **Resposta modelo:**
@@ -626,7 +624,7 @@ No momento não trabalhamos com cortinas ou blackout. Nosso foco é enxoval de c
 
 ---
 
-## XSEC_BRINDES: BRINDES E KITS PROMOCIONAIS
+## 🎁 SEÇÃO 19: BRINDES E KITS PROMOCIONAIS
 
 ### Q54: Vocês vendem produtos para brindes e kits?
 **Resposta modelo:**
@@ -648,7 +646,7 @@ Trabalhamos com preços competitivos de fábrica e descontos para pagamento à v
 
 ---
 
-## 💰 SEÇÃO 16: PREÇOS, ORÇAMENTO E PAGAMENTO
+## 💰 SEÇÃO 20: PREÇOS, ORÇAMENTO E PAGAMENTO
 
 ### Q56: Como consigo um orçamento?
 **Resposta modelo:**
@@ -694,7 +692,7 @@ Se preferir pagar no boleto, temos 5% de desconto para pagamento à vista.
 
 ---
 
-## 🚚 SEÇÃO 17: ENTREGA, FRETE E PRAZO
+## 🚚 SEÇÃO 21: ENTREGA, FRETE E PRAZO
 
 ### Q60: Qual o prazo de entrega?
 **Resposta modelo:**
@@ -736,7 +734,7 @@ Sim! **Atendemos todo o Brasil online.** Temos também a opção de **retirada**
 
 ---
 
-## 🔄 SEÇÃO 18: TROCAS E DEVOLUÇÕES
+## 🔄 SEÇÃO 22: TROCAS E DEVOLUÇÕES
 
 ### Q64: Como funciona a troca de produtos?
 **Resposta modelo:**
@@ -771,7 +769,7 @@ Analisamos em até 48h. Constatado defeito de fabricação, providenciamos a tro
 
 ---
 
-## 📝 SEÇÃO 19: CADASTRO E PRIMEIRO ACESSO
+## 📝 SEÇÃO 23: CADASTRO E PRIMEIRO ACESSO
 
 ### Q67: Como faço meu cadastro?
 **Resposta modelo:**
@@ -801,7 +799,7 @@ Sim! Clientes CNPJ têm acesso a:
 
 ---
 
-## 🏨 SEÇÃO 20: HOTELARIA E ATACADO
+## 🏨 SEÇÃO 24: HOTELARIA E ATACADO
 
 ### Q70: Vocês vendem para hotel e pousada?
 **Resposta modelo:**
@@ -838,7 +836,7 @@ Multiplique pelo número de UHs e inclua **20-30% de margem para reposição**.
 
 ---
 
-## 📦 SEÇÃO 21: ESTOQUE E DISPONIBILIDADE
+## 📦 SEÇÃO 25: ESTOQUE E DISPONIBILIDADE
 
 ### Q73: O produto X está em estoque?
 **Resposta modelo:**
