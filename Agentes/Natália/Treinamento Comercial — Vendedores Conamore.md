@@ -488,16 +488,17 @@ Mencione meu nome, por favor! 🙏"
 
 # MÓDULO 4 — EXERCÍCIOS PRÁTICOS
 
-## 🎭 SIMULAÇÃO 1: Hotel Novo (Inauguração)
+## 🎭 SIMULAÇÃO 1: Hotel Novo (Inauguração) — ENXOVAL COMPLETO
 
 **Cenário:**
 Cliente: "Vou abrir uma pousada com 12 quartos em Porto Seguro. Preciso de tudo: cama, banho, toalha de piscina. Me manda orçamento?"
 
 **Sua missão:**
-1. Qualifique a necessidade (nº de camas por quarto, padrão da pousada)
-2. Recomende produtos adequados (clima praia → produtos frescos e resistentes à lavanderia)
-3. Monte o escopo de um orçamento completo
-4. Apresente formas de pagamento e feche
+1. Qualifique a necessidade (nº de camas por quarto, padrão da pousada, altura dos colchões)
+2. Monte enxoval completo: lençóis, fronhas, toalhas de banho, toalhas de piscina, protetores de colchão, travesseiros, amenities
+3. Recomende produtos adequados (clima praia → Confort 180, microfibra, toalha de piscina listrada)
+4. Ofereça personalização com bordado (logo da pousada)
+5. Apresente formas de pagamento e feche
 
 ---
 
@@ -509,9 +510,10 @@ Cliente: "Já compro com vocês. Preciso repor 30 lençóis de solteiro, 20 fron
 **Sua missão:**
 1. Consulte o histórico do cliente
 2. Confirme se a linha é a mesma da última compra
-3. Ofereça upgrade (ex: "já que vai repor, que tal testar a Supreme nos apartamentos premium?")
-4. Aplique benefícios de cliente recorrente
-5. Feche com PIX (5% off)
+3. Ofereça upgrade: "Já que vai repor, que tal testar a Supreme 300 fios nos apartamentos premium?"
+4. Cross-sell: "Aproveitando a reposição, que tal incluir capas de edredom? E protetores de colchão para os colchões novos?"
+5. Aplique benefícios de cliente recorrente
+6. Feche com PIX (5% off)
 
 ---
 
@@ -521,24 +523,41 @@ Cliente: "Já compro com vocês. Preciso repor 30 lençóis de solteiro, 20 fron
 Cliente: "Comprei 50 toalhas e 10 vieram com manchas. Preciso disso resolvido HOJE — tenho hóspede chegando."
 
 **Sua missão:**
-1. Acalme o cliente
-2. Peça fotos das manchas
+1. Acalme o cliente: "Vamos resolver agora, fique tranquilo."
+2. Peça fotos das manchas e das etiquetas
 3. Acione o procedimento de troca urgente
-4. Ofereça compensação (ex: frete grátis no próximo pedido)
+4. Ofereça compensação: prioridade no envio das 10 reposições
 5. Acompanhe até a resolução
 
 ---
 
-## 🎭 SIMULAÇÃO 4: Cross-sell e Upsell
+## 🎭 SIMULAÇÃO 4: Cross-sell e Upsell Avançado
 
 **Cenário:**
 Cliente: "Quero 20 jogos de lençol casal 180 fios."
 
+**Sua missão (nível avançado):**
+1. Confirme a altura do colchão e medidas
+2. Upsell de linha: "A Classic 200 fios 100% algodão tem toque bem mais macio e a diferença é pequena. Quer comparar?"
+3. Cross-sell natural (1): "Já que são 20 camas, preciso incluir as fronhas — são 40?"
+4. Cross-sell (2): "E protetor de colchão impermeável? É o item com melhor custo-benefício do enxoval."
+5. Cross-sell (3): "Vocês usam edredom? A capa de edredom facilita muito a lavagem."
+6. Cross-sell (4): "Já que a pousada é nova, que tal amenities? Sabonetes e shampoos para os quartos?"
+7. Upsell final: "Tem toalha de piscina? Nossa listrada é sucesso em pousada."
+
+---
+
+## 🎭 SIMULAÇÃO 5: Cliente com Demanda Técnica Específica (NOVA)
+
+**Cenário:**
+Cliente: "Tenho um hotel com lavanderia industrial terceirizada. Meus lençóis somem na lavanderia. Preciso de 100 lençóis queen que aguentem lavagem pesada e quero marcar cada um."
+
 **Sua missão:**
-1. Confirme o pedido
-2. Ofereça complementos naturais: "Já que vai comprar os lençóis, que tal já incluir as fronhas? E protetor de colchão para conservar os colchões?"
-3. Upsell: "Temos a linha Classic 200 fios 100% algodão — o toque é muito mais macio e a diferença de valor é pequena. Quer comparar?"
-4. Ofereça amenities: "Vai precisar de sabonetes e shampoos também?"
+1. Recomende Confort 180 fios (resistente, testado SENAI)
+2. Ofereça a solução completa de rastreabilidade: bordado com logo + etiquetas RFID
+3. Explique o processo de personalização (50 peças mín., 20 dias)
+4. Cotar RFID + bordado juntos
+5. Feche com faturado CNPJ (50%+50%)
 
 ---
 
@@ -599,19 +618,29 @@ Cliente: "Quero 20 jogos de lençol casal 180 fios."
 
 ---
 
-# 🏆 AVALIAÇÃO FINAL
+# 🏆 AVALIAÇÃO FINAL — 10 Questões
 
-## Responda com suas palavras:
+**Responda com suas palavras:**
 
-**1.** Um cliente hotel quer 50 lençóis queen para lavanderia industrial. Qual linha você recomenda e por quê?
+**1.** Um cliente hotel quer 50 lençóis queen para lavanderia industrial. Qual linha você recomenda e por quê? Cite o diferencial técnico.
 
 **2.** Cliente pergunta: "Qual a diferença da toalha de 350g para a de 440g?" Responda em até 3 frases.
 
 **3.** Como você contorna a objeção "está muito caro" em um orçamento de R$5.000?
 
-**4.** Um cliente de reposição compra sempre os mesmos itens. Como você faz cross-sell sem ser invasivo?
+**4.** Um cliente de reposição compra sempre os mesmos itens. Como você faz cross-sell sem ser invasivo? Liste ao menos 4 categorias.
 
 **5.** Qual o procedimento quando um cliente reporta produtos com defeito?
+
+**6.** Cliente: "Vou abrir uma pousada na praia. Preciso de enxoval completo." Quais produtos você incluiria no orçamento? Monte mentalmente a lista.
+
+**7.** Cliente: "Meus lençóis somem na lavanderia terceirizada." Que soluções você oferece? Explique o combo RFID + bordado.
+
+**8.** Como você explica a diferença entre edredom, capa de edredom e cobre leito para um cliente que nunca comprou?
+
+**9.** Cliente corporativo quer 200 toalhas de rosto com a logo da empresa para um evento. Qual o processo? Prazos? Quantidade mínima?
+
+**10.** O que você NUNCA deve dizer para um cliente? Cite 3 frases proibidas e a alternativa correta.
 
 ---
 
