@@ -47,7 +47,6 @@ Temos 5 linhas principais de lençóis:
 
 | Linha | Fios | Composição | Indicação |
 |:---|:---|:---|---|
-| **Quality** | 150 fios | 100% Algodão | Uso pessoal, econômica |
 | **Confort** | 180 fios (Percal) | 50% Algodão / 50% Poliéster | Hotelaria econômica, alta durabilidade |
 | **Classic / Prime** | 200 fios (Percal) | 65% Algodão / 35% Poliéster ou 100% Algodão | Custo-benefício hotelaria |
 | **Supreme** | 300 fios | 100% Algodão | Hotelaria premium, toque macio |
@@ -90,7 +89,6 @@ Também temos medidas especiais para maca (90x190x15cm) e solteirão. Me informe
 ### Q4: Os lençóis são 100% algodão?
 **Resposta modelo:**
 Depende da linha:
-- **Quality 150 fios** — 100% Algodão
 - **Confort 180 fios** — 50% Algodão / 50% Poliéster (misto, ideal para lavanderias industriais)
 - **Classic/Prime 200 fios** — disponível em 65% Algodão/35% Poliéster ou 100% Algodão
 - **Supreme 300 fios** — 100% Algodão
@@ -169,7 +167,7 @@ Sim! Trabalhamos com:
 | Produto | Medidas Disponíveis | Material |
 |:---|:---|:---|
 | **Edredom (enchimento)** | Solteiro, Casal, Queen | Manta siliconizada antialérgica |
-| **Capa de Edredom** | Solteiro, Casal, Queen | 100% Algodão 150 fios (dupla face) |
+| **Capa de Edredom** | Solteiro, Casal, Queen | 100% Algodão (dupla face) |
 | **Cobre Leito / Colcha** | Solteiro, Casal, Queen, King | Piquet Favo (porta-travesseiro avulso) |
 | **Colcha Matelassê** | Solteiro, Casal, Queen | 100% Algodão, acabamento matelado |
 
@@ -703,7 +701,7 @@ Sim! Se você tem uma lista padrão de compra recorrente, podemos deixar seu **p
 **Resposta modelo:**
 Não trabalhamos com cupons avulsos, mas oferecemos **condições especiais** para todos os clientes:
 - **5% de desconto** para pagamentos à vista (PIX ou boleto)
-- **Frete grátis** a partir do segundo pedido para clientes recorrentes
+- Frete calculado conforme CEP e volume do pedido
 - **Preços de atacado** automáticos para compras acima de R$1.000
 
 Se você está fazendo sua primeira compra e o valor está abaixo de R$1.000, fale com seu consultor — podemos verificar condições especiais para sua necessidade.
@@ -713,7 +711,7 @@ Se você está fazendo sua primeira compra e o valor está abaixo de R$1.000, fa
 ### Q61: Sou cliente recorrente, tenho desconto especial?
 **Resposta modelo:**
 Clientes que compram com frequência têm acesso a:
-- **Frete grátis** a partir do segundo pedido
+- **Condições especiais** para clientes com histórico de compras
 - **Preços de atacado** mantidos mesmo para pedidos menores (para clientes fidelizados)
 - **Atendimento prioritário** com consultor dedicado
 
@@ -832,7 +830,7 @@ O frete é calculado com base no CEP, peso e volume. Em média:
 - **Sudeste (SP, RJ, MG):** a partir de R$50
 - **Demais regiões:** calculado caso a caso
 
-**Frete grátis** a partir do segundo pedido para clientes recorrentes.
+O frete é calculado com base no CEP de entrega, peso e volume do pedido.
 
 ---
 
@@ -978,7 +976,7 @@ Quando um item está fora de estoque, podemos:
 
 ### 🛏️ Lençol para Hotelaria
 **H1:** Lençol para Hotelaria — Qualidade e Durabilidade para seu Negócio
-**Meta Description:** Lençol para hotelaria Conamore — linhas 150, 180, 200, 300 e 400 fios. Com e sem elástico, todos os tamanhos. Entrega em todo Brasil.
+**Meta Description:** Lençol para hotelaria Conamore — linhas 180, 200, 300 e 400 fios. Com e sem elástico, todos os tamanhos. Entrega em todo Brasil.
 
 ### 🧴 Toalha de Banho para Hotel
 **H1:** Toalha de Banho para Hotel — Conforto e Absorção Premium
