@@ -522,9 +522,9 @@ Temos **lojas físicas em Campinas/SP** com parte do mostruário de hotelaria. O
 
 ---
 
-## 🧷 SEÇÃO 20: FRONHAS — TIPOS, MEDIDAS E VALORES
+## XSEC_FRONHAS: FRONHAS — TIPOS, MEDIDAS E VALORES
 
-### Q56: Quais os tipos de fronha que vocês vendem?
+### Q43: Quais os tipos de fronha que vocês vendem?
 **Resposta modelo:**
 Temos dois tipos principais:
 
@@ -541,30 +541,30 @@ Valores de referência (linha Confort 180 fios):
 
 ---
 
-### Q57: Qual a diferença entre fronha avulsa e fronha com aba?
+### Q44: Qual a diferença entre fronha avulsa e fronha com aba?
 **Resposta modelo:**
 - **Fronha Avulsa:** Simples, abertura lateral. O travesseiro fica aparente. Mais econômica.
-- **Fronha com Aba:** Possui aba interna que "esconde" o travesseiro. Visual mais limpo e profissional. Preferida em hotéis boutique.
+- **Fronha com Aba:** Possui aba interna que "esconde" o travesseiro. Visual mais limpo e profissional.
 
 Para um jogo de cama completo, recomendamos 2 fronhas por cama.
 
 ---
 
-### Q58: Vocês vendem fronha impermeável?
+### Q45: Vocês vendem fronha impermeável?
 **Resposta modelo:**
-Temos o **Protetor de Travesseiro Impermeável** — diferente da fronha tradicional. Ele protege o travesseiro contra líquidos e ácaros, e a fronha comum vai por cima. Medida: 50x70cm. Vendido avulso.
+Temos o **Protetor de Travesseiro Impermeável** — diferente da fronha tradicional. Ele protege o travesseiro contra líquidos e ácaros, e a fronha comum vai por cima. Medida: 50x70cm.
 
 ---
 
-### Q59: As fronhas vêm em outras cores além do branco?
+### Q46: As fronhas vêm em outras cores além do branco?
 **Resposta modelo:**
 As fronhas acompanham a cor dos lençóis. Na linha Confort 180 fios, disponível em **branco**. A cor branca é a mais usada em hotelaria por facilitar a lavagem.
 
 ---
 
-## 🧺 SEÇÃO 21: RESISTÊNCIA À LAVANDERIA INDUSTRIAL
+## XSEC_LAVANDERIA: RESISTÊNCIA À LAVANDERIA INDUSTRIAL
 
-### Q60: Os lençóis de vocês aguentam lavagem industrial?
+### Q47: Os lençóis de vocês aguentam lavagem industrial?
 **Resposta modelo:**
 Sim! Nossas linhas profissionais (Confort 180 fios, Supreme 300 fios) foram **testadas e aprovadas para lavanderia industrial**:
 
@@ -573,41 +573,35 @@ Sim! Nossas linhas profissionais (Confort 180 fios, Supreme 300 fios) foram **te
 - ✅ **Teste SENAI:** Linha Confort obteve nota ISENTO de pilling após 200+ ciclos
 - ✅ **Composição mista (50/50):** Poliéster dá resistência; algodão dá conforto
 
-A linha **Confort 180 fios** é a mais recomendada para hotéis com lavanderia industrial.
-
-> **🔑 Palavras-chave SEO:** lençol resistente lavanderia industrial, enxoval anti-pilling, lençol que não forma bolinha
+> **🔑 Palavras-chave SEO:** lençol resistente lavanderia industrial, enxoval anti-pilling
 
 ---
 
-### Q61: Como marco meus lençóis para não se perderem na lavanderia?
+### Q48: Como marco meus lençóis para não se perderem na lavanderia?
 **Resposta modelo:**
 Duas soluções:
 1. **Bordado ou silk** com a logo do hotel — a partir de 50 peças. Marcação permanente.
-2. **Etiquetas RFID** — cada peça recebe um chip. O leitor identifica instantaneamente quais peças são suas.
+2. **Etiquetas RFID** — cada peça recebe um chip. O leitor identifica quais peças são suas.
 
 Para hotéis que terceirizam lavanderia, recomendamos **RFID + bordado**.
 
 ---
 
-### Q62: Vocês têm toalha que aguenta lavanderia industrial?
+### Q49: Vocês têm toalha que aguenta lavanderia industrial?
 **Resposta modelo:**
-Sim! As linhas **Fit (350g/m²)** e **Select (440g/m²)** são desenvolvidas para uso profissional:
-- Costura dupla nas laterais
-- Alta resistência à tração
-- Não desbota com lavagens repetidas
-- Secagem rápida (menor consumo de energia)
+Sim! As linhas **Fit (350g/m²)** e **Select (440g/m²)** são desenvolvidas para uso profissional com costura dupla, alta resistência à tração e secagem rápida.
 
 ---
 
-## 🛏️ SEÇÃO 22: LENÇÓIS ESPECIAIS
+## XSEC_ESPECIAIS: LENÇÓIS ESPECIAIS
 
-### Q63: Vocês têm lençol redondo?
+### Q50: Vocês têm lençol redondo?
 **Resposta modelo:**
 Sim! Trabalhamos com **Lençol Redondo com Elástico** na linha Confort 180 fios. Formato circular com elástico em toda a volta. Ideal para camas redondas em motéis, pousadas temáticas e suítes especiais.
 
 ---
 
-### Q64: Vocês vendem lençol hospitalar?
+### Q51: Vocês vendem lençol hospitalar?
 **Resposta modelo:**
 Sim! Atendemos o segmento hospitalar com:
 - **Lençol para Maca** com elástico (90x190x15cm) — linha Confort 180 fios
@@ -620,41 +614,41 @@ Todos resistentes à lavagem industrial hospitalar. Para licitações, consulte 
 
 ---
 
-### Q65: Vocês vendem colchão?
+### Q52: Vocês vendem colchão?
 **Resposta modelo:**
 **Não vendemos colchões.** Nosso foco é o enxoval: lençóis, fronhas, protetores de colchão, toalhas, travesseiros e amenities. Os **protetores de colchão impermeáveis** ajudam a prolongar a vida útil do colchão que você já tem.
 
 ---
 
-### Q66: Vocês fazem cortina ou blackout?
+### Q53: Vocês fazem cortina ou blackout?
 **Resposta modelo:**
 No momento não trabalhamos com cortinas ou blackout. Nosso foco é enxoval de cama, banho e amenities para hotelaria.
 
 ---
 
-## 🎁 SEÇÃO 23: BRINDES E KITS PROMOCIONAIS
+## XSEC_BRINDES: BRINDES E KITS PROMOCIONAIS
 
-### Q67: Vocês vendem produtos para brindes e kits?
+### Q54: Vocês vendem produtos para brindes e kits?
 **Resposta modelo:**
 Atendemos empresas de brindes promocionais! Produtos mais procurados:
 - Toalhas de rosto personalizadas com logo
 - Kits de amenities (sabonete + shampoo)
 - Fronhas com bordado
 
-Condições especiais para **revenda** e **brindes corporativos**. Consulte seu consultor.
+Condições especiais para **revenda** e **brindes corporativos**.
 
 > **🔑 Palavras-chave SEO:** toalha para brinde corporativo, kit amenities personalizado, brindes para hotelaria
 
 ---
 
-### Q68: Vocês dão brindes em compras?
+### Q55: Vocês dão brindes em compras?
 **Resposta modelo:**
 Trabalhamos com preços competitivos de fábrica e descontos para pagamento à vista. Não enviamos brindes em compras. Nosso "brinde" é a qualidade dos produtos e o atendimento consultivo! 😊
 
 
 ---
 
-## 💰 SEÇÃO 20: PREÇOS, ORÇAMENTO E PAGAMENTO
+## 💰 SEÇÃO 16: PREÇOS, ORÇAMENTO E PAGAMENTO
 
 ### Q56: Como consigo um orçamento?
 **Resposta modelo:**
@@ -700,7 +694,7 @@ Se preferir pagar no boleto, temos 5% de desconto para pagamento à vista.
 
 ---
 
-## 🚚 SEÇÃO 21: ENTREGA, FRETE E PRAZO
+## 🚚 SEÇÃO 17: ENTREGA, FRETE E PRAZO
 
 ### Q60: Qual o prazo de entrega?
 **Resposta modelo:**
@@ -742,7 +736,7 @@ Sim! **Atendemos todo o Brasil online.** Temos também a opção de **retirada**
 
 ---
 
-## 🔄 SEÇÃO 22: TROCAS E DEVOLUÇÕES
+## 🔄 SEÇÃO 18: TROCAS E DEVOLUÇÕES
 
 ### Q64: Como funciona a troca de produtos?
 **Resposta modelo:**
@@ -777,7 +771,7 @@ Analisamos em até 48h. Constatado defeito de fabricação, providenciamos a tro
 
 ---
 
-## 📝 SEÇÃO 23: CADASTRO E PRIMEIRO ACESSO
+## 📝 SEÇÃO 19: CADASTRO E PRIMEIRO ACESSO
 
 ### Q67: Como faço meu cadastro?
 **Resposta modelo:**
@@ -807,7 +801,7 @@ Sim! Clientes CNPJ têm acesso a:
 
 ---
 
-## 🏨 SEÇÃO 24: HOTELARIA E ATACADO
+## 🏨 SEÇÃO 20: HOTELARIA E ATACADO
 
 ### Q70: Vocês vendem para hotel e pousada?
 **Resposta modelo:**
@@ -844,7 +838,7 @@ Multiplique pelo número de UHs e inclua **20-30% de margem para reposição**.
 
 ---
 
-## 📦 SEÇÃO 25: ESTOQUE E DISPONIBILIDADE
+## 📦 SEÇÃO 21: ESTOQUE E DISPONIBILIDADE
 
 ### Q73: O produto X está em estoque?
 **Resposta modelo:**
