@@ -505,12 +505,12 @@ Também temos o site completo: www.conamore.com.br com todos os produtos.
 
 ### Q41: Posso receber amostras dos tecidos?
 **Resposta modelo:**
-Podemos enviar **amostras sem custo** de alguns itens menores, como fronhas e toalhas de rosto, para você avaliar a qualidade. Itens maiores (lençóis, toalhas de banho, colchas) podem ser enviados como amostra com custo — consulte seu consultor.
+Não trabalhamos com amostras grátis. Mas você pode fazer um **pedido piloto**: compre 2 ou 3 peças avulsas para sentir o toque e a qualidade. O valor investido já fica como crédito para seu pedido maior. É a melhor forma de conhecer o produto — no uso real.
 
-Para solicitar, me informe:
-- 🛏️ Quais produtos gostaria de avaliar
-- 📍 Endereço completo para envio
+Para montar seu pedido piloto, me informe:
+- 🛏️ Quais produtos gostaria de testar
 - 🏨 Qual o perfil do seu negócio
+- 📍 Endereço de entrega
 
 ---
 
@@ -740,7 +740,7 @@ Para retirada, combine com seu consultor com antecedência para garantir que os 
 
 ### Q64: Vocês têm loja em São Paulo ou outras cidades?
 **Resposta modelo:**
-No momento, nossas lojas físicas estão concentradas em **Campinas/SP**. Para clientes de outras cidades, o atendimento é 100% online com frete para todo o Brasil. Enviamos **amostras sem custo** de itens menores para você avaliar a qualidade antes de comprar.
+No momento, nossas lojas físicas estão concentradas em **Campinas/SP**. Para clientes de outras cidades, o atendimento é 100% online com frete para todo o Brasil. Sugerimos um **pedido piloto** com poucas peças para você avaliar a qualidade antes de um pedido grande.
 
 ---
 
@@ -1081,7 +1081,7 @@ Sim! Roupão piquet branco, tamanhos G e M. Ideal para hotelaria e SPAs.
 
 <details>
 <summary><strong>Vocês enviam amostras?</strong></summary>
-Sim! Amostras sem custo de itens menores como fronhas e toalhas de rosto.
+Não trabalhamos com amostras grátis. Sugerimos um pedido piloto com 2 ou 3 peças avulsas — o valor já conta para um pedido maior.
 </details>
 
 ---
@@ -1194,10 +1194,10 @@ Posso incluir no seu orçamento!
 
 ### Consulta sobre amostras
 ```
-Podemos enviar amostras para você avaliar! 📦
-✅ Fronhas e toalhas de rosto: sem custo
-✅ Itens maiores: sob consulta
-Me informe quais produtos e o endereço de entrega.
+Quer conhecer a qualidade antes de um pedido grande? 🛏️
+Sugiro um pedido piloto: 2 ou 3 peças avulsas para sentir o toque.
+O valor já conta como parte do seu pedido maior!
+Me informe quais produtos quer testar.
 ```
 
 ---

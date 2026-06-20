@@ -319,7 +319,7 @@ Vendidos em kits fechados (250 ou 500 un.). Valores de referência:
 > ✅ "Não damos brindes. Nosso diferencial é qualidade e preço justo."
 
 **17.** Cliente: "Tem loja física em São Paulo?"
-> ✅ Só em Campinas/SP. Para outras cidades, enviamos amostras grátis de itens menores.
+> ✅ Só em Campinas/SP. Para outras cidades, sugira um pedido piloto: "Que tal comprar 2 ou 3 peças avulsas primeiro? O valor já conta para um pedido maior depois."
 
 **18.** Cliente: "Vende colchão?"
 > ✅ Não. Vendemos protetores de colchão, que dobram a vida útil do seu.
