@@ -7,11 +7,15 @@
 
 ---
 
-# MÓDULO 1 — CONHECIMENTO DE PRODUTO
+# MÓDULO 1 — CONHECIMENTO DE PRODUTO (COMPLETO)
 
-## 🛏️ Lençóis: Decore Isso
+> **📌 Domine cada categoria. O cliente confia em quem demonstra conhecimento técnico.**
 
-### As 4 Linhas (em ordem de preço)
+---
+
+## 🛏️ 1.1 LENÇÓIS — A Base do Enxoval
+
+### As 4 Linhas (ordem de preço)
 
 | Linha | Fios | Composição | Melhor para |
 |:---|:---|:---|:---|
@@ -20,7 +24,7 @@
 | **Supreme** | 300 | 100% Algodão | Hotel premium, boutique |
 | **Premium** | 400 | 100% Algodão | Luxo, 5 estrelas |
 
-### Medidas que TODO vendedor precisa saber de cor
+### Medidas Que Todo Vendedor Precisa Saber DE COR
 
 | Tamanho | Com Elástico | Sem Elástico |
 |:---|:---|:---|
@@ -28,45 +32,304 @@
 | Casal | 140x190x30cm | 220x250cm |
 | Queen | 160x200x25 ou 40cm | 250x270cm |
 | King | 200x200x40cm | 290x270cm |
+| Maca | 90x190x15cm | — |
 
 ### ⚡ Dica de Ouro:
 > Quando o cliente disser "minha cama é queen", pergunte: **"Qual a altura do seu colchão? 25cm ou 40cm?"** Isso mostra domínio e evita troca.
 
+### Também temos:
+- **Lençol Redondo** com elástico (linha Confort 180 fios) — para motéis e suítes temáticas
+- **Lençol Hospitalar** para maca e leito — 100% algodão, resistente à lavagem hospitalar
+
 ---
 
-## 🧴 Toalhas: Gramatura é TUDO
+## 🧴 1.2 TOALHAS DE BANHO — Gramatura é TUDO
 
 | Linha | Gramatura | Tamanho | Perfil |
 |:---|:---:|:---|:---|
 | Fit | 350g | 70x130cm | Alto giro, econômica |
 | Quality | 410g | 70x140cm | Custo-benefício |
-| Select | 440g | 80x140cm | **Hotelaria premium (mais vendida)** |
+| Select | 440g | 80x140cm | **Hotelaria premium (a mais vendida)** |
 | Frame | 450g (fio retorcido) | 80x140cm | Luxo |
+| Banhão Confort Plus | 500g | 75x150cm | Envolvente, bom preço |
 | Banhão Giant | 580g | 80x160cm | Super premium |
 
 ### ⚡ Dica de Ouro:
-> Quando o cliente disser "quero toalha boa", responda: **"A Select 440g é nossa campeã — gramatura ideal para o hóspede sentir maciez e a lavanderia não reclamar."**
+> "A Select 440g é nossa campeã — gramatura ideal para o hóspede sentir maciez e a lavanderia não reclamar."
+
+### Toalha de Rosto
+
+| Linha | Medida | Gramatura |
+|:---|:---|:---:|
+| Quality | 50x80cm | 410g |
+| Giant | 50x80cm | 580g |
+
+### Toalha de Piso ("Pezinho")
+
+| Modelo | Medida | Gramatura |
+|:---|:---|:---:|
+| Quality | 50x70cm | 450g |
+| Select | 50x70cm | 485g |
+
+> ⚠️ **Importante:** Não chamar de "tapete". É **toalha de piso** ou **pezinho**. Tapete é outro produto (não vendemos).
 
 ---
 
-## 🧠 TESTE RÁPIDO #1 — Conhecimento de Produto
+## 🏖️ 1.3 TOALHA DE PRAIA E PISCINA
 
-**Responda mentalmente antes de ver a resposta:**
+| Modelo | Medida | Gramatura | Cor |
+|:---|:---|:---:|:---|
+| **Lined Listrada** | 70x145cm | 445g | Azul claro listrado |
 
-**1.** Cliente: "Qual o lençol para hotel que não forma bolinha na lavanderia?"
-> ✅ Resposta: Confort 180 fios — testado pelo SENAI, nota ISENTO de pilling após 200+ ciclos.
+> ⚡ "A toalha de piscina é mais comprida e fina que a de banho — seca mais rápido. Ideal para área de lazer."
+
+---
+
+## 🛌 1.4 EDREDONS, CAPAS E COLCHAS
+
+| Produto | O que é | Tamanhos |
+|:---|:---|:---|
+| **Edredom** | Enchimento interno (manta siliconizada) | Solteiro, Casal, Queen |
+| **Capa de Edredom** | "Fronha" do edredom — 100% algodão, dupla face | Solteiro, Casal, Queen |
+| **Cobre Leito** | Cobre só a superfície da cama | Solteiro, Casal, Queen, King |
+| **Colcha Piquet Favo** | Cobre a cama até o chão (clássica) | Solteiro, Casal, Queen, King |
+| **Colcha Piquet Leve** | Versão mais leve do Piquet Favo | Solteiro, Casal, Queen |
+| **Colcha Matelassê** | 100% algodão, acabamento matelado | Solteiro, Casal, Queen |
+
+### ⚡ Dica de Ouro:
+> "A capa de edredom facilita a lavagem — em vez de lavar o edredom inteiro, lava só a capa. Recomendo 2 capas para cada edredom."
+
+### Porta-Travesseiro
+> Vendido **separadamente** — é a capa decorativa que combina com a colcha. R$23,00 (Piquet Favo 50x70cm, branco).
+
+---
+
+## 🧣 1.5 COBERTORES E MANTAS
+
+| Tipo | Gramatura | Material | Melhor para |
+|:---|:---:|:---|:---|
+| **Microfibra** | 200g | 100% Poliéster | Clima ameno, leve |
+| **Microflanelado** | 300g | 100% Poliéster | Frio, toque aveludado |
+
+Tamanhos: Solteiro, Casal, Queen, King. Cores: cinza, verde, azul marinho, bege.
+
+> ⚡ "Microfibra para praia, microflanelado para serra."
+
+---
+
+## 🛡️ 1.6 PROTETORES DE COLCHÃO E TRAVESSEIRO
+
+| Produto | Medidas |
+|:---|:---|
+| Protetor de Colchão Impermeável | Solteiro, Casal, Queen (160x200x35), King |
+| Protetor de Travesseiro Impermeável | 50x70cm |
+
+> ⚡ **Venda consultiva:** "O protetor impermeável dobra a vida útil do colchão. É o item com melhor custo-benefício do enxoval — protege contra suor, líquidos e ácaros. Tecido externo 80% algodão, macio e silencioso."
+
+**Importante:** NÃO vendemos colchão — só o protetor. Se perguntarem, esclareça com naturalidade.
+
+---
+
+## 🛏️ 1.7 TRAVESSEIROS
+
+| Modelo | Medida | Material |
+|:---|:---|:---|
+| **Rolinho** | 50x70cm | Fibra siliconizada, suporte médio |
+| **Eco Pluma** | 50x70cm | Fibra siliconizada, toque macio |
+
+> ⚡ "Todos os nossos travesseiros são de fibra siliconizada — hipoalergênicos. Não usamos penas."
+
+---
+
+## 🧷 1.8 FRONHAS
+
+| Tipo | Medida | Preço (ref. 180 fios) |
+|:---|:---|:---:|
+| **Avulsa** | 50x70cm | R$10,60 |
+| **Com Aba** | 50x70cm | R$14,90 |
+
+> ⚡ "Avulsa é econômica, com aba é premium. A diferença é visual — a aba esconde o travesseiro."
+
+Também temos **Protetor de Travesseiro Impermeável** — usado por baixo da fronha comum.
+
+---
+
+## 🧴 1.9 AMENITIES
+
+| Produto | Tamanhos | Linhas |
+|:---|:---|:---|
+| Sabonete em Barra | 10g, 15g, 20g, 30g | Capim Limão, Herbal |
+| Shampoo | 30ml (frasco ou sachê) | Herbal |
+| Condicionador | 30ml, 35ml | Herbal |
+| Kit 2 em 1 | 30ml | Herbal |
+
+Vendidos em kits fechados (250 ou 500 un.). Valores de referência:
+- Kit 500 un. sabonetes 10g: R$197,90
+- Kit 500 un. sabonetes 15g: R$274,90
+- Kit 250 un. condicionador 35ml: R$351,90
+
+> ⚡ "Amenities são um excelente cross-sell — todo hotel precisa. Ofereça junto com o enxoval."
+
+---
+
+## 🧥 1.10 ROUPÃO
+
+| Característica | Detalhe |
+|:---|:---|
+| Modelo | Piquet (atoalhado leve) |
+| Cor | Branco |
+| Tamanhos | G (Grande) e M (Médio) |
+
+> ⚡ "Roupão é um upgrade que encanta o hóspede. Ofereça para hotéis boutique e SPAs."
+
+---
+
+## 🛏️ 1.11 SAIA PARA CAMA BOX
+
+- Tamanhos: Solteiro, Casal, Queen, King
+- Cor: Branca
+- Função: cobre o vão entre colchão e chão
+
+> ⚡ "A saia box é o acabamento que faltava — esconde o vão e protege contra poeira."
+
+---
+
+## 🖊️ 1.12 PERSONALIZAÇÃO E BORDADO
+
+| Regra | Detalhe |
+|:---|:---|
+| Quantidade mínima | **50 peças** (podem ser itens variados com mesma logo) |
+| Prazo | **20 dias corridos** + prazo de entrega |
+| O que personaliza | Toalhas, lençóis, fronhas, cobertores |
+| Como cotar | Cliente envia a arte → você encaminha para cotação |
+
+> ⚡ "Bordado é fidelização — o cliente que personaliza, recompra com você."
+
+---
+
+## 🏷️ 1.13 ETIQUETAS RFID
+
+- Cada peça recebe um chip legível por aproximação
+- Funções: inventário instantâneo, antifurto, gestão de lavanderia
+- Vendemos as etiquetas (a partir de ~R$4/un em volume)
+- Leitor e software: indicamos parceiros
+
+> ⚡ "RFID + bordado = solução completa para hotel que terceiriza lavanderia. Ofereça os dois juntos."
+
+---
+
+## 🧺 1.14 RESISTÊNCIA À LAVANDERIA INDUSTRIAL
+
+**Diferencial competitivo que TODO vendedor precisa mencionar:**
+
+| Característica | Detalhe |
+|:---|:---|
+| Anti-pilling | Não forma bolinhas |
+| Costura reforçada | Overloque nas partes desfiantes |
+| Teste SENAI | Linha Confort: nota ISENTO de pilling após 200+ ciclos |
+| Composição mista | Poliéster dá resistência; algodão dá conforto |
+
+> ⚡ "Confort 180 fios é a ÚNICA testada pelo SENAI. Use isso como argumento de venda."
+
+**Linhas profissionais:** Confort 180, Supreme 300, Fit (toalhas), Select (toalhas).
+
+---
+
+## 🎁 1.15 BRINDES E KITS PROMOCIONAIS
+
+- Atendemos empresas de brindes corporativos
+- Produtos mais procurados: toalhas de rosto, kits amenities, fronhas
+- Condições especiais para revenda
+
+> ⚠️ **Não damos brindes** em compras. Se o cliente pedir: "Nosso brinde é a qualidade e o preço justo."
+
+---
+
+## 📦 1.16 AMOSTRAS E CATÁLOGO
+
+- **Catálogo digital:** disponível via WhatsApp ou e-mail
+- **Amostras sem custo:** fronhas e toalhas de rosto
+- **Amostras de itens maiores:** sob consulta
+- **Loja física:** Campinas/SP (Rua Francisco Glicério)
+
+> ⚡ "Ofereça amostras para clientes indecisos — o toque do tecido fecha a venda."
+
+---
+
+## 🐶 1.17 O Que NÃO Vendemos (esclareça com naturalidade)
+
+| Não vendemos | Se perguntarem |
+|:---|:---|
+| Colchões | "Nosso foco é o enxoval. Os protetores ajudam a conservar o colchão que você já tem." |
+| Produtos para pet | "Trabalhamos só com enxoval para pessoas — cama, banho e amenities." |
+| Cortinas / Blackout | "Não é nossa especialidade. Indico buscar um fornecedor de decoração hoteleira." |
+| Tapetes felpudos | "Temos toalha de piso (pezinho) — mesma função, mas lavável com o enxoval." |
+
+---
+
+## 🧠 TESTE RÁPIDO #1 — Conhecimento de Produto (20 Questões)
+
+**Responda antes de ver a resposta:**
+
+**1.** Cliente: "Qual lençol para hotel que não forma bolinha na lavanderia?"
+> ✅ Confort 180 fios — testado SENAI, nota ISENTO de pilling.
 
 **2.** Cliente: "Queen é maior que King?"
-> ✅ Resposta: Não! King (200x200) é maior que Queen (160x200).
+> ✅ Não. King (200x200) é maior que Queen (160x200).
 
 **3.** Cliente: "Quero toalha de piscina. Tem?"
-> ✅ Resposta: Sim! Lined Listrada, 70x145cm, 445g/m². Azul claro, 100% algodão.
+> ✅ Sim! Lined Listrada, 70x145cm, 445g/m², azul claro.
 
 **4.** Cliente: "Lençol com elástico de 40cm serve em cama box?"
-> ✅ Resposta: Sim! O bolsão de 40cm é específico para cama box.
+> ✅ Sim, o bolsão de 40cm é específico para cama box.
 
-**5.** Cliente: "Qual a diferença entre fronha avulsa e com aba?"
-> ✅ Resposta: Avulsa = travesseiro aparente. Com aba = esconde o travesseiro (visual premium).
+**5.** Cliente: "Diferença entre fronha avulsa e com aba?"
+> ✅ Avulsa = travesseiro aparente. Com aba = esconde o travesseiro.
+
+**6.** Cliente: "O que é a capa de edredom e por que comprar?"
+> ✅ Protege o edredom e facilita a lavagem. Recomende 2 capas para cada edredom.
+
+**7.** Cliente: "Microfibra ou microflanelado?"
+> ✅ Microfibra (200g) = clima ameno. Microflanelado (300g) = frio.
+
+**8.** Cliente: "O protetor de colchão faz barulho?"
+> ✅ Não. Camada impermeabilizante interna, tecido externo 80% algodão — macio e silencioso.
+
+**9.** Cliente: "O travesseiro é antialérgico?"
+> ✅ Sim, fibra siliconizada hipoalergênica. Sem penas.
+
+**10.** Cliente: "Quanto custa o kit de sabonetes?"
+> ✅ Kit 500 un. 10g: R$197,90. Kit 500 un. 15g: R$274,90.
+
+**11.** Cliente: "Fazem bordado com minha logo?"
+> ✅ Sim. Mínimo 50 peças, mesma logo. 20 dias corridos + entrega.
+
+**12.** Cliente: "O que é RFID?"
+> ✅ Etiqueta com chip para controle de inventário e antifurto. ~R$4/un em volume.
+
+**13.** Cliente: "Quanto custa o roupão?"
+> ✅ Roupão Piquet branco. Tamanhos G e M. Consulte preço atualizado na tabela.
+
+**14.** Cliente: "Tem toalha banhão?"
+> ✅ Sim. Confort Plus 75x150cm (500g), Giant 80x160cm (580g).
+
+**15.** Cliente: "A saia box queen serve na king?"
+> ✅ Não. Cada tamanho é específico. Queen = 160x200, King = 200x200.
+
+**16.** Cliente: "Vocês dão brinde?"
+> ✅ "Não damos brindes. Nosso diferencial é qualidade e preço justo."
+
+**17.** Cliente: "Tem loja física em São Paulo?"
+> ✅ Só em Campinas/SP. Para outras cidades, enviamos amostras grátis de itens menores.
+
+**18.** Cliente: "Vende colchão?"
+> ✅ Não. Vendemos protetores de colchão, que dobram a vida útil do seu.
+
+**19.** Cliente: "O cobre leito vem com porta-travesseiro?"
+> ✅ Não. O porta-travesseiro é vendido separadamente — você compra só o que precisa.
+
+**20.** Cliente: "Como marco os lençóis para não perder na lavanderia?"
+> ✅ Bordado (50 peças mín.) ou RFID. O combo RFID + bordado é o mais seguro.
 
 ---
 
