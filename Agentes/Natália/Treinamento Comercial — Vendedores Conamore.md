@@ -248,11 +248,10 @@ Vendidos em kits fechados (250 ou 500 un.). Valores de referência:
 ## 📦 1.16 AMOSTRAS E CATÁLOGO
 
 - **Catálogo digital:** disponível via WhatsApp ou e-mail
-- **Amostras sem custo:** fronhas e toalhas de rosto
-- **Amostras de itens maiores:** sob consulta
+- **Amostras:** não trabalhamos com amostras grátis. Mas você pode sugerir elegantemente: *"Se quiser conhecer o toque antes de um pedido grande, que tal fazer um pedido piloto com 2 ou 3 peças avulsas? O valor investido já conta como parte do seu pedido maior."*
 - **Loja física:** Campinas/SP (Rua Francisco Glicério)
 
-> ⚡ "Ofereça amostras para clientes indecisos — o toque do tecido fecha a venda."
+> ⚡ "Pedido piloto é a melhor amostra — o cliente sente o produto no uso real e você já garante a primeira venda."
 
 ---
 
