@@ -7,7 +7,8 @@ Permitir que gerentes humanos da Conamore conversem com os agentes Hermes (Matia
 - ✅ Plugin criado e registrado no Hermes Gateway
 - ✅ Polling implementado (busca mensagens a cada 30s)
 - ✅ Envio de respostas via API REST
-- ⏳ Aguardando API Key da Conamore para ativar
+- ✅ Roteamento por email (user_routing) implementado
+- ✅ Conectado à API da Conamore
 
 ## Arquitetura
 ```
@@ -16,8 +17,8 @@ Gerente Humano (Octadesk)
 Octadesk API
     ↓ (polling a cada 30s)
 Hermes Gateway (OctadeskAdapter)
-    ↓ (MessageEvent)
-Agente Hermes (Matias/Flávia/etc)
+    ↓ (verifica user_routing)
+Agente Hermes correspondente
     ↓ (resposta)
 Hermes Gateway (OctadeskAdapter)
     ↓ (POST /chat/{id}/messages)
@@ -30,37 +31,73 @@ Gerente Humano vê a resposta
 | Arquivo | Descrição |
 |---------|-----------|
 | `~/.hermes/profiles/matias/plugins/octadesk/plugin.yaml` | Manifest do plugin |
-| `~/.hermes/profiles/matias/plugins/octadesk/adapter.py` | Adapter com polling e API client |
+| `~/.hermes/profiles/matias/plugins/octadesk/adapter.py` | Adapter com polling, API client e roteamento |
 | `~/.hermes/profiles/matias/plugins/octadesk/__init__.py` | Entry point do plugin |
-| `~/.hermes/profiles/matias/config.yaml` | Configuração da plataforma |
+| `~/.hermes/profiles/matias/config.yaml` | Configuração da plataforma + roteamento |
 
-## Configuração Necessária
-Adicionar ao `~/.hermes/profiles/matias/config.yaml`:
+## Configuração
+
+### Base (já configurada)
 ```yaml
 octadesk:
   enabled: true
   extra:
-    api_key: 'SUA_API_KEY_AQUI'
+    api_key: ''                    # via OCTADESK_API_KEY env
     subdomain: 'conamore'
-    agent_email: 'matias@conamore.com'
+    agent_email: 'ti@conamore.com.br'
     poll_interval: 30
-    base_url: 'https://api.octadesk.com'
-    allowed_users: []  # lista de emails autorizados; vazio = todos
+    base_url: 'https://conamore.api003.octadesk.services'
+    allowed_users: []              # vazio = todos permitidos
     allow_all: false
 ```
 
-Ou via variáveis de ambiente (preferido para secrets):
-```bash
-export OCTADESK_API_KEY="sua-key"
-export OCTADESK_SUBDOMAIN="conamore"
-export OCTADESK_AGENT_EMAIL="matias@conamore.com"
-export OCTADESK_POLL_INTERVAL="30"
+### Roteamento por Gerente → Agente (user_routing)
+Adicione no `config.yaml` do profile `matias`:
+```yaml
+    user_routing:
+      'gerente.logistica@conamore.com.br': 'tobias'
+      'gerente.marketing@conamore.com.br': 'flavia'
+      'gerente.financeiro@conamore.com.br': 'tiago'
+      'gerente.rh@conamore.com.br': 'maria'
+      'gerente.comercial@conamore.com.br': 'natalia'
+      'fabrica@conamore.com.br': 'fabricia'
+      'executivo@conamore.com.br': 'elias'
+      'juridico@conamore.com.br': 'adrian'
+      'compras@conamore.com.br': 'bianco'
+      'ceo@conamore.com.br': 'cona'
 ```
 
-## Ativação
-1. Configurar API key e subdomain
-2. Reiniciar o Hermes Gateway (de um shell separado)
-3. Verificar logs do gateway
+**Como funciona:**
+- Quando um gerente manda mensagem, o plugin verifica o email no `user_routing`
+- Se encontrar match, aplica um `channel_prompt` com a persona do agente designado
+- O agente responde **como se fosse o agente mapeado** (ex: Tobias responde perguntas de logística)
+- A resposta volta pelo Octadesk com a identidade do "sistema"
+
+**Agentes suportados:**
+| Profile | Agente | Especialidade |
+|---------|--------|---------------|
+| `matias` | Matias | TI, infraestrutura, sistemas |
+| `flavia` | Flávia | Marketing, RD Station, comunicação |
+| `tobias` | Tobias | Logística, Intelipost, transporte |
+| `tiago` | Tiago | Financeiro, ERP, contabilidade |
+| `bianco` | Bianco | Compras |
+| `natalia` | Natália | Comercial |
+| `maria` | Maria | RH |
+| `fabricia` | Fabricia | Fábrica |
+| `elias` | Elias | Executivo, briefings |
+| `adrian` | Adrian | Jurídico, compliance |
+| `cona` | Cona/DigitalCEO | Estratégia, diretoria |
+
+## Ativação / Reinício
+Após alterar o config, reinicie o gateway (de um shell separado):
+```bash
+sudo /home/sergio-ladeira/.local/bin/hermes gateway restart
+```
+
+## Teste
+1. Gerente envia mensagem no Octadesk
+2. Aguarde até 30 segundos (intervalo de polling)
+3. Verifique se o agente respondeu no mesmo chat
 
 ## Endpoints Octadesk Utilizados
 | Método | Endpoint | Função |
@@ -70,19 +107,14 @@ export OCTADESK_POLL_INTERVAL="30"
 | POST | `/chat/{id}/messages` | Enviar resposta do agente |
 
 ## Segurança
-- API Key nunca é logada em texto plano
-- Filtro de `allowed_users` por e-mail
-- Ignora mensagens enviadas pelo próprio agente (loop prevention)
-- Conexão via HTTPS apenas
+- API Key via variável de ambiente (`OCTADESK_API_KEY`)
+- Nunca logada em texto plano
+- Filtro `allowed_users` por e-mail
+- Loop prevention (ignora mensagens do próprio agente)
+- HTTPS apenas
 
 ## Próximos Passos
-- [ ] Receber API Key da Conamore
-- [ ] Testar conexão real com a API
-- [ ] Validar fluxo completo gerente → agente → gerente
+- [ ] Mapear emails reais dos gerentes no `user_routing`
+- [ ] Testar fluxo completo com cada agente
 - [ ] Documentar orientação para gerentes humanos
-- [ ] Avaliar webhook outbound do Octadesk (substituir polling futuramente)
-
-## Notas
-- Polling a cada 30s é o padrão. Pode ser ajustado via `poll_interval`.
-- Sem webhook outbound confirmado no Octadesk da Conamore → polling é a solução mais segura.
-- O plugin foi criado no profile `matias` e habilitado em `plugins.enabled`.
+- [ ] Avaliar webhook outbound do Octadesk (substituir polling)
