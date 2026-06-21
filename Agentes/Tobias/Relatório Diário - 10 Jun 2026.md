@@ -1,5 +1,5 @@
 # 📊 Relatório Diário — Tobias (Logística)
-**Data:** 10/06/2026 | **Status da coleta:** Intelipost ok | Oracle DEBX bloqueado (ORA-01033)
+**Data:** 10/06/2026 | **Status da coleta:** Intelipost ok | Oracle DEBX fora da janela (08:00–18:00 BRT) e bloqueado (ORA-01033)
 
 ## 🔌 Intelipost API
 - **Status:** ✅ Online

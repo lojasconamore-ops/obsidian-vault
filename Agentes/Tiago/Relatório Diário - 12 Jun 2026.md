@@ -3,7 +3,7 @@
 **Gerente:** Tiago  
 **Criado em:** 12/06/2026 05:07 BRT  
 **Fonte desta execução:** Obsidian (relatórios anteriores)  
-**⚠️ CRÍTICO:** Oracle DEBX fora do ar (ORA-01033 — inicialização em andamento). Gmail não consultado (exclusivo Elias). Google Sheets indisponível via Composio. **Relatório baseado em tendências e último consolidado validado.**
+**⚠️ CRÍTICO:** Oracle DEBX fora da janela operacional (08:00–18:00 BRT), retornando ORA-01033. Gmail não consultado (exclusivo Elias). Google Sheets indisponível via Composio. **Relatório baseado em tendências e último consolidado validado.**
 
 ---
 

@@ -56,6 +56,6 @@ python3 scripts/ordem-separacao-relatorio.py --data 2026-06-19
 
 ## Observações
 
-- Oracle DEBX estava fora do ar (ORA-01033) no momento da criação do script — não foi possível testar a descoberta de tabelas
+- Oracle DEBX estava fora da janela operacional (08:00–18:00 BRT) no momento da criação do script, retornando ORA-01033 — não foi possível testar a descoberta de tabelas
 - O script foi projetado para ser robusto: se a tabela não for encontrada, lista todas as disponíveis
 - Se o Oracle continuar fora do ar amanhã, o script reportará o erro de conexão
