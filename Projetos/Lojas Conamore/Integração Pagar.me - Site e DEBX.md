@@ -26,22 +26,58 @@ A integração de leitura precisa cobrir:
 
 ## Fluxo proposto
 
-### 1) Site gera o pedido
-- pedido criado no site
-- pedido recebe um identificador único
-- o checkout envia a cobrança para o Pagar.me
+### 1) Coleta somente leitura
+- buscar no Pagar.me os pagamentos de um período definido
+- consolidar por link, pedido, cliente, valor e data/hora
+- salvar a saída em formato de relatório para análise manual
 
-### 2) Pagar.me confirma o pagamento
-- eventos chegam via webhook
-- o sistema registra o status do pagamento
-- o pedido é atualizado no site
-- o DEBX recebe a confirmação financeira / operacional
+### 2) Identificação de duplicidade
+- marcar como possível duplicidade quando houver mais de um pagamento pago com a mesma chave de referência
+- comparar pelo menos:
+  - link de pagamento
+  - order_id
+  - cliente
+  - valor
+  - intervalo de tempo entre confirmações
 
-### 3) ERP DEBX recebe a baixa ou pendência
-- se aprovado: baixa / marcação de pago
-- se recusado: mantém pendente ou cancela conforme regra
-- se estornado: reverte o lançamento
-- se chargeback: marca ocorrência financeira para análise
+### 3) Resultado da análise
+- listar os casos suspeitos
+- separar os que são duplicidade real dos que são pagamentos diferentes com mesmo valor
+- deixar pronto para auditoria financeira
+
+## Critérios iniciais de duplicidade
+
+Um caso deve entrar na revisão manual quando houver:
+- mesmo link de pagamento
+- status pago em mais de uma transação
+- mesmo valor bruto
+- mesma referência de pedido ou cliente
+- confirmações muito próximas no tempo
+
+Critérios de falsos positivos que precisam ser excluídos:
+- pedidos diferentes com mesmo valor
+- compras recorrentes legítimas
+- reprocessamentos de webhook sem novo pagamento
+- cobranças com tentativa falha seguida de nova aprovação
+
+## Próximo passo técnico
+
+Montar um coletor somente leitura com saída em CSV ou planilha contendo:
+- período consultado
+- id da transação no Pagar.me
+- link / referência do pagamento
+- valor
+- status
+- data de confirmação
+- cliente
+- indicação de possível duplicidade
+
+Depois disso, o processo de validação passa a ser:
+1. consultar um período fechado
+2. exportar os pagamentos aprovados
+3. agrupar por referência
+4. revisar os grupos com mais de uma confirmação
+5. classificar o caso como duplicidade real ou não
 
 ## O que precisa para implementar de verdade
 
