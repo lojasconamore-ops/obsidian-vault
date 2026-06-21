@@ -121,6 +121,12 @@ A primeira entrega pode aparecer como uma tabela na tela, com colunas como:
 - Teste realizado com autenticação por secret key de produção
 - Resultado do teste: leitura autenticada bem-sucedida e retorno de cobranças aprovadas
 
+### Automação diária já criada
+- Script: `~/.hermes/scripts/pagarme_acl_daily_report.py`
+- Cron: `15 8 * * *` (todos os dias às 08:15 BRT)
+- Saída: relatório em Markdown salvo em `~/Documents/Obsidian Vault/Projetos/Lojas Conamore/Relatórios Pagar.me/ACL/`
+- Objetivo: consultar automaticamente o período correto por `paid_at` e sinalizar possíveis duplicidades
+
 ## O que precisa para implementar de verdade
 
 ### A) Do lado do Pagar.me
