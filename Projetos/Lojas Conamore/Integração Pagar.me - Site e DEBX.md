@@ -62,22 +62,41 @@ Critérios de falsos positivos que precisam ser excluídos:
 
 ## Próximo passo técnico
 
-Montar um coletor somente leitura com saída em CSV ou planilha contendo:
+Montar um coletor somente leitura com saída em formato de planilha na tela, contendo:
 - período consultado
 - id da transação no Pagar.me
-- link / referência do pagamento
+- referência do pagamento
 - valor
 - status
-- data de confirmação
+- data de confirmação / aprovação
 - cliente
 - indicação de possível duplicidade
 
+### Regra do período
+A consulta deve sempre usar a data de aprovação do pagamento como filtro principal.
+
+- De terça a sexta: consultar os pagamentos aprovados no dia anterior.
+- Na segunda-feira: consultar os pagamentos aprovados na sexta-feira, sábado e domingo imediatamente anteriores.
+- Sempre considerar apenas pagamentos aprovados dentro do período definido.
+
+### Chave principal de referência
+A primeira chave para agrupar e comparar duplicidade será o cliente.
+
 Depois disso, o processo de validação passa a ser:
-1. consultar um período fechado
+1. consultar o período correto pela data de aprovação
 2. exportar os pagamentos aprovados
-3. agrupar por referência
+3. agrupar primeiro por cliente
 4. revisar os grupos com mais de uma confirmação
 5. classificar o caso como duplicidade real ou não
+
+### Saída inicial na tela
+A primeira entrega pode aparecer como uma tabela na tela, com colunas como:
+- cliente
+- data da aprovação
+- valor
+- referência / link
+- quantidade de aprovações no período
+- flag de possível duplicidade
 
 ## O que precisa para implementar de verdade
 
