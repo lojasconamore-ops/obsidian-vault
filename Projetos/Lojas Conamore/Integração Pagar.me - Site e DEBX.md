@@ -1,17 +1,28 @@
 # Integração Pagar.me ↔ Site ↔ DEBX
 
 ## Objetivo
-Centralizar os pagamentos da Conamore no Pagar.me e sincronizar o resultado em dois pontos:
-1. o site / checkout
-2. o ERP DEBX
+Nesta primeira etapa, a integração será somente de leitura no Pagar.me.
 
-A integração precisa cobrir:
+O foco é:
+1. buscar as confirmações de pagamento de um período determinado
+2. identificar possíveis pagamentos duplicados do mesmo link
+3. gerar uma base de análise para conciliação
+
+Nesta fase não vamos:
+- alterar pedidos no site
+- dar baixa no DEBX
+- cancelar cobranças
+- emitir estorno
+- disparar automações operacionais
+
+A integração de leitura precisa cobrir:
 - pagamento aprovado
 - pagamento pendente
 - pagamento recusado
 - cancelamento / estorno
 - chargeback
 - conciliação para auditoria
+- detecção de duplicidade por link, pedido, cliente e valor
 
 ## Fluxo proposto
 
