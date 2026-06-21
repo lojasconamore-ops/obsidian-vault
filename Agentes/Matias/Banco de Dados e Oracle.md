@@ -41,6 +41,11 @@ Oracle é o coração técnico de muitas operações da Conamore. O Matias preci
 5. Validar backup e janela de manutenção
 6. Registrar qualquer incidente ou correção no Obsidian
 
+## Janela operacional do DEBX
+
+- O Oracle DEBX fica disponível diariamente das **08:00 às 18:00 (BRT)**.
+- Fora dessa janela, o ambiente pode estar em manutenção ou encerramento de sessão.
+
 ## Regra de ouro
 
 Se o banco estiver degradando, a empresa inteira sente. Oracle não é só banco — é operação.
