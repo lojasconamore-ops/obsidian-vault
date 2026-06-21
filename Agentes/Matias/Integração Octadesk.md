@@ -5,10 +5,14 @@ Permitir que gerentes humanos da Conamore conversem com os agentes Hermes (Matia
 
 ## Status
 - ✅ Plugin criado e registrado no Hermes Gateway
-- ✅ Polling implementado (busca mensagens a cada 30s)
+- ✅ Polling implementado (busca mensagens a cada 30s dentro da janela ativa)
 - ✅ Envio de respostas via API REST
 - ✅ Roteamento por email (user_routing) implementado
 - ✅ Conectado à API da Conamore
+
+## Janela ativa
+- Busca de mensagens: **08:00 às 20:00 (BRT)**
+- Fora desse horário o polling fica em espera e não consulta novas mensagens
 
 ## Arquitetura
 ```
