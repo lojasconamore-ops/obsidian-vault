@@ -93,11 +93,26 @@ Depois disso, o processo de validação passa a ser:
 ### Saída inicial na tela
 A primeira entrega pode aparecer como uma tabela na tela, com colunas como:
 - cliente
+- número do pedido
 - data da aprovação
 - valor
 - referência / link
 - quantidade de aprovações no período
 - flag de possível duplicidade
+
+### Lógica inicial de agrupamento
+1. agrupar primeiro por cliente
+2. dentro do cliente, separar por número do pedido
+3. marcar como suspeito quando o mesmo cliente tiver mais de uma aprovação com:
+   - mesmo número do pedido, ou
+   - mesma referência/link, ou
+   - mesmo valor em intervalo curto de tempo
+4. quando houver dúvida, manter o caso na lista de revisão manual
+
+### Classificação sugerida na planilha
+- OK: apenas uma aprovação válida para o cliente no período
+- SUSPEITO: mais de uma aprovação que pode ser duplicidade
+- REVISAR: casos ambíguos, sem referência suficiente
 
 ## O que precisa para implementar de verdade
 
