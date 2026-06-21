@@ -114,6 +114,13 @@ A primeira entrega pode aparecer como uma tabela na tela, com colunas como:
 - SUSPEITO: mais de uma aprovação que pode ser duplicidade
 - REVISAR: casos ambíguos, sem referência suficiente
 
+### Endpoint validado para leitura
+- Base da API: `https://api.pagar.me/core/v5`
+- Endpoint inicial validado: `GET /charges`
+- Filtro operacional de data: usar o campo `paid_at` como data de aprovação
+- Teste realizado com autenticação por secret key de produção
+- Resultado do teste: leitura autenticada bem-sucedida e retorno de cobranças aprovadas
+
 ## O que precisa para implementar de verdade
 
 ### A) Do lado do Pagar.me
