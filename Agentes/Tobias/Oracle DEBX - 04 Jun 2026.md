@@ -1,5 +1,7 @@
 # Oracle DEBX — Análise Operacional — 04/06/2026
 
+> Janela operacional do Oracle DEBX: disponível diariamente das **08:00 às 18:00 (BRT)**; fora disso a conexão pode retornar `ORA-01033`.
+
 ## Conexão validada
 - Banco: Oracle `conamore`
 - Host: `172.169.0.11:1521`

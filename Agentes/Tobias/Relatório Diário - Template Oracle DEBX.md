@@ -3,6 +3,7 @@
 **Base oficial:** SQL Oracle DEBX
 **Janela fixa:** últimos **15 dias**
 **Fuso:** `America/Sao_Paulo`
+**Janela operacional do Oracle DEBX:** disponível de **08:00 às 18:00 (BRT)**
 
 ## Abertura padrão
 Rodei o relatório diário no padrão combinado: **3 versões** e considerando **somente os últimos 15 dias**.

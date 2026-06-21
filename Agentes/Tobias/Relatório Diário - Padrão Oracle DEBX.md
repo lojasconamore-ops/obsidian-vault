@@ -3,6 +3,7 @@
 **Status:** aprovado como base do relatório diário de logística
 **Escopo fixo:** últimos **15 dias**
 **Fuso:** `America/Sao_Paulo`
+**Janela operacional do Oracle DEBX:** disponível de **08:00 às 18:00 (BRT)**
 
 ## Base SQL combinada
 O relatório diário passa a usar a lógica Oracle DEBX com cruzamento entre:

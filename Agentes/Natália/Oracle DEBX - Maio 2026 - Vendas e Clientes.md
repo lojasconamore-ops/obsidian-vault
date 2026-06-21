@@ -13,6 +13,7 @@ tags:
 **Fonte:** Oracle `conamore` (`172.169.0.11:1521`) — schema `TEST_ACL`
 **Usuário:** `TEST_PED`
 **Janela:** 01/05/2026 a 31/05/2026
+**Janela operacional do Oracle DEBX:** disponível diariamente das **08:00 às 18:00 (BRT)**
 
 ## Escopo e método
 - Vendas analisadas pela tabela `TEST_ACL.F_PEDVENDA`

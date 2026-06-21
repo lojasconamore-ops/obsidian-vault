@@ -51,6 +51,11 @@ Usar o Oracle do DEBX com segurança, clareza e foco em leitura, sempre responde
 - Porta: `1521`
 - String exemplo: `//172.169.0.11:1521/conamore`
 
+## Janela de disponibilidade
+
+- O Oracle DEBX fica disponível diariamente das **08:00 às 18:00 (BRT)**.
+- Fora dessa janela, a conexão pode retornar `ORA-01033`.
+
 ## Validação mínima da sessão
 
 ```sql

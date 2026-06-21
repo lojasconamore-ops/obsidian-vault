@@ -219,6 +219,7 @@ FROM conamore.CAIXA_PERIODO_DETALHADO_POR_MATERIAL;
 
 - ⚠️ Este relatório foi gerado com base no **SQL Server (Hotel Finder)**, que contém dados de pedidos e vendas.
 - ⚠️ O **Oracle DEBX** (ERP principal, 172.169.0.11:1521/conamore) não foi acessado por falta de credenciais — ele tem dados de estoque e cadastro de produtos que complementam esta análise.
+- ⚠️ A janela operacional do Oracle DEBX é **08:00 às 18:00 (BRT)**; fora disso a conexão pode falhar com `ORA-01033`.
 - ⚠️ A tabela `debx.open_orders` está **desatualizada** (último dado 05/2025). Usar `debx.PDV_Detalhes` ou `conamore.CAIXA_PERIODO_DETALHADO_POR_MATERIAL` para dados atuais.
 
 ---
