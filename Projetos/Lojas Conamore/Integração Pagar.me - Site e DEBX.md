@@ -65,6 +65,7 @@ Critérios de falsos positivos que precisam ser excluídos:
 Montar um coletor somente leitura com saída em formato de planilha na tela, contendo:
 - período consultado
 - id da transação no Pagar.me
+- número do pedido
 - referência do pagamento
 - valor
 - status
