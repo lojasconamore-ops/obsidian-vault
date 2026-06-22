@@ -126,10 +126,19 @@ A primeira entrega pode aparecer como uma tabela na tela, com colunas como:
 - Resultado do teste: leitura autenticada bem-sucedida e retorno de cobranças aprovadas
 
 ### Automação diária já criada
-- Script: `~/.hermes/scripts/pagarme_acl_daily_report.py`
-- Cron: `15 8 * * *` (todos os dias às 08:15 BRT)
-- Saída: relatório em Markdown salvo em `~/Documents/Obsidian Vault/Projetos/Lojas Conamore/Relatórios Pagar.me/ACL/`
+- Script base compartilhado: `~/.hermes/scripts/pagarme_report_core.py`
+- Script ACL: `~/.hermes/scripts/pagarme_acl_daily_report.py`
+- Cron ACL: `15 8 * * *` (todos os dias às 08:15 BRT)
+- Saída ACL: relatório em Markdown salvo em `~/Documents/Obsidian Vault/Projetos/Lojas Conamore/Relatórios Pagar.me/ACL/`
 - Objetivo: consultar automaticamente o período correto por `paid_at` e sinalizar possíveis duplicidades
+
+### Automação multiloja
+- Script SSL: `~/.hermes/scripts/pagarme_ssl_daily_report.py`
+- Script GCL: `~/.hermes/scripts/pagarme_gcl_daily_report.py`
+- Script BRG: `~/.hermes/scripts/pagarme_brg_daily_report.py`
+- Script consolidado: `~/.hermes/scripts/pagarme_consolidated_daily_report.py`
+- Saída consolidada: `~/Documents/Obsidian Vault/Projetos/Lojas Conamore/Relatórios Pagar.me/CONSOLIDADO/`
+- Estrutura de colunas: `loja`, `Customer_Document`, `cliente`, `pedido`, `referência`, `valor`, `meio`, `aprovado_em`, `NSU`, `TID`, `Customer_Email`, `Charge_Id`, `Transaction_Id`, `flag`
 
 ## O que precisa para implementar de verdade
 
