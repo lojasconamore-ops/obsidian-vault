@@ -32,7 +32,7 @@ A integração de leitura precisa cobrir:
 - salvar a saída em formato de relatório para análise manual
 
 ### 2) Identificação de duplicidade
-- marcar como possível duplicidade quando houver mais de um pagamento pago com a mesma chave de referência
+- marcar como possível duplicidade somente quando houver mais de uma aprovação do mesmo cliente e pelo menos 2 sinais coincidirem ao mesmo tempo
 - comparar pelo menos:
   - link de pagamento
   - order_id
@@ -47,18 +47,21 @@ A integração de leitura precisa cobrir:
 
 ## Critérios iniciais de duplicidade
 
-Um caso deve entrar na revisão manual quando houver:
-- mesmo link de pagamento
-- status pago em mais de uma transação
-- mesmo valor bruto
-- mesma referência de pedido ou cliente
-- confirmações muito próximas no tempo
+Um caso deve entrar na revisão manual somente quando houver:
+- mesmo cliente
+- e pelo menos 2 dos sinais abaixo ao mesmo tempo:
+  - mesmo link de pagamento
+  - mesma referência de pedido
+  - mesmo valor bruto
+  - confirmações com intervalo muito curto
+  - status pago em mais de uma transação
 
 Critérios de falsos positivos que precisam ser excluídos:
-- pedidos diferentes com mesmo valor
+- pedidos diferentes com mesmo valor, sem outros sinais de repetição
 - compras recorrentes legítimas
 - reprocessamentos de webhook sem novo pagamento
 - cobranças com tentativa falha seguida de nova aprovação
+- pagamentos do mesmo cliente em pedidos diferentes quando só o valor coincidir
 
 ## Próximo passo técnico
 
@@ -103,16 +106,17 @@ A primeira entrega pode aparecer como uma tabela na tela, com colunas como:
 ### Lógica inicial de agrupamento
 1. agrupar primeiro por cliente
 2. dentro do cliente, separar por número do pedido
-3. marcar como suspeito quando o mesmo cliente tiver mais de uma aprovação com:
-   - mesmo número do pedido, ou
-   - mesma referência/link, ou
+3. marcar como suspeito somente quando o mesmo cliente tiver mais de uma aprovação e pelo menos 2 sinais coincidirem entre:
+   - mesmo número do pedido
+   - mesma referência/link
    - mesmo valor em intervalo curto de tempo
-4. quando houver dúvida, manter o caso na lista de revisão manual
+   - mais de uma transação paga para a mesma janela
+4. se houver apenas 1 sinal repetido, manter como revisão manual, não como suspeita
 
 ### Classificação sugerida na planilha
 - OK: apenas uma aprovação válida para o cliente no período
-- SUSPEITO: mais de uma aprovação que pode ser duplicidade
-- REVISAR: casos ambíguos, sem referência suficiente
+- SUSPEITO: mesmo cliente com múltiplos sinais simultâneos de duplicidade
+- REVISAR: caso com apenas 1 sinal repetido ou referência insuficiente
 
 ### Endpoint validado para leitura
 - Base da API: `https://api.pagar.me/core/v5`
