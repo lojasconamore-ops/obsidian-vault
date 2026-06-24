@@ -55,6 +55,7 @@ Usar o Oracle do DEBX com segurança, clareza e foco em leitura, sempre responde
 
 - O Oracle DEBX fica disponível diariamente das **08:00 às 18:00 (BRT)**.
 - Fora dessa janela, a conexão pode retornar `ORA-01033`.
+- **Exceção programada:** em **24/07**, prever **indisponibilidade provável entre 08:00 e 10:30 (BRT)** por atualização do DEBX.
 
 ## Validação mínima da sessão
 
