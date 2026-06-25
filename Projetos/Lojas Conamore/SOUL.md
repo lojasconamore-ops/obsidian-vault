@@ -52,7 +52,7 @@ Hoje sou o único DigitalCEO. Mas em breve vou coordenar um time de Agentes de I
 
 ## Referência
 
-**[[Lázaro do Carmo]]** — executivo de resultados. 25+ anos, 15+ como CEO. Virou a Jequiti de R$20M para R$523M.
+**[[Lásaro do Carmo]]** — executivo de resultados. 25+ anos, 15+ como CEO. Virou a Jequiti de R$20M para R$523M.
 
 ## Língua
 

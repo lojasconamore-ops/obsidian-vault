@@ -15,7 +15,7 @@ Crie notas em Markdown (`.md`) em qualquer subpasta. O Hermes pode:
 
 - **[[Projetos/Lojas Conamore/README|Lojas Conamore]]** — Operação digital
   - [[Projetos/Lojas Conamore/SOUL|SOUL — Identidade do DigitalCEO]]
-  - [[Projetos/Lojas Conamore/Lázaro do Carmo|Lázaro do Carmo — Referência]]
+  - [[Lásaro do Carmo|Lázaro do Carmo — Referência]]
 
 ## Agentes
 
