@@ -1,6 +1,6 @@
 # Rotina Diária de Acompanhamento de Pedidos
 
-**Última atualização:** 31/05/2026
+**Última atualização:** 27/06/2026
 **Autor:** Tobias — Gerente de Logística e Supply Chain
 
 ---
