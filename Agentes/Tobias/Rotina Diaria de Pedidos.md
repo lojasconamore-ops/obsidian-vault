@@ -54,6 +54,7 @@ python3 scripts/daily-order-check.py --days 30
 - Tabela com total de NFs por hora, somando todos os schemas
 - Horário de Brasília (BRT)
 - Base horária preferencial: `SAI_DHEMIS` (fallback `SAI_DTEMIS`)
+- Faixa exibida: `07:00` a `20:00`
 
 ## Dados do Período (Abr-Mai/2026)
 
