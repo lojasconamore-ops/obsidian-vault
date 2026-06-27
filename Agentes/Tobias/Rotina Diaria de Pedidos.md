@@ -13,7 +13,7 @@ A tabela `debx.open_orders` contém dados **desatualizados** (Jun/2024 a Mai/202
 
 **Escopo fixo:** **últimos 15 dias** para relatórios manuais.  
 **Escopo cron:** **somente ontem** (`--yesterday`).  
-**Formato fixo:** **Gerencial**, **Operacional** e **Consolidada**.
+**Formato fixo:** **Gerencial** + **tabela de NFs por hora (BRT)**.
 
 ## Ferramentas Integradas
 
@@ -50,26 +50,9 @@ python3 scripts/daily-order-check.py --days 30
 ### 1. 📊 Resumo Executivo (15 dias)
 - Total pedidos, receita, frete total/médio, ticket médio, clientes atendidos
 
-### 2. 📋 Status dos Pedidos
-Distribuição: Expedição, Aprovado, Orçamento, Financeiro, Pendente
-
-### 3. 🏢 Origem dos Pedidos
-Canais de venda (GER, MAG, etc.)
-
-### 4. ⚠️ Pedidos Pendentes Antigos
-Pedidos parados há mais de N dias — faturamento em risco
-
-### 5. 💰 Top 15 Maiores Fretes
-Pedidos com maior custo de frete no período
-
-### 6. 🏆 Top 20 Pedidos por Valor
-Maiores pedidos com vendedor e data
-
-### 7. 👤 Top 10 Vendedores por Receita
-Ranking de performance
-
-### 8. 📈 Série Diária (últimos 15 dias)
-Pedidos, receita e frete dia a dia
+### 2. 🕒 NFs emitidas por hora (BRT)
+- Tabela com total de NFs por hora, somando todos os schemas
+- Horário de Brasília (BRT)
 
 ## Dados do Período (Abr-Mai/2026)
 
@@ -100,4 +83,4 @@ Pedidos, receita e frete dia a dia
 - **Horário:** 08:30 BRT (11:30 UTC) — todos os dias
 - **Entrega:** Telegram (Sergio Ladeira)
 - **Modo:** `no_agent` — saída direta do script, sem consumo de tokens LLM
-- **Escopo:** apenas o dia anterior (ontem), todas as séries 2, 3 versões
+- **Escopo:** apenas o dia anterior (ontem), todas as séries 2, relatório gerencial + tabela de NFs por hora (BRT)
