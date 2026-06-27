@@ -6,7 +6,7 @@
 **Janela operacional do Oracle DEBX:** disponível de **08:00 às 18:00 (BRT)**
 
 ## Abertura padrão
-Rodei o relatório diário no padrão combinado: **3 versões** e considerando **somente os últimos 15 dias**.
+Rodei o relatório diário no padrão combinado: **gerencial** e **tabela de NFs por hora (BRT)**, considerando **somente os últimos 15 dias**.
 
 ## 1) Versão gerencial
 - Total de registros

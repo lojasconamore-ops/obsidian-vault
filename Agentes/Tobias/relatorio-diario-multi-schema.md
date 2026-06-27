@@ -1,6 +1,6 @@
 # Padrão do Relatório Diário — Tobias (Multi-Schema)
 
-**Atualizado:** 13/06/2026
+**Atualizado:** 27/06/2026
 
 ## Formato oficial
 
@@ -14,11 +14,10 @@ O relatório diário agora consulta **todos os schemas** Oracle DEBX:
 | TEST_BRG | B2B Regional |
 | TEST_CHC | (monitorar) |
 
-## Estrutura (3 versões)
+## Estrutura (2 partes)
 
 1. **Gerencial** — resumo comparativo entre schemas + total consolidado
-2. **Operacional** — série diária agregada, picos de volume/faturamento/frete
-3. **Consolidada** — detalhe por schema (top NFs, clientes, transportadoras)
+2. **NFs por hora (BRT)** — tabela agregada de todas as NFs emitidas por hora, somando todos os schemas
 
 ## Cruzamento
 
