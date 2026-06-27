@@ -9,7 +9,7 @@
 
 A tabela `debx.open_orders` contém dados **desatualizados** (Jun/2024 a Mai/2025 — parou de ser alimentada há mais de 1 ano).
 
-**O padrão oficial do relatório diário foi atualizado para o SQL Oracle DEBX** com base em `F_SAIDAS`, `F_MOVTO`, `F_PEDVENDA`, `FI_MAG_PEDIDOS`, `SSL_CAIXA_DETALHADO_MATERIAL` e `FI_MAG_DEPA_TRANSP`.
+**O padrão oficial definitivo do relatório diário foi atualizado para o SQL Oracle DEBX** com base em `F_SAIDAS`, `F_MOVTO`, `F_PEDVENDA`, `FI_MAG_PEDIDOS`, `SSL_CAIXA_DETALHADO_MATERIAL` e `FI_MAG_DEPA_TRANSP`.
 
 **Escopo fixo:** **últimos 15 dias** para relatórios manuais.  
 **Escopo cron:** **somente ontem** (`--yesterday`).  
