@@ -21,7 +21,7 @@ A tabela `debx.open_orders` contém dados **desatualizados** (Jun/2024 a Mai/202
 |-------|--------|
 | **Oracle DEBX** — `F_SAIDAS`, `F_MOVTO`, `F_PEDVENDA`, `FI_MAG_PEDIDOS`, `SSL_CAIXA_DETALHADO_MATERIAL`, `FI_MAG_DEPA_TRANSP` | Base oficial do relatório diário (NF, faturamento, frete, cliente, transportadora e cruzamento pedido ↔ nota) |
 | **Intelipost API** | Tracking individual de pedidos e validação de transportadora |
-| **Script `daily-order-check.py`** | Relatório diário oficial em Oracle DEBX (janela de 15 dias, 3 versões) |
+| **Script `daily-order-check.py`** | Relatório diário oficial em Oracle DEBX (janela de 15 dias, gerencial + tabela horária BRT) |
 
 ## O Script
 

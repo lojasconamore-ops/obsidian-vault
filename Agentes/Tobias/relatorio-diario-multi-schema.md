@@ -17,7 +17,7 @@ O relatório diário agora consulta **todos os schemas** Oracle DEBX:
 ## Estrutura (2 partes)
 
 1. **Gerencial** — resumo comparativo entre schemas + total consolidado
-2. **NFs por hora (BRT)** — tabela agregada de todas as NFs emitidas por hora, somando todos os schemas
+2. **Tabela horária (BRT)** — NFs por hora de 07:00 a 20:00, somando todos os schemas
 
 ## Cruzamento
 
