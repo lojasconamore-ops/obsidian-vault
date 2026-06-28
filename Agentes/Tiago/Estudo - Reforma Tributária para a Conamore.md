@@ -12,7 +12,12 @@
 
 ## Premissa importante
 
-Nos documentos internos consultados, **não encontrei o regime tributário atual da Conamore**. Portanto, este estudo é **qualitativo** e não presume Simples Nacional, Lucro Presumido ou Lucro Real.
+Regime tributário informado pelo usuário:
+
+- **Conamore SSL:** Lucro Real
+- **Conamore ACL, GCL e BRG:** Simples Nacional
+
+Portanto, este estudo deixa de ser genérico e passa a considerar essa estrutura tributária nas leituras de risco e impacto.
 
 ## O que muda em 2027
 
