@@ -1,42 +1,41 @@
-# Cruzamento Semanal - Lista Negra x Oracle TEST_MATRIZ
+# 📊 Cruzamento Semanal — Lista Negra × Oracle TEST_MATRIZ
 
-**Data:** 29/06/2026 BRT
-**Executor:** Tiago - Gerente Financeiro
+**Data:** 2026-06-29 BRT
+**Executor:** Tiago — Gerente Financeiro
 
 ---
 
-## Resumo
+## 🔢 Resumo
 
 | Métrica | Qtd |
-|---|---|
+|---|---:|
 | Lista Negra Conamore | 89 |
-| Inativas Oracle (STATUS!=0) | 170 |
-| Consistentes (bloqueadas e inativas) | 88 |
-| Sugestao INCLUIR (STATUS=1) | 1 |
-| Sugestao INCLUIR (STATUS=3) | 0 |
-| Avaliar (STATUS=2) | 80 |
-| Revisar (bloqueadas mas ativas) | 1 |
+| Inativas Oracle (STATUS≠0) | 170 |
+| ✅ Consistentes (bloqueadas E inativas) | 88 |
+| 🔴 Sugestão INCLUIR (STATUS=1) | 1 |
+| 🟡 Sugestão INCLUIR (STATUS=3) | 1 |
+| 🟠 Avaliar (STATUS=2) | 80 |
+| ⚠️ Revisar (bloqueadas mas ATIVAS) | 1 |
 
----
-## Sugestoes de INCLUSAO - STATUS=1 (Bloqueado Oracle)
+## 🔴 Sugestões de INCLUSÃO — STATUS=1 (Bloqueado Oracle)
 
-| Codigo | Razao Social | CNPJ |
+| Código | Razão Social | CNPJ |
 |---|---|---|
 | A6563 | ASSOC. BRAS. IGREJA DE JESUS CRISTO S.U.D. | 61012019000142 |
 
-Acao sugerida: Incluir na Lista Negra.
+**Ação sugerida:** Incluir na Lista Negra.
 
----
+## 🟡 Sugestões de INCLUSÃO — STATUS=3 (Encerrado Oracle)
 
-## Sugestoes de INCLUSAO - STATUS=3 (Encerrado Oracle)
+| Código | Razão Social | CNPJ |
+|---|---|---|
+| 01077 | RAFAEL LIMA VIANA | 5559958360 |
 
-Sem alteracoes pendentes esta semana ✅
+**Ação sugerida:** Avaliar inclusão na Lista Negra.
 
----
+## 🟠 Para AVALIAÇÃO — STATUS=2 (Cancelado Oracle)
 
-## Para AVALIACAO - STATUS=2 (Cancelado Oracle)
-
-| Codigo | Razao Social | CNPJ |
+| Código | Razão Social | CNPJ |
 |---|---|---|
 | 00214 | MIRIAN MORAIS | 80006124534 |
 | 00731 | HOSTEL CANTINHO DO CUNTA LTDA | 12100430000164 |
@@ -119,24 +118,20 @@ Sem alteracoes pendentes esta semana ✅
 | 99511 | MUNDIAL JACARANDÁ | 13232728000190 |
 | 99559 | FIORELLA BUENO | 23537547838 |
 
----
+## ⚠️ Para REVISÃO — Bloqueadas mas ATIVAS no Oracle
 
-## Para REVISAO - Bloqueadas mas ATIVAS no Oracle
+| Código LN | Razão Social | CNPJ | Status Oracle |
+|---|---|---|---|
+| 1077 | RAFAEL LIMA VIANA | 055.599.583-60 | N/A |
 
-| Codigo LN | Razao Social | CNPJ |
-|---|---|---|
-| 1077 | RAFAEL LIMA VIANA | 055.599.583-60 |
+**Ação sugerida:** Verificar se ainda há dívida ativa. Se não, considerar remoção.
 
-Acao sugerida: Verificar se ainda ha divida ativa. Se nao, considerar remocao.
+## 📈 Totalização para Aprovação
 
----
+| Ação | Qtd |
+|---|---:|
+| 🔴 Incluir (STATUS=1) | 1 |
+| 🟡 Incluir (STATUS=3) | 1 |
+| ⚠️ Remover (ativos sem dívida) | 1 |
 
-## Totalizacao para Aprovacao
-
-| Acao | Qtd |
-|---|---|
-| Incluir (STATUS=1) | 1 |
-| Incluir (STATUS=3) | 0 |
-| Remover (ativos sem divida) | 1 |
-
-Aguardando validacao do Sergio.
+Aguardando validação do Sérgio.
