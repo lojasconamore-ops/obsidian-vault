@@ -11,11 +11,11 @@
 |---|---:|
 | Lista Negra Conamore | 89 |
 | Inativas Oracle (STATUS≠0) | 170 |
-| ✅ Consistentes (bloqueadas E inativas) | 88 |
+| ✅ Consistentes (bloqueadas E inativas) | 89 |
 | 🔴 Sugestão INCLUIR (STATUS=1) | 1 |
-| 🟡 Sugestão INCLUIR (STATUS=3) | 1 |
+| 🟡 Sugestão INCLUIR (STATUS=3) | 0 |
 | 🟠 Avaliar (STATUS=2) | 80 |
-| ⚠️ Revisar (bloqueadas mas ATIVAS) | 1 |
+| ⚠️ Revisar (bloqueadas mas ATIVAS) | 0 |
 
 ## 🔴 Sugestões de INCLUSÃO — STATUS=1 (Bloqueado Oracle)
 
@@ -27,9 +27,7 @@
 
 ## 🟡 Sugestões de INCLUSÃO — STATUS=3 (Encerrado Oracle)
 
-| Código | Razão Social | CNPJ |
-|---|---|---|
-| 01077 | RAFAEL LIMA VIANA | 5559958360 |
+_Nenhum registro._
 
 **Ação sugerida:** Avaliar inclusão na Lista Negra.
 
@@ -120,9 +118,7 @@
 
 ## ⚠️ Para REVISÃO — Bloqueadas mas ATIVAS no Oracle
 
-| Código LN | Razão Social | CNPJ | Status Oracle |
-|---|---|---|---|
-| 1077 | RAFAEL LIMA VIANA | 055.599.583-60 | N/A |
+_Nenhum registro._
 
 **Ação sugerida:** Verificar se ainda há dívida ativa. Se não, considerar remoção.
 
@@ -131,7 +127,7 @@
 | Ação | Qtd |
 |---|---:|
 | 🔴 Incluir (STATUS=1) | 1 |
-| 🟡 Incluir (STATUS=3) | 1 |
-| ⚠️ Remover (ativos sem dívida) | 1 |
+| 🟡 Incluir (STATUS=3) | 0 |
+| ⚠️ Remover (ativos sem dívida) | 0 |
 
 Aguardando validação do Sérgio.
