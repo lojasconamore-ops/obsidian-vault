@@ -15,6 +15,10 @@ O relatório diário passa a usar a lógica Oracle DEBX com cruzamento entre:
 - `TEST_PED.SSL_CAIXA_DETALHADO_MATERIAL` → cliente/empresa e contexto operacional
 - `TEST_PED.FI_MAG_DEPA_TRANSP` → mapeamento de transportadora / método de envio
 
+## Conexão com o template
+
+- [[Relatório Diário - Template Oracle DEBX|Template do relatório diário]] — estrutura operacional e resposta recomendada
+
 ## Formato obrigatório de entrega
 1. **Versão gerencial**
    - Totais do período

@@ -5,6 +5,15 @@
 
 ---
 
+## Conexões úteis
+
+- [[Relatório Diário - Template Oracle DEBX]]
+- [[Relatório Diário - Padrão Oracle DEBX]]
+- [[Análise de Conversas do Octadesk — Treinamento para Logística]]
+- [[plano-integracao-intelipost]]
+
+---
+
 ## 🗓 Diária (~15 min)
 
 ### 1. Tracking de Pedidos Pendentes

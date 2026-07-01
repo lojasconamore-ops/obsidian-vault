@@ -36,6 +36,10 @@ Rodei o relatório diário no padrão combinado: **gerencial** e **tabela de NFs
 - Origem / canal quando disponível
 - Notas de consistência
 
+## Conexão com o padrão oficial
+
+- [[Relatório Diário - Padrão Oracle DEBX|Padrão Oracle DEBX]] — versão oficial consolidada
+
 ## Regras do padrão
 - Não misturar períodos maiores com a janela fixa.
 - Não substituir NF e faturamento por agregado de pedido.
