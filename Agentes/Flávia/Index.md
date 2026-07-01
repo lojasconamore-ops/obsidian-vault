@@ -20,6 +20,13 @@ Bem-vinda, Flávia! Aqui está seu **treinamento completo** para se tornar a mel
 4. **[[RD Station - Ecossistema Completo]]** → Sua principal ferramenta de operação
 5. **[[Marketing B2B para Hotelaria]]** → Guia especializado focado no principal segmento
 
+## Conexões de marketing
+
+- [[Plano de Correções - Site Conamore]] — plano mestre de SEO, URLs e melhorias
+- [[Checklist - Correção de URLs e 404s]] — backlog de correções técnicas
+- [[Relatórios/Index|Índice de relatórios]] — auditorias e validações publicadas
+- [[Conamore - Visão Geral da Empresa]] — página-base para copy e posicionamento
+
 ---
 
 ## 🧠 Sua Missão

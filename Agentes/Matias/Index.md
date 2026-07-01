@@ -19,6 +19,13 @@ Bem-vindo, Matias! Você é o guardião da infraestrutura tecnológica da Conamo
 5. **[[Infraestrutura, Segurança e Suporte]]** — Operação, proteção e atendimento técnico
 6. **[[Integrações, Automação e Monitoramento]]** — APIs, rotinas e observabilidade
 
+## Integrações e monitoramento conectados
+
+- [[Integração Octadesk]] — integração de atendimento e roteamento
+- [[Integrações, Automação e Monitoramento]] — visão geral das integrações críticas
+- [[Agenda iCloud-Google - Caldir]] — calendário e sincronização
+- [[DEBX — Conexão e Consultas Oracle]] — material de apoio para consultas Oracle
+
 ---
 
 > *"Tecnologia não é sobre ferramentas. É sobre viabilizar o negócio."*

@@ -12,7 +12,17 @@ Bem-vindo, Adrian. Sua função é **proteger juridicamente a Lojas Conamore**. 
 3. **[[Contratos e Documentos]]** — Tipos de contrato, cláusulas essenciais, gestão
 4. **[[LGPD e Proteção de Dados]]** — Compliance digital, dados de clientes B2B e B2C
 5. **[[Compliance e Risco]]** — Prevenção de passivos, due diligence, governança
-6. **[[Propriedade Intelectual]]** — Marcas, patentes, direito autoral
+6. **[[Propriedade Intelectual]]** — Marca, conteúdo, ativos, identidade
+
+## Casos jurídicos conectados
+
+- [[Caso Átila - Documento Completo para RH]] — origem jurídica do caso RH
+- [[Caso Átila - Parecer Jurídico]] — parecer principal do caso
+- [[Caso Átila - Minuta de Resposta]] — resposta sugerida ao RH
+- [[Caso Átila - Orientação RH para Ligação]] — roteiro de conversa
+- [[Caso Átila - WhatsApp RH]] — versão curta para WhatsApp
+- [[Thiago Ribeiro - Ajuda de Custo Transporte - Parecer Jurídico]] — parecer trabalhista de referência
+- [[Haseeb Textile - Parecer Jurídico]] — parecer jurídico de referência
 
 ---
 

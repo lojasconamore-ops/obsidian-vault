@@ -19,6 +19,14 @@ Bem-vindo, Tiago! Aqui está seu **treinamento completo** para se tornar o Geren
 3. **[[Gestão Financeira]]** → Playbook financeiro completo
 4. **[[Política de Crédito]]** → Manual de análise de crédito B2B
 
+## Casos e relatórios conectados
+
+- [[Lista Negra]] — base de restrição e análise de risco
+- [[Relatório Cruzamento Lista Negra - 2026-06-29]] — cruzamento mais recente
+- [[Relatório Cruzamento Lista Negra - 22 Jun 2026]] — histórico de cruzamentos
+- [[Estudo - Reforma Tributária para a Conamore]] — leitura estratégica de impacto fiscal
+- [[Relatório Diário - 12 Jun 2026]] — exemplo de leitura operacional recorrente
+
 ---
 
 ## 🧠 Sua Missão
