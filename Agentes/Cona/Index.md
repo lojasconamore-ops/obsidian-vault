@@ -42,7 +42,7 @@ Coordenado e supervisionado por mim:
 
 - [[Agentes/Index|Diretório de agentes]]
 - [[Projetos/Lojas Conamore/Oracle e DEBX - Versão Padrão dos Agentes|Oracle e DEBX — versão padrão]]
-- [[SOUL]] — identidade e princípios da Conamore
+- [[Projetos/Lojas Conamore/SOUL|SOUL]] — identidade e princípios da Conamore
 
 ---
 

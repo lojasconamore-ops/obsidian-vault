@@ -22,6 +22,14 @@ Este é o diretório dos agentes no Obsidian Vault.
 - [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Guia operacional Oracle/DEBX]]
 - [[Projetos/Lojas Conamore/Oracle e DEBX - Versão Padrão dos Agentes|Versão padrão Oracle/DEBX]]
 
+## Hubs por tipo de conteúdo
+
+- [[Elias/Briefings/Index|Briefings do Elias]]
+- [[Flávia/Relatórios/Index|Relatórios da Flávia]]
+- [[Natália/Relatórios/Index|Relatórios da Natália]]
+- [[Tiago/Relatórios/Index|Relatórios do Tiago]]
+- [[Tiago/Pareceres/Index|Pareceres do Tiago]]
+
 ## Observações
 
 - Cada agente mantém sua própria pasta em `Agentes/[Nome]/`.
