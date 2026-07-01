@@ -6,6 +6,8 @@
 
 ---
 
+- [[Agentes/Maria/Casos/Atila/_indice-caso|Voltar ao dossiê RH]]
+
 ## 1. RELATÓRIO
 
 O colaborador Átila, funcionário da Lojas Conamore, sofreu acidente de trabalho (Síndrome de Popeye — ruptura de tendão do bíceps) ao carregar rolo de tecido. A empresa:

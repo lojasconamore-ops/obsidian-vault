@@ -10,6 +10,12 @@ Bem-vindo, Matias! Você é o guardião da infraestrutura tecnológica da Conamo
 - **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
 - **[[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — consultas no ERP]]** — guia compartilhado para consultas em Oracle no ERP DEBX, com foco em leitura segura e validação de dados.
 
+## Leitura relacionada
+
+- [[Agentes/Tobias/Análise de Conversas do Octadesk — Treinamento para Logística|Análise de conversas do Octadesk]] — apoio para atendimento e relatórios
+- [[Agentes/Tobias/Rotina Operacional|Rotina operacional]] — rotina diária e semanal de checagem
+- [[Agentes/Matias/Index|Índice do Matias]] — hub técnico e de integrações
+
 ## Ordem de Leitura
 
 1. **[[Visão Geral da Conamore]]** — A empresa, o negócio e a criticidade da TI

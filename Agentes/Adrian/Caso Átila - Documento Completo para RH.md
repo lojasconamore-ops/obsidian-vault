@@ -5,6 +5,8 @@
 **Área de interface:** RH
 **Uso:** orientação interna e condução do caso com o colaborador
 
+- [[Agentes/Maria/Casos/Atila/_indice-caso|Voltar ao dossiê RH]]
+
 ## 1. Resumo executivo
 
 O colaborador **Átila** sofreu acidente de trabalho durante a atividade laboral, ao carregar um rolo de tecido, com lesão compatível com ruptura de tendão do bíceps (Síndrome de Popeye).

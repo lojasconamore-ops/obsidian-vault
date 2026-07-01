@@ -4,6 +4,9 @@
 > **Público:** Tobias — Logística
 > **Objetivo:** Capacitar o Tobias a extrair, analisar e interpretar as conversas do Octadesk do setor de Logística (Eduardo), gerando relatórios diários de atendimento — de forma semelhante ao que a Natália faz para o relatório da Casa (Joana + Fabiana).
 
+- [[Agentes/Tobias/Rotina Operacional|Rotina operacional]]
+- [[Agentes/Matias/Integração Octadesk|Integração Octadesk]]
+
 ---
 
 ## 1. Por que analisar conversas do Octadesk?
