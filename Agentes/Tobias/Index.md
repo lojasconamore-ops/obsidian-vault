@@ -27,6 +27,7 @@ Bem-vindo, Tobias. Este guia contém tudo que você precisa saber para assumir a
 
 - **Intelipost (TMS)** — API de tracking, cotação de frete e transportadoras. Script CLI: `intelipost-track.py`
 - **Relatório Diário — Padrão Oracle DEBX** — base oficial do relatório diário de logística com NF, faturamento, frete e cruzamento pedido ↔ nota
+- [[Relatórios/Index|Índice de relatórios]] — relatórios diários e análises de apoio
 - [[Relatório Diário - Template Oracle DEBX|Template do relatório diário]] — estrutura pronta para uso diário
 - [[Relatório Diário - Padrão Oracle DEBX|Padrão aprovado do relatório diário]] — versão oficial consolidada
 - [[Relatório Diário - 10 Jun 2026|Relatório diário mais recente]] — coleta de hoje (Intelipost / Oracle)
