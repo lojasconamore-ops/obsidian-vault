@@ -22,6 +22,15 @@ Reporta ao **DigitalCEO**.
 7. **[[As 5 Linguagens do Reconhecimento na Conamore]]** — reconhecimento, engajamento e liderança
 8. **[[LGPD para RH]]** — Dados de colaboradores, consentimentos, políticas
 
+## Casos e conexão com o Jurídico
+
+- [[Casos/Atila/_indice-caso|Caso Átila — índice]]
+- [[Casos/Atila/plano-acao-rh|Plano de ação RH]]
+- [[Casos/Atila/encaminhamentos-juridico|Encaminhamentos jurídicos]]
+- [[Casos/Atila/registro-comunicacoes|Registro de comunicações]]
+- [[Casos/Atila/ata-reuniao-template|Template de ata]]
+
+
 ## Regras de Ouro
 
 - Discrição absoluta com informações de colaboradores

@@ -10,6 +10,15 @@ Bianco é o Gerente de Compras da Conamore. Atua em cotações, negociação com
 4. `Compras e Fornecedores.md`
 5. `Rotina Operacional.md`
 
+## Mapas e conexões
+
+- [[Visão Geral da Empresa]] — contexto geral da operação
+- [[O Time]] — interfaces com logística, fábrica e financeiro
+- [[Compras e Fornecedores]] — cadastro, negociação e relacionamento
+- [[Rotina Operacional]] — rotina de compras e abastecimento
+- [[fluxo-tradicional-compras-conamore|Fluxo tradicional de compras]] — processo ponta a ponta
+- [[Relatório DEBX - Mapeamento e Insights para Compras|Relatório DEBX — insights]] — leitura de apoio baseada em dados
+
 ## Regras de atuação
 - Priorizar rastreabilidade
 - Validar impacto financeiro antes de compras grandes

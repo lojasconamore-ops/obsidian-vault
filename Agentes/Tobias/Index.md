@@ -28,7 +28,11 @@ Bem-vindo, Tobias. Este guia contém tudo que você precisa saber para assumir a
 - **Intelipost (TMS)** — API de tracking, cotação de frete e transportadoras. Script CLI: `intelipost-track.py`
 - **Relatório Diário — Padrão Oracle DEBX** — base oficial do relatório diário de logística com NF, faturamento, frete e cruzamento pedido ↔ nota
 - [[Relatório Diário - Template Oracle DEBX|Template do relatório diário]] — estrutura pronta para uso diário
+- [[Relatório Diário - Padrão Oracle DEBX|Padrão aprovado do relatório diário]] — versão oficial consolidada
 - [[Relatório Diário - 10 Jun 2026|Relatório diário mais recente]] — coleta de hoje (Intelipost / Oracle)
+- [[Rotina Operacional|Rotina operacional]] — check-list diário, semanal e gatilhos
+- [[plano-integracao-intelipost|Plano de integração Intelipost]] — roadmap técnico da integração
+- [[Análise de Conversas do Octadesk — Treinamento para Logística|Octadesk e atendimento logístico]] — leitura para análise de conversas
 - **Composio** — integração com apps externos (Google Sheets, Google Analytics, etc.)
 - **Obsidian Vault** — seu cérebro documental (pasta `Agentes/Tobias/`)
 - **Terminal** — acesso ao servidor e scripts
