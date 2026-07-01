@@ -2,6 +2,8 @@
 
 Este índice conecta os relatórios comerciais e as leituras de campo da Natália.
 
+- [[Agentes/Natália/Index|Voltar ao índice da Natália]]
+
 ## Relatórios principais
 
 - [[Relatório Comercial Diário - 2026-06-20]]

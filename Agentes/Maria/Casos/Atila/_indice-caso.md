@@ -14,6 +14,8 @@ tags: [caso-rh, acidente-trabalho, atila, limbo-previdenciario]
 
 > Documento **interno do RH**. Não compartilhar com o colaborador nem com outras áreas fora do RH + Jurídico.
 
+- [[Agentes/Maria/Index|Voltar ao índice da Maria]]
+
 ## Situação em uma linha
 
 Colaborador em **acidente de trabalho** (lesão no braço ao carregar rolo de tecido), com **CAT emitida**, **15 dias pagos pela empresa** e **encaminhamento ao INSS feito**. Ocorre que o pedido administrativo foi **indeferido por inconsistência cadastral** (erro de ano no requerimento) e está em fase de **revisão administrativa**. O colaborador está há ~**90 dias sem renda** (nem salário, nem benefício INSS) e pede apoio formal.
@@ -21,7 +23,7 @@ Colaborador em **acidente de trabalho** (lesão no braço ao carregar rolo de te
 ## Origem do caso
 
 Documento completo preparado pelo **Jurídico (Adrian)** em 13/06/2026:
-→ `[[Agentes/Adrian/Caso Átila - Documento Completo para RH]]`
+→ `[[Agentes/Adrian/Caso Átila - Documento Completo para RH|Caso Átila — Documento Completo para RH]]`
 
 **Ler antes de qualquer ação.** Esse documento traz:
 - cronologia completa

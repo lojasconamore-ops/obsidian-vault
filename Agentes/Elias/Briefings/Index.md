@@ -2,6 +2,8 @@
 
 Este índice organiza os briefings e entregas diárias do secretário executivo.
 
+- [[Agentes/Elias/Index|Voltar ao índice do Elias]]
+
 ## Mais recentes
 
 - [[2026-06-30-Briefing-Matutino]]
