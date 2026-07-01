@@ -19,6 +19,11 @@ Bem-vindo, Tiago! Aqui está seu **treinamento completo** para se tornar o Geren
 3. **[[Gestão Financeira]]** → Playbook financeiro completo
 4. **[[Política de Crédito]]** → Manual de análise de crédito B2B
 
+## Índices conectados
+
+- [[Relatórios/Index|Índice de relatórios]] — diários, cruzamentos e estudos
+- [[Pareceres/Index|Índice de pareceres]] — análises de crédito e pareceres por cliente
+
 ## Casos e relatórios conectados
 
 - [[Lista Negra]] — base de restrição e análise de risco

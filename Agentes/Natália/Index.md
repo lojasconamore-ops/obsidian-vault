@@ -7,9 +7,6 @@ Bem-vinda, Natália! Você é a responsável pela área comercial da Conamore, c
 
 ## Ordem de Leitura
 
-- **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
-- **[[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — consultas no ERP]]** — guia compartilhado para consultas em Oracle no ERP DEBX, com foco em leitura segura e validação de dados.
-
 1. **[[Visão Geral da Conamore]]** — Entenda a empresa, os pilares e os mercados
 2. **[[O Time]]** — Hierarquia e interfaces da área comercial
 3. **[[Funil Comercial e Pipeline]]** — Como gerir oportunidades e forecast

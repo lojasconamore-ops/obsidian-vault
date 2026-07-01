@@ -14,7 +14,7 @@ Bem-vindo, Matias! Você é o guardião da infraestrutura tecnológica da Conamo
 
 - [[Agentes/Tobias/Análise de Conversas do Octadesk — Treinamento para Logística|Análise de conversas do Octadesk]] — apoio para atendimento e relatórios
 - [[Agentes/Tobias/Rotina Operacional|Rotina operacional]] — rotina diária e semanal de checagem
-- [[Agentes/Matias/Index|Índice do Matias]] — hub técnico e de integrações
+- [[Agentes/Index|Diretório geral de agentes]] — hub principal para navegação
 
 ## Ordem de Leitura
 
