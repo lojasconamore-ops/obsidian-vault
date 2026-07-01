@@ -1,5 +1,11 @@
 # Métricas, Forecast e Relatórios
 
+## Conexões úteis
+
+- [[Funil Comercial e Pipeline]] — base para pipeline e forecast
+- [[Agentes/Natália/Relatórios/Index|Índice de relatórios]] — histórico de relatórios comerciais
+- [[DEBX — Mapeamento Comercial]] — leitura analítica da base e funil
+
 ## Indicadores comerciais principais
 
 - Faturamento por período
