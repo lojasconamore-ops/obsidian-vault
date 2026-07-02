@@ -48,11 +48,35 @@
 - **Grupo econômico:** Nenhum outro CNPJ no mesmo endereço (AV PRESIDENTE VARGAS, 4824)
 - Conclusão: cliente novo, sem qualquer histórico de compras ou pagamentos na Conamore.
 
-### Etapa 2 — Score / Bureau
-⚠️ **Bureau não consultado diretamente.** Dados públicos do CNPJ:
-- Empresa ATIVA desde 05/05/2020 — **6 anos de operação**
-- Sem restrições/protestos aparentes nos registros públicos
-- Capital social modesto (R$ 50k) — compatível com micro empresa hoteleira do interior
+### Etapa 2 — Score / Bureau (Equifax | Boa Vista)
+
+**Fonte:** Relatório Equifax | Boa Vista emitido em 02/07/2026.
+
+| Indicador | Valor | Classificação |
+|---|---|---|
+| Score de Aprovação PJ | **654** | 🟡 Médio/aceitável |
+| Probabilidade de Inadimplência | **8,0%** | 🟡 Administrável |
+| Cadastro Positivo | Participante com informação | ✅ Positivo |
+| Pagamento Pontual (12 meses) | **100% em todos os meses** | ✅ Excelente |
+| Atrasos (12 meses) | **Nenhum** | ✅ Zero atrasos |
+| Cheques sem fundos | Nada consta | ✅ |
+| Protestos | Nada consta | ✅ |
+| Funcionários | 1 a 19 | Micro empresa |
+
+⚠️ **Pendências financeiras: 3 ocorrências — R$ 3.038,01 (2022)**
+
+| Data | Valor | Informante |
+|---|---|---|
+| 05/03/2022 | R$ 1.361,34 | CEBRAPI - RJ |
+| 05/04/2022 | R$ 680,67 | CEBRAPI - RJ |
+| 06/12/2022 | R$ 996,00 | CEBRAPI - RJ |
+
+**Atenuantes:**
+- Pendências antigas (3,5+ anos), todas de 2022
+- Valor total baixo (R$ 3.038,01)
+- **12 meses consecutivos de pagamento 100% pontual** desde então
+- Zero atrasos, zero protestos, zero cheques devolvidos
+- Comportamento recente demonstra regularização e disciplina financeira
 
 ### Etapa 3 — Coerência Operacional
 ✅ **ALTAMENTE COERENTE.** Hotel comprando enxoval hoteleiro (lençóis, fronhas, cobertores) da linha Classic Percal 200 Fios — reposição padrão de hotelaria.
@@ -84,10 +108,10 @@ Hotel real, operando, com presença em múltiplas plataformas de reserva.
 Etapa 0 — Lista Negra: ✅ NÃO CONSTA
 Parecer: ✅ APROVAR
 
-Nível de risco: BAIXO
+Nível de risco: MODERADO (rebaixado de BAIXO devido às pendências de 2022)
 
 Histórico Conamore: Primeira compra — sem histórico
-Score / Bureau: CNPJ ativo há 6 anos, sem restrições aparentes
+Score / Bureau: Score 654 (🟡 médio), PD 8,0%, 12 meses de pagamento 100% pontual, 3 pendências antigas (2022, R$ 3k)
 Coerência do pedido: Hotel comprando enxoval hoteleiro — altamente coerente
 Validação operacional online: Operação forte — hotel verificado em Google Maps (4.7★), Booking.com, TripAdvisor, Instagram
 
@@ -95,10 +119,13 @@ Condição recomendada: ENTRADA 50% + SALDO 30/60 DIAS (condição solicitada pe
 
 Justificativa técnica objetiva:
 1. Hotel real, 6 anos de operação, presença online robusta em múltiplas plataformas
-2. Exposição líquida de apenas R$ 1.545,65 — risco financeiro irrelevante
-3. Condição de pagamento já conservadora para primeira compra (50% entrada)
-4. Mix de produtos 100% coerente com o segmento (hotelaria)
-5. Sem restrições ou alertas na lista negra
+2. Score 654 / PD 8% — faixa médio/administrável
+3. 12 meses consecutivos de pagamento 100% pontual — demonstra disciplina financeira recente
+4. As 3 pendências (R$ 3.038) são antigas (2022) e de baixo valor; não há protestos ou cheques devolvidos
+5. Exposição líquida de apenas R$ 1.545,65 mitiga o risco residual
+6. Condição de pagamento já conservadora para primeira compra (50% entrada)
+7. Mix de produtos 100% coerente com o segmento (hotelaria)
+8. Sem restrições ou alertas na lista negra Conamore
 ```
 
 ---
