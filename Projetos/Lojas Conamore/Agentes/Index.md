@@ -6,7 +6,7 @@ Hub de navegação dos agentes da Conamore e seus materiais de treinamento.
 
 ## Agentes com documentação consolidada
 
-- [[Rian/Index|Rian]] — gerente comercial de lojas físicas (varejo)
+- [Rian](./Rian/Index.md) — gerente comercial de lojas físicas (varejo)
 
 ## Documentos canônicos relacionados
 
