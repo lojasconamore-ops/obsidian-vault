@@ -6,7 +6,7 @@ O **Adrian** é o responsável jurídico da Conamore.
 
 ## Navegação canônica
 
-- [SOUL do Adrian](../../../.hermes/profiles/adrian/SOUL.md)
+- SOUL do Adrian (documentação detalhada no perfil Hermes)
 - [SOUL da Conamore](../SOUL.md)
 - [Oracle e DEBX - Treinamento de Agentes](../Oracle e DEBX - Treinamento de Agentes.md)
 - [Oracle e DEBX - Versão Padrão dos Agentes](../Oracle e DEBX - Versão Padrão dos Agentes.md)

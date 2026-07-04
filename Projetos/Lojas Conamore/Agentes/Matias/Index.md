@@ -6,7 +6,7 @@ O **Matias** é o gerente de TI da Conamore.
 
 ## Navegação canônica
 
-- [SOUL do Matias](../../../.hermes/profiles/matias/SOUL.md)
+- SOUL do Matias (documentação detalhada no perfil Hermes)
 - [SOUL da Conamore](../SOUL.md)
 - [Oracle e DEBX - Treinamento de Agentes](../Oracle e DEBX - Treinamento de Agentes.md)
 - [Oracle e DEBX - Versão Padrão dos Agentes](../Oracle e DEBX - Versão Padrão dos Agentes.md)
