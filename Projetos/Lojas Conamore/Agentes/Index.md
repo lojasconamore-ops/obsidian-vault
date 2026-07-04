@@ -10,11 +10,11 @@ Hub de navegação dos agentes da Conamore e seus materiais de treinamento.
 
 ## Documentos canônicos relacionados
 
-- [[SOUL]] — visão geral da operação e roster dos agentes
-- [[Rian/Treinamento|Treinamento oficial do Rian]]
-- [[Oracle e DEBX - Treinamento de Agentes]]
-- [[Oracle e DEBX - Versão Padrão dos Agentes]]
-- [[Visão, Missão e Valores - Treinamento de Agentes]]
+- [SOUL da Conamore](../SOUL.md) — visão geral da operação e roster dos agentes
+- [Treinamento oficial do Rian](./Rian/Treinamento.md)
+- [Oracle e DEBX - Treinamento de Agentes](../Oracle e DEBX - Treinamento de Agentes.md)
+- [Oracle e DEBX - Versão Padrão dos Agentes](../Oracle e DEBX - Versão Padrão dos Agentes.md)
+- [Visão, Missão e Valores - Treinamento de Agentes](../Visão, Missão e Valores - Treinamento de Agentes.md)
 
 ## Próximos agentes a consolidar
 
