@@ -6,7 +6,7 @@ O **Tiago** é o gerente financeiro da Conamore.
 
 ## Navegação canônica
 
-- [SOUL do Tiago](../../../.hermes/profiles/tiago/SOUL.md)
+- SOUL do Tiago (documentação detalhada no perfil Hermes)
 - [SOUL da Conamore](../SOUL.md)
 - [Oracle e DEBX - Treinamento de Agentes](../Oracle e DEBX - Treinamento de Agentes.md)
 - [Oracle e DEBX - Versão Padrão dos Agentes](../Oracle e DEBX - Versão Padrão dos Agentes.md)

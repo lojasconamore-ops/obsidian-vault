@@ -6,7 +6,7 @@ O **Bianco** é o gerente de compras da Conamore.
 
 ## Navegação canônica
 
-- [SOUL do Bianco](../../../.hermes/profiles/bianco/SOUL.md)
+- SOUL do Bianco (documentação detalhada no perfil Hermes)
 - [SOUL da Conamore](../SOUL.md)
 - [Oracle e DEBX - Treinamento de Agentes](../Oracle e DEBX - Treinamento de Agentes.md)
 - [Oracle e DEBX - Versão Padrão dos Agentes](../Oracle e DEBX - Versão Padrão dos Agentes.md)

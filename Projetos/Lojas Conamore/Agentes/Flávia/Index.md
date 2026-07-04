@@ -6,7 +6,7 @@ A **Flávia** é a gerente de marketing da Conamore.
 
 ## Navegação canônica
 
-- [SOUL da Flávia](../../../.hermes/profiles/marketing/SOUL.md)
+- SOUL da Flávia (documentação detalhada no perfil Hermes `marketing`)
 - [SOUL da Conamore](../SOUL.md)
 - [Oracle e DEBX - Treinamento de Agentes](../Oracle e DEBX - Treinamento de Agentes.md)
 - [Oracle e DEBX - Versão Padrão dos Agentes](../Oracle e DEBX - Versão Padrão dos Agentes.md)
