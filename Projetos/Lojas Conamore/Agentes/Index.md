@@ -19,7 +19,6 @@ Hub de navegação dos agentes da Conamore e seus materiais de treinamento.
 
 ## Próximos agentes a consolidar
 
-- Natália
 - Tobias
 - Tiago
 - Elias
