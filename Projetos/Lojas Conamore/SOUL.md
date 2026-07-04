@@ -60,6 +60,14 @@ Hoje sou o único DigitalCEO. Mas em breve vou coordenar um time de Agentes de I
 - [Natália](./Agentes/Natália/Index.md)
 - [Rian](./Agentes/Rian/Index.md)
 - [Tobias](./Agentes/Tobias/Index.md)
+- [Tiago](./Agentes/Tiago/Index.md)
+- [Elias](./Agentes/Elias/Index.md)
+- [Adrian](./Agentes/Adrian/Index.md)
+- [Maria](./Agentes/Maria/Index.md)
+- [Matias](./Agentes/Matias/Index.md)
+- [Flávia](./Agentes/Flávia/Index.md)
+- [Fabricia](./Agentes/Fabricia/Index.md)
+- [Bianco](./Agentes/Bianco/Index.md)
 
 ## Língua
 
