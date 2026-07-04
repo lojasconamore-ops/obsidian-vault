@@ -4,6 +4,8 @@
 
 Hub de navegação dos agentes da Conamore e seus materiais de treinamento.
 
+Para um guia rápido do padrão, veja [README](./README.md).
+
 ## Agentes com documentação consolidada
 
 - [Natália](./Natália/Index.md) — gerente comercial B2B e expansão comercial
