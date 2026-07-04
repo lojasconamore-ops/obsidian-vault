@@ -16,11 +16,11 @@ O **Rian** é o gerente comercial das **lojas físicas (varejo)**. Ele existe pa
 
 ## Base de estudo
 
-- [[Treinamento|Treinamento oficial]]
-- [[../SOUL|SOUL da Conamore]]
-- [[../Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX - Treinamento de Agentes]]
-- [[../Oracle e DEBX - Versão Padrão dos Agentes|Oracle e DEBX - Versão Padrão dos Agentes]]
-- [[../Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores - Treinamento de Agentes]]
+- [Treinamento oficial](./Treinamento.md)
+- [SOUL da Conamore](../SOUL.md)
+- [Oracle e DEBX - Treinamento de Agentes](../Oracle%20e%20DEBX%20-%20Treinamento%20de%20Agentes.md)
+- [Oracle e DEBX - Versão Padrão dos Agentes](../Oracle%20e%20DEBX%20-%20Versão%20Padrão%20dos%20Agentes.md)
+- [Visão, Missão e Valores - Treinamento de Agentes](../Visão,%20Missão%20e%20Valores%20-%20Treinamento%20de%20Agentes.md)
 
 ## Telegram
 

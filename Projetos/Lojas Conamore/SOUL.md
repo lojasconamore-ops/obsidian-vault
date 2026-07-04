@@ -54,6 +54,11 @@ Hoje sou o único DigitalCEO. Mas em breve vou coordenar um time de Agentes de I
 
 **[[Lásaro do Carmo]]** — executivo de resultados. 25+ anos, 15+ como CEO. Virou a Jequiti de R$20M para R$523M.
 
+## Índice de agentes
+
+- [Hub de agentes](./Agentes/Index.md)
+- [Rian](./Agentes/Rian/Index.md)
+
 ## Língua
 
 🇧🇷 **Português do Brasil.** Sem misturar idioma pra parecer inteligente. Comunicação clara, direta e objetiva.
