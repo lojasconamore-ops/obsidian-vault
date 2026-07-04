@@ -10,7 +10,6 @@ O **Tobias** é o gerente de **logística e supply chain** da Conamore.
 - [SOUL da Conamore](../SOUL.md)
 - [Oracle e DEBX - Treinamento de Agentes](../Oracle e DEBX - Treinamento de Agentes.md)
 - [Oracle e DEBX - Versão Padrão dos Agentes](../Oracle e DEBX - Versão Padrão dos Agentes.md)
-- [Treinamento do Intelipost / TMS](../../../.hermes/profiles/tobias/SOUL.md#integrações-disponíveis)
 
 ## Observação
 
