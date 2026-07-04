@@ -6,6 +6,7 @@ Hub de navegação dos agentes da Conamore e seus materiais de treinamento.
 
 ## Agentes com documentação consolidada
 
+- [Natália](./Natália/Index.md) — gerente comercial B2B e expansão comercial
 - [Rian](./Rian/Index.md) — gerente comercial de lojas físicas (varejo)
 
 ## Documentos canônicos relacionados

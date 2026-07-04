@@ -57,6 +57,7 @@ Hoje sou o único DigitalCEO. Mas em breve vou coordenar um time de Agentes de I
 ## Índice de agentes
 
 - [Hub de agentes](./Agentes/Index.md)
+- [Natália](./Agentes/Natália/Index.md)
 - [Rian](./Agentes/Rian/Index.md)
 
 ## Língua
