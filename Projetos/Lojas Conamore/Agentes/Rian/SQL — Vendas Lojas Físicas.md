@@ -3,7 +3,7 @@
 **Autor:** Rian — Gerente Comercial de Lojas Físicas
 **Data:** 04/07/2026
 **Fonte:** Query fornecida por Sergio Ladeira (CEO)
-**Banco:** Oracle DEBX (172.169.0.11:1521)
+**Banco:** Oracle DEBX (172.169.0.11:1521) — instância de **CONSULTA** (réplica, ~1 dia defasada da produção)
 
 ---
 
