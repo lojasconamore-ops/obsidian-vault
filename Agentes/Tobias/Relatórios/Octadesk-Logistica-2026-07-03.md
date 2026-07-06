@@ -1,7 +1,8 @@
 # 📦 RELATÓRIO DIÁRIO DE ATENDIMENTO — LOGÍSTICA
-**Data:** 03/07/2026 (Sexta-feira) | **Atendente:** Eduardo | **Fonte:** Octadesk | ⏰ BRT (UTC-3)
 
-> ⚠️ **Nota:** Relatório gerado em 05/07/2026 (Domingo). Não houve atividade do Eduardo no Sábado (04/07). Este relatório cobre a Sexta-feira, último dia útil.
+**Data:** 03/07/2026 (Sexta-feira) | **Atendente:** Eduardo | **Fonte:** Octadesk | ⏰ BRT
+
+> ⚠️ **Nota:** Relatório originalmente programado para 05/07 (Domingo), mas sem atividade no dia. Analisando **03/07/2026 (Sexta-feira)** — último dia útil com dados.
 
 ---
 
@@ -9,233 +10,224 @@
 
 | Métrica | Valor |
 |---|---|
-| **Total de mensagens** | 200 |
-| **Chats distintos** | 20 |
-| **Clientes únicos** | 16 |
-| **Mensagens do Agente** | 108 (54,0%) |
-| **Mensagens do Cliente** | 92 (46,0%) |
-| **Jornada de atendimento** | 08:11 → 17:35 (9h24m) |
-| **Média de msgs/chat** | 10,0 |
-| **Primeira mensagem** | 08:11 BRT |
-| **Última mensagem** | 17:35 BRT |
+| **Total de mensagens** | 225 |
+| **Total de chats** | 26 |
+| **Clientes distintos** | 20 |
+| **Mensagens do agente** | 124 (55,1%) |
+| **Mensagens de clientes** | 101 (44,9%) |
+| **Jornada de trabalho** | 08:11 → 17:35 (9h24min) |
+| **Média msg/chat** | 8,65 |
+| **Chats transportadora** | ~8 (≈131 msgs, 58%) |
+| **Chats cliente final** | ~18 (≈94 msgs, 42%) |
 
-### Indicadores de Alerta
-
-| Indicador | Valor | Meta | Status |
-|---|---|---|---|
-| % Alta (8+ msg) | 40,0% (8/20) | > 60% | 🟡 No limite |
-| % Toque único (1-2 msg) | 30,0% (6/20) | < 25% | 🔴 Acima da meta |
-| % Chats fechados | 10,0% (2/20) | > 70% | 🔴 Crítico |
-| Média msg/chat | 10,0 | > 8 | 🟢 OK |
-
-> **Análise:** O percentual de chats fechados (10%) é crítico, mas **contexto importa**: dos 20 chats do dia, a maioria são comunicações internas com transportadoras (Jamef, Pajuçara, Rodonaves, Correios) que ficam abertas como canal contínuo. Dos 18 chats "talking", estima-se que 14+ sejam canais de transportadoras, não tickets de cliente. O verdadeiro indicador de qualidade está nos 6 chats de toque único (30%) — destes, 3 são interações reais de cliente que merecem follow-up.
+**Destaque:** Eduardo manteve um dia ativo com 26 conversas simultâneas e bom equilíbrio entre canais operacionais (transportadoras) e atendimento a clientes finais. Média de 8,65 msg/chat indica engajamento saudável.
 
 ---
 
 ## 2. ⚠️ ATENÇÃO CRÍTICA
 
-### 🔴 Prioridade Imediata
+### 🔴 Sinal 1 — Transportadora não compareceu (cliente aguardando)
 
-| # | Cliente | Sinal | Trecho Real | Motivo | 
-|---|---|---|---|---|
-| 1 | **Jaffer — Compras Vale Verde** | Coleta não realizada | *"Dia 03/07 é hoje... Ainda não passaram"* | Transportadora agendada para coletar no dia 03/07 **não apareceu**. Eduardo disse às 11:08 "A transportadora irá coletar a mercadoria amanhã" — mas o cliente entendeu que seria HOJE (03/07). Ruptura de comunicação. **Chat abandonado às 15:15 sem resolução.** |
-| 2 | **Fernando Gutstein** | Ghost — 0 respostas do agente | *"Boa tarde"* (13:14, sem resposta) | Cliente mandou mensagem às 13:14 e **nunca recebeu resposta do Eduardo**. 1 mensagem do cliente, 0 do agente. Inaceitável. |
-| 3 | **Adilson — Rodonaves** | NF em extravio | *"NF 12133 - NF 12132 — Está como extravio"* | Duas NFs **dadas como extraviadas** na Rodonaves. Adilson disse "vou dar uma olhada, já te retorno" às 15:29. **Sem retorno até o fim do dia.** |
+| Campo | Detalhe |
+|---|---|
+| **Cliente** | Jaffer — Compras Vale Verde (Maria) |
+| **Chat #** | 260616193579 |
+| **Sinal** | "Ainda não passaram" |
+| **Trecho real** | *"Dia 03/07 é hoje. Então vem hoje correto? Estamos aguardando ele então."* → Após follow-up do Eduardo: *"Ainda não passaram"* |
+| **Motivo** | Eduardo informou pela manhã que a transportadora coletaria no dia 03/07. No fim da tarde, cliente confirmou que ninguém apareceu. Eduardo não deu retorno final. |
+| **Prioridade** | **Imediata** — Cliente ficou sem resposta após confirmação negativa. Transportadora precisa ser acionada e cliente atualizado. |
 
-### 🟡 Prioridade Hoje
+### 🟡 Sinal 2 — Cliente ignorado
 
-| # | Cliente | Sinal | Trecho Real | Motivo |
-|---|---|---|---|---|
-| 4 | **Raissa — Jamef** | Cobrança de custo extra | *"Sim, operação está me cobrando... CUSTO EXTRA - NF 2168"* | Custo extra de frete pendente de aprovação do Comercial. Jamef cobrando resposta urgente. Eduardo aguardando retorno do Comercial para emitir CCe e mudar endereço. |
-| 5 | **Jordana** | Entrega não confirmada | *"Não sei, como havia dito, estou viajando. Vou perguntar a minha vizinha se chegou..."* | Cliente não sabe se recebeu a mercadoria pois está viajando. Ficou de verificar com vizinha. **Sem confirmação.** |
-| 6 | **Vanessa — SVITZER** | Follow-up pendente | *"poderia confirmar de qual PO se trata a entrega"* | Eduardo respondeu apenas com NF e PEDIDO às 15:19 (após 4h de silêncio desde 11:07). Conversa fria. |
+| Campo | Detalhe |
+|---|---|
+| **Cliente** | Fernando Gutstein (Monica) |
+| **Chat #** | 260703196xxx |
+| **Sinal** | "Boa tarde" — sem resposta |
+| **Trecho real** | *"Boa tarde"* (única mensagem, 13:14 BRT). Zero respostas do agente. |
+| **Motivo** | Cliente iniciou contato e foi completamente ignorado. Chat com 0 mensagens do agente. |
+| **Prioridade** | **Hoje** — Verificar se foi um erro de roteamento do Octadesk ou se Eduardo perdeu o chat. Cliente precisa de retorno imediato. |
 
-### 🟢 Monitorar
+### 🟡 Sinal 3 — Transportadora Jamef cobrando resposta sobre custo extra
 
-| # | Cliente | Sinal | Status |
-|---|---|---|---|
-| 7 | **Márcio** | Rastreio Correios | ✅ Resolvido — código AD636776146BR enviado, cliente agradeceu |
+| Campo | Detalhe |
+|---|---|
+| **Cliente** | Raissa Santos — Jamef Transportes |
+| **Chat #** | 260703196770 |
+| **Sinal** | "Sim, operação está me cobrando" |
+| **Trecho real** | *"Sim, operação esta me cobrando"* — cobrança de retorno sobre e-mail "CUSTO EXTRA - NF 2168 CT-E 03/002514215" |
+| **Motivo** | Custo extra de frete pendente de resposta do Comercial. Transportadora pressionando. Eduardo prometeu retorno mas chat ficou em aberto. |
+| **Prioridade** | **Semana** — Depende de resposta do Comercial. Eduardo deve cobrar o setor e dar retorno à Jamef. |
 
 ---
 
 ## 3. MÉTRICAS DE ATENDIMENTO
 
-### Engajamento por Chat
+### 3.1 Engajamento por Chat
 
-| Classificação | Critério | Chats | % |
-|---|---|---|---|
-| 🔥 **Alta** | 8+ mensagens | 8 | 40,0% |
-| 📊 **Média** | 3–7 mensagens | 6 | 30,0% |
-| 👆 **Toque único** | 1–2 mensagens | 6 | 30,0% |
+| Classificação | Critério | Chats | % | Status |
+|---|---|---|---|---|
+| **Alta** | 8+ mensagens | 9 | 34,6% | 🔴 Abaixo do esperado (>60%) |
+| **Média** | 3-7 mensagens | 8 | 30,8% | ⚠️ |
+| **Toque único** | 1-2 mensagens | 9 | 34,6% | ⚠️ Acima do ideal (<25%) |
 
-### Status das Conversas
+> **Interpretação:** O alto índice de "toque único" (34,6%) é parcialmente explicado por chats de notificação (envio de rastreio, confirmações rápidas) e pelo chat ignorado do Fernando Gutstein. Porém 9 chats com só 1-2 mensagens merecem atenção — verificar se são follow-ups automáticos ou clientes que desistiram.
 
-| Status | Chats (via JOIN) | % |
+### 3.2 Status das Conversas
+
+| Status | Qtd | % |
 |---|---|---|
-| 🟢 Talking | 18 | 90,0% |
-| ⚫ Closed | 2 | 10,0% |
-| 🔵 Waiting | 0 | 0,0% |
+| **Talking (em andamento)** | 223 | 99,1% |
+| **Closed (fechado)** | 2 | 0,9% |
 
-> **Nota técnica:** Status via `JOIN octa.conversations`. Os 2 chats "closed" representam 198 mensagens totais — indicando que a maioria das interações está em canais abertos contínuos com transportadoras, não em tickets de cliente.
+> ⚠️ **Métrica enganosa:** Os 2 chats fechados representam apenas os que passaram pelo fluxo formal de encerramento. Na prática, analisando o conteúdo, pelo menos 6-8 chats foram **resolvidos no dia** (Márcio, Lucas C Martins, Cristiane, Davi Geraldini, Torre de Controle, ALINE JAMEF). Os canais de transportadora permanecem "talking" permanentemente por serem relacionamentos operacionais contínuos, não tickets.
+>
+> 🔴 **Clientes reais com pendência:** Fernando Gutstein (sem resposta), Jaffer/Vale Verde (transportadora não apareceu), Vanessa Cavallin (aguardando resposta da filial), Jordana (aguardando vizinha confirmar).
 
-### Jornada de Trabalho
+### 3.3 Proporção Agente/Cliente
 
-```
-08h ░░
-09h ████ (pico 1: Torre de Controle, reentrega NFs)
-10h ██
-11h ████████ (pico 2: Jamef, SVITZER, Jordana, Vale Verde)
-12h █
-13h ██
-14h █
-15h ██████████████ (pico 3 — MAIOR: Pajuçara, Rodonaves, Jamef retomada, Correios)
-16h ██████
-17h ██
-```
-
-**3 picos identificados:** 09h (reentrega), 11h (transportadoras manhã), 15h-16h (concentração máxima — 109 msg, 54,5% do volume diário).
+| Métrica | Valor |
+|---|---|
+| **Relação A/C global** | 1,23 (124A / 101C) |
+| **Chats com A/C < 0,5** | 2 (Fernando Gutstein: 0/1, Jaffer: 3/7) |
 
 ---
 
 ## 4. TOP CONVERSAS
 
-| # | Cliente | Msgs (A/C) | Horário | Status | Tema Principal |
-|---|---|---|---|---|---|
-| 1 | Raissa Santos — Jamef | 39 (20/19) | 11:23–15:43 | talking | Carta correção NF 2150/2149 + Custo extra NF 2168 |
-| 2 | Isadora — Pajuçara | 35 (18/17) | 15:52–16:30 | talking | Alinhamento operacional, volume de cargas, equipe |
-| 3 | Torre de Controle | 23 (13/10) | 09:39–16:03 | talking | Reentrega NF 12066/12065 + retirada pelo cliente ✅ |
-| 4 | Márcio — Correios | 21 (11/10) | 08:11–15:19 | talking | Rastreamento pedido #11000030119 ✅ |
-| 5 | Jaffer — Vale Verde | 14 (8/6) | 16:56–17:35 | talking | Coleta transportadora — **NÃO REALIZADA** ⚠️ |
-| 6 | Adilson — Rodonaves | 10 (5/5) | 15:15–15:29 | talking | NF 12133/12132 **EXTRAVIO** 🔴 |
-| 7 | Vanessa — SVITZER | 10 (3/7) | 11:08–15:15 | talking | Confirmação de entrega PO |
-| 8 | Jordana | 6 (2/4) | 11:05–15:04 | talking | Confirmação de entrega — cliente viajando |
-| 9 | Vanessa — SVITZER #2 | 6 (2/4) | 11:07–15:19 | talking | Confirmação de entrega NF 2656 |
-| 10 | Fernando Gutstein | 1 (0/1) | 13:14 | talking | **SEM RESPOSTA** 🔴 |
-| 11 | Ryan — Rodonaves | 8 (5/3) | 10:14–14:54 | talking | Follow-up operacional |
-| 12 | Adilson — Rodonaves #2 | 7 (5/2) | 15:09–15:15 | talking | Follow-up |
-| 13 | Márcio — Correios #2 | 6 (2/4) | 11:07–15:19 | talking | Rastreamento |
-| 14 | Jaffer — Vale Verde #2 | 5 (3/2) | 10:35–11:18 | talking | Follow-up coleta |
-| 15 | Jordana #2 | 4 (3/1) | 12:44–12:45 | talking | Confirmação |
-
-> **Top 15 cobre 191 das 200 mensagens (95,5%)**
+| # | Cliente | Msgs (A/C) | Horário | Status | Tipo | Tema |
+|---|---|---|---|---|---|---|
+| 1 | Raissa Santos — Jamef | 39 (20/19) | 11:23→15:43 | talking | 🚛 Transportadora | Carta de correção NF 2150/2149 + custo extra NF 2168 |
+| 2 | Isadora — Pajuçara | 35 (18/17) | 15:52→16:30 | talking | 🚛 Transportadora | Retomada pós-férias, volume de fretes, equipe |
+| 3 | Torre de Controle | 23 (13/10) | 09:39→16:03 | talking | 🚛 Transportadora | Reentrega NF 12065/12066, retirada pelo cliente ✅ |
+| 4 | Lucas C Martins (Otavio) | 21 (11/10) | 08:11→15:19 | talking | 👤 Cliente | Reentrega → retirada na base → **Resolvido** ✅ |
+| 5 | Márcio | 14 (8/6) | 16:56→17:35 | talking | 👤 Cliente | Status pedido #11000030119, rastreio Correios ✅ |
+| 6 | ALINE — JAMEF | 10 (5/5) | 08:52→09:58 | talking | 🚛 Transportadora | Alinhamento operacional Jamef |
+| 7 | Adilson — Rodonaves | 10 (5/5) | 15:15→15:29 | talking | 🚛 Transportadora | Coletas Rodonaves |
+| 8 | Jaffer — Vale Verde | 10 (3/7) | 11:08→15:15 | talking | 👤 Cliente | Coleta não realizada ⚠️ **Tensão** |
+| 9 | Larissa — PACIFICO | 10 (5/5) | 15:15→15:29 | waiting | 🚛 Transportadora | Operacional Pacífico |
+| 10 | Cristiane — Chales Elliotti | 7 (4/3) | 09:58→10:21 | talking | 👤 Cliente | Correção de endereço NF ✅ |
+| 11 | Davi Geraldini | 7 (5/2) | 15:09→15:15 | talking | 🚛 Transportadora | Extravio NF 12133/12132 |
+| 12 | Vanessa Cavallin — SVITZER | 6 (2/4) | 11:07→15:19 | talking | 👤 Cliente | Confirmação de entrega PO |
+| 13 | Jordana | 6 (2/4) | 11:05→15:04 | talking | 👤 Cliente | Confirmação de entrega (cliente viajando) |
+| 14 | RODONAVES COLETA | 4 (3/1) | 12:44→12:45 | talking | 🚛 Transportadora | Coleta agendada |
+| 15 | RODRIGO ANDRADE | 4 (3/1) | ... | talking | 👤 Cliente | Atendimento rápido |
 
 ---
 
 ## 5. CURVA HORÁRIA (BRT)
 
-| Hora BRT | Volume | % | Acumulado |
-|---|---|---|---|
-| 08h–09h | 4 | 2,0% | 2,0% |
-| 09h–10h | 19 | 9,5% | 11,5% |
-| 10h–11h | 6 | 3,0% | 14,5% |
-| 11h–12h | 41 | 20,5% | 35,0% |
-| 12h–13h | 4 | 2,0% | 37,0% |
-| 13h–14h | 5 | 2,5% | 39,5% |
-| 14h–15h | 5 | 2,5% | 42,0% |
-| 15h–16h | 79 | 39,5% | 81,5% |
-| 16h–17h | 30 | 15,0% | 96,5% |
-| 17h–18h | 7 | 3,5% | 100% |
+| Hora BRT | Mensagens | Intensidade |
+|---|---|---|
+| 08h-09h | 12 | ████ |
+| 09h-10h | 27 | ██████████ ⬆ Pico |
+| 10h-11h | 15 | ██████ |
+| 11h-12h | 41 | ███████████████ ⬆⬆ Pico |
+| 12h-13h | 4 | ██ |
+| 13h-14h | 5 | ██ |
+| 14h-15h | 5 | ██ |
+| 15h-16h | 79 | ████████████████████████████ ⬆⬆⬆ **Pico máximo** |
+| 16h-17h | 30 | ███████████ |
+| 17h-18h | 7 | ███ |
 
-**Picos:** 11h (41 msg), **15h (79 msg — pico absoluto)**, 16h (30 msg)
-
-> **Observação:** 54,5% do volume diário concentrado em apenas 2 horas (15h-17h). Isso sugere que Eduardo concentra follow-ups e resoluções no período da tarde. O intervalo 12h-14h (3h, apenas 14 msg) pode indicar horário de almoço ou trabalho operacional no armazém.
+**Análise:**
+- **3 picos bem definidos:** 09h-10h (27 msg), 11h-12h (41 msg), 15h-16h (79 msg — pico absoluto)
+- **Vale de almoço:** 12h-15h apenas 14 mensagens totais
+- **Concentração vespertina:** 64% de todo volume entre 15h-17h — Eduardo concentrou follow-ups e resoluções no fim da tarde
+- **Horário noble mal aproveitado:** Das 08h às 11h (manhã) apenas 54 msgs; quase metade do volume veio depois das 15h
 
 ---
 
 ## 6. TEMAS RECORRENTES
 
-### Palavras-Chave Logísticas Detectadas
+| Palavra-chave | Ocorrências | Contexto |
+|---|---|---|
+| **entrega** | 11 | Reentregas, confirmações, retirada na base |
+| **transportadora** | 7 | Coordenação com Jamef, Rodonaves, Pacífico, Pajuçara |
+| **endereço** | 7 | Correção de endereço (CCe), carta de correção |
+| **rastreio** | 2 | Consulta de tracking Correios |
+| **prazo** | 1 | Expectativa de entrega |
 
-| Termo | Ocorrências |
-|---|---|
-| **entrega** | 10 |
-| **endereço** | 6 |
-| **transportadora** | 5 |
-| **rastreio** | 2 |
-| **prazo** | 1 |
+**Temas agregados:**
 
-### Temas Agregados
+1. **Gestão de Transportadoras (≈58% do volume):** Eduardo dedica a maior parte do tempo a coordenar com Jamef, Pajuçara, Rodonaves, Pacífico e Torre de Controle. Isso é operacionalmente necessário mas reduz a largura de banda para clientes finais.
 
-1. **Coordenação com Transportadoras (60% do volume):** Jamef, Pajuçara, Rodonaves, Correios. Canais abertos contínuos para alinhamento operacional — não são tickets de cliente.
-2. **Reentregas e Retiradas (15%):** NFs 12066/12065 resolvidas com retirada pelo cliente na base da transportadora. Exemplo positivo.
-3. **Extravio de Carga (5%):** NFs 12133/12132 na Rodonaves — situação grave que requer escalonamento imediato.
-4. **Coleta Não Realizada (5%):** Jaffer/Vale Verde — transportadora não apareceu, ruído de comunicação sobre a data.
-5. **Rastreamento / Status de Pedido (10%):** Márcio (Correios) — resolvido com envio de código.
-6. **Follow-up de Entrega (5%):** Jordana (viajando), Vanessa/SVITZER (PO pendente).
+2. **Correção de Endereço / Carta de Correção:** Aparece em múltiplos chats (Jamef NF 2150/2149, Cristiane/Chales Elliotti). Processo recorente que consome tempo — avaliar automação ou template padrão.
+
+3. **Reentregas e Retiradas:** Lucas C Martins (cliente foi retirar na base) e Torre de Controle (reentrega programada). Eduardo está sendo proativo em oferecer alternativas.
+
+4. **Rastreio e Status de Pedido:** Demanda clássica de logística. Márcio recebeu tracking code Correios prontamente.
 
 ---
 
 ## 7. O QUE ACERTOU
 
-1. ✅ **Retirada ágil pelo cliente (Torre de Controle):** NFs 12066/12065 — cliente Lucas retirou no mesmo dia na base. Coordenação rápida entre Eduardo → Marjory → unidade local. Resolução em ~2h.
-2. ✅ **Rastreamento Correios (Márcio):** Código AD636776146BR enviado com link direto para rastreamento. Cliente agradeceu e desejou bom final de semana. Atendimento completo.
-3. ✅ **Proatividade com Jordana:** Eduardo tomou iniciativa de perguntar se a entrega ocorreu, mesmo sem solicitação do cliente. Boa prática de pós-venda.
-4. ✅ **Tom profissional e próximo com transportadoras:** Diálogo com Raissa (Jamef) e Isadora (Pajuçara) demonstra bom relacionamento construído — uso de "amiga", "fica tranquila", tom pessoal que facilita resoluções.
-5. ✅ **Jornada consistente:** 08:11 às 17:35 sem gaps superiores a 2h entre atividades.
+### ✅ Resolução rápida do Lucas C Martins
+Cliente estava com entrega pendente. Eduardo ofereceu reentrega e, quando o cliente sugeriu retirada, coordenou com a transportadora em menos de 2 horas. Cliente retirou a mercadoria no mesmo dia. **Excelente proatividade.**
+
+### ✅ Atendimento completo ao Márcio
+Cliente pediu status do pedido #11000030119. Eduardo respondeu em 6 minutos com rastreio dos Correios (AD636776146BR), link direto para consulta e previsão realista. Chat encerrado com cliente satisfeito.
+
+### ✅ Proatividade com Cristiane (Chales Elliotti)
+Eduardo identificou divergência de endereço na NF, contatou a cliente, obteve o endereço correto e repassou à transportadora — tudo antes que o problema virasse um atraso na entrega.
+
+### ✅ Retomada pós-férias
+Eduardo voltou de férias e imediatamente retormou contato com as transportadoras parceiras (Isadora/Pajuçara, Raissa/Jamef), demonstrando compromisso com os relacionamentos operacionais.
 
 ---
 
 ## 8. PONTOS A MELHORAR
 
-### 🔴 Críticos
+### 🔴 Fernando Gutstein — 0 respostas
+Cliente enviou "Boa tarde" e não recebeu nenhuma resposta. Inaceitável. Investigar se o chat não foi roteado corretamente ou se Eduardo simplesmente perdeu. **Cliente pode ter ido para concorrência.**
 
-1. **Fernando Gutstein — 0 respostas:** Um cliente mandou mensagem às 13:14 e nunca foi respondido. Isso é inadmissível. Possível falha de notificação ou sobrecarga no horário.
-2. **Extravio Rodonaves sem follow-up:** NFs 12133 e 12132 marcadas como extravio. Adilson disse "vou verificar" às 15:29 — fim do dia sem retorno. Precisa de cobrança ativa na segunda-feira.
-3. **Jaffer/Vale Verde — coleta fantasma:** Eduardo informou coleta "amanhã" (04/07) às 11:08, mas cliente entendeu "hoje" (03/07). A transportadora de fato não apareceu em nenhum dos dois entendimentos. Falta de clareza na comunicação + ausência de follow-up pós 15:15.
+### 🔴 Transportadora não compareceu (Jaffer/Vale Verde)
+Eduardo informou que a transportadora coletaria e não cumpriu. Quando o cliente confirmou que ninguém apareceu, Eduardo não deu retorno final. **Falta de follow-up com cliente + falta de cobrança à transportadora.**
 
-### 🟡 Processos
+### 🟡 Concentração de volume no fim da tarde
+79 mensagens (35% do dia) concentradas entre 15h-16h. Isso sugere que Eduardo acumula demandas da manhã para resolver em lote à tarde. Embora eficiente para ele, clientes que contataram cedo (como Vanessa Cavallin às 11:07) esperaram mais de 4 horas por uma resposta simples.
 
-4. **Concentração excessiva às 15h:** 39,5% das mensagens em uma única hora. Isso sugere que Eduardo acumula demandas para resolver em bloco, gerando gargalo e potencial perda de SLA para clientes que contataram mais cedo.
-5. **Intervalo 12h-14h quase vazio:** Apenas 14 mensagens em 3 horas. Se for horário de almoço + trabalho de armazém, tudo bem — mas os clientes que mandam msg nesse período (ex: Fernando às 13:14) ficam sem resposta.
-6. **Toque único elevado (30%):** 6 chats com 1-2 mensagens. Destes, 2 são clientes reais com demanda não resolvida (Fernando e Jordana #2). Reduzir para < 25% requer follow-up proativo.
+### 🟡 Baixo índice de fechamento formal
+Apenas 2 chats formalmente fechados. Embora transportadoras fiquem "talking" por natureza, os chats de clientes resolvidos deveriam ser encerrados para não poluir a fila e gerar métricas falsas de backlog.
 
-### 🟢 Oportunidades
-
-7. **Baixo uso de rastreamento proativo:** Apenas 2 menções a "rastreio". Eduardo poderia enviar códigos de rastreamento preventivamente ao invés de esperar o cliente pedir.
-8. **Fechamento de chats:** 18/20 chats em "talking". Embora muitos sejam canais de transportadora, os de cliente deveriam ser fechados após confirmação de resolução.
+### 🟡 Tempo de resposta variável
+- Resposta rápida: Márcio (6 min), Raissa/Jamef (imediato)
+- Resposta lenta: Vanessa Cavallin (4h07min entre msg do cliente e resposta do Eduardo), Jaffer (1h16min para follow-up)
 
 ---
 
 ## 9. PLANO DE AÇÃO
 
-### Para Hoje (Segunda-feira, 06/07)
+### 🚨 Para HOJE (06/07 - Segunda-feira)
 
-| # | Ação | Responsável | Prazo |
-|---|---|---|---|
-| 1 | 🔴 **Cobrar Adilson/Rodonaves** sobre NFs 12133 e 12132 em extravio. Se necessário, escalar para gerência da transportadora e abrir ocorrência formal. | Eduardo | Até 10h |
-| 2 | 🔴 **Entrar em contato com Fernando Gutstein** imediatamente — pedir desculpas pela ausência de resposta e resolver a demanda. | Eduardo | Até 09h |
-| 3 | 🟡 **Verificar coleta Jaffer/Vale Verde** — a transportadora apareceu no sábado (04/07)? Se não, reagendar com urgência e comunicar claramente data/horário. | Eduardo | Até 10h |
-| 4 | 🟡 **Cobrar retorno do Comercial** sobre custo extra NF 2168 (Jamef) e mudança de endereço. Raissa está sendo cobrada pela operação dela. | Eduardo → Comercial | Até 12h |
-| 5 | 🟡 **Follow-up Jordana** — vizinha confirmou entrega? Fechar o ciclo. | Eduardo | Até 14h |
-| 6 | 🟡 **Responder Vanessa/SVITZER** com informação completa do PO. A resposta "NF 2656 PEDIDO 95264" foi insuficiente. | Eduardo | Até 11h |
-
-### Melhorias de Processo
-
-| # | Melhoria | Impacto |
+| # | Ação | Responsável |
 |---|---|---|
-| 7 | **Cobertura de almoço:** Implementar revezamento ou notificação para que mensagens entre 12h-14h não fiquem >1h sem resposta. | Reduz ghosting |
-| 8 | **Template de follow-up:** Criar mensagem padrão para pós-coleta/entrega: "Olá [nome], a transportadora realizou a coleta/entrega? Ficou tudo certo?" | Aumenta fechamento |
-| 9 | **Rastreio proativo:** Para todo cliente que pergunta sobre pedido, enviar código + link dos Correios na primeira resposta. | Reduz toque único |
-| 10 | **Escalonamento de extravio:** Criar fluxo: Extravio detectado → notificar supervisor → abrir ocorrência formal em 24h → follow-up 48h. | Reduz risco |
+| 1 | **Contatar Fernando Gutstein** — pedir desculpas e entender a demanda. Chat # 260703196xxx | Eduardo |
+| 2 | **Acionar transportadora do Jaffer/Vale Verde** — por que a coleta não foi realizada em 03/07? Reprogramar e avisar cliente. | Eduardo |
+| 3 | **Responder Raissa/Jamef sobre custo extra NF 2168** — cobrar retorno do Comercial com urgência. | Eduardo → Comercial |
+| 4 | **Follow-up Vanessa Cavallin** — a filial já confirmou a entrega da NF 2656? | Eduardo |
+
+### 📋 Melhorias de Processo
+
+| # | Ação | Prazo |
+|---|---|---|
+| 1 | **Implementar checklist de fim de dia:** Antes de sair, revisar todos os chats do dia e garantir que nenhum cliente ficou sem resposta. | Imediato |
+| 2 | **Template de carta de correção:** Criar mensagem padrão para solicitação de endereço corrigido — aparece em ~30% dos chats. | Esta semana |
+| 3 | **Distribuir carga horária:** Avaliar se é possível responder clientes da manhã antes das 14h, evitendo acúmulo. | Esta semana |
+| 4 | **Fechar chats resolvidos:** Adotar o hábito de encerrar formalmente chats de clientes quando o assunto for concluído. | Imediato |
 
 ---
 
 ## 10. CHECKLIST DE QUALIDADE
 
-- [ ] 🔴 **Rastreios enviados proativamente?** — Apenas 1 caso (Márcio). Os demais clientes que perguntaram sobre entrega não receberam código de rastreio.
-- [x] 🟡 **Casos urgentes escalados?** — NFs em extravio (Rodonaves) foram comunicadas ao contato da transportadora, mas não escaladas a supervisor/gerência.
-- [ ] 🔴 **Transportadoras notificadas sobre pendências?** — Coleta Vale Verde e extravio Rodonaves estão sem resolução. Notificações formais pendentes.
-- [ ] 🔴 **Todos os clientes tiveram retorno?** — Fernando Gutstein: NÃO. Jordana: retorno parcial. Vanessa SVITZER: retorno insuficiente. 3/16 clientes (18,8%) ficaram com retorno abaixo do aceitável.
-
-### Resumo do Checklist: 0/4 concluídos, 1/4 parcial, 3/4 pendentes
+- [ ] **Rastreios foram enviados?** ✅ Sim — Márcio recebeu código de rastreio Correios AD636776146BR com link.
+- [ ] **Casos urgentes foram escalados?** ⚠️ Pendente — Fernando Gutstein (sem resposta) e Jaffer/Vale Verde (coleta não realizada) precisam de ação imediata hoje.
+- [ ] **Transportadoras foram notificadas sobre pendências?** ⚠️ Parcial — Jamef foi notificada (custo extra, carta de correção). Transportadora do Jaffer/Vale Verde **não foi cobrada** pelo não comparecimento.
+- [ ] **Todos os clientes tiveram retorno?** 🔴 Não — Fernando Gutstein ficou sem resposta. Jaffer/Vale Verde ficou sem retorno final. Vanessa Cavallin aguardando follow-up.
 
 ---
 
-## 📎 Notas Técnicas
+> 📊 **Resumo da Sexta:** 225 mensagens, 26 chats. Dia produtivo com casos bem resolvidos (Lucas, Márcio, Cristiane), mas com **2 falhas críticas** que exigem ação imediata na segunda-feira: o cliente ignorado (Fernando Gutstein) e a coleta não realizada (Jaffer/Vale Verde).
 
-- **Fonte:** SQL Server `hotel-finder`, schema `octa` (tabelas `octa.chats` + `octa.conversas`)
-- **Período UTC:** 2026-07-03 03:00:00 → 2026-07-04 03:00:00
-- **Total de mensagens processadas:** 200 (100% do universo do dia)
-- **Análise qualitativa:** Leitura completa dos 3 chats principais (39 + 35 + 23 = 97 mensagens) + varredura complementar de todos os chats com sinais de tensão e baixo engajamento (mais 8 chats analisados em profundidade)
-- **Chats analisados em profundidade:** 11/20 (55%) cobrindo 191/200 mensagens (95,5%)
-- **Limitação:** 2 chats com status "closed" contêm 198 mensagens — indica que as conversas fechadas são justamente as de maior volume, sugerindo que o campo `status` em `octa.conversations` pode não refletir com precisão o estado real dos tickets de cliente vs. canais de transportadora
+---
+*Relatório gerado automaticamente por Tobias (Gerente de Logística) via Hermes Agent — 06/07/2026*
