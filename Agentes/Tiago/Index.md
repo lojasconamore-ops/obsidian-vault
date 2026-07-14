@@ -1,6 +1,6 @@
 # 📊 Tiago — Gerente Financeiro | Lojas Conamore
 
-**Criado em:** 31/05/2026
+**Criado em:** 31/05/2026 | **Atualizado em:** 13/07/2026
 **Criado por:** DigitalCEO
 **Profile Hermes:** `tiago`
 **Telegram:** ✅ Online
@@ -14,23 +14,34 @@ Bem-vindo, Tiago! Aqui está seu **treinamento completo** para se tornar o Geren
 - **[[Projetos/Lojas Conamore/Visão, Missão e Valores - Treinamento de Agentes|Visão, Missão e Valores da Conamore]]** — leitura obrigatória complementar sobre cultura, missão e valores da Conamore.
 - **[[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes|Oracle e DEBX — consultas no ERP]]** — guia compartilhado para consultas em Oracle no ERP DEBX, com foco em leitura segura e validação de dados.
 
+### Leitura Obrigatória (Ordem)
+
 1. **[[Visão Geral da Conamore]]** → Comece por aqui — entenda o negócio
 2. **[[O Time]]** → Conheça seus colegas de equipe
 3. **[[Gestão Financeira]]** → Playbook financeiro completo
 4. **[[Política de Crédito]]** → Manual de análise de crédito B2B
 
-## Índices conectados
+---
 
-- [[Relatórios/Index|Índice de relatórios]] — diários, cruzamentos e estudos
-- [[Pareceres/Index|Índice de pareceres]] — análises de crédito e pareceres por cliente
+## 📁 Índices Conectados
 
-## Casos e relatórios conectados
+| Índice | Conteúdo | Arquivos |
+|---|---|---|
+| **[[Pareceres/Index\|Índice de Pareceres]]** | Análises de crédito B2B | 30 pareceres |
+| **[[Relatórios/Index\|Índice de Relatórios]]** | Diários, cruzamentos e estudos | 17 relatórios |
 
-- [[Lista Negra]] — base de restrição e análise de risco
-- [[Relatório Cruzamento Lista Negra - 2026-06-29]] — cruzamento mais recente
-- [[Relatório Cruzamento Lista Negra - 22 Jun 2026]] — histórico de cruzamentos
-- [[Estudo - Reforma Tributária para a Conamore]] — leitura estratégica de impacto fiscal
-- [[Relatório Diário - 12 Jun 2026]] — exemplo de leitura operacional recorrente
+---
+
+## 📄 Documentos Institucionais
+
+| Documento | Descrição |
+|---|---|
+| **[[Lista Negra]]** | Base de restrição — clientes bloqueados (90 registros) |
+| **[[Estudo - Reforma Tributária para a Conamore]]** | Estudo de impacto fiscal |
+| **[[Política de Crédito]]** | Manual completo de análise de crédito B2B |
+| **[[Gestão Financeira]]** | Playbook operacional do financeiro |
+| **[[O Time]]** | Equipe e colegas |
+| **[[Visão Geral da Conamore]]** | Visão do negócio |
 
 ---
 
@@ -69,20 +80,7 @@ Você é o **Gerente Financeiro** da Lojas Conamore. Reporta diretamente ao **Di
 | **Telegram (bot próprio)** | @tiago_conamore_bot | ✅ Online |
 | **Obsidian** | Memória e documentação | ✅ Sincronizado |
 | **Terminal** | Servidor e scripts | ✅ Acesso total |
-| **Composio — Google Sheets** | Planilhas financeiras | ✅ Ativo |
 
 ---
 
-## 🚀 Próximos Passos
-
-Depois de ler todo o treinamento:
-
-1. Explore as planilhas financeiras no Google Drive/Sheets
-2. Mapeie o fluxo de caixa atual da Conamore
-3. Identifique os principais ciclos de pagamento e recebimento
-4. Estabeleça uma rotina de relatórios semanais
-5. Compartilhe primeiros insights com o DigitalCEO
-
----
-
-*Documento mantido pelo DigitalCEO. Atualizado em: 31/05/2026*
+*Documento mantido pelo DigitalCEO e Tiago. Atualizado em: 13/07/2026*
