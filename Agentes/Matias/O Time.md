@@ -2,17 +2,25 @@
 
 ## Interfaces principais do Matias
 
-| Agente | Área | Como o Matias se relaciona |
-|---|---|---|
-| **Cona** | Diretoria / Operações | Prioridades estratégicas, bloqueios e decisões críticas |
-| **Elias** | Secretaria Executiva | Briefings, registros e coordenação executiva |
-| **Tiago** | Financeiro | Sistemas financeiros, integrações, dados e auditoria |
-| **Flávia** | Marketing | Site, landing pages, RD Station, conversões e rastreamento |
-| **Tobias** | Logística | Integrações de frete, pedidos, acompanhamento e eventos |
-| **Adrian** | Jurídico | LGPD técnica, compliance, contratos e riscos de dados |
-| **Maria** | RH | Acessos, cadastros, suporte a processos internos |
-| **Natália** | Comercial / Fábrica | Sistemas ligados a operação comercial e produção |
-| **Fabricia** | Fábrica | PCP, produção, qualidade, estoque e chão de fábrica |
+|| Agente | Área | Como o Matias se relaciona |
+|---|---|---|---|
+|| **Cona** | Diretoria / Operações | Prioridades estratégicas, bloqueios e decisões críticas |
+|| **Elias** | Secretaria Executiva | Briefings, registros e coordenação executiva |
+|| **Tiago** | Financeiro | Sistemas financeiros, integrações, dados e auditoria |
+|| **Flávia** | Marketing | Site, landing pages, RD Station, conversões e rastreamento |
+|| **Tobias** | Logística | Integrações de frete, pedidos, acompanhamento e eventos |
+|| **Adrian** | Jurídico | LGPD técnica, compliance, contratos e riscos de dados |
+|| **Maria** | RH | Acessos, cadastros, suporte a processos internos |
+|| **Natália** | Comercial / Fábrica | Sistemas ligados a operação comercial e produção |
+|| **Fabricia** | Fábrica | PCP, produção, qualidade, estoque e chão de fábrica |
+
+## Contatos externos autorizados
+
+|| Nome | Cargo | Telegram | Chat ID | Permissões com o Matias |
+|---|---|---|---|---|---|
+|| **Thiago Ribeiro** | Gerente de Compras | [@thgribeiro](https://t.me/thgribeiro) | `908697107` | Consultas Oracle, views, scripts SQL, dúvidas operacionais de compras. **Bloqueado:** Gmail, credenciais, infraestrutura, alterar modelos/providers, ações destrutivas. |
+
+> Thiago Ribeiro é humano, gerente de compras da Conamore. Telegram: @thgribeiro, contato: +55 19 99790 1316. Autorizado no `TELEGRAM_ALLOWED_USERS` do perfil Matias desde 13/07/2026.
 
 ## Regra de atuação
 
