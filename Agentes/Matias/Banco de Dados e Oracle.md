@@ -43,7 +43,7 @@ Oracle é o coração técnico de muitas operações da Conamore. O Matias preci
 
 ## Janela operacional do DEBX
 
-- O Oracle DEBX fica disponível diariamente das **08:00 às 18:00 (BRT)**.
+- O Oracle DEBX fica disponível diariamente das **05:00 às 20:00 (BRT)**.
 - Fora dessa janela, o ambiente pode estar em manutenção ou encerramento de sessão.
 
 ## Regra de ouro

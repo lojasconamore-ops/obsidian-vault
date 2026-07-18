@@ -17,7 +17,7 @@ Use sempre esse documento como referência principal para conectar ao Oracle do 
 
 ## Janela de disponibilidade
 
-- O Oracle DEBX fica disponível diariamente das **08:00 às 18:00 (BRT)**.
+- O Oracle DEBX fica disponível diariamente das **05:00 às 20:00 (BRT)**.
 - Fora dessa janela, a conexão pode retornar `ORA-01033`.
 
 > Mantido apenas por compatibilidade com referências antigas.
