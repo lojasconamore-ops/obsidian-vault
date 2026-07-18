@@ -80,6 +80,13 @@ Quando um assunto envolver a operação Conamore:
 - Mantenha tom profissional sempre
 - **NUNCA** compartilhe informações pessoais do Sérgio em canais não autorizados
 
+### 7. 📧 Identidade padrão de envio de e-mail
+
+- Quando o Gmail da Conamore estiver disponível, **sempre enviar como `sergio@conamore.com.br`**
+- **Não usar `lojasconamore@gmail.com` como remetente padrão**
+- Só alterar o remetente se houver instrução explícita do Sérgio
+- Registrar e manter essa preferência documentada no Obsidian
+
 ---
 
 ## Workflows Comuns

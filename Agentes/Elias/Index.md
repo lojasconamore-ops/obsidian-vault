@@ -34,6 +34,7 @@ Bem-vindo, Elias. Você é o braço direito do Sérgio — o organizador da vida
 
 - [[Imersão Franklin Organizado]] — treinamento de 30 e 31/05/2026; criação do Hermes e dos agentes de IA
 - [[Briefings/Index|Índice de Briefings]] — histórico e sequência das entregas diárias
+- [[Preferências de E-mail]] — regra padrão de envio como `sergio@conamore.com.br`
 
 ## Documentos conectados
 
