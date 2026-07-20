@@ -1,5 +1,6 @@
 # 📦 RELATÓRIO DIÁRIO DE ATENDIMENTO — LOGÍSTICA
-**Data:** 17/07/2026 (sexta-feira) | **Atendente:** Eduardo | **Fonte:** Octadesk | ⏰ Horários em BRT (UTC-3)
+**Data:** 17/07/2026 (Sexta-feira) | **Atendente:** Eduardo | **Fonte:** Octadesk | ⏰ BRT
+> ⚠️ Relatório originalmente programado para 19/07 (domingo, sem atividade). Analisando 17/07, último dia útil com dados.
 
 ---
 
@@ -7,71 +8,76 @@
 
 | Métrica | Valor |
 |---|---|
-| Total de mensagens | 66 |
-| Total de chats | 11 |
-| Clientes distintos | 8 |
-| Mensagens do agente (Eduardo) | 33 (50%) |
-| Mensagens dos clientes | 33 (50%) |
-| Jornada de atendimento | 09:08 → 18:45 (9h37min) |
-| Média de mensagens por chat | 6,0 |
-| Chats com transportadoras | 2 (Pacífico, Pajuçara) |
-| Chats com clientes finais | 9 |
+| **Total de mensagens** | 153 |
+| **Total de chats** | 21 |
+| **Clientes distintos** | 17 |
+| **Mensagens do agente** | 78 (51,0%) |
+| **Mensagens de clientes** | 75 (49,0%) |
+| **Jornada** | 08:19 → 18:45 BRT (10h26min) |
+| **Média msg/chat** | 7,3 ✅ |
+| **Pico de atividade** | 09:00–10:00 BRT (45 msgs) |
 
-✅ **Split equilibrado** (50/50 agente/cliente). ⚠️ **Lacuna de atendimento** entre ~11h e ~15h — sem atividade registrada. 🔴 **Fechamento baixo** — apenas 4 de 11 chats fechados (36%), ou 4 de 9 clientes (44%).
+> ⚠️ **Atenção:** Dos 21 chats, aproximadamente 6 são canais de transportadora/operacionais (Pacífico, LTTI, Correios, Rodonaves), que permanecem em "talking" permanentemente. Dos ~15 chats com clientes finais, apenas 1 foi formalmente fechado. Os demais 14 chats de cliente seguem abertos, sendo que 4 deles apresentam sinais preocupantes de abandono (ver Seção 2).
 
 ---
 
 ## 2. ⚠️ ATENÇÃO CRÍTICA
 
-### 🚨 Casos que exigem ação IMEDIATA
+### 🚨 Prioridade Imediata (hoje)
 
-| # | Cliente | Sinal observado | Trecho real | Motivo | Prioridade |
-|---|---|---|---|---|---|
-| 1 | **Maisa** | Ghosted — pedido de rastreio sem resposta | *"Boa tarde, gostaria de rastrear meu pedido"* (16:47) | Cliente pediu rastreio do pedido 300-0003877-2. Eduardo NUNCA respondeu após a mensagem inicial de saudação. Cliente está há 1 dia sem retorno. | 🔴 **Imediata** |
-| 2 | **carol** | Ghosted — novo endereço enviado sem confirmação | *"Al. Santa joana, 143 Jardim Theodora Itu/SP — CEP 13301-866"* (16:50) | Mercadoria retornou à Conamore. Eduardo perguntou se podia reenviar, cliente deu novo endereço... e o chat morreu. Sem confirmação de recebimento do endereço. | 🔴 **Imediata** |
-| 3 | **Magda Rosa** | Chat 1 — reentrega pendente (fechado sem resolução) | *"Posso pedir para reentregar novamente no mesmo endereço?"* (15:41) | Tentativa de entrega falhou (após 18:30). Eduardo ofereceu reentrega, mas chat foi fechado sem confirmação da cliente. | 🟡 **Hoje** |
-| 4 | **Magda Rosa** | Chat 2 — retomada sem resposta | *"Sim"* (18:45) | Eduardo tentou retomar contato às 15:49. Cliente respondeu "Sim" às 18:45 (pós-expediente). Sem follow-up. | 🟡 **Hoje** |
+| # | Cliente | Sinal | Trecho Real | Motivo |
+|---|---|---|---|---|
+| 1 | **Maisa** | Ghosted — sem resposta do agente | *"Boa tarde, gostaria de rastrear meu pedido"* (16:47) | Cliente entrou pelo site, passou e-mail e número do pedido (300-0003877-2). Eduardo enviou saudação padrão às 16:46, cliente respondeu com o pedido às 16:47 — e nada mais. Cliente ficou sem o rastreio. |
+| 2 | **Raquel (Pouso & Prosas)** | Low ratio — 2A/5C, agente abandonou | *"Não chegou não... O que chegou foi um outro pedido, de outro fornecedor"* (08:20) | Cliente abriu o dia com reclamação de entrega não recebida. Eduardo respondeu apenas "Irei entrar em contato com a transportadora cobrando" às 08:23. Nenhum follow-up desde então. 🕐 10h+ sem retorno. |
+| 3 | **carol** | Ghosted — novo endereço sem confirmação | *"Al. Santa joana, 143 Jardim Theodora Itu/SP — CEP 13301-866"* (16:50) | Mercadoria retornou à Conamore. Carol passou novo endereço para reenvio. Eduardo não confirmou recebimento nem deu prazo. |
+| 4 | **Fernando** | Ghosted — objeção não tratada | *"Bom dia Eduardo, não tenho portaria aqui"* (08:56) | Eduardo perguntou sobre entrega na portaria. Fernando respondeu que não tem portaria. Sem retorno desde 08:56. 🕐 9h+ sem resposta. |
 
-### 📋 Transportadoras (não-críticas)
+### ⚠️ Prioridade Hoje
 
-| Contato | Situação | Observação |
+| # | Cliente | Sinal | Trecho Real | Motivo |
+|---|---|---|---|---|
+| 5 | **Magda Rosa (#11000029981)** | Tempo de resposta: 5h52min | *"Ontem tentaram entregar... porém não conseguiram, acredito que por conta de ser depois das 18:30"* (09:49) | Cliente reportou tentativa de entrega frustrada. Eduardo só respondeu às 15:41 — quase 6h depois. O chat está marcado como "closed" mas não há confirmação da cliente sobre a reentrega. |
+| 6 | **Magda Rosa (2º chat)** | Resposta pós-jornada pendente | *"Sim"* (18:45) | Eduardo retomou contato às 15:49, cliente respondeu "Sim" às 18:45 (após jornada). Precisa de follow-up hoje cedo. |
+
+### ℹ️ Monitorar
+
+| # | Cliente | Situação |
 |---|---|---|
-| Larissa PACIFICO | Ghosted — última msg "a graziela" (10:02) | Conversa sobre cadastro/cotação. Natureza operacional, não requer fechamento formal. |
-| Marcelo Santarosa (Pajuçara) | Ghosted — "Vou verificar e retorno" (11:04) | Quer falar sobre coletas. Transportadora, aguardando retorno deles. |
+| 7 | **Beneficencia** | Eduardo enviou msg proativa sobre atraso da transportadora (09:39). Sem resposta do cliente. |
+| 8 | **marcelo (Correios)** | Material disponível para retirada na agência. Eduardo enviu código de rastreio (15:43). Aguardando. |
+| 9 | **magda** | Transportadora não localizou responsável. Eduardo notificou (08:42). Sem resposta. |
 
 ---
 
 ## 3. MÉTRICAS DE ATENDIMENTO
 
-### 3.1 Engajamento por Chat
+### Engajamento por Chat
 
-| Classificação | Critério | Qtd | % | Alerta |
-|---|---|---|---|---|
-| 🔥 Alta | 8+ mensagens | 5 | 45,5% | ✅ (meta >40%) |
-| 📊 Média | 3–7 mensagens | 2 | 18,2% | — |
-| 👆 Toque único | 1–2 mensagens | 4 | 36,4% | ⚠️ (meta <25%) |
+| Classificação | Chats | % | Status |
+|---|---|---|---|
+| **Alta (8+ msgs)** | 9 | 42,9% | 🟡 Abaixo do ideal (esperado > 60%) |
+| **Média (3–7 msgs)** | 4 | 19,0% | ✅ |
+| **Toque único (1–2 msgs)** | 8 | 38,1% | 🟡 Elevado (esperado < 25%) |
 
-**Análise:** % Alta dentro da meta, mas % Toque único preocupa. Três chats de 1 msg são agent-only (Eduardo iniciando contato), e 1 chat de 2 msgs ficou sem follow-up (Magda Rosa "Sim").
+> **Nota:** 4 dos 8 chats de "toque único" são mensagens proativas do Eduardo para clientes (avisos de entrega, retirada em agência, atraso de transportadora) — o que é positivo. Porém, 4 são interações onde o cliente falou e o agente não deu continuidade (Maisa, Raquel, Fernando, Magda Rosa 2º chat), o que é preocupante.
 
-### 3.2 Status dos Chats
+### Status dos Chats
 
-| Status | Qtd | % |
+| Status | Mensagens | % Mensagens |
 |---|---|---|
-| 🟢 Talking (em andamento) | 7 | 63,6% |
-| ⚫ Closed (fechado) | 4 | 36,4% |
-| 🔴 Waiting (aguardando) | 0 | 0% |
+| **Talking (em aberto)** | 140 | 91,5% |
+| **Closed (fechado)** | 13 | 8,5% |
 
-🔴 **Alerta: % fechados = 36,4%** (meta >70%). Mesmo excluindo transportadoras, clientes = 44,4%. **Transportadoras** (Pacífico, Pajuçara) naturalmente ficam "talking" — são canais operacionais contínuos. O problema real está nos **5 clientes finais que permanecem "talking" sem resolução**.
+> 🔴 **% Fechados: 8,5%** — muito abaixo do esperado (> 70%). Porém, contextualizando: canais de transportadora (Pacífico, LTTI, Correios) são operacionais e nunca fecham. Excluindo transportadoras, ~1 de 15 chats de cliente foi fechado (6,7%). **A maioria dos chats de cliente real permanece aberta sem conclusão formal.**
 
-### 3.3 Jornada de Atendimento
+### Distribuição Agente vs Cliente
 
-| Indicador | Valor |
-|---|---|
-| Início | 09:08 BRT |
-| Término | 18:45 BRT |
-| Duração total | 9h37min |
-| Horas com atividade | 6 (09h, 10h, 11h, 15h, 16h, 18h) |
-| Horas sem atividade | ~4h (12h–14h) |
+| Origem | Mensagens | % |
+|---|---|---|
+| **Agente (Eduardo + Octabot + Maria Fabi)** | 78 | 51,0% |
+| **Contatos (clientes + transportadoras)** | 75 | 49,0% |
+
+> ✅ Balanço equilibrado. Porém, 28 das 78 mensagens do lado "agente" são do Octabot (saudação automática e menu) e 3 são da Maria Fabi (handoff interno). Mensagens efetivas do Eduardo: ~47. A proporção real Eduardo/Cliente fica em ~0,63 — abaixo do ideal de 1,0.
 
 ---
 
@@ -79,19 +85,31 @@
 
 | # | Cliente | Msgs (A/C) | Horário | Status | Tema |
 |---|---|---|---|---|---|
-| 1 | Larissa PACIFICO 🚛 | 14 (5/9) | 09:08–10:02 | talking | Ativação de cadastro transportadora |
-| 2 | Edmilson® 👤 | 11 (5/6) | 15:05–15:33 | talking | Rastreio pedido 11000030358 ✅ |
-| 3 | Maisa 👤 ⚠️ | 9 (4/5) | 16:45–16:47 | talking | Rastreio pedido 300-0003877-2 🚨 |
-| 4 | Magda Rosa 👤 | 9 (5/4) | 09:47–15:41 | closed | Falha na entrega, reentrega pendente |
-| 5 | carol 👤 ⚠️ | 8 (3/5) | 15:48–16:50 | talking | Devolução + novo endereço 🚨 |
-| 6 | Bruna Chalés 👤 | 5 (4/1) | 16:48–16:49 | talking | Aviso de entrega programada |
-| 7 | Marcelo Santarosa 🚛 | 5 (3/2) | 10:56–11:04 | talking | Coletas Pajuçara |
-| 8 | Magda Rosa 👤 | 2 (1/1) | 15:49–18:45 | talking | Retomada de contato 🟡 |
-| 9 | carol 👤 | 1 (1/0) | 15:48 | closed | Saudação (chat auxiliar) |
-| 10 | marcelo 👤 | 1 (1/0) | 15:43 | closed | Rastreio Correios (agência) |
-| 11 | carol 👤 | 1 (1/0) | 15:47 | closed | Saudação (chat auxiliar) |
+| 1 | **comercial pacifico** 🏢 | 28 (14/14) | 09:46–16:13 | talking | Cotação frete Marau/BA — cadastro e taxa TDA |
+| 2 | **Carla Macedo (via Maria)** 👤 | 20 (12/8) | 08:46–17:13 | talking | Entrega Correios não recebida (PED 109040) — ✅ resolvido |
+| 3 | **Larissa PACIFICO** 🏢 | 14 (5/9) | 09:08–10:02 | talking | Ativação cadastro + cotação |
+| 4 | **Suporte LTTI** 🏢 | 14 (5/9) | 10:14–11:05 | talking | Reenvio SEDEX — CEP sem entrega |
+| 5 | **Edmilson®** 👤 | 11 (5/6) | 15:05–15:33 | talking | Rastreio PED 11000030358 — ✅ código enviado |
+| 6 | **Magda Rosa** 👤 | 9 (5/4) | 09:47–15:41 | ✅ closed | Tentativa entrega #11000029981 — reentrega solicitada |
+| 7 | **Maisa** 👤 | 9 (4/5) | 16:45–16:47 | talking | Rastreio PED 300-0003877-2 — 🚨 sem retorno |
+| 8 | **Kleber (Ancona Center Hotel)** 👤 | 9 (5/4) | 09:37–09:59 | talking | NF mestre + confirmação de entrega — ✅ ok |
+| 9 | **carol** 👤 | 8 (3/5) | 15:48–16:50 | talking | Devolução Correios + novo endereço — 🚨 sem retorno |
+| 10 | **Eduardo (Raquel/Pouso & Prosas)** 👤 | 7 (2/5) | 08:19–08:23 | talking | "Não chegou" — 🚨 sem follow-up |
+| 11 | **Bruna (Chalés Ninho Das Aves)** 👤 | 5 (4/1) | 16:48–16:49 | talking | Aviso de entrega — ✅ ok |
+| 12 | **Marcelo Santarosa** 🏢 | 5 (3/2) | 10:56–11:04 | talking | Coordenação motorista |
+| 13 | **Fernando** 👤 | 3 (2/1) | 08:55–08:56 | talking | "Não tenho portaria" — 🚨 sem retorno |
+| 14 | **Magda Rosa (2º)** 👤 | 2 (1/1) | 15:49–18:45 | talking | Retomada de atendimento — pendente |
+| 15 | **Adilson Rodonaves** 🏢 | 2 (2/0) | 08:25 | talking | NF 438 — cobrança de entrega |
 
-**Legenda:** 🚛 = Transportadora/Interno | 👤 = Cliente final | 🚨 = Crítico | 🟡 = Atenção
+> 🏢 = Transportadora/Operacional | 👤 = Cliente final
+
+**Chats adicionais (fora do top 15, apenas mensagens proativas do Eduardo):**
+| # | Cliente | Msgs | Horário | Tema |
+|---|---|---|---|---|
+| 16 | **FÁBIO CORREIOS** 🏢 | 1 (0/1) | 08:43 | Entrega 14/07 contestada pelo cliente |
+| 17 | **Beneficencia** 👤 | 1 (1/0) | 09:39 | Aviso de atraso da transportadora |
+| 18 | **marcelo (Correios)** 👤 | 1 (1/0) | 15:43 | Material disponível p/ retirada |
+| 19 | **magda** 👤 | 2 (2/0) | 08:42 | Transportadora não localizou responsável |
 
 ---
 
@@ -99,18 +117,21 @@
 
 | Hora BRT | Volume | Visual |
 |---|---|---|
-| 09h | 19 | ██████████████████ |
-| 10h | 6 | ██████ |
-| 11h | 2 | ██ |
-| 12h | 0 | — |
-| 13h | 0 | — |
-| 14h | 0 | — |
-| 15h | 17 | █████████████████ |
-| 16h | 21 | █████████████████████ |
-| 17h | 0 | — |
-| 18h | 1 | █ |
+| 08:00–08:59 | 21 | ████████████ |
+| 09:00–09:59 | **45** | ██████████████████████████ 🔥 PICO |
+| 10:00–10:59 | 33 | ██████████████████ |
+| 11:00–11:59 | 7 | ████ |
+| 12:00–12:59 | 6 | ███ |
+| 13:00–13:59 | 0 | — VAZIO |
+| 14:00–14:59 | 0 | — VAZIO |
+| 15:00–15:59 | 17 | █████████ |
+| 16:00–16:59 | 22 | ████████████ |
+| 17:00–17:59 | 1 | ▌ |
+| 18:00–18:59 | 1 | ▌ |
 
-**🔍 Análise:** Atividade concentrada em dois blocos: **manhã (09h–11h)** com pico às 09h e **tarde (15h–16h)** com pico às 16h. O intervalo de 4h sem atividade (12h–14h) coincide com horário de almoço e pode indicar que Eduardo trabalha em regime parcial ou alterna com tarefas operacionais de armazém. A única mensagem das 18h é da Magda Rosa respondendo "Sim" após o expediente — ficou sem retorno.
+> 🔥 **Pico às 09h (45 msgs):** concentração de transportadoras (Pacífico) + clientes matinais (Raquel, Kleber, Magda Rosa).  
+> ⚠️ **Vazio 13h–14h:** janela de almoço sem cobertura aparente.  
+> 📉 **Fim de tarde:** apenas 2 msgs após 17h. Atividade concentrada 08h–12h e 15h–17h.
 
 ---
 
@@ -118,89 +139,100 @@
 
 | Palavra-chave | Ocorrências | Contexto |
 |---|---|---|
-| **entrega** | 6 | Falhas de entrega (Magda Rosa, carol), confirmações de envio |
-| **endereço** | 4 | Alteração de endereço (carol), informações de agência Correios |
-| **rastreio** | 3 | Pedidos de código (Edmilson, Maisa, marcelo) |
-| **prazo** | 1 | Aviso de retirada Correios |
+| **entrega** | 14 | Tema dominante — status, confirmação, tentativas, atrasos |
+| **endereço** | 6 | Mudanças, confirmações, CEP sem cobertura |
+| **rastreio** | 4 | Códigos de rastreamento (AD615835158BR, AD684143740BR, AD690990214BR) |
+| **frete** | 3 | Cotações e negociações com Pacífico |
+| **transportadora** | 3 | Contato com Rodonaves, Pacífico, LTTI |
+| **prazo** | 1 | Prazo de retirada em agência (7 dias úteis) |
+| **atraso** | 1 | Atraso de transportadora (Beneficencia) |
+| **não chegou** | 1 | Raquel/Pouso & Prosas |
 
-**Temas dominantes do dia:**
-1. 🚚 **Rastreamento de pedidos** — 3 clientes pediram tracking codes (Edmilson, Maisa, marcelo)
-2. 📍 **Problemas de entrega/endereço** — 3 casos (Magda Rosa com falha na entrega, carol com devolução + novo endereço, marcelo com retirada em agência)
-3. 🏢 **Relacionamento com transportadoras** — 2 canais ativos (Pacífico, Pajuçara)
+> **Tema agregado #1 — Rastreio e status de entrega (50% dos chats):** Clientes querem saber onde está seu pedido. Eduardo respondeu bem na maioria dos casos (Carla, Edmilson), mas falhou com Maisa e Fernando.  
+> **Tema agregado #2 — Problemas com transportadora (25% dos chats):** Tentativas frustradas, endereços sem cobertura, atrasos. Eduardo é proativo em notificar, mas o follow-up é inconsistente.  
+> **Tema agregado #3 — Gestão de transportadoras (25% dos chats):** Cotações, cadastros, coordenação de motoristas. Canal operacional contínuo.
 
 ---
 
 ## 7. O QUE ACERTOU
 
-### ✅ Resolução rápida — Edmilson®
-Cliente pediu rastreio do pedido 11000030358. Eduardo respondeu em **menos de 2 minutos** com o código AD684143740BR. Cliente agradeceu: *"Obrigado"*. Atendimento exemplar.
+### ✅ Casos bem resolvidos
 
-### ✅ Relacionamento com transportadoras mantido
-Comunicação fluida com Larissa (Pacífico) pela manhã e Marcelo (Pajuçara) — canais operacionais ativos, sem ruídos. Eduardo mantém bom relacionamento com os parceiros logísticos.
+1. **Carla Macedo (PED 109040) — entrega contestada resolvida:** Cliente entrou em pânico porque não recebeu a mercadoria. Eduardo localizou o comprovante de entrega dos Correios (assinaram por alguém), enviou o código AD615835158BR, mostrou o endereço de destino. Cliente agradeceu: *"Obrigada"*. Resolução completa.
+2. **Edmilson® — rastreio ágil:** Cliente entrou pelo site às 15:05, passou pelo bot, Eduardo atendeu em 25 minutos com o código de rastreio AD684143740BR. Cliente agradeceu: *"Obrigado"*.
+3. **Kleber (Ancona Center Hotel) — NF e orientação:** Eduardo enviou NF mestre e deu orientação completa sobre conferência no recebimento. Cliente confirmou: *"Beleza, obrigado"*.
+4. **Proatividade com clientes:** Eduardo iniciou contato proativo em 7 chats (Beneficencia, marcelo/Correios, magda, Bruna, Kleber, Adilson Rodonaves, Marcelo Santarosa) para informar sobre entregas, atrasos e retiradas. Isso é excelente e deve ser mantido.
 
-### ✅ Aviso proativo de entrega — Bruna Chalés
-Eduardo contatou proativamente a cliente para avisar que a mercadoria estava em rota de entrega, incluindo orientações para conferência no recebimento. Boa prática.
+### ✅ Padrões positivos
 
-### ✅ Tratamento de recusa — carol (chat 4ee6f001)
-Em conversa de dias anteriores, Eduardo investigou ativamente uma recusa de entrega, solicitou comprovante aos Correios e manteve comunicação clara com a cliente. O caso demonstra diligência.
+- Saudação inicial padronizada e profissional
+- Uso consistente de templates (aviso de conferência no recebimento, endereço de agência)
+- Integração com Correios para rastreamento rápido
+- Coordenação ativa com múltiplas transportadoras (Pacífico, Rodonaves, LTTI)
 
 ---
 
 ## 8. PONTOS A MELHORAR
 
-### 🔴 Ghosted clients — 3 casos de abandono de conversa
+### 🔴 Críticos
 
-| Cliente | Última msg (cliente) | Tempo sem resposta |
-|---|---|---|
-| **Maisa** | "Boa tarde, gostaria de rastrear meu pedido" (16:47) | +24h |
-| **carol** | "CEP 13301-866" (16:50) | +24h |
-| **Magda Rosa** | "Sim" (18:45) | +15h (pós-expediente) |
+1. **Abandono de chats de cliente:** 4 clientes ficaram sem resposta após enviarem informações críticas (Maisa, Raquel, carol, Fernando). Isso gera insatisfação e risco de reclamação pública/reclameaqui.
+2. **Tempo de resposta da Magda Rosa (5h52min):** Um gap de quase 6h para responder uma cliente que reportou tentativa de entrega frustrada. A janela 13h–14h ficou completamente vazia.
+3. **Fechamento formal de chats:** Apenas 1 chat foi fechado. Clientes que tiveram suas demandas resolvidas (Carla, Edmilson, Kleber) deveriam receber uma mensagem de encerramento e ter o chat fechado, liberando a fila e melhorando as métricas.
 
-**Impacto:** Clientes que buscaram atendimento e foram deixados sem resposta. Isso gera insatisfação, reabertura de chamados e percepção de descaso.
+### 🟡 Importantes
 
-### 🟡 Fechamento de chats
-Apenas 36,4% dos chats foram fechados. Mesmo entre clientes finais, apenas 44,4%. O Octadesk mostra múltiplos chats "talking" que deveriam estar fechados — o que polui a visão operacional e mascara casos realmente pendentes.
-
-### 🟡 Lacuna de 4h sem atividade
-Nenhuma mensagem registrada entre 11:04 e 15:05. Se Eduardo está no armazém nesse período, os clientes que chegam via site nesse intervalo ficam aguardando. O chat Magda Rosa (#4) teve a cliente respondendo às 09:49 e Eduardo só retomou às 15:41 — **quase 6 horas depois**.
-
-### 🟡 Múltiplos chats por cliente
-carol aparece em **3 chats diferentes** (863bd770, 8bf0bce1, 4ee6f001), Magda Rosa em **2 chats** (7c62459a, 8c39eab5). Isso fragmenta o histórico e dificulta o acompanhamento. O Octabot parece abrir novo chat a cada interação, mesmo para clientes existentes.
+4. **Follow-up de transportadora:** Raquel (Pouso & Prosas) reportou "não chegou" às 08:20. Eduardo disse que cobraria a transportadora, mas não retornou com o resultado. Esse tipo de follow-up é essencial.
+5. **Objeções não tratadas:** Fernando disse "não tenho portaria". A resposta do Eduardo sobre Correios ter entregue precisava de uma tratativa — como o cliente recebeu se não tem portaria? Ficou sem desfecho.
+6. **Janela de almoço sem cobertura (13h–14h):** Nenhuma mensagem registrada. Se há apenas 1 agente (Eduardo), é necessário um plano de contingência ou backlog.
 
 ---
 
 ## 9. PLANO DE AÇÃO
 
-### 🔴 Prioridade Imediata (hoje, 18/07)
+### 🔴 Para HOJE (20/07 — segunda-feira)
 
-1. **Responder Maisa** — Pedido 300-0003877-2. Enviar código de rastreio e pedir desculpas pela demora.
-2. **Confirmar novo endereço da carol** — Chat 863bd770. Validar CEP 13301-866 (Itu/SP), confirmar reenvio e dar prazo.
-3. **Dar follow-up na Magda Rosa** — Ambos os chats. Verificar status da reentrega do pedido 11000029981. Responder ao "Sim" no chat 8c39eab5.
+| # | Ação | Responsável | Prazo |
+|---|---|---|---|
+| 1 | **Retornar Maisa** com código de rastreio do PED 300-0003877-2 | Eduardo | Imediato |
+| 2 | **Retornar Raquel (Pouso & Prosas)** com posição da transportadora sobre a entrega não recebida | Eduardo | Imediato |
+| 3 | **Confirmar reenvio para carol** no novo endereço (Al. Santa Joana, 143 — Itu/SP) e informar prazo | Eduardo | Imediato |
+| 4 | **Retornar Fernando** sobre a entrega dos Correios — como foi entregue sem portaria? Quem assinou? | Eduardo | Imediato |
+| 5 | **Dar follow-up na Magda Rosa (#11000029981)** — reentrega foi agendada? Cliente confirma? | Eduardo | Manhã |
+| 6 | **Responder Magda Rosa (2º chat)** — ela disse "Sim" às 18:45 de sexta. Retomar. | Eduardo | Manhã |
 
-### 🟡 Ações para a Semana
+### 🟡 Para esta semana
 
-4. **Revisar todos os chats "talking"** — Fechar os que já foram resolvidos. Identificar se há outros casos pendentes não capturados neste relatório.
-5. **Coleta Pajuçara** — Verificar com Marcelo Santarosa se a solicitação de motorista extra (10:56) foi atendida.
-6. **Rastreio marcelo (chat 83d2d3b1)** — Confirmar se cliente retirou material na agência dos Correios.
-
-### 🔧 Melhorias de Processo
-
-7. **Regra de ouro:** Todo chat de cliente deve terminar com o agente tendo a última palavra. Nunca deixar o cliente falando sozinho.
-8. **Consolidar chats por cliente:** Se o Octabot estiver criando múltiplos chats para o mesmo contato, ajustar configuração para reabrir o chat existente.
-9. **Cobertura de almoço:** Avaliar se há necessidade de cobertura no período 11h–15h, quando Eduardo está offline. Um Bot mais inteligente ou um backup humano reduziria o tempo de espera.
+| # | Ação | Responsável |
+|---|---|---|
+| 7 | **Fechar chats resolvidos:** Carla Macedo, Edmilson, Kleber — enviar msg de encerramento e fechar | Eduardo |
+| 8 | **Revisar métricas de SLA:** tempo médio de resposta está elevado. Avaliar necessidade de reforço no horário de pico (09h–11h) | Tobias + DigitalCEO |
+| 9 | **Criar processo de follow-up automático:** chats sem resposta do agente por > 2h devem gerar alerta | Matias (TI) + Tobias |
+| 10 | **Analisar cobertura de almoço:** 13h–14h sem atividade. Se Eduardo é o único, avaliar escala ou bot de ausência | Tobias |
 
 ---
 
 ## 10. CHECKLIST DE QUALIDADE
 
-- [ ] **Rastreios foram enviados?** — ✅ Edmilson (sim), ❌ Maisa (NÃO — pendente), ✅ marcelo (sim, Correios)
-- [ ] **Casos urgentes foram escalados?** — 🔴 NÃO. Maisa e carol estão sem resposta há +24h. Escalar HOJE.
-- [ ] **Transportadoras foram notificadas?** — ✅ Pacífico (cadastro em andamento), ⚠️ Pajuçara (aguardando retorno deles sobre motorista extra)
-- [ ] **Todos os clientes tiveram retorno?** — 🔴 NÃO. 3 clientes (Maisa, carol, Magda Rosa) aguardam resposta.
+- [ ] 🔴 **Rastreios pendentes enviados?** Maisa (300-0003877-2) ainda não recebeu o código
+- [ ] 🔴 **Casos urgentes escalados?** Raquel (não chegou), carol (devolução), Fernando (portaria) — todos precisam de ação imediata hoje
+- [ ] 🟡 **Transportadoras notificadas?** Adilson Rodonaves (NF 438) e Fábio Correios (contestação 14/07) aguardam devolutiva
+- [ ] 🔴 **Todos os clientes tiveram retorno?** NÃO — 4 clientes (Maisa, Raquel, carol, Fernando) ficaram sem resposta na sexta-feira
 
 ---
 
-> *"Quem entrega mais rápido e mais barato, ganha. Mas quem não responde o cliente, perde antes mesmo de entregar."* — Tobias
+## 📊 NOTAS DO ANALISTA
+
+**Tobias — Análise qualitativa:**
+
+A sexta-feira 17/07 mostra um Eduardo assoberhado mas diligente. O volume de 153 mensagens em 21 chats para 1 agente é pesado, especialmente considerando que ele também gerencia relacionamento com transportadoras (Pacífico, LTTI, Correios, Rodonaves) em paralelo ao atendimento ao cliente final.
+
+**O padrão é claro:** transportadoras recebem atenção contínua (chats longos, múltiplas interações), enquanto clientes finais recebem atenção fragmentada. Dos 15 clientes que contataram a Conamore na sexta, pelo menos 4 tiveram uma experiência abaixo do aceitável (ghosted ou resposta insuficiente).
+
+**A boa notícia:** quando Eduardo consegue dar atenção completa, ele resolve — Carla, Edmilson e Kleber são provas disso. O problema não é competência, é capacidade.
+
+**Recomendação estratégica:** Se o volume de mensagens de clientes continuar crescendo, a Conamore precisa considerar seriamente dividir as funções: um agente dedicado a transportadoras/operações e outro dedicado a atendimento ao cliente final. O modelo atual de 1 pessoa fazendo tudo começa a mostrar fissuras nos momentos de pico.
 
 ---
-**Relatório gerado automaticamente** em 18/07/2026 06:00 BRT via Hermes Agent (Tobias — Logística)
+
+*Relatório gerado automaticamente por Tobias (Hermes Agent) em 20/07/2026. Fonte: Octadesk via SQL Server `hotel-finder`.*
