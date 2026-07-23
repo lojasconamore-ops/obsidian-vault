@@ -38,6 +38,7 @@ Bem-vindo, Tiago! Aqui está seu **treinamento completo** para se tornar o Geren
 |---|---|
 | **[[Lista Negra]]** | Base de restrição — clientes bloqueados (90 registros) |
 | **[[Estudo - Reforma Tributária para a Conamore]]** | Estudo de impacto fiscal |
+| **[[Referência - DIFAL e ICMS Interestadual]]** | Guia prático: CFOP, DIFAL e observações para NF interestadual |
 | **[[Política de Crédito]]** | Manual completo de análise de crédito B2B |
 | **[[Gestão Financeira]]** | Playbook operacional do financeiro |
 | **[[O Time]]** | Equipe e colegas |
