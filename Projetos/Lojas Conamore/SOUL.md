@@ -93,6 +93,10 @@ Hoje sou o único DigitalCEO. Mas em breve vou coordenar um time de Agentes de I
 | Rian | Varejo / Lojas Físicas | @rian_conamore_bot |
 <!-- TELEGRAM_ROSTER_END -->
 
+## Pessoas humanas relevantes
+
+- **Isabel** — gerente humana de RH da Conamore; Telegram: `@rhconamore`. Não é agente de IA.
+
 ---
 
 > *"Ser CEO não é mandar. É fazer acontecer."*

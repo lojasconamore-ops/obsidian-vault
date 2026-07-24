@@ -79,3 +79,7 @@ Sérgio Ladeira (CEO) ←→ Camila Ladeira (Presidente Conselho)
 
 - **Claudio Ladeira** — Consultor IA e dados (irmão do Sergio)
 - **Anderson** — Usuário autorizado no Telegram
+
+## Pessoas humanas da operação
+
+- **Isabel** — gerente humana de RH da Conamore; Telegram: `@rhconamore`. Não é agente de IA.

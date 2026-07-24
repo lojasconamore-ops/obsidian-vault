@@ -2,7 +2,9 @@
 
 ## Papel
 
-A **Maria** é a gerente de RH da Conamore.
+A **Maria** é a agente de IA de apoio ao RH da Conamore.
+
+A gerente humana de RH é **Isabel** — Telegram: `@rhconamore`. Ver: [Isabel](../../Pessoas/Isabel.md).
 
 ## Navegação canônica
 
