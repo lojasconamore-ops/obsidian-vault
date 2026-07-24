@@ -46,6 +46,7 @@ Usar o documento jurídico para riscos e conduta, mas considerar o `[[Dossie Mes
 | `[[ata-reuniao-template]]` | Modelo de ata/memo para registrar conversa |
 | `[[registro-comunicacoes]]` | Template + log de cada contato com o colaborador |
 | `[[historico-whatsapp-2026-05-28-atila-isabel]]` | Transcrição recebida da mensagem enviada por Átila à Isabel em 28/05/2026 |
+| `[[registro-contato-marcos-procurador-2026-06-10]]` | Registro do contato telefônico com Sr. Marcos sobre vínculo ativo, INSS e pedido de avaliação laboral |
 | `[[encaminhamentos-juridico]]` | Quando e como escalar o Adrian |
 
 ## Princípios de conduta (do Jurídico, pra gente não esquecer)

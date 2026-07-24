@@ -46,3 +46,15 @@ tags: [log, comunicacoes, atila]
 - **Pontos sensíveis:** pressão financeira/emocional; menção a especialista jurídico; possível narrativa de falta de respaldo; necessidade de resposta acolhedora sem promessa financeira ou assunção de culpa.
 - **Transcrição preservada em:** `[[historico-whatsapp-2026-05-28-atila-isabel]]`
 - **Próximo passo indicado:** confrontar com providências posteriores do RH registradas no `[[Dossie Mestre - Caso Atila]]` e manter escalada ao Jurídico em caso de nova cobrança, ameaça de ação ou pedido financeiro.
+
+## #003 — Contato telefônico com Sr. Marcos sobre vínculo, INSS e avaliação laboral
+
+- **Data relatada da comunicação:** 10/06/2026
+- **Data do registro no dossiê:** 23/07/2026, 21:29 BRT
+- **Tipo:** TLF
+- **De/Para:** Isabel ↔ Sr. Marcos, identificado no relato como procurador do colaborador Átila
+- **Assunto:** Dúvida sobre interrupção de recolhimento INSS em 31/03/2026, manutenção do vínculo e novo pedido de benefício
+- **Resumo:** Após áudio do Sr. Marcos questionando se a interrupção do recolhimento do INSS em 31/03/2026 indicaria desligamento, Isabel telefonou e esclareceu que o contrato do colaborador permanecia ativo. Informou que a cessação/interrupção do recolhimento estava relacionada ao afastamento após pagamento dos 15 primeiros dias de atestado pela empresa. O Sr. Marcos informou que, em 10/06/2026, contatou o INSS pelo 135 e realizou novo pedido de benefício com base no atestado de 60 dias emitido em 19/05/2026, mantendo também a espera pela decisão do recurso administrativo do primeiro pedido. Ele perguntou sobre avaliação pelo médico do trabalho para emissão de laudo de incapacidade; Isabel respondeu que, como havia atestado de 60 dias vigente, não seria possível retorno ao trabalho naquele momento.
+- **Pontos sensíveis:** dúvida sobre desligamento; necessidade de comprovar vínculo ativo; dados previdenciários e médicos tratados com terceiro; confirmar existência de procuração formal antes de compartilhar dados sensíveis; pedido relacionado a incapacidade laboral deve ser tratado com Medicina Ocupacional/Jurídico.
+- **Registro detalhado em:** `[[registro-contato-marcos-procurador-2026-06-10]]`
+- **Próximo passo indicado:** manter documentação do vínculo ativo e acompanhar resultado do novo pedido de benefício e do recurso administrativo, sem presumir decisão oficial do INSS.
