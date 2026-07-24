@@ -45,6 +45,7 @@ Usar o documento jurídico para riscos e conduta, mas considerar o `[[Dossie Mes
 | `[[checklist-documentos-colaborador]]` | O que pedir ao Átila em cada etapa documental |
 | `[[ata-reuniao-template]]` | Modelo de ata/memo para registrar conversa |
 | `[[registro-comunicacoes]]` | Template + log de cada contato com o colaborador |
+| `[[historico-whatsapp-2026-05-28-atila-isabel]]` | Transcrição recebida da mensagem enviada por Átila à Isabel em 28/05/2026 |
 | `[[encaminhamentos-juridico]]` | Quando e como escalar o Adrian |
 
 ## Princípios de conduta (do Jurídico, pra gente não esquecer)
