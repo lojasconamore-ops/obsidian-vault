@@ -4,7 +4,7 @@ Este índice registra contatos humanos relevantes para operação da Conamore, s
 
 ## RH
 
-- [Isabel](./Isabel.md) — gerente humana de RH da Conamore; Telegram: `@rhconamore`.
+- [Isabel](./Isabel.md) — gerente humana de RH da Conamore; Telegram: `@rhconamore`; permissões/restrições documentadas na ficha.
 
 ## Compras
 
