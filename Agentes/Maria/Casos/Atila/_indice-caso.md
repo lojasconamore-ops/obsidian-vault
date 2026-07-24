@@ -2,43 +2,48 @@
 caso: Átila
 tipo: acidente-de-trabalho
 status: em-andamento
-data-abertura: 13/06/2026
+data-acidente: 24/02/2026
 responsavel-rh: Maria
 interface-juridica: Adrian
-documento-origem: "[[Agentes/Adrian/Caso Átila - Documento Completo para RH|Caso Átila — Documento Completo para RH]]"
+documento-referencia-principal: "[[Dossie Mestre - Caso Atila]]"
+documento-origem-juridico: "[[Agentes/Adrian/Caso Átila - Documento Completo para RH|Caso Átila — Documento Completo para RH]]"
 confidencialidade: alta
-tags: [caso-rh, acidente-trabalho, atila, limbo-previdenciario]
+tags: [caso-rh, acidente-trabalho, atila, limbo-previdenciario, retorno-com-restricoes]
 ---
 
-# Caso Átila — Dossier RH
+# Caso Átila — Dossiê RH
 
 > Documento **interno do RH**. Não compartilhar com o colaborador nem com outras áreas fora do RH + Jurídico.
 
 - [[Agentes/Maria/Index|Voltar ao índice da Maria]]
 
+## Referência principal
+
+Por orientação de Sérgio em 23/07/2026, usar como base principal o `[[Dossie Mestre - Caso Atila]]`, preservado também em arquivo fonte:
+
+→ `Documentos/Dossie-Mestre-Caso-Atila-Conamore-2026-07-23.docx`
+
 ## Situação em uma linha
 
-Colaborador em **acidente de trabalho** (lesão no braço ao carregar rolo de tecido), com **CAT emitida**, **15 dias pagos pela empresa** e **encaminhamento ao INSS feito**. Ocorre que o pedido administrativo foi **indeferido por inconsistência cadastral** (erro de ano no requerimento) e está em fase de **revisão administrativa**. O colaborador está há ~**90 dias sem renda** (nem salário, nem benefício INSS) e pede apoio formal.
+Colaborador em **acidente de trabalho** ocorrido em **24/02/2026** ao carregar rolo de tecido, com **CAT emitida**, primeiros 15 dias pagos pela empresa e encaminhamento previdenciário. Em **20/07/2026**, retornou como **apto com restrições temporárias por 30 dias**: carga zero, sem movimento repetitivo com membro superior direito e sem esforço intenso, com necessidade de nova avaliação laboral ao final do período.
 
-## Origem do caso
+## Origem jurídica do caso
 
-Documento completo preparado pelo **Jurídico (Adrian)** em 13/06/2026:
+Documento preparado pelo **Jurídico (Adrian)** em 13/06/2026:
 → `[[Agentes/Adrian/Caso Átila - Documento Completo para RH|Caso Átila — Documento Completo para RH]]`
 
-**Ler antes de qualquer ação.** Esse documento traz:
-- cronologia completa
-- riscos jurídicos (limbo previdenciário, narrativa de abandono, dano moral, estabilidade acidentária)
-- conduta recomendada (o que dizer e o que **não** dizer)
-- roteiro de conversa com o colaborador
-- recomendação final do Jurídico
+Usar o documento jurídico para riscos e conduta, mas considerar o `[[Dossie Mestre - Caso Atila]]` como cronologia consolidada mais atual.
 
-## Visão geral do dossier
+## Visão geral do dossiê
 
 | Arquivo | Para que serve |
 |---|---|
+| `[[Dossie Mestre - Caso Atila]]` | Referência principal consolidada do caso |
+| `[[documentos-recebidos]]` | Inventário dos arquivos preservados e hash dos documentos |
+| `[[registro-restricoes-retorno-2026-07-20]]` | Registro objetivo das restrições do retorno em 20/07/2026 |
 | `[[plano-acao-rh]]` | Prazos, responsáveis e ações concretas do RH |
-| `[[checklist-documentos-colaborador]]` | O que pedir ao Átila na primeira conversa |
-| `[[ata-reuniao-template]]` | Modelo de ata/memo para registrar a conversa |
+| `[[checklist-documentos-colaborador]]` | O que pedir ao Átila em cada etapa documental |
+| `[[ata-reuniao-template]]` | Modelo de ata/memo para registrar conversa |
 | `[[registro-comunicacoes]]` | Template + log de cada contato com o colaborador |
 | `[[encaminhamentos-juridico]]` | Quando e como escalar o Adrian |
 
