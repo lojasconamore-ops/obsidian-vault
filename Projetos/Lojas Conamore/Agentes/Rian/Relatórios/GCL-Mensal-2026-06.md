@@ -178,4 +178,4 @@
 
 > ⚠️ Banco de consulta (defasagem ~1 dia). Dados finais podem divergir da produção.
 >
-> *Relatório gerado automaticamente pelo Rian — Gerente Comercial de Lojas Físicas | 04/07/2026*
+> *Relatório gerado automaticamente pelo Rian — Gerente Comercial de Lojas Físicas | 24/07/2026*
