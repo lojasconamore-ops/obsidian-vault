@@ -32,6 +32,9 @@ Reporta ao **DigitalCEO**.
 - [[Casos/Atila/registro-comunicacoes|Registro de comunicações]]
 - [[Casos/Atila/ata-reuniao-template|Template de ata]]
 
+## Documentos médicos e DP
+
+- [[Atestados Médicos/2026/_indice-atestados-medicos|Índice — Atestados médicos 2026]]
 
 ## Regras de Ouro
 
