@@ -6,6 +6,7 @@ Este índice conecta os relatórios comerciais e as leituras de campo da Natáli
 
 ## Relatórios principais
 
+- [[Relatório Individual — Isabela — 2026-07-20]]
 - [[Relatório Comercial Diário - 2026-06-20]]
 - [[Octadesk-Joana-2026-06-23]]
 - [[Octadesk-Otavio-2026-06-19]]
