@@ -4,10 +4,11 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (30)
+## Pareceres (31)
 
 | # | Cliente | Arquivo |
 |---|---|---|
+| 31 | Catu Palace Hotel | [[Pareceres/Parecer - Catu Palace Hotel - 2026-07-27]] |
 | 1 | Abrigo do Marinheiro | [[Pareceres/Parecer - Abrigo do Marinheiro (104572)]] |
 | 2 | Associação dos Sargentos ASSOADE | [[Pareceres/Parecer - Associação dos Sargentos ASSOADE (100777)]] |
 | 3 | Bandeirantes Pousada | [[Pareceres/Parecer - Bandeirantes Pousada - 2026-06-17]] |
@@ -41,4 +42,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 13/07/2026 — 30 pareceres*
+*Atualizado em: 27/07/2026 — 31 pareceres*
