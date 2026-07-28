@@ -4,10 +4,12 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (35)
+## Pareceres (37)
 
 | # | Cliente | Arquivo |
 |---|---|---|
+| 37 | Sofia Homes — Pedido 0114091 | [[Pareceres/Parecer - Sofia Homes Ltda - 0114091 - 2026-07-28]] |
+| 36 | Consolidado — Espaço Flor das Águas + Sofia Homes | [[Pareceres/Parecer Consolidado - Espaco Flor das Aguas e Sofia Homes - 2026-07-28]] |
 | 35 | Espaço Flor das Águas | [[Pareceres/Parecer - Espaco Flor das Aguas - 0114019 - 2026-07-28]] |
 | 34 | NaCasa Hostel / Dercyvone Gloria | [[Pareceres/Parecer - NaCasa Hostel Dercyvone Gloria - 0112087 - 2026-07-28]] |
 | 33 | Ricardo Raddi / Restaurante Brasil | [[Pareceres/Parecer - Ricardo Raddi Restaurante Brasil - 2026-07-27]] |
@@ -46,4 +48,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 28/07/2026 — 36 pareceres*
+*Atualizado em: 28/07/2026 — 37 pareceres*
