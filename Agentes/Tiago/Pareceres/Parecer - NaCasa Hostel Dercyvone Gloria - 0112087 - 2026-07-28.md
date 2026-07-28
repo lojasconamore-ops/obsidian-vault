@@ -67,9 +67,27 @@ Pedidos encontrados em `debx.PDV_Detalhes`:
 
 ## 4. Score / Bureau / Dados cadastrais públicos
 
-**Bureau pago:** não foi anexado relatório Equifax/Serasa/Boa Vista nesta análise. Portanto, não afirmo score nem ausência formal de protestos/restrições de bureau pago.
+**Bureau Equifax / Boa Vista recebido e reavaliado em 28/07/2026 08:57:24.**
 
-Fallback ReceitaWS para CNPJ `56.344.973/0001-00`:
+| Campo | Resultado |
+|---|---|
+| Relatório | Define Risco Positivo — Equifax / Boa Vista |
+| CNPJ | 56.344.973/0001-00 |
+| Razão social | 56 344 973 DERCYVONE GLORIA DA SILVA GOES |
+| Status do consumidor | Consumidor sem histórico de crédito |
+| Score Aprovação PJ | 649 |
+| Probabilidade de inadimplência | 8,0% |
+| Cadastro Positivo | Sem histórico de crédito / score não considera Cadastro Positivo |
+| Pagamento pontual | Sem histórico suficiente |
+| Pagamento atrasado | Sem histórico suficiente |
+| Pendências e restrições financeiras | Nada consta |
+| Cheques sem fundos | Nada consta |
+| Cheques sustados motivo 21 | Nada consta |
+| Cheques devolvidos informados pelo usuário | Nada consta |
+| Protestos | Nada consta |
+| Consultas | Nada consta |
+
+Fallback ReceitaWS / identificação cadastral:
 
 | Campo | Resultado |
 |---|---|
@@ -84,7 +102,7 @@ Fallback ReceitaWS para CNPJ `56.344.973/0001-00`:
 | Telefone Receita | (92) 9174-8417 |
 | E-mail Receita | dercygloria@gmail.com |
 
-**Leitura:** empresa ativa, CNAE coerente com hospedagem, mas CNPJ ainda novo e capital social baixo. Esse ponto pediria cautela em primeira compra; neste caso é mitigado pelo histórico interno Conamore e pela entrada de 50%.
+**Leitura:** score 649 fica em faixa de cautela/aceitável limítrofe, com PD de 8,0% administrável, porém o próprio bureau indica ausência de histórico de crédito. O ponto mais importante é que não há restrições, cheques ou protestos. Portanto, não há veto financeiro externo; o histórico interno Conamore deve pesar mais na decisão.
 
 ## 5. Coerência operacional do pedido
 
@@ -131,7 +149,7 @@ Endereço e atividade são coerentes com o CNPJ, PDF e proposta.
 
 **Histórico Conamore:** cliente recorrente, 3 pedidos anteriores expedidos, total histórico R$ 15.479,42, ticket médio R$ 5.159,81. Pedido atual está dentro do padrão histórico e abaixo do último pedido a prazo com entrada.
 
-**Score / Bureau:** bureau pago não anexado; ReceitaWS confirma CNPJ ativo, CNAE de alojamento e dados coerentes. Empresa nova e ME exigem cautela, mas o histórico interno e a entrada reduzem o risco.
+**Score / Bureau:** Equifax/Boa Vista: score 649, PD 8,0%, consumidor sem histórico de crédito, sem pendências, sem cheques e sem protestos. Não há veto externo; por ser cliente recorrente, prevalece o histórico interno positivo.
 
 **Coerência do pedido:** alta. Mix de enxoval + amenities + bordado é adequado para hostel/pousada.
 
