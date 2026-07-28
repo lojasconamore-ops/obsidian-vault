@@ -46,4 +46,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 28/07/2026 — 35 pareceres*
+*Atualizado em: 28/07/2026 — 36 pareceres*
