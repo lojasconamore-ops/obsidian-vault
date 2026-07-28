@@ -3,7 +3,7 @@ caso: Átila
 tipo: inventario-documentos
 responsavel: Maria (RH)
 confidencialidade: alta
-ultima_atualizacao: 2026-07-23
+ultima_atualizacao: 2026-07-28
 tags: [caso-rh, acidente-trabalho, atila, documentos]
 ---
 
@@ -17,6 +17,7 @@ tags: [caso-rh, acidente-trabalho, atila, documentos]
 |---|---|---|---|---|---|
 | 2026-07-23 | `Documentos/Dossie-Mestre-Caso-Atila-Conamore-2026-07-23.docx` | DOCX | Enviado no Workspace RH | Dossiê mestre definido por Sérgio como referência principal do caso | `d6f927acf28efeba3aa4afb75e6b3221f28285c0204ac59fe4693d078d5338de` |
 | 2026-07-23 | `Documentos/Encaminhamento-Restricoes-Work-2026-07-20-Antonio-Atila.pdf` | PDF | Enviado no Workspace RH | Encaminhamento da Work Medicina Ocupacional com restrições temporárias de retorno | `bdc0281de0e37e9066038c0d299a50ef263f25cf5b6f4cb7c31aecf3c9ee732d` |
+| 2026-07-28 | `Documentos/WhatsApp-2026-07-28-Atila-dor-braco-e-INSS.jpg` | JPG | Captura de WhatsApp enviada no Workspace RH | Átila relata dor no braço e atraso; captura também mostra cobrança anterior sobre INSS/recurso e possibilidade de procurar outros caminhos se não aprovado | `559fb2e7541cc973c4dcb17fe7626c4518390594f73e46bd2590f7f0cbe968b1` |
 
 ## Leitura do PDF recebido em 23/07/2026
 

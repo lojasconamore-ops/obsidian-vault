@@ -58,3 +58,15 @@ tags: [log, comunicacoes, atila]
 - **Pontos sensíveis:** dúvida sobre desligamento; necessidade de comprovar vínculo ativo; dados previdenciários e médicos tratados com terceiro; confirmar existência de procuração formal antes de compartilhar dados sensíveis; pedido relacionado a incapacidade laboral deve ser tratado com Medicina Ocupacional/Jurídico.
 - **Registro detalhado em:** `[[registro-contato-marcos-procurador-2026-06-10]]`
 - **Próximo passo indicado:** manter documentação do vínculo ativo e acompanhar resultado do novo pedido de benefício e do recurso administrativo, sem presumir decisão oficial do INSS.
+
+
+## #004 — Mensagem sobre dor no braço, atraso e referência a recurso INSS
+
+- **Data da comunicação:** 28/07/2026, 07:17 a 07:31 BRT (captura recebida no Workspace RH em 28/07/2026)
+- **Tipo:** WPP
+- **De/Para:** Antonio Átila → Chaine/empresa; resposta da empresa ao colaborador
+- **Assunto:** Dor no braço, atraso ao trabalho e pendência/expectativa de recurso junto ao INSS
+- **Resumo:** Na parte inferior da captura, Átila informa: “Boa dia Chaine, amanheci com muita dor no braço, vou atrasar. pq está muito dolorido, talvez tenha dormido por cima.” A resposta visível da empresa foi acolhedora: “Oie Átila bom dia / Td bem?” e “Combinado / Melhoras”. A mesma captura preserva conversa anterior em que Átila diz estar aguardando 30 dias após recurso no INSS e, se não aprovado, “vou ter procurar outros caminhos”. Há também trecho parcialmente visível sobre orientação de advogado previdenciário, atestado de 60 dias, impossibilidade de trabalhar e ausência de recebimento de valores.
+- **Pontos sensíveis:** relato de dor no membro relacionado às restrições de retorno; possível atraso/ausência por motivo de saúde; menção a recurso previdenciário e possível busca de “outros caminhos”; manter acolhimento, registro documental e escalada ao Jurídico/Medicina Ocupacional se houver nova incapacidade, atestado, ameaça de ação ou pedido financeiro.
+- **Anexo preservado:** `Documentos/WhatsApp-2026-07-28-Atila-dor-braco-e-INSS.jpg`
+- **Próximo passo indicado:** responder acolhendo, perguntar objetivamente se ele consegue comparecer em atividade compatível ou se precisa procurar atendimento médico, solicitar envio de atestado/comprovante se houver, reforçar que a empresa seguirá as restrições médicas já formalizadas e registrar qualquer novo documento recebido. Avisar Adrian sobre a atualização por envolver INSS/possível litigiosidade.
