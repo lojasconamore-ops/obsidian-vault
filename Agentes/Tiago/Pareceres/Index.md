@@ -4,10 +4,11 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (37)
+## Pareceres (38)
 
 | # | Cliente | Arquivo |
 |---|---|---|
+| 38 | Clean Studios — Pedido potencial 100k | [[Pareceres/Parecer - Clean Studios - Pedido Potencial 100k - 2026-07-28]] |
 | 37 | Sofia Homes — Pedido 0114091 | [[Pareceres/Parecer - Sofia Homes Ltda - 0114091 - 2026-07-28]] |
 | 36 | Consolidado — Espaço Flor das Águas + Sofia Homes | [[Pareceres/Parecer Consolidado - Espaco Flor das Aguas e Sofia Homes - 2026-07-28]] |
 | 35 | Espaço Flor das Águas | [[Pareceres/Parecer - Espaco Flor das Aguas - 0114019 - 2026-07-28]] |
@@ -48,4 +49,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 28/07/2026 — 37 pareceres*
+*Atualizado em: 28/07/2026 — 38 pareceres*
