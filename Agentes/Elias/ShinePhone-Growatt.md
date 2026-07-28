@@ -19,6 +19,23 @@ A integração da casa usa a nuvem da **Growatt/ShinePhone**. A leitura confirma
 - Geração total: **68.683,4 kWh**
 - Última atualização vista na conversa: **2026-07-24 17:14:16**
 
+## Última consulta executada nesta sessão
+
+- **Planta:** respondeu normalmente no host `https://openapi.growatt.com`
+- **Overview da planta:**
+  - current power: `0.0`
+  - today energy: `0.0`
+  - monthly energy: `764.5`
+  - yearly energy: `8645.9`
+  - total energy: `68683.4`
+  - last update time: `2026-07-24 17:14:16`
+- **Lista de dispositivos:** 1 dispositivo
+  - device SN: `XZJ3BMA0K1`
+  - datalogger SN: `ZOD5BM7104`
+  - last update time: `2026-07-24 17:14:38`
+  - status: **offline** / `DEVICE_OFFLINE`
+- **Observação:** a consulta de potência em tempo real falhou com `DEVICE_OFFLINE`; isso confirma que a planta responde, mas o dispositivo não entrega telemetria ao vivo.
+
 ## Padrão de acesso
 
 1. Autenticar no portal Growatt/ShinePhone.
