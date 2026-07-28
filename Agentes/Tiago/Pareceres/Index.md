@@ -4,10 +4,11 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (34)
+## Pareceres (35)
 
 | # | Cliente | Arquivo |
 |---|---|---|
+| 35 | Espaço Flor das Águas | [[Pareceres/Parecer - Espaco Flor das Aguas - 0114019 - 2026-07-28]] |
 | 34 | NaCasa Hostel / Dercyvone Gloria | [[Pareceres/Parecer - NaCasa Hostel Dercyvone Gloria - 0112087 - 2026-07-28]] |
 | 33 | Ricardo Raddi / Restaurante Brasil | [[Pareceres/Parecer - Ricardo Raddi Restaurante Brasil - 2026-07-27]] |
 | 32 | Iflat Service Manager | [[Pareceres/Parecer - Iflat Service Manager - 2026-07-27]] |
@@ -45,4 +46,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 28/07/2026 — 34 pareceres*
+*Atualizado em: 28/07/2026 — 35 pareceres*
