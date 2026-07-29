@@ -70,3 +70,15 @@ tags: [log, comunicacoes, atila]
 - **Pontos sensíveis:** relato de dor no membro relacionado às restrições de retorno; possível atraso/ausência por motivo de saúde; menção a recurso previdenciário e possível busca de “outros caminhos”; manter acolhimento, registro documental e escalada ao Jurídico/Medicina Ocupacional se houver nova incapacidade, atestado, ameaça de ação ou pedido financeiro.
 - **Anexo preservado:** `Documentos/WhatsApp-2026-07-28-Atila-dor-braco-e-INSS.jpg`
 - **Próximo passo indicado:** responder acolhendo, perguntar objetivamente se ele consegue comparecer em atividade compatível ou se precisa procurar atendimento médico, solicitar envio de atestado/comprovante se houver, reforçar que a empresa seguirá as restrições médicas já formalizadas e registrar qualquer novo documento recebido. Avisar Adrian sobre a atualização por envolver INSS/possível litigiosidade.
+
+## #005 — Ausência no dia 28/07 sem atestado apresentado até 29/07
+
+- **Data do fato:** 28/07/2026
+- **Data do registro:** 29/07/2026, 14:02 BRT
+- **Tipo:** PRE / OUT
+- **De/Para:** Gestora → Átila; relato de Sérgio ao RH
+- **Assunto:** Não comparecimento ao trabalho e ausência de atestado médico
+- **Resumo:** Sérgio informou que, em 28/07/2026, Átila não compareceu ao trabalho após a mensagem de dor/atraso registrada na entrada #004. Em 29/07/2026, a gestora perguntou ao colaborador sobre atestado referente ao dia anterior; ele informou que não foi ao médico. Até o registro, não há atestado ou comprovante de atendimento apresentado ao RH.
+- **Pontos sensíveis:** ausência sem atestado em contexto de acidente de trabalho anterior e retorno com restrições; necessidade de registrar ponto sem interpretar além dos documentos; evitar punição imediata sem oitiva e alinhamento RH/Jurídico; reforçar atendimento médico/ocupacional se houver persistência de dor.
+- **Registro detalhado em:** `[[registro-ausencia-sem-atestado-2026-07-28-29]]`
+- **Próximo passo indicado:** solicitar relato escrito da gestora, validar lançamento no ponto, conversar com o colaborador de forma acolhedora e objetiva, informar regra de justificativa/atestado sem tom punitivo e comunicar Adrian/Jurídico para ciência.
