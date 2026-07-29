@@ -48,6 +48,7 @@ Usar o documento jurídico para riscos e conduta, mas considerar o `[[Dossie Mes
 | `[[historico-whatsapp-2026-05-28-atila-isabel]]` | Transcrição recebida da mensagem enviada por Átila à Isabel em 28/05/2026 |
 | `[[registro-contato-marcos-procurador-2026-06-10]]` | Registro do contato telefônico com Sr. Marcos sobre vínculo ativo, INSS e pedido de avaliação laboral |
 | `[[registro-whatsapp-2026-07-28-atila-dor-braco-inss]]` | Registro da captura de WhatsApp de 28/07/2026 sobre dor no braço, atraso e pendência INSS |
+| `[[registro-ausencia-sem-atestado-2026-07-28-29]]` | Registro operacional da ausência de 28/07 e informação em 29/07 de que não houve ida ao médico/atestado |
 | `[[encaminhamentos-juridico]]` | Quando e como escalar o Adrian |
 
 ## Princípios de conduta (do Jurídico, pra gente não esquecer)
