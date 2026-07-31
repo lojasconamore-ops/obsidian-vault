@@ -4,10 +4,11 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (39)
+## Pareceres (40)
 
 | # | Cliente | Arquivo |
 |---|---|---|
+| 40 | Acampamento Nosso Recanto — Pedido 0114257 | [[Pareceres/Parecer - Acampamento Nosso Recanto - 0114257 - 2026-07-31]] |
 | 39 | LM Hospedagens / Iully Michelle — Pedido 0114139 | [[Pareceres/Parecer - LM Hospedagens Iully Michelle - 0114139 - 2026-07-30]] |
 | 38 | Clean Studios — Pedido potencial 100k | [[Pareceres/Parecer - Clean Studios - Pedido Potencial 100k - 2026-07-28]] |
 | 37 | Sofia Homes — Pedido 0114091 | [[Pareceres/Parecer - Sofia Homes Ltda - 0114091 - 2026-07-28]] |
@@ -50,4 +51,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 30/07/2026 — 39 pareceres*
+*Atualizado em: 31/07/2026 — 40 pareceres*
