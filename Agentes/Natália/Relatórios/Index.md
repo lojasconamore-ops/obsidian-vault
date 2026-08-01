@@ -7,12 +7,6 @@ Este índice conecta os relatórios comerciais e as leituras de campo da Natáli
 ## Relatórios principais
 
 - [[Relatório Individual — Isabela — 2026-07-20]]
-- [[Relatório Comercial Diário - 2026-06-20]]
-- [[Octadesk-Joana-2026-06-23]]
-- [[Octadesk-Otavio-2026-06-19]]
-- [[Octadesk-Monica-Cristina-2026-06-17]]
-- [[Octadesk-Joana-2026-06-17]]
-- [[Octadesk-Joana-2026-06-16]]
 
 ## Leituras de apoio
 
@@ -20,3 +14,7 @@ Este índice conecta os relatórios comerciais e as leituras de campo da Natáli
 - [[Oracle DEBX - Maio 2026 - Vendas e Clientes]]
 - [[Treinamento Comercial — Vendedores Conamore]]
 - [[Roteiro de Atendimento — Vendedores Conamore]]
+
+## Retenção
+
+Relatórios operacionais diários anteriores a `2026-07-20` foram removidos na faxina de agosto de 2026. Relatórios individuais e materiais estratégicos foram preservados.
