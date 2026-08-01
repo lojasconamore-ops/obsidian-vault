@@ -26,13 +26,14 @@ Metas definidas por **Sergio Ladeira e Andrea** para a competência **agosto/202
 
 Em todos os relatórios e análises referentes a agosto/2026:
 
-1. Apresentar separadamente **meta mínima** e **meta real**.
-2. Calcular o percentual de atingimento contra as duas metas.
-3. Tratar a **meta real** como objetivo principal de gestão.
-4. Tratar a **meta mínima** como piso de desempenho.
-5. Não reutilizar automaticamente as metas de julho/2026.
-6. Para ACL, usar R$ 295 mil como mínima e R$ 310 mil como real.
-7. Para GCL, usar R$ 85 mil como mínima e R$ 93 mil como real.
+1. Exibir e acompanhar **somente a meta mínima**, para manter o relatório objetivo e evitar excesso de números.
+2. Calcular percentual de atingimento, valor restante e projeção de fechamento exclusivamente contra a meta mínima.
+3. Não apresentar a meta real nos relatórios rotineiros, salvo se Sergio solicitar expressamente uma comparação.
+4. Não reutilizar automaticamente as metas de julho/2026.
+5. Para ACL, usar **R$ 295 mil** como meta dos relatórios.
+6. Para GCL, usar **R$ 85 mil** como meta dos relatórios.
+
+> As metas reais permanecem registradas como decisão gerencial, mas não devem aparecer no acompanhamento rotineiro para evitar confusão.
 
 ## Referências
 
