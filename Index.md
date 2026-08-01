@@ -36,4 +36,4 @@ Documents/Obsidian Vault/
 
 ## Links
 
-Use `[[Nome da Nota]]` para criar links entre notas no estilo Obsidian.
+Use a sintaxe de *wikilink* do Obsidian — dois colchetes envolvendo o nome da nota — para conectar documentos relacionados.
