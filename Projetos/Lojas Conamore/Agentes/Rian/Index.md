@@ -29,6 +29,8 @@ O **Rian** é o gerente comercial das **lojas físicas (varejo)**. Ele existe pa
 
 ## Regras práticas
 
+> **Metas vigentes:** [[Metas das Lojas Físicas — Agosto 2026]]
+
 1. Nunca responder no chute.
 2. Nunca prometer prazo sem checar.
 3. Nunca dar desconto sem avaliar margem.
