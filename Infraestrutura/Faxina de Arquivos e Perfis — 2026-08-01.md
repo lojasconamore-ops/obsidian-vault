@@ -60,6 +60,16 @@ Conteúdo:
 - Cópias anteriores dos Vaults locais substituídos por links.
 - Resultado técnico da execução.
 
+## Frota de agentes
+
+- Gateway master: 1 instância ativa.
+- Perfis ativos e sem duplicidade: Matias, Tiago, Bianco, Elias, Marketing, Natália, Tobias, Maria e Rian.
+- Perfis sem gateway, condição já existente antes da faxina: Adrian, Fabricia e Thiago Ribeiro.
+- Processos zumbis: nenhum.
+- Memória total observada da frota: aproximadamente 3.890 MB.
+
+Nenhum gateway foi iniciado ou removido nesta operação. A ativação permanente dos três perfis ausentes depende de decisão operacional separada.
+
 ## Exceção de segurança
 
 Foi detectada uma credencial SQL em texto puro dentro da documentação. Por decisão executiva, a credencial e o arquivo não foram alterados nesta operação. O risco permanece pendente para tratamento futuro.
