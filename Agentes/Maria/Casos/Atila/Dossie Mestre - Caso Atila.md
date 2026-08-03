@@ -4,7 +4,7 @@ tipo: dossie-mestre
 responsavel: Maria (RH)
 confidencialidade: alta
 fonte: Dossie-Mestre-Caso-Atila-Conamore-2026-07-23.docx
-ultima_atualizacao: 2026-07-23
+ultima_atualizacao: 2026-08-03
 tags: [caso-rh, acidente-trabalho, atila, dossie-mestre]
 ---
 
@@ -24,6 +24,8 @@ O caso envolve o colaborador **Antonio Átila Lima Oliveira de Carvalho**, cargo
 A empresa emitiu CAT, recebeu atestados sucessivos, pagou os primeiros 15 dias de afastamento e manteve o vínculo ativo. O caso passou à esfera previdenciária após o período inicial. Houve informação de indeferimento do primeiro pedido ao INSS por erro no ano informado no requerimento, com posterior revisão administrativa e novo requerimento baseado em atestado de 60 dias emitido em 19/05/2026.
 
 Em **20/07/2026**, houve exame de retorno ao trabalho. O ASO registrou **apto para função**, mas o encaminhamento/relatório complementar indicou **apto com restrição** por 30 dias.
+
+Em **03/08/2026**, o RH recebeu atestado emitido pelo Hospital Municipal Dr. Mário Gatti em **31/07/2026**, após consulta de urgência, com orientação de repouso por **10 dias**. O período operacional calculado vai de 31/07 a 09/08/2026, com retorno teórico em 10/08/2026, sujeito à confirmação da Medicina Ocupacional. Ver [[registro-atestado-medico-2026-07-31]].
 
 ## Restrições temporárias registradas em 20/07/2026
 
@@ -51,6 +53,8 @@ Em **20/07/2026**, houve exame de retorno ao trabalho. O ASO registrou **apto pa
 - Registro de orientação ao gestor imediato.
 - Resultado da reavaliação médica após 30 dias.
 - Eventual manutenção, alteração ou encerramento das restrições.
+- Validação da Medicina Ocupacional sobre o novo atestado e as condições para retorno após 09/08/2026.
+- Avaliação de DP/Jurídico sobre eventual repercussão previdenciária e soma de afastamentos, sem presumir enquadramento apenas pelo CID.
 
 ## Links internos
 
@@ -59,3 +63,4 @@ Em **20/07/2026**, houve exame de retorno ao trabalho. O ASO registrou **apto pa
 - [[checklist-documentos-colaborador]]
 - [[registro-comunicacoes]]
 - [[encaminhamentos-juridico]]
+- [[registro-atestado-medico-2026-07-31]]

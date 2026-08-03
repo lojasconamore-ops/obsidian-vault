@@ -82,3 +82,16 @@ tags: [log, comunicacoes, atila]
 - **Pontos sensíveis:** ausência sem atestado em contexto de acidente de trabalho anterior e retorno com restrições; necessidade de registrar ponto sem interpretar além dos documentos; evitar punição imediata sem oitiva e alinhamento RH/Jurídico; reforçar atendimento médico/ocupacional se houver persistência de dor.
 - **Registro detalhado em:** `[[registro-ausencia-sem-atestado-2026-07-28-29]]`
 - **Próximo passo indicado:** solicitar relato escrito da gestora, validar lançamento no ponto, conversar com o colaborador de forma acolhedora e objetiva, informar regra de justificativa/atestado sem tom punitivo e comunicar Adrian/Jurídico para ciência.
+
+## #006 — Recebimento de atestado médico emitido em 31/07/2026
+
+- **Data do atendimento/emissão:** 31/07/2026
+- **Data do recebimento pelo RH:** 03/08/2026, 12:03 BRT
+- **Tipo:** OUT
+- **De/Para:** Empresa/RH recebeu documento do colaborador Antonio Átila
+- **Assunto:** Atestado com repouso por 10 dias
+- **Resumo:** Recebida imagem de atestado do Hospital Municipal Dr. Mário Gatti. O documento marca consulta de urgência e permanência em repouso por 10 (dez) dias. CID-10 S46.1 anotado. O período operacional foi calculado de 31/07 a 09/08/2026, com retorno teórico em 10/08/2026, sujeito à confirmação da Medicina Ocupacional.
+- **Pontos sensíveis:** novo afastamento durante retorno com restrições temporárias em caso de acidente de trabalho; não concluir nexo ou diagnóstico apenas pelo documento; verificar repercussão ocupacional e previdenciária com Medicina do Trabalho, DP e Jurídico.
+- **Anexo preservado:** `Documentos/Atestado-Medico-2026-07-31-Antonio-Atila.jpg`
+- **Registro detalhado em:** `[[registro-atestado-medico-2026-07-31]]`
+- **Próximo passo indicado:** lançar o período no ponto/DP, encaminhar à Medicina Ocupacional, dar ciência ao Adrian e confirmar aptidão/restrições antes do retorno.

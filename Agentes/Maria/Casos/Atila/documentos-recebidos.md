@@ -3,7 +3,7 @@ caso: Átila
 tipo: inventario-documentos
 responsavel: Maria (RH)
 confidencialidade: alta
-ultima_atualizacao: 2026-07-28
+ultima_atualizacao: 2026-08-03
 tags: [caso-rh, acidente-trabalho, atila, documentos]
 ---
 
@@ -18,6 +18,7 @@ tags: [caso-rh, acidente-trabalho, atila, documentos]
 | 2026-07-23 | `Documentos/Dossie-Mestre-Caso-Atila-Conamore-2026-07-23.docx` | DOCX | Enviado no Workspace RH | Dossiê mestre definido por Sérgio como referência principal do caso | `d6f927acf28efeba3aa4afb75e6b3221f28285c0204ac59fe4693d078d5338de` |
 | 2026-07-23 | `Documentos/Encaminhamento-Restricoes-Work-2026-07-20-Antonio-Atila.pdf` | PDF | Enviado no Workspace RH | Encaminhamento da Work Medicina Ocupacional com restrições temporárias de retorno | `bdc0281de0e37e9066038c0d299a50ef263f25cf5b6f4cb7c31aecf3c9ee732d` |
 | 2026-07-28 | `Documentos/WhatsApp-2026-07-28-Atila-dor-braco-e-INSS.jpg` | JPG | Captura de WhatsApp enviada no Workspace RH | Átila relata dor no braço e atraso; captura também mostra cobrança anterior sobre INSS/recurso e possibilidade de procurar outros caminhos se não aprovado | `559fb2e7541cc973c4dcb17fe7626c4518390594f73e46bd2590f7f0cbe968b1` |
+| 2026-08-03 | `Documentos/Atestado-Medico-2026-07-31-Antonio-Atila.jpg` | JPG | Imagem enviada no Workspace RH | Atestado do Hospital Municipal Dr. Mário Gatti, emitido em 31/07/2026, com consulta de urgência e repouso por 10 dias | `308d54c3646334958f52ce9205658c3c4c3ab85d57e83588e2828346ba68986d` |
 
 ## Leitura do PDF recebido em 23/07/2026
 
@@ -40,3 +41,17 @@ O documento registra o colaborador como **apto com restrição** por 30 dias, co
 ### Observação RH
 
 Este documento confirma e deve ser lido junto com o ASO/relatório complementar citado no [[Dossie Mestre - Caso Atila|Dossiê Mestre]]. Enquanto as restrições estiverem vigentes, a empresa deve formalizar atividade compatível, orientar gestor imediato e impedir tarefas ocasionais incompatíveis.
+
+## Leitura do atestado recebido em 03/08/2026
+
+**Documento:** Atestado de atendimento — Hospital Municipal Dr. Mário Gatti  
+**Colaborador:** Antonio Atila Lima Oliveira (grafia visível no documento)  
+**Data do atendimento/emissão:** 31/07/2026  
+**Tipo marcado:** consulta de urgência  
+**Repouso:** 10 (dez) dias  
+**CID-10 anotado:** S46.1  
+**Médico/CRM:** Dr. Bruno A. Freitas Rosa — CRM-SP 279818 (leitura do carimbo)  
+
+### Observação RH
+
+Período operacional calculado de 31/07/2026 a 09/08/2026, com retorno teórico em 10/08/2026, sujeito à confirmação da Medicina Ocupacional. Ver registro detalhado em [[registro-atestado-medico-2026-07-31]].

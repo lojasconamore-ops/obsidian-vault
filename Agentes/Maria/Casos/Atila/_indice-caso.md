@@ -49,6 +49,7 @@ Usar o documento jurídico para riscos e conduta, mas considerar o `[[Dossie Mes
 | `[[registro-contato-marcos-procurador-2026-06-10]]` | Registro do contato telefônico com Sr. Marcos sobre vínculo ativo, INSS e pedido de avaliação laboral |
 | `[[registro-whatsapp-2026-07-28-atila-dor-braco-inss]]` | Registro da captura de WhatsApp de 28/07/2026 sobre dor no braço, atraso e pendência INSS |
 | `[[registro-ausencia-sem-atestado-2026-07-28-29]]` | Registro operacional da ausência de 28/07 e informação em 29/07 de que não houve ida ao médico/atestado |
+| `[[registro-atestado-medico-2026-07-31]]` | Atestado emitido em 31/07/2026 com repouso por 10 dias; retorno teórico em 10/08, sujeito à Medicina Ocupacional |
 | `[[encaminhamentos-juridico]]` | Quando e como escalar o Adrian |
 
 ## Princípios de conduta (do Jurídico, pra gente não esquecer)
