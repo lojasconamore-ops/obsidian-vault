@@ -143,20 +143,19 @@ A existência da empresa é consistente e o CNPJ está ativo, mas o Google Maps 
 
 ---
 
-## 7. Condição recomendada
+## Condição aprovada pela Diretoria
 
-### Recomendação principal
-✅ **Aprovar com 25% de entrada mínima + saldo em 30/60 dias**, desde que:
-1. entrada de **R$ 3.792,00** esteja compensada antes do faturamento;
-2. o pedido seja corrigido no DEBX/PDV para retirar “A DEFINIR” e refletir a condição aprovada;
-3. seja confirmada a divergência de valor entre PDF e Hotel Finder;
-4. comercial confirme que a operação atual está ativa no endereço/telefone informado.
+**Decisão do Sérgio em 03/08/2026:** ✅ **Aprovado com 50% de entrada + saldo em 30/60 dias.**
 
-### Condição mais segura, preferível se houver resistência operacional/online
-✅ **50% de entrada + saldo 30/60 dias**.
+Condição operacional:
+1. entrada de **R$ 7.584,00** compensada antes do faturamento;
+2. saldo de **R$ 7.584,00** em 30/60 dias;
+3. pedido corrigido no DEBX/PDV para retirar “A DEFINIR” e refletir a condição aprovada;
+4. confirmar/corrigir a divergência de valor entre PDF e Hotel Finder antes do faturamento;
+5. confirmar operação atual ativa no endereço/telefone informado.
 
 ### O que não aprovar
-❌ **Não aprovar boleto puro / sem entrada** para este caso, salvo autorização explícita do Sérgio, pois é primeira compra efetiva e a condição está “A DEFINIR”.
+❌ **Não aprovar boleto puro / sem entrada** para este caso, salvo nova autorização explícita do Sérgio, pois é primeira compra efetiva e a condição original estava “A DEFINIR”.
 
 ---
 
