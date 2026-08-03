@@ -242,3 +242,37 @@ veels_uid, FPLC, _fbp, __trf.src, _clck, _clsk, rdtrk, conversion_id, cart_id
 **Documento criado por:** Flávia (Marketing)  
 **Data:** 03/08/2026  
 **Versão:** 1.0
+
+---
+
+## 🔁 Reteste ao vivo — 03/08/2026 04:39 BRT
+
+**URL testada:** https://www.conamore.com.br/  
+**Ambiente:** navegador Chromium automatizado, sessão limpa de consentimento.
+
+### Resultado do carregamento inicial
+
+- Banner LGPD exibido corretamente (`display: block`).
+- `gtag`: função presente.
+- `dataLayer`: 10 entradas no carregamento inicial.
+- Primeiro consentimento efetivo: `consent default` com `analytics_storage: "denied"`.
+- GA4/GTM ativos: `G-V0KMM7L6M6` e `GTM-MMGX8ZL`.
+- Cookies `_ga`, `_ga_V0KMM7L6M6` e `_ga_CDCKFVTR5M` presentes.
+
+### Resultado após “Aceitar Tudo”
+
+- Banner ocultado (`display: none`).
+- `consent update` disparado com `analytics_storage: "granted"`.
+- Evento `cc_consent_update` disparado com `analytics_consent: "granted"` e `marketing_consent: "granted"`.
+- Preferências persistidas no `localStorage`: `statistics: true` e `marketing: true`.
+- Cookies GA4 atualizaram o estado de sessão (`g1`), evidenciando processamento após o consentimento.
+
+### Conclusão do reteste
+
+**O problema não está resolvido no carregamento inicial.** A implementação atual continua iniciando com analytics negado e só libera o GA4 depois que o visitante clica em “Aceitar Tudo”. O fluxo de consentimento funciona tecnicamente após a escolha, mas a métrica de usuários que não interagem com o banner continua sujeita à perda de eventos de engajamento.
+
+**Console:** sem erros JavaScript não tratados; foram observadas falhas externas do Reclame Aqui/Veels e um aviso de formato de moeda do Meta Pixel, sem relação causal comprovada com o Consent Mode.
+
+---
+
+**Versão:** 1.1
