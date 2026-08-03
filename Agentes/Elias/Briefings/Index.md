@@ -6,6 +6,7 @@ Este índice organiza os briefings e entregas diárias do secretário executivo.
 
 ## Mais recentes
 
+- [[2026-08-03-Briefing-Matutino]]
 - [[2026-08-02-Briefing-Matutino]]
 - [[2026-08-01-Briefing-Matutino]]
 - [[2026-07-31-Briefing-Matutino]]
