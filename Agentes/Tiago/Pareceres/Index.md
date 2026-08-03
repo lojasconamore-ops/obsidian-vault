@@ -4,10 +4,11 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (40)
+## Pareceres (41)
 
 | # | Cliente | Arquivo |
 |---|---|---|
+| 41 | Lavanderias Delano LTDA — Pedido 0114010 | [[Pareceres/Parecer - Lavanderias Delano LTDA - 0114010 - 2026-08-03]] |
 | 40 | Acampamento Nosso Recanto — Pedido 0114257 | [[Pareceres/Parecer - Acampamento Nosso Recanto - 0114257 - 2026-07-31]] |
 | 39 | LM Hospedagens / Iully Michelle — Pedido 0114139 | [[Pareceres/Parecer - LM Hospedagens Iully Michelle - 0114139 - 2026-07-30]] |
 | 38 | Clean Studios — Pedido potencial 100k | [[Pareceres/Parecer - Clean Studios - Pedido Potencial 100k - 2026-07-28]] |
@@ -51,4 +52,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 31/07/2026 — 40 pareceres*
+*Atualizado em: 03/08/2026 — 41 pareceres*
