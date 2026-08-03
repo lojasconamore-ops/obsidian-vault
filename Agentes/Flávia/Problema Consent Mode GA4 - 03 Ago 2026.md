@@ -276,3 +276,20 @@ veels_uid, FPLC, _fbp, __trf.src, _clck, _clsk, rdtrk, conversion_id, cart_id
 ---
 
 **Versão:** 1.1
+
+---
+
+## ✅ Reteste de registro após consentimento — 03/08/2026 04:46 BRT
+
+Após clicar em **“Aceitar Tudo”**, foi confirmado:
+
+- `consent update` com `analytics_storage: "granted"`;
+- requisição enviada ao endpoint server-side `gtmserver.conamore.com.br/g/collect` com `tid=G-V0KMM7L6M6`;
+- requisições enviadas ao Google Analytics (`google-analytics.com/g/s/collect` e `analytics.google.com/g/s/collect`);
+- evento de página identificado nas requisições como `en=PageView`/`en=page_view`.
+
+**Conclusão:** o GA4 passa a enviar e registrar dados após o consentimento. O teste comprovou o registro de `page_view`; não foi realizada uma compra nem uma ação comercial destrutiva. Eventos específicos de engajamento devem ser validados adicionalmente no DebugView do GA4 ou com uma sessão real de navegação.
+
+---
+
+**Versão:** 1.2
