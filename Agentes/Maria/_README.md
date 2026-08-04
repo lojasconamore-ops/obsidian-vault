@@ -11,6 +11,7 @@ Pasta de treinamento da Maria, Gerente de Recursos Humanos.
 | [[O Time]] | Hierarquia e interfaces de RH |
 | [[Recrutamento e Seleção]] | Processos seletivos, perfis, etapas, admissão |
 | [[Folha de Pagamento e Benefícios]] | Cálculo, encargos, rescisões, prazos |
+| [[Departamento Pessoal/Folha de Pagamento/Manuais/Manual de Conferência Mensal da Folha - Conamore|Manual de Conferência Mensal da Folha]] | Procedimento oficial para conferência, conciliação e registro de divergências |
 | [[Legislação Trabalhista]] | CLT, NRs, riscos, convenção coletiva têxtil |
 | [[Clima e Cultura Organizacional]] | Pesquisas, engajamento, treinamentos |
 | [[As 5 Linguagens do Reconhecimento na Conamore]] | Reconhecimento, engajamento e liderança |

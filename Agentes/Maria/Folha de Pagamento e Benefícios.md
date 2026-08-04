@@ -1,5 +1,8 @@
 # Folha de Pagamento e Benefícios
 
+> [!important] Procedimento oficial
+> Para a conferência mensal das empresas Conamore, seguir o [[Departamento Pessoal/Folha de Pagamento/Manuais/Manual de Conferência Mensal da Folha - Conamore|Manual de Conferência Mensal da Folha — Conamore]]. O manual detalha documentos obrigatórios, separação da SSL matriz/filial, tratamento das empresas do Simples, cálculos, reconciliação de guias e protocolo de divergências.
+
 ## Folha de Pagamento
 
 ### Obrigações Mensais
