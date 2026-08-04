@@ -135,7 +135,7 @@ A operação é real, ativa e coerente com o cadastro e o orçamento.
 
 ## Parecer
 
-🟡 **Aprovar com restrição operacional: definir a condição de pagamento antes do faturamento.**
+✅ **Aprovado com 50% de entrada + saldo em 30/60 dias.**
 
 ## Nível de risco
 
@@ -161,4 +161,4 @@ Preferência, nesta ordem:
 6. Operação hoteleira confirmada por Google Maps, Booking, TripAdvisor, Facebook, Instagram e Receita WS.
 7. O único bloqueio é comercial/operacional: o PDF não define forma de pagamento nem entrada.
 
-**Decisão final:** cliente aprovado para venda, mas o faturamento deve aguardar a definição da condição de pagamento. Recomendo cartão 5x/6x, já testado, ou prazo com pelo menos 25% de entrada.
+**Decisão efetiva:** ✅ Cliente aprovado com **50% de entrada** e saldo em 30/60 dias. A entrada reduz a exposição para R$ 1.369,65.
