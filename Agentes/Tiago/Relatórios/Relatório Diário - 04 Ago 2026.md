@@ -20,7 +20,7 @@
 ## Inadimplência e risco
 - **Indicador formal atual:** indisponível.
 - **Proxy SQL de atraso em 30 dias:** 0 itens | R$ 0,00, com corte em 30/07; não conclusivo.
-- **Pagar.me:** 2 PIX de R$ 752,80 para a mesma cliente, aprovados com 77 segundos de intervalo e pedidos distintos; **risco de duplicidade: R$ 1.505,60**.
+- **Pagar.me:** 2 PIX de R$ 752,80 para a mesma cliente, aprovados com 77 segundos de intervalo e pedidos distintos; **R$ 1.505,60 sob revisão; exposição potencial excedente de R$ 752,80 se uma cobrança for duplicada**.
 
 ## Recomendações
 1. **Revisar hoje** as 2 cobranças PIX suspeitas antes de qualquer ação; confirmar se são pedidos legítimos distintos.
