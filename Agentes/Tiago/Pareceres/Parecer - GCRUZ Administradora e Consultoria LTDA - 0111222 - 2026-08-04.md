@@ -35,6 +35,33 @@
 
 **Classificação interna:** primeira compra efetiva / sem histórico faturado próprio.
 
+### Complemento — validação no Oracle/DEBX via views `SSL_*`
+
+Após questionamento do Sérgio, consultei o Oracle/DEBX em 04/08/2026 usando as views `TEST_PED.SSL_CAIXA_PERIODO_COM_ORIGEM` e `TEST_PED.SSL_CAIXA_DETALHADO_MATERIAL`.
+
+Resultado:
+
+- A Simone Tibau aparece no Oracle como cadastro separado:
+  - Código: `A5459`
+  - Razão: `SIMONE TIBAU LIMA MENEZES 01282219766`
+  - Fantasia: `POUSADA PIRATININGA`
+  - CNPJ: `25.155.046/0001-00`
+- A GCRUZ aparece no Oracle como outro cadastro:
+  - Código: `05459`
+  - Razão: `GCRUZ ADMINISTRADORA E CONSULTORIA LTDA`
+  - CNPJ: `12.615.003/0001-19`
+  - Cadastro: 08/07/2026
+- Nas views SSL de vendas, encontrei histórico para **Simone / A5459**, mas **não encontrei vendas para GCRUZ / 05459**.
+
+Vendas confirmadas da Simone no Oracle:
+
+| Pedido | Data orçamento | Aprovação | Valor total | Condição | Pagamento |
+|---|---:|---:|---:|---|---|
+| 0018725 | 21/01/2025 | 23/01/2025 | R$ 2.078,00 | Cartão 4x | Increazy Crédito |
+| 0072536 | 24/11/2025 | 04/12/2025 | R$ 1.272,80 | À vista | Increazy PIX |
+
+**Conclusão do complemento:** a Simone realmente tem histórico de venda no Oracle, mas ele pertence ao cadastro `A5459`, CNPJ `25.155.046/0001-00`, e não deve ser transferido para a GCRUZ `05459`, CNPJ `12.615.003/0001-19`. O aparecimento da Simone no Hotel Finder associado ao ID `05459` decorre de colisão/migração de código (`A5459` vs `05459`) e reforça a necessidade de não usar ID isolado como prova de histórico.
+
 ## Etapa 2 — Score / Bureau
 
 **Fonte:** Equifax | Boa Vista — consulta de 04/08/2026 08:37:16.
