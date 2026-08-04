@@ -4,10 +4,11 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (42)
+## Pareceres (43)
 
 | # | Cliente | Arquivo |
 |---|---|---|
+| 43 | Cristal Park Hotel LTDA — Pedido 0115058 | [[Pareceres/Parecer - Cristal Park Hotel LTDA - 0115058 - 2026-08-04]] |
 | 42 | GCRUZ Administradora e Consultoria LTDA — Pedido 0111222 | [[Pareceres/Parecer - GCRUZ Administradora e Consultoria LTDA - 0111222 - 2026-08-04]] |
 | 41 | Lavanderias Delano LTDA — Pedido 0114010 | [[Pareceres/Parecer - Lavanderias Delano LTDA - 0114010 - 2026-08-03]] |
 | 40 | Acampamento Nosso Recanto — Pedido 0114257 | [[Pareceres/Parecer - Acampamento Nosso Recanto - 0114257 - 2026-07-31]] |
@@ -53,4 +54,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 04/08/2026 — 42 pareceres*
+*Atualizado em: 04/08/2026 — 43 pareceres*
