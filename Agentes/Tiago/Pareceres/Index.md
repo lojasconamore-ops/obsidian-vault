@@ -4,10 +4,11 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (43)
+## Pareceres (44)
 
 | # | Cliente | Arquivo |
 |---|---|---|
+| 44 | América Futebol Clube SAF — Pedido 0115195 | [[Pareceres/Parecer - America Futebol Clube SAF - 0115195 - 2026-08-05]] |
 | 43 | Cristal Park Hotel LTDA — Pedido 0115058 | [[Pareceres/Parecer - Cristal Park Hotel LTDA - 0115058 - 2026-08-04]] |
 | 42 | GCRUZ Administradora e Consultoria LTDA — Pedido 0111222 | [[Pareceres/Parecer - GCRUZ Administradora e Consultoria LTDA - 0111222 - 2026-08-04]] |
 | 41 | Lavanderias Delano LTDA — Pedido 0114010 | [[Pareceres/Parecer - Lavanderias Delano LTDA - 0114010 - 2026-08-03]] |
@@ -54,4 +55,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 04/08/2026 — 43 pareceres*
+*Atualizado em: 05/08/2026 — 44 pareceres*
