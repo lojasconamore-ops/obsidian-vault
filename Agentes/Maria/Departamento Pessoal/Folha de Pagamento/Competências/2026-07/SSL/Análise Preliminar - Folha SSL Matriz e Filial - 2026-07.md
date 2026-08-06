@@ -77,6 +77,7 @@ O RAT e os Terceiros foram aplicados apenas sobre empregados; a CPP de pró-labo
 - Líquido da matriz separado entre folha normal e rescisão.
 - Diferença agregada de R$ 0,11 no cálculo de 8% do FGTS, reconciliada individualmente.
 - Base RAT/FGTS da matriz inclui R$ 1.943,97 de 13º de rescisão, separada da base INSS regular.
+- Aplicação direta das alíquotas sobre as bases consolidadas produz diferença total de R$ 0,08 frente à soma dos componentes previdenciários dos relatórios; o efeito é compatível com arredondamentos por estabelecimento/componente, mas deve ser confirmado na DCTFWeb.
 
 ### C — Pendente de evidência
 
