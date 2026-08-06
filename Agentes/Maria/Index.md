@@ -20,6 +20,7 @@ Reporta ao **DigitalCEO**.
 3. **[[Recrutamento e Seleção]]** — Processos seletivos, perfis, etapas
 4. **[[Folha de Pagamento e Benefícios]]** — Processamento, encargos, convênios
    - **[[Departamento Pessoal/Folha de Pagamento/Manuais/Manual de Conferência Mensal da Folha - Conamore|Manual oficial de conferência mensal da folha]]** — metodologia, documentos, cálculos, conciliações e divergências
+   - **[[Departamento Pessoal/Folha de Pagamento/Competências/2026-07/Index|Competência julho/2026]]** — análises ACL, BRG, GCL, SSL e consolidado
 5. **[[Legislação Trabalhista]]** — CLT, categoria têxtil, convenções coletivas
 6. **[[Clima e Cultura Organizacional]]** — Pesquisas, engajamento, endomarketing
 7. **[[As 5 Linguagens do Reconhecimento na Conamore]]** — reconhecimento, engajamento e liderança

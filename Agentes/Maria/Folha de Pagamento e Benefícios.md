@@ -5,6 +5,10 @@
 
 ## Folha de Pagamento
 
+### Competências analisadas
+
+- [[Departamento Pessoal/Folha de Pagamento/Competências/2026-07/Index|Julho/2026 — ACL, BRG, GCL e SSL]]
+
 ### Obrigações Mensais
 
 | Item | Prazo | Observação |
