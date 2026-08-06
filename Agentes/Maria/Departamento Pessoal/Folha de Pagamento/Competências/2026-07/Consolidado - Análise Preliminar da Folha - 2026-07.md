@@ -46,7 +46,7 @@ População total dos relatórios: 63 empregados e 4 empregadores/pró-labore.
 
 **C — Pendente de evidências e conciliação documental.**
 
-A consistência matemática dos espelhos e das relações não substitui a conferência do ponto, movimentos, férias, rescisões, bases fiscais, eSocial e guias efetivamente recolhidas. Sérgio informou em 06/08/2026 que a ajuda de custos de R$ 3.000,00 do gerente de compras Thiago possui notas de pedágio e combustível que justificam boa parte da verba. Por isso, o ponto foi reclassificado de D para C até a conciliação integral dos comprovantes. No espelho recebido, Thiago consta na GCL, não na ACL.
+A consistência matemática dos espelhos e das relações não substitui a conferência do ponto, movimentos, férias, rescisões, bases fiscais, eSocial e guias efetivamente recolhidas. Sérgio confirmou em 06/08/2026 que a ajuda de custos de R$ 3.000,00 pertence corretamente à GCL e ao gerente de compras Thiago, que apresentou notas de pedágio e combustível justificando boa parte da verba. Por isso, o ponto foi reclassificado de D para C até a conciliação integral dos comprovantes.
 
 ## Prioridades de ação
 

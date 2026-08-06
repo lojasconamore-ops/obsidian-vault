@@ -63,7 +63,7 @@ confidencialidade: restrito-rh-financeiro-contabilidade
 
 ### C — Pendente de evidência
 
-1. **Ajuda de custos de R$ 3.000,00:** Sérgio informou em 06/08/2026 que a verba pertence ao gerente de compras Thiago e que foram apresentadas notas de pedágio e combustível justificando boa parte do valor. A evidência reduz o risco inicialmente apontado, mas ainda é necessário somar as notas, vincular cada despesa à atividade da empresa e apurar eventual saldo sem comprovante. No espelho recebido, Thiago consta na GCL, não na ACL.
+1. **Ajuda de custos de R$ 3.000,00:** Sérgio informou em 06/08/2026 que a verba pertence ao gerente de compras Thiago, confirmou que o lançamento é corretamente da GCL e informou que foram apresentadas notas de pedágio e combustível justificando boa parte do valor. A evidência reduz o risco inicialmente apontado, mas ainda é necessário somar as notas, vincular cada despesa à atividade da empresa e apurar eventual saldo sem comprovante.
 2. **Admissões:** conferir documentos, salários, datas, ponto e eventos do eSocial dos 2 admitidos.
 3. **Férias:** validar avisos, recibos, períodos, médias, descontos e recolhimentos das 2 férias.
 4. **Faltas/DSR/doença:** reconciliar ponto, atestado e eSocial.
