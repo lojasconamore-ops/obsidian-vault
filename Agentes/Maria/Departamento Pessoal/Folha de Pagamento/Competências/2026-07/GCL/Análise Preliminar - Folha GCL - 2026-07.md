@@ -4,7 +4,7 @@ competencia: 2026-07
 empresa: "1146 - CONAMORE GCL CAMA, MESA E BANHO LTDA"
 unidade: GCL
 cnpj: "08.801.387/0001-97"
-status: risco-relevante-pendente-de-validacao
+status: pendente-de-conciliacao-documental
 confidencialidade: restrito-rh-financeiro-contabilidade
 ---
 
@@ -57,26 +57,23 @@ confidencialidade: restrito-rh-financeiro-contabilidade
 
 ## Pontos de atenção
 
-### D — Risco relevante
-
-1. **Ajuda de custos de R$ 3.000,00:** representa 30% do salário-base do beneficiário e ficou fora das bases de INSS, IRRF e FGTS. Pela materialidade e pelo potencial fiscal/trabalhista, validar imediatamente com a Contabilidade a finalidade, eventual habitualidade, política, aprovação e comprovantes. Sem suporte suficiente, a não incidência não deve ser presumida.
-
 ### B — Diferença explicada
 
 - Diferença de R$ 0,02 entre 8% da base consolidada e o FGTS da guia, decorrente de cálculo/arredondamento individual.
 
 ### C — Pendente de evidência
 
-1. **Admissões:** conferir documentos, salários, datas, ponto e eventos do eSocial dos 2 admitidos.
-2. **Férias:** validar avisos, recibos, períodos, médias, descontos e recolhimentos das 2 férias.
-3. **Faltas/DSR/doença:** reconciliar ponto, atestado e eSocial.
-4. **Demais prêmios/ajudas de custo:** exigir finalidade, aprovação e comprovantes para sustentar a natureza não salarial.
-5. **Horas extras, DSR e quebra de caixa:** confrontar com ponto e relatórios de origem.
-6. **Taxa assistencial de R$ 181,04:** validar CCT aplicável, autorizações/oposições e repasse.
-7. **IRRF de R$ 412,15 no mês posterior:** conferir relatório de bases do IRRF e DARF/DCTFWeb.
-8. **Consignado:** confirmar desconto no holerite, contrato/parcela e efetivo repasse da guia.
-9. **Simples Nacional/Anexo I:** confirmar enquadramento e inexistência de CPP fora do DAS.
+1. **Ajuda de custos de R$ 3.000,00:** Sérgio informou em 06/08/2026 que a verba pertence ao gerente de compras Thiago e que foram apresentadas notas de pedágio e combustível justificando boa parte do valor. A evidência reduz o risco inicialmente apontado, mas ainda é necessário somar as notas, vincular cada despesa à atividade da empresa e apurar eventual saldo sem comprovante. No espelho recebido, Thiago consta na GCL, não na ACL.
+2. **Admissões:** conferir documentos, salários, datas, ponto e eventos do eSocial dos 2 admitidos.
+3. **Férias:** validar avisos, recibos, períodos, médias, descontos e recolhimentos das 2 férias.
+4. **Faltas/DSR/doença:** reconciliar ponto, atestado e eSocial.
+5. **Demais prêmios/ajudas de custo:** exigir finalidade, aprovação e comprovantes para sustentar a natureza não salarial.
+6. **Horas extras, DSR e quebra de caixa:** confrontar com ponto e relatórios de origem.
+7. **Taxa assistencial de R$ 181,04:** validar CCT aplicável, autorizações/oposições e repasse.
+8. **IRRF de R$ 412,15 no mês posterior:** conferir relatório de bases do IRRF e DARF/DCTFWeb.
+9. **Consignado:** confirmar desconto no holerite, contrato/parcela e efetivo repasse da guia.
+10. **Simples Nacional/Anexo I:** confirmar enquadramento e inexistência de CPP fora do DAS.
 
 ## Conclusão
 
-Folha, FGTS e consignado estão aritmeticamente reconciliados. Não há erro confirmado nos arquivos recebidos. O status é **D — risco relevante**, devido à verba de ajuda de custos de R$ 3.000,00 sem suporte apresentado, além das pendências C de admissões, férias, variáveis, taxa assistencial e guias previdenciária/IRRF definitivas.
+Folha, FGTS e consignado estão aritmeticamente reconciliados. Não há erro confirmado nos arquivos recebidos. Com a informação de que há notas de pedágio e combustível, a ajuda de custos deixa de ser tratada como risco D imediato e passa a **C — pendente de conciliação documental** até a soma dos comprovantes e apuração do saldo. Permanecem também pendentes admissões, férias, variáveis, taxa assistencial e guias previdenciária/IRRF definitivas.

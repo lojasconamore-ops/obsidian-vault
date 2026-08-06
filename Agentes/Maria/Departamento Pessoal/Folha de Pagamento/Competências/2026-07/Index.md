@@ -1,7 +1,7 @@
 ---
 tipo: indice-competencia-folha
 competencia: 2026-07
-status: risco-relevante-pendente-de-validacao
+status: pendente-de-evidencias
 confidencialidade: restrito-rh-financeiro-contabilidade
 ---
 
@@ -17,5 +17,5 @@ confidencialidade: restrito-rh-financeiro-contabilidade
 
 - Totais aritmeticamente conciliados.
 - FGTS/consignado de BRG, GCL e SSL reconciliados com as relações recebidas.
-- **Classificação geral: D — risco relevante**, pela ajuda de custos de R$ 3.000,00 da GCL sem suporte apresentado, além das pendências documentais C.
+- **Classificação geral: C — pendente de evidências.** A ajuda de custos de R$ 3.000,00 da GCL possui notas de pedágio e combustível que justificam boa parte do valor, faltando conciliação integral e apuração do saldo.
 - Não aprovar definitivamente antes da validação das pendências e guias.

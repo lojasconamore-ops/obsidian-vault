@@ -2,7 +2,7 @@
 tipo: consolidado-conferencia-folha
 competencia: 2026-07
 empresas: [ACL, BRG, GCL, SSL]
-status: risco-relevante-pendente-de-validacao
+status: pendente-de-evidencias
 confidencialidade: restrito-rh-financeiro-contabilidade
 ---
 
@@ -44,13 +44,13 @@ População total dos relatórios: 63 empregados e 4 empregadores/pró-labore.
 
 ## Classificação geral
 
-**D — Risco relevante, com pendências C.**
+**C — Pendente de evidências e conciliação documental.**
 
-A consistência matemática dos espelhos e das relações não substitui a conferência do ponto, movimentos, férias, rescisões, bases fiscais, eSocial e guias efetivamente recolhidas. O ponto que eleva a classificação para D é a ajuda de custos de R$ 3.000,00 na GCL, material e excluída das bases, sem documentação comprobatória recebida.
+A consistência matemática dos espelhos e das relações não substitui a conferência do ponto, movimentos, férias, rescisões, bases fiscais, eSocial e guias efetivamente recolhidas. Sérgio informou em 06/08/2026 que a ajuda de custos de R$ 3.000,00 do gerente de compras Thiago possui notas de pedágio e combustível que justificam boa parte da verba. Por isso, o ponto foi reclassificado de D para C até a conciliação integral dos comprovantes. No espelho recebido, Thiago consta na GCL, não na ACL.
 
 ## Prioridades de ação
 
-1. Validar imediatamente com a Contabilidade a ajuda de custos de R$ 3.000,00 da GCL: finalidade, habitualidade, política, aprovação, comprovantes e fundamento de não incidência.
+1. Somar e conciliar as notas de pedágio e combustível apresentadas pelo gerente de compras Thiago com os R$ 3.000,00 lançados na GCL, vincular as despesas à atividade empresarial e apurar eventual saldo sem comprovante.
 2. Solicitar DCTFWeb e DARF numerado de todas as empresas; para SSL, documento consolidado da matriz com detalhamento dos componentes de 1144 e 1145.
 3. Solicitar relatório analítico/guia do FGTS Digital da ACL para fechar a diferença de R$ 0,07 e comprovar o consignado de R$ 1.966,10.
 4. Reconciliar ponto, faltas, atrasos, horas extras, DSR e variáveis de todas as unidades.
