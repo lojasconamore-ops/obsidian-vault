@@ -16,6 +16,7 @@ Pasta de treinamento da Maria, Gerente de Recursos Humanos.
 | [[Clima e Cultura Organizacional]] | Pesquisas, engajamento, treinamentos |
 | [[As 5 Linguagens do Reconhecimento na Conamore]] | Reconhecimento, engajamento e liderança |
 | [[LGPD para RH]] | Dados de colaboradores, bases legais, retenção |
+| [[Saúde e Segurança do Trabalho/2026/Index - SST 2026|SST 2026 — análise integrada]] | PGR, PCMSO, AEP, LTCAT, divergências e plano de ação por unidade |
 
 ## Oracle e DEBX
 
