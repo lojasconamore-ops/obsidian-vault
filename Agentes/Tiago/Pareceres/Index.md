@@ -4,10 +4,11 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (44)
+## Pareceres (45)
 
 | # | Cliente | Arquivo |
 |---|---|---|
+| 45 | Clube Hípico Quinta da Baroneza — Pedido 0115599 | [[Pareceres/Parecer - Clube Hipico Quinta da Baroneza - 0115599 - 2026-08-07]] |
 | 44 | América Futebol Clube SAF — Pedido 0115195 | [[Pareceres/Parecer - America Futebol Clube SAF - 0115195 - 2026-08-05]] |
 | 43 | Cristal Park Hotel LTDA — Pedido 0115058 | [[Pareceres/Parecer - Cristal Park Hotel LTDA - 0115058 - 2026-08-04]] |
 | 42 | GCRUZ Administradora e Consultoria LTDA — Pedido 0111222 | [[Pareceres/Parecer - GCRUZ Administradora e Consultoria LTDA - 0111222 - 2026-08-04]] |
