@@ -9,8 +9,8 @@
 - [x] **P01 — Preparar migração do faturamento BRG → GCL**
   - **Responsável:** Zé
   - **Prazo:** 10/08/2026
-  - **Status:** ✅ Concluída em 07/08/2026 — confirmação recebida de Sergio.
-  - **Próximo passo:** nenhum; manter apenas o acompanhamento da migração em 10/08.
+  - **Status:** ✅ Concluída e confirmada em 07/08/2026 por Sergio.
+  - **Próximo passo:** nenhum.
   - **Bloco sugerido:** 20–30 min
 
 - [ ] **P02 — Disparar cupom de frete grátis para a base do Sudeste acima de R$ 400**
