@@ -44,11 +44,12 @@ Consulta realizada no SQL Server `hotel-finder` por CNPJ, razão social, nome fa
 ### Histórico identificado
 
 - **ID DEBX:** A0030
-- **Pedidos expedidos:** 15
-- **Valor histórico expedido:** R$ 99.931,90
-- **Ticket médio:** R$ 6.662,13
+- **Pedidos expedidos identificados:** 17 registros, sendo 15 com data e 2 registros legados sem data preenchida
+- **Valor histórico expedido dos 17 registros:** R$ 100.868,12
+- **Valor histórico dos 15 registros datados:** R$ 99.931,90
+- **Ticket médio dos 15 registros datados:** R$ 6.662,13
 - **Maior pedido:** R$ 14.709,20
-- **Período:** novembro/2024 a junho/2026
+- **Período dos registros datados:** setembro/2024 a junho/2026; dois registros antigos não possuem data preenchida
 - **Status:** recorrência consistente, sem evidência de cancelamento recorrente ou bloqueio no retorno consultado.
 
 Condições já praticadas:
@@ -156,7 +157,7 @@ O cliente já operou anteriormente em 30/60/90/120 dias, mas a condição recome
 
 ## Justificativa técnica objetiva
 
-O cliente é recorrente, tem 15 pedidos expedidos e quase R$ 100 mil de histórico Conamore. O pedido atual de R$ 6.180,00 é compatível com o ticket histórico, a operação online é forte, o CNPJ está ativo e não há protestos ou restrições no bureau.
+O cliente é recorrente, tem 17 registros de expedição identificados — 15 datados e 2 legados sem data — e aproximadamente R$ 100,9 mil de histórico Conamore. O pedido atual de R$ 6.180,00 é compatível com o ticket histórico dos pedidos datados, a operação online é forte, o CNPJ está ativo e não há protestos ou restrições no bureau.
 
 A restrição decorre do score 644, da probabilidade de inadimplência de 13% e dos registros de atrasos de até 60 dias. A entrada de 25% reduz a exposição para R$ 4.635,00, abaixo do ticket médio histórico, equilibrando segurança financeira e continuidade comercial.
 
