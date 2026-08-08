@@ -4,10 +4,11 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (46)
+## Pareceres (47)
 
 | # | Cliente | Arquivo |
 |---|---|---|
+| 47 | Luiz Lemes Martins / Hotel Casa Blanca II — Pedido 0115549 | [[Pareceres/Parecer - Luiz Lemes Martins - 0115549 - 2026-08-07]] |
 | 46 | Consolidado — Quinta da Baroneza + Luiz Lemes — CNPJs distintos | [[Pareceres/Parecer Consolidado - Quinta da Baroneza e Luiz Lemes - 2026-08-07]] |
 | 45 | Clube Hípico Quinta da Baroneza — Pedido 0115599 | [[Pareceres/Parecer - Clube Hipico Quinta da Baroneza - 0115599 - 2026-08-07]] |
 | 44 | América Futebol Clube SAF — Pedido 0115195 | [[Pareceres/Parecer - America Futebol Clube SAF - 0115195 - 2026-08-05]] |
