@@ -70,6 +70,21 @@ O valor do pedido é compatível com o histórico e não representa salto de lim
 
 **Classificação interna indicativa:** Classe B — cliente recorrente, com histórico expressivo e prazo já testado. O bureau, entretanto, recomenda manter controle de entrada e prazo.
 
+### Leitura financeira dos títulos no Oracle DEBX
+
+Consulta complementar realizada em 08/08/2026 (BRT), pela cadeia `CNPJ → EMP_CODEMP A0030 → PDV_NUMPED → TEST_MATRIZ.F_TITULOS`, com conferência nos schemas `TEST_ACL`, `TEST_CHC`, `TEST_GCL` e `TEST_BRG`.
+
+- **44 parcelas pagas**, total original de R$ 81.568,36;
+- **22 parcelas pagas até o vencimento**;
+- **22 parcelas compensadas de 1 a 3 dias após o vencimento**;
+- atraso máximo observado: **3 dias**;
+- atraso médio entre as parcelas pagas após o vencimento: **1,68 dia**;
+- **7 parcelas em aberto**, todas a vencer;
+- saldo em aberto na data de corte: **R$ 18.363,54**;
+- não havia título vencido na data da consulta.
+
+A leitura confirma capacidade de pagamento e ausência de inadimplência estrutural, mas também mostra pequena fricção recorrente de cobrança. Portanto, o histórico financeiro interno permanece compatível com **Classe B**, e não com Classe A plena. O saldo a vencer deve ser somado à exposição do próximo pedido.
+
 ## Etapa 2 — Score / Bureau
 
 Relatório Equifax | Boa Vista do mesmo CNPJ:
@@ -150,7 +165,7 @@ Evidências verificadas:
 - saldo de **R$ 4.635,00**;
 - preferencialmente em **30/60/90 dias**;
 - não manter os 120 dias sem nova autorização, pois o bureau apresenta score 644 e PD 13%;
-- confirmação de que não há títulos vencidos, renegociações ou saldo em aberto na data do faturamento;
+- confirmação de que não há títulos vencidos na data do faturamento; o saldo a vencer identificado na consulta (**R$ 18.363,54**) deve ser somado à exposição total;
 - correção do total no orçamento/ERP para refletir adequadamente itens, frete e total final.
 
 O cliente já operou anteriormente em 30/60/90/120 dias, mas a condição recomendada para este pedido é mais conservadora que algumas condições históricas por causa do score e da probabilidade de inadimplência atuais.
@@ -162,6 +177,10 @@ O cliente é recorrente, tem 17 registros de expedição identificados — 15 da
 A restrição decorre do score 644, da probabilidade de inadimplência de 13% e dos registros de atrasos de até 60 dias. A entrada de 25% reduz a exposição para R$ 4.635,00, abaixo do ticket médio histórico, equilibrando segurança financeira e continuidade comercial.
 
 **Decisão final: 🟡 aprovar com restrição, 25% de entrada, saldo em 30/60/90 dias, sem 120 dias, após correção do orçamento e validação de títulos em aberto.**
+
+## Atualização pós-aprovação — 08/08/2026
+
+Sérgio Ladeira aprovou a operação após a leitura complementar dos títulos do DEBX. A aprovação mantém as condições acima e incorpora o saldo de R$ 18.363,54 a vencer na exposição consolidada do cliente. O padrão observado — parcelas pagas no vencimento ou com compensação de até 3 dias — reforça a continuidade do crédito, mas exige monitoramento e não autoriza classificar o cliente como Classe A plena.
 
 ## Fontes e limitações
 
