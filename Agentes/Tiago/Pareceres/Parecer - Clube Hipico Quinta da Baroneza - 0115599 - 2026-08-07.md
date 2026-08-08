@@ -60,6 +60,23 @@ Foi localizado também o cadastro **A4580 — Sociedade Residencial Quinta da Ba
 
 **Classificação interna preliminar:** histórico positivo, porém ainda curto para sustentar o salto de limite solicitado; o cliente já utilizou boleto 30 dias, mas a operação atual é materialmente maior.
 
+### Títulos pagos e em aberto — Oracle DEBX
+
+Consulta complementar realizada em 08/08/2026 (BRT), pela cadeia `CNPJ → EMP_CODEMP A0831 → PDV_NUMPED → TEST_MATRIZ.F_TITULOS`, com conferência nos schemas `TEST_ACL`, `TEST_CHC`, `TEST_GCL` e `TEST_BRG`.
+
+- **2 títulos parcelados identificados**, ambos pagos;
+- **R$ 8.401,20** em títulos liquidados;
+- 1 título pago no vencimento;
+- 1 título compensado 1 dia após o vencimento;
+- atraso máximo observado: **1 dia**;
+- **nenhum título em aberto**;
+- **nenhum título vencido** na data da consulta;
+- `TEST_ACL`, `TEST_CHC`, `TEST_GCL` e `TEST_BRG`: sem títulos correspondentes.
+
+Essa leitura reforça que não há dívida em aberto com a Conamore e que o histórico interno de pagamento é controlado. Contudo, são apenas dois títulos e o bureau registra um protesto externo ativo; portanto, o bom comportamento interno não elimina a trava de crédito a prazo.
+
+**Classificação interna revisada:** Classe B — histórico curto, mas positivo e sem saldo vencido; insuficiente para neutralizar protesto externo ativo ou justificar salto automático de limite.
+
 ## Etapa 2 — Score / Bureau
 
 Relatório Equifax | Boa Vista para o mesmo CNPJ:
@@ -138,6 +155,10 @@ Não foram confirmadas, nesta consulta, avaliações quantitativas robustas em G
 4. Até a baixa confirmada: aceitar somente **PIX/TED antecipado ou cartão**, com pagamento integral antes da expedição.
 5. Se a diretoria autorizar excepcionalmente a venda a prazo, exigir autorização expressa e, como mitigação mínima, **50% de entrada + saldo máximo em 30 dias**, mantendo a exposição em R$ 9.001,60 antes de qualquer revisão do limite.
 
+### Reanálise com títulos do Oracle — 08/08/2026
+
+A consulta de contas a receber não encontrou títulos vencidos ou em aberto na Conamore. Foram identificados 2 títulos, ambos liquidados: um no vencimento e outro com 1 dia de diferença. Esse resultado reforça a capacidade de pagamento no relacionamento interno, mas não altera a decisão de crédito porque permanece 1 protesto externo ativo de R$ 1.533,28. Pela Política de Crédito, a restrição ativa supera score, pontualidade e ausência de dívida interna.
+
 ## Justificativa técnica objetiva
 
 O cliente tem CNPJ ativo desde 2000, operação verificável, score 917, PD 1%, cadastro positivo e 100% de pontualidade no bureau. Também possui dois pedidos expedidos na Conamore, incluindo boleto de 30 dias. Esses fatores são positivos.
@@ -151,6 +172,7 @@ Entretanto, há **um protesto ativo recente de R$ 1.533,28**, e a Política de C
 - Orçamento PDF nº 0115599 — fonte dos itens e termos comerciais;
 - Equifax | Boa Vista — relatório de 07/08/2026;
 - SQL Server Hotel Finder — cadastro e pedidos internos;
+- Oracle DEBX `TEST_MATRIZ.F_TITULOS` — títulos pagos e em aberto, consultado em 08/08/2026;
 - Receita WS — situação cadastral e atividade;
 - Site oficial, Google Maps e Yelp — validação operacional;
-- Não foi consultado Oracle DEBX, pois a análise foi atendida pelo Hotel Finder e pelos documentos enviados; nenhuma alteração foi realizada em banco.
+- Oracle DEBX foi consultado em modo somente leitura; nenhuma alteração foi realizada em banco.
