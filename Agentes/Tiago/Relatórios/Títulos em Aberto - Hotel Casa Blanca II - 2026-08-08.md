@@ -45,3 +45,11 @@
 - Foram excluídos da contagem os registros-resumo sem `TIT_NUMPAR`, pois não são parcelas individuais de contas a receber.
 - A consulta foi somente de leitura, sem alteração de dados.
 - O saldo aberto é o saldo encontrado no Oracle na data/hora da consulta e deve ser atualizado antes de uma decisão de faturamento, pois pagamentos posteriores podem alterar a posição.
+
+## Atualização para análise de crédito
+
+- O cliente possui histórico recorrente e não apresenta parcela vencida na posição de 08/08/2026.
+- Das 44 parcelas pagas, 22 foram pagas até o vencimento e 22 foram compensadas entre 1 e 3 dias após o vencimento.
+- O atraso máximo observado foi de 3 dias e a média dos pagamentos com atraso foi de 1,68 dia.
+- Interpretação: comportamento **bom e controlado, com pequena fricção de cobrança**, compatível com Classe B; não há evidência de inadimplência estrutural.
+- A informação melhora o parecer, mas não elimina a exigência de entrada mínima de 25% nem substitui bureau e validação operacional online.
