@@ -19,6 +19,24 @@
   - **Próximo passo:** confirmar execução no início da tarde.
   - **Bloco sugerido:** 15 min
 
+- [ ] **P13 — Fechar DRE da Conamore**
+  - **Responsável:** a definir
+  - **Prazo:** não registrado
+  - **Próximo passo:** confirmar período, números pendentes e responsável pelo fechamento.
+  - **Bloco sugerido:** a definir
+
+- [ ] **P14 — Aprovar RQ Zucchetti**
+  - **Responsável:** Sergio
+  - **Prazo:** não registrado
+  - **Próximo passo:** revisar a requisição e aprovar ou devolver com ajustes.
+  - **Bloco sugerido:** 15–20 min
+
+- [ ] **P15 — Terminar pedidos de compra de amenities e cobertores**
+  - **Responsável:** a definir
+  - **Prazo:** não registrado
+  - **Próximo passo:** confirmar itens, quantidades, fornecedores e pendências de emissão/finalização.
+  - **Bloco sugerido:** a definir
+
 - [ ] **P05 — Atualizar lista de clientes e enviar telefones para Andreia**
   - **Responsável:** Sergio
   - **Prazo:** não registrado
