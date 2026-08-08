@@ -1,0 +1,28 @@
+# Arquivo de Disavow — Conamore
+# Data: 08 de Agosto de 2026
+# Propriedade: sc-domain:conamore.com.br
+#
+# Este arquivo informa ao Google quais backlinks devem ser ignorados
+# ao calcular o ranking do site. Use APENAS para links tóxicos
+# que possam prejudicar sua reputação.
+#
+# Enviar em: https://search.google.com/search-console/disavow-links-admin
+
+# ─────────────────────────────────────────────
+# 🔴 CLONE PARASITA — radiotuzla.com
+# Motivo: Clone/espelho do site oficial conamore.com.br
+# Técnica: Parasite SEO — subdomínios copiando conteúdo legítimo
+# Descoberto: 17/06/2026 | Ainda ativo em: 08/08/2026
+# ─────────────────────────────────────────────
+domain:radiotuzla.com
+
+# ─────────────────────────────────────────────
+# Nota: Se novos domínios tóxicos forem identificados,
+# adicione abaixo seguindo o mesmo formato:
+#
+# domain:exemplo-toxico.com
+#
+# ou para URLs específicas:
+#
+# https://exemplo-toxico.com/pagina-suspeita
+# ─────────────────────────────────────────────
