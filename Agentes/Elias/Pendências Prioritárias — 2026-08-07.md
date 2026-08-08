@@ -19,11 +19,13 @@
   - **Próximo passo:** confirmar execução no início da tarde.
   - **Bloco sugerido:** 15 min
 
-- [ ] **P05 — Enviar telefones da lista para Andreia**
+- [ ] **P05 — Atualizar lista de clientes e enviar telefones para Andreia**
   - **Responsável:** Sergio
-  - **Prazo:** até 5 minutos após a reunião
-  - **Próximo passo:** confirmar se já foi enviado; caso contrário, executar pela manhã.
-  - **Bloco sugerido:** 10 min
+  - **Prazo:** não registrado
+  - **Escopo consolidado:** incluir o telefone de cadastro na lista e enviar os telefones para Andreia.
+  - **Próximo passo:** validar a lista, incluir os telefones e encaminhar o arquivo à Andreia.
+  - **Bloco sugerido:** 30–40 min
+  - **Observação:** P06 incorporada nesta tarefa.
 
 - [ ] **P03 — Criar aba Airbnb na home e configurar o kit Airbnb como produto composto no Magento**
   - **Responsável:** Sergio
@@ -38,12 +40,6 @@
   - **Prazo:** não registrado
   - **Próximo passo:** enviar convite com pauta; organizar a fila única de melhorias antes da reunião.
   - **Bloco sugerido:** 15 min
-
-- [ ] **P06 — Incluir o telefone de cadastro na lista de clientes**
-  - **Responsável:** Sergio
-  - **Prazo:** não registrado
-  - **Próximo passo:** executar após validar a lista usada por Andreia.
-  - **Bloco sugerido:** 30 min
 
 - [ ] **P07 — Encaminhar os ajustes de UX para a equipe Incrise**
   - **Responsável:** Jr
