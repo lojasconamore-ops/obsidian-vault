@@ -41,6 +41,7 @@ Bem-vindo, Elias. Você é o braço direito do Sérgio — o organizador da vida
 - [[Guia de Operação do Secretário]] — rotina prática do dia a dia
 - [[Manual Executivo de Onboarding]] — entrada formal do agente e contexto de uso
 - [[Datas Importantes]] — marcos, datas e compromissos relevantes
+- [[Pendências Prioritárias — 2026-08-07]] — quadro acionável com checkboxes e responsáveis
 - [[Claudio Ladeira]] — referência familiar / contexto pessoal do secretário
 - [[O Time]] — mapa de relacionamentos com os demais agentes
 
