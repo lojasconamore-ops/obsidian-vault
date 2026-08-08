@@ -6,10 +6,11 @@
 
 ## 🔴 Prioridade imediata
 
-- [ ] **P01 — Preparar migração do faturamento BRG → GCL**
+- [x] **P01 — Preparar migração do faturamento BRG → GCL**
   - **Responsável:** Zé
   - **Prazo:** 10/08/2026
-  - **Próximo passo:** Sergio confirmar o status pela manhã e acompanhar o envio da alteração para Ju.
+  - **Status:** ✅ Concluída em 07/08/2026 — confirmação recebida de Sergio.
+  - **Próximo passo:** nenhum; manter apenas o acompanhamento da migração em 10/08.
   - **Bloco sugerido:** 20–30 min
 
 - [ ] **P02 — Disparar cupom de frete grátis para a base do Sudeste acima de R$ 400**
