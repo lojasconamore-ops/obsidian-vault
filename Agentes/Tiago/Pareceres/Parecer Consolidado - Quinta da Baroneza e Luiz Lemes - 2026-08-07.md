@@ -140,6 +140,12 @@ Foi identificado um orçamento interno recente de R$ 6.180,00 mais frete de R$ 5
 
 **Classificação interna indicativa:** Classe B — cliente recorrente com histórico relevante e condições a prazo já testadas. A classificação deve ser revisada se houver títulos vencidos, renegociação ou atraso atual não refletido na consulta.
 
+## Títulos pagos e em aberto — Oracle DEBX
+
+Consulta complementar em 08/08/2026 (BRT): 2 títulos do CNPJ A0831 na `TEST_MATRIZ.F_TITULOS`, ambos pagos, totalizando R$ 8.401,20. Um foi pago no vencimento e outro com 1 dia de diferença. Não há títulos em aberto ou vencidos. Os schemas `TEST_ACL`, `TEST_CHC`, `TEST_GCL` e `TEST_BRG` não apresentaram títulos correspondentes.
+
+Esse resultado melhora a avaliação do relacionamento interno, mas não altera o veto de faturamento a prazo: o protesto externo ativo de R$ 1.533,28 permanece superior aos sinais positivos, conforme a Política de Crédito.
+
 ## Score / Bureau
 
 Relatório Equifax | Boa Vista emitido em 07/08/2026:
