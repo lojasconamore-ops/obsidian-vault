@@ -31,6 +31,12 @@ Este índice reúne os relatórios de acompanhamento financeiro e fiscal do Tiag
 | 5 | 06 Jul 2026 | [[Relatórios/Relatório Cruzamento Lista Negra - 06 Jul 2026]] |
 | 6 | 13 Jul 2026 | [[Relatórios/Relatório Cruzamento Lista Negra - 2026-07-13]] |
 
+## Títulos em Aberto
+
+| Data | Cliente | Arquivo |
+|---|---|---|
+| 08 Ago 2026 | Hotel Casa Blanca II | [[Relatórios/Títulos em Aberto - Hotel Casa Blanca II - 2026-08-08]] |
+
 ## Outros Documentos Relacionados
 
 - [[Lista Negra]] — base de restrição e análise de risco
