@@ -5,12 +5,42 @@
 - **Contexto:** preparação para atividade/prova de Língua Portuguesa
 - **Foco principal:** capítulo narrado pelo quarto de empregada e comparação com o texto legal sobre direitos dos trabalhadores domésticos
 
-## Enunciado da atividade
+## Fonte oficial da atividade
+
+- **Documento:** [[Fontes/ATIVIDADE_SOLITARIA.pdf|ATIVIDADE_SOLITARIA.pdf]]
+- **Professoras:** Cássia Nogueira e Lívia Granato
+- **Disciplina:** Língua Portuguesa e Produção de Textos — Ensino Médio / Abitur
+- **Obra:** CRUZ, Eliana Alves. *Solitária*. São Paulo: Companhia das Letras, 2022, p. 139–144.
+- **Texto legal:** Constituição da República Federativa do Brasil de 1988, art. 7º, parágrafo único, na redação original e na redação da Emenda Constitucional nº 72/2013.
+
+## Comandos oficiais da professora
+
+A atividade possui **quatro tarefas**:
+
+1. **Descrever** a posição do quarto de empregada na arquitetura da casa e a relação entre o cômodo e uma cela, com pelo menos **três elementos textuais identificados por linha**.
+2. **Analisar** como o excerto constrói uma crítica social indireta, considerando:
+   - os cinco segmentos que interrompem a narrativa e o campo lexical que os une;
+   - como o narrador justifica conhecer episódios que não presenciou e o efeito disso sobre a autoridade do relato;
+   - o comentário sobre a contratação em dias alternados e o efeito da incompreensão declarada.
+3. **Comparar** os textos literário e legal quanto à condição dos trabalhadores domésticos, às perspectivas adotadas e ao alcance de cada discurso.
+4. **Definir** o conceito de **habitus**, segundo Pierre Bourdieu.
+
+## Evidências textuais centrais por linha
+
+- **Linhas 1–5:** o narrador afirma que não era realmente um quarto, mas uma “solitária”, “uma prisão” destinada a apartar pessoas do mundo; também enfatiza seu tamanho reduzido.
+- **Linhas 7–10:** todo quarto de empregada aparece próximo à grande lixeira, no “fundo do profundo do imóvel”, perto dos odores da vida de quem não o habita.
+- **Linhas 11–15:** Eunice e Mabel vivem no quarto sem possuir a casa, enquanto os proprietários nunca o habitam e nem atravessam sua porta; o espaço recebe os odores do lixo rejeitado.
+- **Linhas 20–24:** Dona Lúcia contrata em dias alternados para evitar vínculo empregatício; a pergunta “Eram tão ricos… por que não?” produz ironia crítica.
+- **Linhas 43–47:** sala, quarto, corredor e cozinha transmitem o ocorrido; “os ouvidos das paredes” sustentam o testemunho coletivo dos cômodos.
+- **Linhas 48–55:** o relato da conduta de Camila e da queda de Gilberto materializa a invisibilização da criança.
+- **Linhas 56–65:** o narrador recorda as “não crianças” e contrapõe infâncias negadas à proteção permanente concedida a Camila, explicitando a desigualdade social.
+
+## Enunciado comparativo central
 
 Comparar:
 
 1. **Texto 1:** capítulo do quarto de empregada, do livro *Solitária*;
-2. **Texto 2:** texto jurídico sobre os direitos dos trabalhadores domésticos;
+2. **Texto 2:** texto constitucional sobre os direitos dos trabalhadores domésticos;
 
 considerando como tratam a condição dos trabalhadores domésticos e identificando **convergências e divergências quanto à perspectiva adotada e ao alcance de cada discurso**.
 
