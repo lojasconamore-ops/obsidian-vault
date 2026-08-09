@@ -22,6 +22,7 @@ Para um guia rápido do padrão, veja [README](./README.md).
 
 ## Documentos canônicos relacionados
 
+- [Governança dos Agentes](../Governança%20dos%20Agentes/Index.md) — política, scorecard e revisão semanal da frota
 - [Pessoas humanas](../Pessoas/Index.md) — contatos humanos relevantes, separados dos agentes de IA
 - [SOUL da Conamore](../SOUL.md) — visão geral da operação e roster dos agentes
 - [Treinamento oficial do Rian](./Rian/Treinamento.md)
