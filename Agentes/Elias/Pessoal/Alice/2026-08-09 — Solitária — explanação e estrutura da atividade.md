@@ -1,7 +1,7 @@
 # Alice — Explanação sobre *Solitária*, de Eliana Alves Cruz
 
 - **Data do registro:** 09/08/2026
-- **Origem:** transcrição de conversa entre Sergio e Alice
+- **Origem:** transcrição de conversa entre Sergio e Alice, complementada pelo [resumo compartilhado do Granola](https://notes.granola.ai/t/d206600d-ef0f-45cd-8a07-5b606dd5a0f1)
 - **Contexto:** preparação para atividade/prova de Língua Portuguesa
 - **Foco principal:** capítulo narrado pelo quarto de empregada e comparação com o texto legal sobre direitos dos trabalhadores domésticos
 
@@ -65,6 +65,42 @@ O episódio trágico da criança deixada sozinha em um quarto evidencia o result
 | Instrumento de mudança | Obrigação, proibição e sanção | Denúncia, identificação, incômodo e reflexão |
 | Limite | Não consegue fiscalizar integralmente o que ocorre dentro das casas | Não impõe juridicamente uma conduta |
 | Convergência | Busca corrigir desigualdades e proteger trabalhadores domésticos | Busca tornar visíveis essas desigualdades e estimular transformação social |
+
+## Complementos incorporados do resumo do Granola
+
+### Estrutura narrativa e sentido do título
+
+- A narrativa principal alterna perspectivas ligadas à empregada Eunice e à filha.
+- O Granola destacou quatro capítulos narrados por cômodos tratados como “solitárias”: **quarto da empregada, quarto de descanso, quarto do porteiro e quarto de hospital**.
+- O título trabalha um duplo sentido: a solidão vivida pelas personagens e a **cela solitária**, espaço de isolamento prisional.
+
+### Personagens e clímax mencionados na conversa
+
+- **Eunice:** empregada doméstica, que vive por longo período no quartinho com a filha.
+- **Dona Lúcia:** proprietária da casa.
+- **Camila:** filha de Dona Lúcia, com 18 anos no episódio narrado.
+- **Gilberto:** criança de quatro anos, filho da nova funcionária, conforme identificado pelo resumo do Granola.
+
+No clímax relatado, Camila deixa Gilberto sozinho no quarto dos pais, com a janela aberta e sem grade, no décimo andar, após a chegada de amigas para uma festa. A criança sobe na janela tentando procurar ou chamar a mãe e cai. O episódio materializa a ideia de que o filho da trabalhadora é percebido como “incômodo, apenas tolerado” e deve permanecer invisível.
+
+> **Nota de verificação:** os nomes, a idade, o andar e qualquer citação literal devem ser conferidos diretamente no livro antes de entrarem na redação escolar.
+
+### Autoridade do narrador e testemunho coletivo
+
+O resumo reforça que o quarto conhece acontecimentos não presenciados diretamente porque os cômodos transmitem entre si aquilo que viram: “a sala contou para o quarto, que contou para o corredor, que contou para a cozinha”. Essa construção converte os espaços da casa em uma testemunha coletiva e sugere que a violência cotidiana deixa marcas no ambiente.
+
+### Síntese da crítica indireta
+
+O Granola sintetizou três mecanismos centrais:
+
+1. **Campo lexical do descarte:** os mini títulos associados a lixo, descarte, matéria orgânica, reciclagem e papéis aproximam simbolicamente empregadas e filhos do invisível e descartável.
+2. **Arquitetura como hierarquia:** o quarto entre cozinha e lavanderia, junto à lixeira e afastado dos espaços nobres, torna concreta a marginalização social.
+3. **Ironia:** a pergunta “Nunca entendi isso muito bem. Eram ricos. Por quê?” constitui uma ingenuidade apenas aparente e denuncia a decisão de evitar o vínculo empregatício por meio da contratação em dias alternados.
+
+### Formulação sintética da comparação
+
+- **Convergência:** lei e literatura procuram corrigir ou denunciar a condição desigual dos trabalhadores domésticos.
+- **Divergência:** a lei **impõe direitos e deveres** por um discurso normativo; o livro **incomoda, sensibiliza e procura transformar a perspectiva do leitor** por um discurso literário.
 
 ## Correções factuais e terminológicas antes da redação
 
