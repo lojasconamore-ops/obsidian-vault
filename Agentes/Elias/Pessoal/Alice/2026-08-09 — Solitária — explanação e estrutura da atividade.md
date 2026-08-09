@@ -142,6 +142,24 @@ O Granola sintetizou três mecanismos centrais:
 6. O termo correto é **vínculo empregatício**.
 7. A **Emenda Constitucional nº 72/2013** ampliou os direitos dos trabalhadores domésticos; parte da regulamentação foi posteriormente detalhada pela **Lei Complementar nº 150/2015**.
 
+## Conceito de habitus — Pierre Bourdieu
+
+**Habitus** é um sistema de disposições duráveis, adquirido pela socialização e pelas experiências de vida, que orienta a maneira como as pessoas percebem, avaliam e agem no mundo. Essas disposições parecem naturais ou espontâneas, embora sejam formadas pelas condições sociais e pela posição ocupada por cada indivíduo ou grupo.
+
+O habitus não determina mecanicamente todas as ações, mas torna certas práticas, expectativas e julgamentos mais prováveis. Ele também contribui para a reprodução das estruturas sociais, porque desigualdades aprendidas podem ser repetidas sem que precisem ser enunciadas ou conscientemente planejadas.
+
+### Relação com o excerto
+
+No texto, o habitus ajuda a compreender por que:
+
+- o quarto de empregada é naturalmente colocado no fundo da casa, junto à cozinha, à lavanderia e à lixeira;
+- os proprietários não atravessam o cômodo, enquanto trabalhadoras e seus filhos são confinados a ele;
+- Dona Lúcia procura evitar direitos trabalhistas mesmo tendo recursos para pagá-los;
+- Camila continua sendo protegida como criança, enquanto filhos de trabalhadoras são tratados precocemente como adultos ou como incômodos;
+- essas práticas são vividas como parte normal da organização doméstica até que a narrativa literária as torne estranhas, visíveis e criticáveis.
+
+Assim, a arquitetura, as relações de trabalho e as diferenças entre as infâncias expressam disposições sociais incorporadas que reproduzem hierarquias de classe, raça e trabalho doméstico.
+
 ## Estrutura recomendada para o texto da Alice
 
 ### Introdução
@@ -174,4 +192,4 @@ Transformar as ideias da explanação em um texto coeso que responda diretamente
 
 ## Observação
 
-A transcrição oral contém hesitações, interrupções e possíveis imprecisões em nomes de personagens. Antes da redação final, conferir os nomes e as citações diretamente no exemplar do livro e no texto legal fornecido pela escola.
+O PDF oficial permitiu confirmar diretamente os nomes **Eunice, Mabel, Luzia, Gilberto, Camila, Dona Lúcia e seu Tiago**, além das citações, dos comandos e da referência bibliográfica. A redação final deve usar o PDF como fonte principal; a transcrição e o resumo do Granola permanecem como materiais de apoio para reconstruir o raciocínio oral da Alice.
