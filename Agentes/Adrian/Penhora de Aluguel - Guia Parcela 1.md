@@ -20,10 +20,27 @@
 - Agência/conta do beneficiário: 2234 / 99747159-X
 - Beneficiário final: TRT 2ª Região/SP — P — 03241738000139
 
-## Conclusão preliminar
-O PDF é a guia/boleto de depósito judicial, não um comprovante bancário autônomo de pagamento. Embora o campo “Valor Pago” apareça preenchido com R$ 2.750,00, a guia não apresenta autenticação mecânica, confirmação bancária inequívoca, data efetiva de pagamento ou número da conta judicial já constituída.
+## Conclusão preliminar da guia
+O primeiro PDF era a guia/boleto de depósito judicial. Embora o campo “Valor Pago” aparecesse preenchido com R$ 2.750,00, ele não apresentava autenticação bancária inequívoca.
 
-A própria guia informa que o número da conta judicial e o comprovante ficam disponíveis no Banco do Brasil no dia seguinte ao pagamento, no caminho Governo > Judiciário > Guia Dep. Judicial > Comprovante Pag.Dep.
+## Comprovante Itaú posteriormente recebido
+O comprovante do Itaú confirma o pagamento:
+- Data e hora: 07/08/2026 às 17:10:59 (Sispag)
+- Valor: R$ 2.750,00
+- Beneficiário: Banco do Brasil S.A. — Setor Público RJ
+- Código de barras: 00190000090283658501442130008172215630000275000
+- Autenticação mecânica: 4E44D04E3BD9F46A70E458FBC2AEE51A3E59FC27
+- Controle: 601786133459969
+- Conta pagadora: Conamore ACL Cama Mesa Banho Ltda., CNPJ 05.703.714/0001-80
+
+O código de barras e o valor correspondem à guia vinculada ao processo 10014917220225020034 e ao ID 081400000037308825.
+
+## Conferência do rateio informado
+Considerando, como premissa, aluguel total de R$ 22.000,00 e penhora de 25% sobre a parcela de cada beneficiário:
+- Luiz Fernando: 25% de R$ 22.000,00 = R$ 5.500,00; 25% penhorado = R$ 1.375,00.
+- Sérgio Rodrigues: 12,5% de R$ 22.000,00 = R$ 2.750,00; 25% penhorado = R$ 687,50.
+- Lumena: 12,5% de R$ 22.000,00 = R$ 2.750,00; 25% penhorado = R$ 687,50.
+- Total: R$ 2.750,00.
 
 ## Providência recomendada
-Obter e guardar o comprovante efetivo do Banco do Brasil e, se possível, consultar/baixar a confirmação da conta judicial. Para peticionar nos autos, anexar a guia e o comprovante bancário, vinculando ambos ao processo e ao ID 081400000037308825. Não considerar a obrigação comprovadamente quitada apenas com este PDF.
+A aritmética está correta e o total coincide com o comprovante. Antes de efetuar descontos, confirmar no despacho/ordem judicial: (i) que a base mensal é realmente R$ 22.000,00; (ii) que os percentuais de Luiz Fernando, Sérgio Rodrigues e Lumena são esses; (iii) que a penhora incide sobre 25% da quota de cada um; e (iv) a partir de qual competência o desconto deve ocorrer. Guardar a guia, o comprovante e a memória de cálculo, e juntar os documentos ao processo.
