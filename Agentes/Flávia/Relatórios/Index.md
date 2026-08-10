@@ -6,6 +6,7 @@ Este índice reúne as auditorias e validações do site e catálogo.
 
 ## Relatórios estratégicos
 
+- [[GA4-Diario-2026-08-10]]
 - [[Checkagem Completa Site Conamore - 2026-06-13]]
 - [[Validação Catálogo Conamore 2026 - links]]
 - [[Relatório Airbnb - 01 Jun 2026]]
