@@ -52,8 +52,10 @@ A aritmética está correta para aluguel integral de R$ 22.000,00 e para a premi
 - Lumena: 12,5% de R$ 22.000,00 = R$ 2.750,00; 25% penhorado = R$ 687,50.
 - Total: R$ 2.750,00.
 
-## Ressalva sobre o abatimento de benfeitorias
-O contrato prevê abatimento mensal de R$ 3.000,00 em dez parcelas. Se esse abatimento estava vigente na competência paga, o aluguel efetivamente pago seria R$ 19.000,00. Aplicando a ordem sobre as quotas dos três executados (50% do aluguel), a penhora seria: R$ 19.000,00 × 50% × 25% = R$ 2.375,00. O pagamento de R$ 2.750,00, portanto, foi calculado sobre o aluguel cheio de R$ 22.000,00 e pode exceder em R$ 375,00 o percentual incidente sobre o valor efetivamente pago, caso o abatimento fosse aplicável naquela competência.
+## Ressalva sobre o abatimento comercial de benfeitorias
+O contrato prevê R$ 22.000,00 como aluguel mensal. Os R$ 3.000,00 previstos na cláusula de benfeitorias foram tratados pelas partes como crédito/reembolso comercial autônomo da Conamore, e não como redução do valor contratual do aluguel. Sob essa premissa, a base de cálculo da penhora permanece R$ 22.000,00, resultando em R$ 2.750,00.
+
+Para evitar discussão com o juízo, a memória de cálculo e os documentos de pagamento devem deixar expressamente separadas as duas rubricas: (a) aluguel contratual de R$ 22.000,00; e (b) crédito comercial de R$ 3.000,00 relativo às benfeitorias. É recomendável que a petição esclareça que o depósito de R$ 2.750,00 foi calculado sobre o aluguel contratual, sem abatimento da base da penhora.
 
 ## Providência recomendada
 Não tratar como “desconto” informal aos locadores. A empresa deve pagar aos executados somente o valor líquido autorizado e depositar judicialmente a parcela penhorada, mantendo memória de cálculo. Confirmar no processo: (i) quais “executados” estão abrangidos; (ii) a competência do depósito; (iii) se o abatimento de benfeitorias foi considerado; e (iv) se o juízo quer 25% das quotas dos executados ou 25% do aluguel total. Como o depósito já foi feito, juntar guia, comprovante e memória de cálculo e pedir que eventual diferença seja reconhecida como crédito/compensação no próximo depósito, em vez de ajustar unilateralmente.
