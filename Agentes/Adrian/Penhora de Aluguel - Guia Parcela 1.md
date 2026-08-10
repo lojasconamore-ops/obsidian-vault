@@ -57,5 +57,10 @@ O contrato prevê R$ 22.000,00 como aluguel mensal. Os R$ 3.000,00 previstos na 
 
 Para evitar discussão com o juízo, a memória de cálculo e os documentos de pagamento devem deixar expressamente separadas as duas rubricas: (a) aluguel contratual de R$ 22.000,00; e (b) crédito comercial de R$ 3.000,00 relativo às benfeitorias. É recomendável que a petição esclareça que o depósito de R$ 2.750,00 foi calculado sobre o aluguel contratual, sem abatimento da base da penhora.
 
-## Providência recomendada
-Não tratar como “desconto” informal aos locadores. A empresa deve pagar aos executados somente o valor líquido autorizado e depositar judicialmente a parcela penhorada, mantendo memória de cálculo. Confirmar no processo: (i) quais “executados” estão abrangidos; (ii) a competência do depósito; (iii) se o abatimento de benfeitorias foi considerado; e (iv) se o juízo quer 25% das quotas dos executados ou 25% do aluguel total. Como o depósito já foi feito, juntar guia, comprovante e memória de cálculo e pedir que eventual diferença seja reconhecida como crédito/compensação no próximo depósito, em vez de ajustar unilateralmente.
+## Ressalva sobre o abatimento comercial de benfeitorias
+Premissa final confirmada: o contrato prevê R$ 22.000,00 como aluguel mensal. Os R$ 3.000,00 previstos na cláusula de benfeitorias foram tratados pelas partes como crédito/reembolso comercial autônomo da Conamore, e não como redução do valor contratual do aluguel. Sob essa premissa, a base de cálculo da penhora permanece R$ 22.000,00, resultando em R$ 2.750,00.
+
+Para evitar discussão com o juízo, a memória de cálculo e os documentos de pagamento devem deixar expressamente separadas as duas rubricas: (a) aluguel contratual de R$ 22.000,00; e (b) crédito comercial de R$ 3.000,00 relativo às benfeitorias. A petição deve esclarecer que o depósito de R$ 2.750,00 foi calculado sobre o aluguel contratual, sem abatimento da base da penhora.
+
+## Registro final
+Premissa operacional consolidada: a Conamore considerou a cláusula de R$ 3.000,00 como desconto comercial/reembolso independente, sem efeito redutor na base locatícia de R$ 22.000,00 usada para a penhora judicial.
