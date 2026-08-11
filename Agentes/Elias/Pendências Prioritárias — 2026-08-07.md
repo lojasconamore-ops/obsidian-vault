@@ -57,8 +57,10 @@
 
 - [ ] **P04 — Agendar reunião com Júnior e João para alinhar o escopo das melhorias do site**
   - **Responsável:** Sergio
-  - **Prazo:** não registrado
-  - **Próximo passo:** enviar convite com pauta; organizar a fila única de melhorias antes da reunião.
+  - **Status:** 🔵 Em andamento — solicitação enviada ao João em 11/08/2026.
+  - **Data proposta:** 19/08/2026, a partir das 14h (BRT).
+  - **Dependência:** aguardando retorno do João para confirmação.
+  - **Próximo passo:** após a confirmação, registrar o compromisso no Google Calendar com a pauta e os participantes.
   - **Bloco sugerido:** 15 min
 
 - [ ] **P07 — Encaminhar os ajustes de UX para a equipe Incrise**
