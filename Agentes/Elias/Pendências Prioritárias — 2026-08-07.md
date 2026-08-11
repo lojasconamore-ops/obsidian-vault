@@ -13,16 +13,18 @@
   - **Próximo passo:** nenhum.
   - **Bloco sugerido:** 20–30 min
 
-- [ ] **P02 — Disparar cupom de frete grátis para a base do Sudeste acima de R$ 400**
+- [x] **P02 — Disparar cupom de frete grátis para a base do Sudeste acima de R$ 400**
   - **Responsável:** Jr
   - **Prazo:** iniciar na semana seguinte; manter até o fim de agosto
-  - **Próximo passo:** confirmar execução no início da tarde.
+  - **Status:** ✅ Concluída e confirmada em 11/08/2026 por Sergio.
+  - **Próximo passo:** nenhum.
   - **Bloco sugerido:** 15 min
 
-- [ ] **P13 — Fechar DRE da Conamore**
+- [x] **P13 — Fechar DRE da Conamore**
   - **Responsável:** a definir
   - **Prazo:** não registrado
-  - **Próximo passo:** confirmar período, números pendentes e responsável pelo fechamento.
+  - **Status:** ✅ Concluída e confirmada em 11/08/2026 por Sergio.
+  - **Próximo passo:** nenhum.
   - **Bloco sugerido:** a definir
 
 - [ ] **P14 — Aprovar RQ Zucchetti**
