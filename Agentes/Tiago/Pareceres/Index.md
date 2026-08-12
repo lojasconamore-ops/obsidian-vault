@@ -4,10 +4,11 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (50)
+## Pareceres (51)
 
 | # | Cliente | Arquivo |
 |---|---|---|
+| 51 | Atlantica Hotels International Brasil — Pedido 0115257 | [[Pareceres/Parecer - Atlantica Hotels International Brasil - 0115257 - 2026-08-12]] |
 | 50 | Condomínio Real Residence Hotel — Pedido 0112660 | [[Pareceres/Parecer - Condominio Real Residence Hotel - 0112660 - 2026-08-12]] |
 | 49 | AMBAR ADMINISTRACAO DE HOTEIS LTDA — Pedido 0111251 | [[Pareceres/Parecer - Ambar Administracao de Hoteis LTDA - 0111251 - 2026-08-11]] |
 | 48 | Hotel Las Vegas LTDA — Pedido 0115754 | [[Pareceres/Parecer - Hotel Las Vegas - 0115754 - 2026-08-11]] |
