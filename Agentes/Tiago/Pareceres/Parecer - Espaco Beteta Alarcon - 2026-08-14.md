@@ -22,7 +22,7 @@
 
 - **Pedido/venda:** 0116110
 - **Emissão:** 10/08/2026
-- **Validade:** 10/08/2026
+- **Validade:** 10/08/2026 — **vencida na data desta análise (14/08/2026); exigir revalidação/reemissão da proposta**
 - **Representante:** Monica dos Santos Reis
 - **Forma de pagamento proposta:** boleto 30/60/90 dias, sem entrada impressa
 - **Prazo de entrega:** 6 dias úteis
