@@ -4,7 +4,9 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (52)
+## Pareceres (53)
+
+| 53 | Espaço Beteta Alarcon / Hotel Pirâmides Jarinu — CNPJ 13.825.407/0001-08 | [[Pareceres/Parecer - Espaco Beteta Alarcon - 2026-08-14]] |
 
 | # | Cliente | Arquivo |
 |---|---|---|
