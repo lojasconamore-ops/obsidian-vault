@@ -4,8 +4,9 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (53)
+## Pareceres (54)
 
+| 54 | Domo Bananeiras LTDA — Pedido 0116551 | [[Pareceres/Parecer - Domo Bananeiras - 0116551 - 2026-08-14]] |
 | 53 | Espaço Beteta Alarcon / Hotel Pirâmides Jarinu — CNPJ 13.825.407/0001-08 | [[Pareceres/Parecer - Espaco Beteta Alarcon - 2026-08-14]] |
 
 | # | Cliente | Arquivo |
