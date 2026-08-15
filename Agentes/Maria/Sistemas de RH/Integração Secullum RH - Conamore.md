@@ -74,6 +74,11 @@ Se houver mais de um banco autorizado, informar `--bank-id ID`.
 
 Essas ocorrências são **triagem técnica**, não comprovação de falta ou irregularidade. Antes de qualquer contato ou ajuste, cruzar com horários, escalas, folgas, afastamentos, abonos, compensações e relatório oficial do Secullum. A concentração de 10 marcações ímpares em 14/08 merece ser conferida primeiro, inclusive para descartar processamento ainda não concluído ou batidas pendentes de sincronização.
 
+## Relatórios gerados
+
+- [[Sistemas de RH/Relatórios/2026-08/Index|Relatórios Secullum — agosto de 2026]]
+- [[Sistemas de RH/Relatórios/2026-08/Relatório de Entradas e Saídas por Unidade - 2026-08-14.xlsx|Entradas e saídas por unidade — 14/08/2026]]
+
 ## Validação obrigatória antes da automação
 
 1. Confirmar autenticação e banco autorizado.
