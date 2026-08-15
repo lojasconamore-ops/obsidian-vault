@@ -123,7 +123,7 @@ Implantada em 15/08/2026:
 - **Segurança:** leitura apenas; resultados protegidos em `~/.hermes/profiles/maria/state/secullum-atrasos/` com permissão `600`.
 - **Confiabilidade:** se algum cálculo oficial falhar, a execução termina com erro em vez de entregar lista parcial como definitiva.
 
-A função de cálculo foi validada com testes de entrada atrasada, almoço excedente, saída antecipada, jornada sem atraso e batida parcial. A API de cálculo possui limite de requisições; os testes repetidos de implantação consumiram temporariamente a janela, por isso a primeira execução agendada ficou para 16/08/2026 às 07:10 BRT, em janela limpa.
+A função de cálculo foi validada com testes de entrada atrasada, almoço excedente, saída antecipada, jornada sem atraso e batida parcial. No ambiente Conamore, a API informou limite de **100 requisições de cálculo por hora por banco**. Os testes repetidos de implantação consumiram temporariamente essa janela; a rotina diária usará uma única execução, estimada em até 60 cálculos, e não concorre com o Radar das 07:00, que não chama a rota de cálculo. A primeira execução agendada ficou para 16/08/2026 às 07:10 BRT, em janela limpa.
 
 ## Diagnósticos de infraestrutura
 
