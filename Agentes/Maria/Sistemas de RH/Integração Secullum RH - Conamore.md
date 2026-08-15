@@ -66,6 +66,8 @@ Se houver mais de um banco autorizado, informar `--bank-id ID`.
 - As 16 linhas ímpares têm exatamente 3 marcações e alcançam 14 funcionários distintos.
 - Distribuição das linhas ímpares: 08/08 (1), 11/08 (2), 13/08 (3) e 14/08 (10).
 - 266 linhas sem marcação: 143 associadas a folga e 123 fora de folga.
+- Das 123 fora de folga, 102 pertencem a cadastros demitidos/invisíveis e não devem gerar alerta operacional.
+- Restaram 21 linhas de 16 funcionários ativos para conciliação com escala, abono, compensação e relatório oficial — ainda sem classificação como falta.
 - 6 registros de afastamento no período.
 
 ### Interpretação de RH
