@@ -107,6 +107,24 @@ Implantado em 15/08/2026, em modo exclusivamente de leitura.
 
 Teste inicial executado com a referência de 14/08/2026: 60 ativos, 5 unidades, arquivo XLSX com 60 linhas verificado e estado agregado gravado com permissão `600`.
 
+### Lista diária de atrasos superiores a 20 minutos
+
+Implantada em 15/08/2026:
+
+- **Agendamento:** diariamente às 07:10 BRT.
+- **Job Hermes:** `7ad383afffc1` — Lista diária de atrasos acima de 20 minutos.
+- **Script:** `~/.hermes/profiles/maria/scripts/secullum/daily_delay_list.py`.
+- **Data analisada:** dia anterior em Brasília.
+- **Critério:** soma, em minutos, de entrada após a base, intervalo de almoço acima da duração prevista e saída antes da base; listar somente quando o total for estritamente superior a 20 minutos.
+- **Fonte da jornada:** horários-base diários devolvidos pelo cálculo oficial do Secullum.
+- **Exclusão:** colaborador sem nenhuma batida horária no dia não é calculado nem listado.
+- **Batida parcial:** somente componentes comprováveis são calculados; ausência de saída ou retorno não é convertida automaticamente em atraso.
+- **Entrega:** somente os nomes que ultrapassarem o limite, com unidade e composição do atraso. Se ninguém ultrapassar, informar resultado vazio.
+- **Segurança:** leitura apenas; resultados protegidos em `~/.hermes/profiles/maria/state/secullum-atrasos/` com permissão `600`.
+- **Confiabilidade:** se algum cálculo oficial falhar, a execução termina com erro em vez de entregar lista parcial como definitiva.
+
+A função de cálculo foi validada com testes de entrada atrasada, almoço excedente, saída antecipada, jornada sem atraso e batida parcial. A API de cálculo possui limite de requisições; os testes repetidos de implantação consumiram temporariamente a janela, por isso a primeira execução agendada ficou para 16/08/2026 às 07:10 BRT, em janela limpa.
+
 ## Diagnósticos de infraestrutura
 
 - [[Sistemas de RH/Diagnóstico de Comunicação Secullum e Relógios - 2026-08-15|Diagnóstico de comunicação local — servidor Secullum e relógios — 15/08/2026]]
