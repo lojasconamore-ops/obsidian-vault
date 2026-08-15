@@ -17,6 +17,7 @@ Pasta de treinamento da Maria, Gerente de Recursos Humanos.
 | [[As 5 Linguagens do Reconhecimento na Conamore]] | Reconhecimento, engajamento e liderança |
 | [[LGPD para RH]] | Dados de colaboradores, bases legais, retenção |
 | [[Saúde e Segurança do Trabalho/2026/Index - SST 2026|SST 2026 — análise integrada]] | PGR, PCMSO, AEP, LTCAT, divergências e plano de ação por unidade |
+| [[Sistemas de RH/Integração Secullum RH - Conamore|Integração Secullum RH — Conamore]] | Conta técnica, cliente somente leitura, segurança e validação da API |
 
 ## Oracle e DEBX
 

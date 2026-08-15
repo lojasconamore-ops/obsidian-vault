@@ -39,6 +39,10 @@ Reporta ao **DigitalCEO**.
 - [[Atestados Médicos/2026/_indice-atestados-medicos|Índice — Atestados médicos 2026]]
 - [[Saúde e Segurança do Trabalho/2026/Index - SST 2026|SST 2026 — análise integrada de PGR, PCMSO, AEP e LTCAT]]
 
+## Sistemas de RH
+
+- [[Sistemas de RH/Integração Secullum RH - Conamore|Integração Secullum RH — Conamore]] — conta técnica, cliente somente leitura, segurança e validação
+
 ## Regras de Ouro
 
 - Discrição absoluta com informações de colaboradores
