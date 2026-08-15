@@ -89,6 +89,24 @@ Teste executado às 09:28 BRT pela API oficial, em modo somente leitura:
 
 **Conclusão:** a comunicação ACL → Secullum/API está funcionando. Este teste não comprova, isoladamente, que um REP físico específico esteja online neste exato momento, pois o evento bruto retornado não trouxe `EquipamentoId` e a API de equipamentos não expõe última comunicação.
 
+## Radar Diário do Ponto — implantação
+
+Implantado em 15/08/2026, em modo exclusivamente de leitura.
+
+- **Agendamento:** diariamente às 07:00 BRT.
+- **Data analisada:** dia anterior, considerando Brasília.
+- **Entrega:** tópico de RH de origem.
+- **Job Hermes:** `a396c65961e3` — Radar Diário do Ponto Conamore.
+- **Script:** `~/.hermes/profiles/maria/scripts/secullum/daily_radar.py`.
+- **Relatório nominal:** XLSX confidencial por unidade em `Sistemas de RH/Relatórios/AAAA-MM/`.
+- **Estado agregado protegido:** `~/.hermes/profiles/maria/state/secullum-radar/`, permissão `600`.
+- **Unidades:** ACL, BRG, GCL, SSL Matriz e SSL Filial.
+- **Indicadores:** ativos, horários completos/incompletos, ausência de linha, ausência de horário, folgas, rótulos como férias/atestado, eventos brutos e última inclusão.
+- **Controle:** textos como `FÉRIAS` e `ATESTAD` são classificados como rótulos, nunca como batidas.
+- **Salvaguarda:** alertas são triagem; nenhum desconto, advertência, ajuste ou contato automático é realizado.
+
+Teste inicial executado com a referência de 14/08/2026: 60 ativos, 5 unidades, arquivo XLSX com 60 linhas verificado e estado agregado gravado com permissão `600`.
+
 ## Diagnósticos de infraestrutura
 
 - [[Sistemas de RH/Diagnóstico de Comunicação Secullum e Relógios - 2026-08-15|Diagnóstico de comunicação local — servidor Secullum e relógios — 15/08/2026]]
