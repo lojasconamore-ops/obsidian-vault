@@ -56,18 +56,19 @@ Se houver mais de um banco autorizado, informar `--bank-id ID`.
 - 226 cadastros retornados pela API.
 - 60 ativos estimados, sem data de demissão e visíveis.
 - 166 com data de demissão; os mesmos 166 aparecem como invisíveis.
-- 59 ativos apresentaram ao menos uma marcação no período.
+- 56 ativos apresentaram ao menos uma marcação horária no período.
 
 ### Ponto e afastamentos
 
-- 553 linhas funcionário/dia retornadas.
-- 59 funcionários distintos com alguma marcação.
-- 287 linhas com pelo menos uma marcação: 271 com quantidade par e 16 com quantidade ímpar.
-- As 16 linhas ímpares têm exatamente 3 marcações e alcançam 14 funcionários distintos.
+- 570 linhas funcionário/dia retornadas na reconsulta; o endpoint é mutável enquanto o processamento do ponto evolui.
+- 56 funcionários distintos com alguma marcação horária.
+- 246 linhas com horários: 230 com quantidade par e 16 com quantidade ímpar.
+- 41 linhas continham rótulos não horários: 33 `FÉRIAS` e 8 `ATESTAD`; esses rótulos não são batidas.
+- As 16 linhas ímpares têm exatamente 3 horários e alcançam 14 funcionários distintos.
 - Distribuição das linhas ímpares: 08/08 (1), 11/08 (2), 13/08 (3) e 14/08 (10).
-- 266 linhas sem marcação: 143 associadas a folga e 123 fora de folga.
-- Das 123 fora de folga, 102 pertencem a cadastros demitidos/invisíveis e não devem gerar alerta operacional.
-- Restaram 21 linhas de 16 funcionários ativos para conciliação com escala, abono, compensação e relatório oficial — ainda sem classificação como falta.
+- 283 linhas sem horário ou rótulo: 143 associadas a folga e 140 fora de folga.
+- Das 140 fora de folga, 102 pertencem a cadastros demitidos/invisíveis e não devem gerar alerta operacional.
+- Restaram 38 linhas de 31 funcionários ativos para conciliação com escala, abono, compensação e relatório oficial — ainda sem classificação como falta.
 - 6 registros de afastamento no período.
 
 ### Interpretação de RH
