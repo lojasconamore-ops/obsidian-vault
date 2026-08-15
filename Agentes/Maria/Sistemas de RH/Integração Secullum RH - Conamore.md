@@ -7,7 +7,16 @@
 - **Usuário no Secullum RH:** TI Hermes, tipo Usuário.
 - **Integração externa:** habilitada e usuário autorizado.
 - **Ativação da Conta Secullum:** concluída por Sérgio em 15/08/2026, por meio do link recebido por e-mail.
-- **Estado atual:** cliente local somente leitura preparado; falta cadastrar a senha diretamente no cofre local e executar a prova autenticada.
+- **Estado atual:** autenticação e autorização da API validadas com sucesso em 15/08/2026 às 06:48 BRT; banco `66279` acessível em modo somente leitura.
+
+## Prova de conexão — 15/08/2026
+
+- Banco autorizado: `66279` — **CONAMORE SSL CAMA MESA E BANHO LTDA**.
+- `GET Empresas`: sucesso — 6 registros.
+- `GET Departamentos`: sucesso — 15 registros.
+- `GET Funcoes`: sucesso — 45 registros.
+- Nenhuma operação de escrita ou exclusão foi executada.
+- Próxima validação: confrontar essas quantidades e uma amostra cadastral com relatórios/telas oficiais do Secullum antes de automatizar indicadores.
 
 ## Segurança e LGPD
 
