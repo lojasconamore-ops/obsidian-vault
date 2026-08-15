@@ -32,7 +32,7 @@
 |---|---|---|---|---|
 | P1 | Revisar produtos da Shopping Hotelaria e executar o teste de realocação | Débora | Sem data exata; avaliar por 30 dias após executar | **Manhã — 60 min:** revisão e checklist da virada |
 | P1 | Cruzar margem/rentabilidade com conversão, definir SKUs prioritárias e catalogar/remover SKUs “zumbis” | Débora e Júnior | Não registrado | **Início da tarde — 60 min:** fechar primeira seleção e exclusões necessárias |
-| P1 | Fazer pente-fino nas promoções: nomes, prazos vencidos e lista final para o grupo | Sergio | Não registrado | **Manhã — 30 min:** organizar a lista e marcar correções |
+| **Concluída em 15/08** | ~~Fazer pente-fino nas promoções: nomes, prazos vencidos e lista final para o grupo~~ | Sergio | **Concluído** | Promoções revisadas e organizadas; produtos encaminhados no grupo para Débora utilizar na divulgação |
 | P2 | Vitor compartilhar a calculadora de ROAS mínimo; Sergio preencher os dados econômicos | Vitor → Sergio | Não registrado | **Início da tarde — 10 min de follow-up + 30 min de preenchimento após recebimento** |
 | P2 | Agendar conversa de 15 minutos sobre parametrização de ROAS | Débora, com Vitor | Próxima semana; dia e horário não registrados | **Fim da tarde — 15 min:** propor janela para a próxima semana |
 | P2 | Definir responsável e preparar vídeos para a estratégia VRC/Geração de Demanda | Responsável não definido | Referência: preparação para outubro; sem data-limite exata | **Fim da tarde — 45 min:** definir dono, briefing e lista de entregáveis |
