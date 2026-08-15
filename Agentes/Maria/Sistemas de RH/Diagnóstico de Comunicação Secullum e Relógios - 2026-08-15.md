@@ -19,7 +19,9 @@ A imagem do Agente de Comunicação mostrava todos os equipamentos como **Conect
 - Porta 80: Microsoft IIS 10.0; raiz retorna HTTP 500 genérico.
 - Porta 1433: Microsoft SQL Server 2012 identificado, sem tentativa de autenticação.
 - Porta 4040: serviço HTTP Kestrel ativo; raiz e rotas públicas usuais testadas retornaram 404. Não foi possível atribuí-lo conclusivamente ao Secullum sem credenciais ou documentação local.
+- Porta 5985: Windows Remote Management (WinRM/WS-Man) ativo, aceitando autenticação `Negotiate`; sem autenticação retorna HTTP 401.
 - Porta 7070: serviço AnyDesk, confirmado pelo certificado TLS; exige certificado de cliente.
+- Não há proxy HTTP/SOCKS exposto nas portas usuais 1080, 3128, 8080 ou 8888. IIS e Kestrel não encaminharam as requisições aos relógios.
 - SMB/RPC/RDP estão acessíveis, mas não houve tentativa de login ou leitura autenticada.
 
 **Conclusão:** o servidor está acessível e executa a pilha compatível com um agente local Windows (IIS, SQL Server e serviço Kestrel), porém a rede não expõe uma rota pública identificável do Agente Secullum que permita consultar seu estado interno sem autenticação.
