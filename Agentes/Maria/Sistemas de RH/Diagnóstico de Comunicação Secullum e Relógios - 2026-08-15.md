@@ -37,6 +37,7 @@ A imagem do Agente de Comunicação mostrava todos os equipamentos como **Conect
 
 - `172.169.3.121`, `172.169.4.101` e `172.169.6.106` não responderam a ICMP nem às portas 80/3000 a partir do servidor Hermes.
 - A VPN possui somente a rota `172.169.0.0/24` via `tun0`.
+- Atenção: `172.169.0.0/16` não pertence à faixa privada RFC1918 (`172.16.0.0/12`); sem rota específica, o tráfego pode seguir a rota padrão. A TI deve revisar esse endereçamento e garantir que essas redes sejam alcançadas exclusivamente pelo túnel apropriado.
 - As redes `172.169.3.0/24`, `172.169.4.0/24` e `172.169.6.0/24` estão seguindo a rota padrão, fora do túnel; portanto o resultado é **inconclusivo sobre os relógios** e conclusivo sobre a falta de alcance pela VPN atual.
 - A imagem mostra ACL e PRISMA cadastrados com o mesmo IP `172.169.3.121`; confirmar se são dois nomes para o mesmo relógio ou duplicidade cadastral.
 
