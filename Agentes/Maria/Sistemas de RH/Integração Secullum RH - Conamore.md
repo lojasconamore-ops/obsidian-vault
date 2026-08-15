@@ -88,6 +88,10 @@ Teste executado às 09:28 BRT pela API oficial, em modo somente leitura:
 
 **Conclusão:** a comunicação ACL → Secullum/API está funcionando. Este teste não comprova, isoladamente, que um REP físico específico esteja online neste exato momento, pois o evento bruto retornado não trouxe `EquipamentoId` e a API de equipamentos não expõe última comunicação.
 
+## Diagnósticos de infraestrutura
+
+- [[Sistemas de RH/Diagnóstico de Comunicação Secullum e Relógios - 2026-08-15|Diagnóstico de comunicação local — servidor Secullum e relógios — 15/08/2026]]
+
 ## Relatórios gerados
 
 - [[Sistemas de RH/Relatórios/2026-08/Index|Relatórios Secullum — agosto de 2026]]
