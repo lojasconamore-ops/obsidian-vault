@@ -85,7 +85,10 @@ Implementado:
 - Parser dos status 400–404 e situação individual 0–4;
 - Solicitação e decodificação do PDF Base64;
 - Suporte para extração segura de certificado A1 PKCS#12;
-- 24 testes automatizados aprovados.
+- WSDLs reais de recepção e consulta recuperados por mTLS;
+- Namespace e SOAPAction validados contra o contrato publicado;
+- Banco de idempotência de transmissão e arquivo seguro de request/response;
+- 26 testes automatizados aprovados.
 
 Descobertas:
 
@@ -96,7 +99,13 @@ Descobertas:
 
 Bloqueio atual:
 
-- Não foi localizado certificado ICP-Brasil A1/A3 na VM. Para realizar handshake mTLS e envio de lote em homologação, o certificado deve conter CNPJ habilitado e permissão de Autenticação Cliente.
+- Certificado A1 preparado e validado até 2027-05-12;
+- Handshake mTLS aprovado em TLS 1.2;
+- Primeiro lote controlado enviado à homologação em 2026-08-15;
+- Resposta da GNRE: código `102` — CNPJ transmissor não habilitado para uso do Web Service;
+- Nenhum recibo foi emitido e nenhum reenvio automático foi feito;
+- Request e response foram arquivados com permissão restrita e o hash ficou reservado no banco de idempotência;
+- Próximo passo externo: habilitar o CNPJ transmissor no Portal GNRE para uso do Web Service.
 
 ## Relações
 
