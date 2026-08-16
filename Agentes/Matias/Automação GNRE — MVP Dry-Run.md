@@ -99,13 +99,16 @@ Descobertas:
 
 Bloqueio atual:
 
-- Certificado A1 preparado e validado até 2027-05-12;
+- Nenhum bloqueio técnico na homologação;
+- Certificado A1 validado até 2027-05-12;
 - Handshake mTLS aprovado em TLS 1.2;
-- Primeiro lote controlado enviado à homologação em 2026-08-15;
-- Resposta da GNRE: código `102` — CNPJ transmissor não habilitado para uso do Web Service;
-- Nenhum recibo foi emitido e nenhum reenvio automático foi feito;
-- Request e response foram arquivados com permissão restrita e o hash ficou reservado no banco de idempotência;
-- Próximo passo externo: habilitar o CNPJ transmissor no Portal GNRE para uso do Web Service.
+- CNPJ transmissor habilitado no Portal GNRE;
+- Recepção código `100`, recibo `26000000026482`;
+- Processamento código `402`, guia código `0`;
+- PDF Base64 recuperado, decodificado e validado como PDF 1.4 de uma página;
+- XML original do DEBX não foi alterado: o teste bem-sucedido usou fixture local com datas de 2026-08-16;
+- Request, response, resultado e PDF arquivados com permissões restritas;
+- Produção permanece desabilitada e requer autorização separada.
 
 ## Relações
 
