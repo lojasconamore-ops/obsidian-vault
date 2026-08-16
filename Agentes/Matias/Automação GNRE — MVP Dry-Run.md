@@ -108,7 +108,24 @@ Bloqueio atual:
 - PDF Base64 recuperado, decodificado e validado como PDF 1.4 de uma página;
 - XML original do DEBX não foi alterado: o teste bem-sucedido usou fixture local com datas de 2026-08-16;
 - Request, response, resultado e PDF arquivados com permissões restritas;
-- Produção permanece desabilitada e requer autorização separada.
+- Produção automática permanece desabilitada; somente produção assistida com aprovação por hash está autorizada.
+
+## Produção assistida
+
+Autorizada pelo Sergio em 2026-08-16 e implementada sem envio automático.
+
+Controles:
+
+- Inbox, banco e arquivo separados em `runtime/production/`;
+- Sincronização considera somente `GNRE*.xml` na raiz de `DIFAL`, ignorando `antigos/`;
+- Revisão apresenta SHA-256, quantidade de guias, total, UFs, datas e erros;
+- Envio exige aprovação pelo SHA-256 exato do conteúdo;
+- Reserva idempotente é persistida antes da chamada externa;
+- Consulta de processamento e PDF ficam arquivados e registrados;
+- Endpoint de produção e WSDL confirmados via mTLS;
+- Nenhum timer ou envio automático instalado.
+
+Estado inicial: raiz remota sem XMLs; somente `antigos/` e o diretório do manual. Dry-run de produção retornou zero arquivos.
 
 ## Relações
 
