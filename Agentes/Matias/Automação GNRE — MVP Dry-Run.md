@@ -122,7 +122,8 @@ Controles:
 - Idempotência dupla: SHA-256 do arquivo e chave de negócio do conteúdo fiscal;
 - A reserva é persistida antes da chamada externa;
 - Estados `SENDING` ou `UNCERTAIN` nunca são retransmitidos automaticamente;
-- Se já existir `GUIA <NF>.pdf`, o lote é bloqueado como possível processamento manual;
+- A trava por existência de `GUIA <NF>.pdf` está temporariamente desativada por autorização do Sergio em 2026-08-17, permitindo a conferência paralela entre a guia manual e a automática;
+- A configuração fica em `runtime/production/automatic-config.json` e pode ser reativada sem alterar o restante do fluxo;
 - A consulta reutiliza o mesmo recibo, inclusive após falha transitória da UF;
 - PDFs concluídos são publicados automaticamente e de forma atômica em `\\172.169.0.3\dados\DEBX XML\DIFAL`;
 - O nome remoto inclui NF e recibo (`GUIA GNRE NF <número> - RECIBO <recibo>.pdf`), evitando ambiguidade;
