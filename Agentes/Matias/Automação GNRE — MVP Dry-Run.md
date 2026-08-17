@@ -108,27 +108,29 @@ Bloqueio atual:
 - PDF Base64 recuperado, decodificado e validado como PDF 1.4 de uma página;
 - XML original do DEBX não foi alterado: o teste bem-sucedido usou fixture local com datas de 2026-08-16;
 - Request, response, resultado e PDF arquivados com permissões restritas;
-- Produção automática permanece desabilitada; somente produção assistida com aprovação por hash está autorizada.
+- Em 2026-08-16, a produção automática ainda permanecia desabilitada; o primeiro lote real foi executado de forma assistida antes da liberação final em 2026-08-17.
 
-## Produção assistida
+## Produção automática
 
-Autorizada pelo Sergio em 2026-08-16 e implementada sem envio automático.
+Produção assistida autorizada pelo Sergio em 2026-08-16. Após validação da primeira guia real, a transmissão automática foi autorizada pelo Sergio em 2026-08-17.
 
 Controles:
 
 - Inbox, banco e arquivo separados em `runtime/production/`;
 - Sincronização considera somente `GNRE*.xml` na raiz de `DIFAL`, ignorando `antigos/`;
-- Revisão apresenta SHA-256, quantidade de guias, total, UFs, datas e erros;
-- Envio exige aprovação pelo SHA-256 exato do conteúdo;
-- Reserva idempotente é persistida antes da chamada externa;
-- Consulta de processamento e PDF ficam arquivados e registrados;
+- Validação aplica XSD oficial, regras locais e bloqueio de datas passadas;
+- Idempotência dupla: SHA-256 do arquivo e chave de negócio do conteúdo fiscal;
+- A reserva é persistida antes da chamada externa;
+- Estados `SENDING` ou `UNCERTAIN` nunca são retransmitidos automaticamente;
+- Se já existir `GUIA <NF>.pdf`, o lote é bloqueado como possível processamento manual;
+- A consulta reutiliza o mesmo recibo, inclusive após falha transitória da UF;
 - PDFs concluídos são publicados automaticamente e de forma atômica em `\\172.169.0.3\dados\DEBX XML\DIFAL`;
 - O nome remoto inclui NF e recibo (`GUIA GNRE NF <número> - RECIBO <recibo>.pdf`), evitando ambiguidade;
 - Arquivos remotos existentes com tamanho diferente nunca são sobrescritos;
-- Endpoint de produção e WSDL confirmados via mTLS;
-- Nenhum timer ou envio automático instalado.
+- Job `Transmitir e reconciliar lotes GNRE automaticamente`: a cada 5 minutos, diariamente, das 05:00 às 19:59 BRT;
+- Sem eventos novos, não há notificação; sucessos, rejeições, bloqueios e falhas técnicas são reportados.
 
-Primeira execução assistida em produção em 2026-08-17: recibo `26000405370641`, lote `402`, guia `0`; PDF validado e publicado como `GUIA GNRE NF 12764 - RECIBO 26000405370641.pdf`.
+Primeira execução em produção em 2026-08-17: recibo `26000405370641`, lote `402`, guia `0`; PDF validado e publicado como `GUIA GNRE NF 12764 - RECIBO 26000405370641.pdf`.
 
 Estado inicial: raiz remota sem XMLs; somente `antigos/` e o diretório do manual. Dry-run de produção retornou zero arquivos.
 
