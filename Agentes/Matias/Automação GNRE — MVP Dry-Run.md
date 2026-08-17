@@ -122,8 +122,13 @@ Controles:
 - Envio exige aprovação pelo SHA-256 exato do conteúdo;
 - Reserva idempotente é persistida antes da chamada externa;
 - Consulta de processamento e PDF ficam arquivados e registrados;
+- PDFs concluídos são publicados automaticamente e de forma atômica em `\\172.169.0.3\dados\DEBX XML\DIFAL`;
+- O nome remoto inclui NF e recibo (`GUIA GNRE NF <número> - RECIBO <recibo>.pdf`), evitando ambiguidade;
+- Arquivos remotos existentes com tamanho diferente nunca são sobrescritos;
 - Endpoint de produção e WSDL confirmados via mTLS;
 - Nenhum timer ou envio automático instalado.
+
+Primeira execução assistida em produção em 2026-08-17: recibo `26000405370641`, lote `402`, guia `0`; PDF validado e publicado como `GUIA GNRE NF 12764 - RECIBO 26000405370641.pdf`.
 
 Estado inicial: raiz remota sem XMLs; somente `antigos/` e o diretório do manual. Dry-run de produção retornou zero arquivos.
 
