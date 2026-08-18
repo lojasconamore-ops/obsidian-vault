@@ -131,7 +131,12 @@ O serviço não documenta chave de idempotência fornecida pelo cliente e a cons
 - 18/18 XSDs v1.01 compilados com sucesso.
 - XML de emissão de homologação validado no `emisDua_v1.01.xsd`.
 - Tamanho do XML validado: 471 bytes.
-- Endpoints de homologação e produção estavam inacessíveis a partir da VM por timeout; catálogo e handshake mTLS ainda pendentes.
+- Cliente de descoberta implementado em `gnre_automation/duae.py`, deliberadamente sem método de emissão nesta fase.
+- Consultas de catálogo e municípios cobertas por testes; requests válidos nos XSDs oficiais.
+- Suíte completa: 44 testes executados, 44 aprovados.
+- Certificado da Conamore válido, com EKU Client Authentication e validade até 12/05/2027.
+- DNS dos endpoints resolve, mas TCP/443 expira antes do TLS em homologação, produção e portal `s1-internet`; HTTPS geral da VM funciona normalmente.
+- Watchdog silencioso ativo a cada 30 minutos, job `7d6ab9c42c64`; quando o endpoint voltar, consultará somente catálogo e municípios em homologação.
 - Nenhuma DUA foi emitida.
 
 ## Próximos passos seguros
