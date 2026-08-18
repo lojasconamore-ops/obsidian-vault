@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 17/08/2026 19:01 BRT
+Atualizado: 18/08/2026 19:04 BRT
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 17/08/2026 19:01 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 18/08/2026 | [[GA4-Diario-2026-08-18]] | 15/08 vs 14/08 | D-3 vs D-4: -20,7% sessões (1º sábado — sazonalidade B2B), Google Ads share 53,1%, mobile 87,0%, 🆕 spam referral homestead*, LinkedIn paid 0,0% (8º dia) |
 | 17/08/2026 | [[GA4-Diario-2026-08-17]] | 14/08 vs 13/08 | D-3 vs D-4: -6,9% sessões (fade do e-mail RD Station 137→35), Google Ads volta p/ 53,4%, qualidade +2,6 pp engaj., 🆕 /enxoval-para-airbnb engaj. 32,4%, LinkedIn paid 4,8% (7º dia) |
 | 16/08/2026 | [[GA4-Diario-2026-08-16]] | 13/08 vs 12/08 | D-3 vs D-4: +8,3% sessões (quinta forte), disparo e-mail RD Station (~159 usuários), Google Ads cai p/ 46,6%, LinkedIn paid 6,7% engaj. |
 | 15/08/2026 | [[GA4-Diario-2026-08-15]] | 12/08 vs 11/08 | D-3 vs D-4: +5,3% sessões (quarta forte), Google Ads 54,7%, LinkedIn paid 0,0% engaj., /enxoval-para-airbnb melhora p/ 44,0% |
