@@ -26,6 +26,10 @@ Reporta ao **DigitalCEO**.
 7. **[[As 5 Linguagens do Reconhecimento na Conamore]]** — reconhecimento, engajamento e liderança
 8. **[[LGPD para RH]]** — Dados de colaboradores, consentimentos, políticas
 
+## Diálogos de Desenvolvimento (reuniões de liderança)
+
+- [[Diálogos de Desenvolvimento/2026-08-19 - Chaine|19/08/2026 — Chaine]] — gestão emocional na fábrica, clareza de regras e plano de treinamento
+
 ## Casos e conexão com o Jurídico
 
 - [[Casos/Atila/_indice-caso|Caso Átila — índice]]
