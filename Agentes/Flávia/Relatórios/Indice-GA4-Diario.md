@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 18/08/2026 19:04 BRT
+Atualizado: 19/08/2026 19:04 BRT
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 18/08/2026 19:04 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 19/08/2026 | [[GA4-Diario-2026-08-19]] | 16/08 vs 15/08 | D-3 vs D-4: sessões +11,1%, usuários +11,5%, engajamento +5,3 pp, Google Ads segue líder, LinkedIn paid 8,7%, (data not available) no radar |
 | 18/08/2026 | [[GA4-Diario-2026-08-18]] | 15/08 vs 14/08 | D-3 vs D-4: -20,7% sessões (1º sábado — sazonalidade B2B), Google Ads share 53,1%, mobile 87,0%, 🆕 spam referral homestead*, LinkedIn paid 0,0% (8º dia) |
 | 17/08/2026 | [[GA4-Diario-2026-08-17]] | 14/08 vs 13/08 | D-3 vs D-4: -6,9% sessões (fade do e-mail RD Station 137→35), Google Ads volta p/ 53,4%, qualidade +2,6 pp engaj., 🆕 /enxoval-para-airbnb engaj. 32,4%, LinkedIn paid 4,8% (7º dia) |
 | 16/08/2026 | [[GA4-Diario-2026-08-16]] | 13/08 vs 12/08 | D-3 vs D-4: +8,3% sessões (quinta forte), disparo e-mail RD Station (~159 usuários), Google Ads cai p/ 46,6%, LinkedIn paid 6,7% engaj. |
@@ -20,9 +21,9 @@ Atualizado: 18/08/2026 19:04 BRT
 | 10/08/2026 | [[GA4-Diario-2026-08-10]] | 26/07–09/08 | — |
 | 09/08/2026 | [[GA4-Diario-2026-08-09]] | 25/07–08/08 | — |
 | 08/08/2026 | [[2026-08-08-resumo-diario]] | 24/07–07/08 | — |
+| 06/08/2026 | [[GA4 Diário 2026-08-06]] | — | — |
 | 05/08/2026 | [[GA4-Diário-2026-08-05]] | — | — |
 | 04/08/2026 | [[GA4-Diario-2026-08-04]] | — | — |
-| 06/08/2026 | [[GA4 Diário 2026-08-06]] | — | — |
 
 ---
 
