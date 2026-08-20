@@ -4,8 +4,9 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (55)
+## Pareceres (56)
 
+| 56 | Motel Guarapuava / F. C. Pacheco — Pedido 0116372 | [[Pareceres/Parecer - Motel Guarapuava - 0116372 - 2026-08-20]] |
 | 55 | Mix Gourmet Ltda — Pedido 0117332 | [[Pareceres/Parecer - Mix Gourmet Ltda - 0117332 - 2026-08-19]] |
 | 54 | Domo Bananeiras LTDA — Pedido 0116551 | [[Pareceres/Parecer - Domo Bananeiras - 0116551 - 2026-08-14]] |
 | 53 | Espaço Beteta Alarcon / Hotel Pirâmides Jarinu — CNPJ 13.825.407/0001-08 | [[Pareceres/Parecer - Espaco Beteta Alarcon - 2026-08-14]] |
@@ -67,4 +68,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 19/08/2026 — 55 pareceres*
+*Atualizado em: 20/08/2026 — 56 pareceres*
