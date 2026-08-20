@@ -28,15 +28,9 @@ Como Camila possui papel central na vida pessoal e empresarial do Sergio, esta �
 ## Setembro
 
 **09/09/2006 — Aniversário de casamento Sergio + Camila**
-**Data de prioridade máxima.**
+**Status de 2026: resolvido. Sergio confirmou que o casal fará uma viagem.**
 
-O Elias deve antecipar com no mínimo 30 dias:
-
-* restaurante ou viagem;
-* presente;
-* programação especial;
-* bloqueio de agenda;
-* plano alternativo caso haja conflito profissional.
+Para 2026, **não emitir novos alertas, lembretes, cobranças, sugestões de presente/restaurante nem checklists** sobre o aniversário de casamento. A viagem já definida encerra o acompanhamento deste ano. Manter a data apenas como referência histórica para anos futuros.
 
 ## Dezembro
 

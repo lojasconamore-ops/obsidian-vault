@@ -5,28 +5,27 @@
 
 ## Resumo executivo
 - **Hoje:** agenda sem compromissos registrados nos três calendários consultados.
-- **09/09 — aniversário de casamento Sergio + Camila (D+20):** única data canônica nos próximos 30 dias, de prioridade máxima. **Preparação atrasada:** não há comprovação documental de presente, reserva, programação especial ou bloqueio comemorativo.
+- **09/09 — aniversário de casamento Sergio + Camila:** **resolvido em 2026.** Sergio confirmou que o casal fará uma viagem; não emitir novos alertas ou lembretes sobre essa data neste ano.
 - **22/08 — “Show sp Ibiraquera” (D+2):** compromisso de agenda, não canônico, com logística ainda sem confirmação documental e local ambíguo.
 
 ## Lembretes do dia
 | Prioridade | Item | Ação |
 |---|---|---|
-| **Máxima** | Aniversário de casamento — 09/09 | Definir hoje presente e formato; reservar jantar/experiência e proteger a noite. |
+| **Resolvido** | Aniversário de casamento — 09/09 | Viagem confirmada por Sergio. Não emitir novos alertas ou lembretes sobre a data em 2026. |
 | **Urgente** | Show — 22/08, 14:00–15:00 | Confirmar se é Ibiraquera/SC ou Ibirapuera/SP, além de ingressos, transporte e eventual hospedagem. |
 | **Alta** | Alergologista do Gabriel | Confirmar se já foi reagendado; há nova recorrência amanhã às 17:00. Se concluído, remover os lembretes futuros. |
-| **Operacional** | RQ Zucchetti e compras de amenities/cobertores | Usar a agenda livre para aprovar/devolver a RQ e definir itens, fornecedores, responsáveis e prazos. |
+| **Operacional** | RQ Zucchetti e compra de cobertores | Usar a agenda livre para aprovar/devolver a RQ e finalizar somente o pedido de cobertores. Amenities já foram pedidos e não devem voltar aos lembretes. |
 
 ## Datas importantes e preparação
 | Data | Evento | Status |
 |---|---|---|
 | **22/08** | Show “sp Ibiraquera” *(agenda; não canônico)* | **D+2 — urgente.** Sem evidência de logística fechada. |
-| **09/09** | Aniversário de casamento Sergio + Camila | **D+20 — prioridade máxima; atrasado.** O dia já tem Pilates 07:00–08:00, Diálogos de desenvolvimento 11:00–12:45, lembrete do alergologista 17:00–17:05 e Nexgard 19:00–20:00; não há bloco comemorativo. |
+| **09/09** | Aniversário de casamento Sergio + Camila | **Resolvido em 2026:** viagem confirmada. Acompanhamento e alertas encerrados. |
 
 ## Recomendações proativas
-1. **09/09:** escolher um jantar/experiência premium de baixa fricção e presente pessoal; viagem curta somente se puder ser fechada hoje sem carga logística.
-2. **Agenda de 09/09:** bloquear a noite e antecipar o Nexgard; o dia já tem compromissos ordinários.
-3. **22/08:** se for Ibirapuera/SP, fechar transporte e jantar; se for Ibiraquera/SC, tratar hoje como viagem com hospedagem e deslocamentos.
-4. **Hoje:** aproveitar a agenda livre para resolver primeiro as duas frentes familiares e depois as pendências operacionais.
+1. **09/09:** nenhuma ação adicional; viagem confirmada e alertas encerrados em 2026.
+2. **22/08:** se for Ibirapuera/SP, fechar transporte e jantar; se for Ibiraquera/SC, tratar hoje como viagem com hospedagem e deslocamentos.
+3. **Hoje:** finalizar somente a pendência de cobertores; amenities já foram pedidos e não devem voltar ao acompanhamento.
 
 ## Base consultada
 - Treinamento Elias: `Index.md`, `Guia de Operação do Secretário.md`, `Manual Executivo de Onboarding.md`, `Datas Importantes.md` e princípio de planejamento antecipado.

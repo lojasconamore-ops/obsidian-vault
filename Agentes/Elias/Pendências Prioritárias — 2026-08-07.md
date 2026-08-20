@@ -33,11 +33,16 @@
   - **Próximo passo:** revisar a requisição e aprovar ou devolver com ajustes.
   - **Bloco sugerido:** 15–20 min
 
-- [ ] **P15 — Terminar pedidos de compra de amenities e cobertores**
+- [x] **P15A — Pedido de compra de amenities**
+  - **Status:** ✅ Pedido já colocado, confirmado por Sergio em 20/08/2026.
+  - **Próximo passo:** nenhum. Não lembrar novamente.
+
+- [ ] **P15B — Terminar pedido de compra de cobertores**
   - **Responsável:** a definir
   - **Prazo:** não registrado
-  - **Próximo passo:** confirmar itens, quantidades, fornecedores e pendências de emissão/finalização.
+  - **Próximo passo:** confirmar itens, quantidades, fornecedor e pendências de emissão/finalização.
   - **Bloco sugerido:** a definir
+  - **Regra de acompanhamento:** lembrar somente dos cobertores; não incluir amenities.
 
 - [ ] **P05 — Atualizar lista de clientes e enviar telefones para Andreia**
   - **Responsável:** Sergio
