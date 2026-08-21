@@ -3,7 +3,7 @@ caso: Átila
 tipo: inventario-documentos
 responsavel: Maria (RH)
 confidencialidade: alta
-ultima_atualizacao: 2026-08-03
+ultima_atualizacao: 2026-08-21
 tags: [caso-rh, acidente-trabalho, atila, documentos]
 ---
 
@@ -19,6 +19,7 @@ tags: [caso-rh, acidente-trabalho, atila, documentos]
 | 2026-07-23 | `Documentos/Encaminhamento-Restricoes-Work-2026-07-20-Antonio-Atila.pdf` | PDF | Enviado no Workspace RH | Encaminhamento da Work Medicina Ocupacional com restrições temporárias de retorno | `bdc0281de0e37e9066038c0d299a50ef263f25cf5b6f4cb7c31aecf3c9ee732d` |
 | 2026-07-28 | `Documentos/WhatsApp-2026-07-28-Atila-dor-braco-e-INSS.jpg` | JPG | Captura de WhatsApp enviada no Workspace RH | Átila relata dor no braço e atraso; captura também mostra cobrança anterior sobre INSS/recurso e possibilidade de procurar outros caminhos se não aprovado | `559fb2e7541cc973c4dcb17fe7626c4518390594f73e46bd2590f7f0cbe968b1` |
 | 2026-08-03 | `Documentos/Atestado-Medico-2026-07-31-Antonio-Atila.jpg` | JPG | Imagem enviada no Workspace RH | Atestado do Hospital Municipal Dr. Mário Gatti, emitido em 31/07/2026, com consulta de urgência e repouso por 10 dias | `308d54c3646334958f52ce9205658c3c4c3ab85d57e83588e2828346ba68986d` |
+| 2026-08-21 | `Documentos/Encaminhamento-Reavaliacao-Retorno-Work-2026-08-20-Antonio-Atila.pdf` | PDF | Enviado no Workspace RH | Reavaliação da Work: apto com restrições por mais 30 dias; segunda restrição contém aparente erro de redação e requer confirmação formal da clínica | `c1cd7e0831d8a6b01b4df40acf3677db4ba5ce656aee45e10a1e0d09f6328c19` |
 
 ## Leitura do PDF recebido em 23/07/2026
 
@@ -55,3 +56,14 @@ Este documento confirma e deve ser lido junto com o ASO/relatório complementar 
 ### Observação RH
 
 Período operacional calculado de 31/07/2026 a 09/08/2026, com retorno teórico em 10/08/2026, sujeito à confirmação da Medicina Ocupacional. Ver registro detalhado em [[registro-atestado-medico-2026-07-31]].
+
+## Leitura da reavaliação recebida em 21/08/2026
+
+**Documento:** Encaminhamento — Work Medicina Ocupacional Ltda.  
+**Data do encaminhamento:** 20/08/2026  
+**Parecer:** apto ao trabalho com restrições por 30 dias, até nova reavaliação.  
+**Texto literal:** “Carga zero” e “Realizar movimento repetitivo com membro superior direito ou esforço intenso”.
+
+### Alerta RH
+
+A segunda linha foi emitida sem a palavra “não”, criando aparente contradição com a natureza restritiva do parecer e com o documento anterior. Não corrigir nem interpretar por suposição: solicitar confirmação/retificação formal da clínica e, preventivamente, manter atividade sem carga, sem esforço intenso e sem repetição com o membro superior direito até esclarecimento. Ver [[registro-reavaliacao-retorno-2026-08-20]].

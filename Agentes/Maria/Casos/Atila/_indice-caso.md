@@ -25,7 +25,7 @@ Por orientação de Sérgio em 23/07/2026, usar como base principal o `[[Dossie 
 
 ## Situação em uma linha
 
-Colaborador em **acidente de trabalho** ocorrido em **24/02/2026** ao carregar rolo de tecido, com **CAT emitida**, primeiros 15 dias pagos pela empresa e encaminhamento previdenciário. Em **20/07/2026**, retornou como **apto com restrições temporárias por 30 dias**: carga zero, sem movimento repetitivo com membro superior direito e sem esforço intenso, com necessidade de nova avaliação laboral ao final do período.
+Colaborador em **acidente de trabalho** ocorrido em **24/02/2026** ao carregar rolo de tecido, com **CAT emitida**, primeiros 15 dias pagos pela empresa e encaminhamento previdenciário. Em **20/08/2026**, a Medicina Ocupacional manteve o parecer de **apto com restrições por mais 30 dias**, porém a segunda restrição foi redigida sem a palavra “não”, exigindo confirmação/retificação formal da clínica; até esclarecimento, o RH deve manter preventivamente carga zero, sem movimento repetitivo com o membro superior direito e sem esforço intenso.
 
 ## Origem jurídica do caso
 
@@ -50,6 +50,7 @@ Usar o documento jurídico para riscos e conduta, mas considerar o `[[Dossie Mes
 | `[[registro-whatsapp-2026-07-28-atila-dor-braco-inss]]` | Registro da captura de WhatsApp de 28/07/2026 sobre dor no braço, atraso e pendência INSS |
 | `[[registro-ausencia-sem-atestado-2026-07-28-29]]` | Registro operacional da ausência de 28/07 e informação em 29/07 de que não houve ida ao médico/atestado |
 | `[[registro-atestado-medico-2026-07-31]]` | Atestado emitido em 31/07/2026 com repouso por 10 dias; retorno teórico em 10/08, sujeito à Medicina Ocupacional |
+| `[[registro-reavaliacao-retorno-2026-08-20]]` | Reavaliação de 20/08: apto com restrições por mais 30 dias; documento contém aparente erro de redação e demanda confirmação da clínica |
 | `[[encaminhamentos-juridico]]` | Quando e como escalar o Adrian |
 
 ## Princípios de conduta (do Jurídico, pra gente não esquecer)
