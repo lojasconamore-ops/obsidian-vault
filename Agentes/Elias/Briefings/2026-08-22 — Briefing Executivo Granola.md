@@ -30,5 +30,5 @@ Não reservar blocos com base no Granola de hoje. Retomar no próximo briefing a
 
 ## Fonte e rastreabilidade
 
-- Granola MCP, consulta realizada em 22/08/2026 para a data de 22/08/2026, fuso .
+- Granola MCP, consulta realizada em 22/08/2026 para a data de 22/08/2026, fuso `America/Sao_Paulo`.
 - Resultado: 0 registros; última reunião retornada pelo sistema em 21/08/2026.
