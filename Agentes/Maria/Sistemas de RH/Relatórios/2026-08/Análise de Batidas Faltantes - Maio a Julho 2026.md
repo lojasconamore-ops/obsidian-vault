@@ -2,19 +2,21 @@
 
 > **CONFIDENCIAL — uso restrito a RH e direção.**
 
-Gerado em: 22/08/2026 07:28
+Gerado em: 22/08/2026 07:31
 
 ## Conclusão executiva
 
 - Marcações ímpares (forte indício de batida faltante): **25**.
+- Marcações ímpares também confirmadas na fonte bruta: **24**.
+- Divergências entre espelho e fonte bruta: **1**.
 - Dias sem nenhum horário ainda pendentes de conciliação: **264**.
 - Colaboradores reincidentes em marcação ímpar (duas ou mais ocorrências): **3**.
 
 ## Por mês
 
-- **Maio/2026:** marcações ímpares 2 | sem horário pendente 99 | sem horário justificado 634.
-- **Junho/2026:** marcações ímpares 4 | sem horário pendente 85 | sem horário justificado 544.
-- **Julho/2026:** marcações ímpares 19 | sem horário pendente 80 | sem horário justificado 586.
+- **Maio/2026:** marcações ímpares 2 (confirmadas na fonte 2; divergências 0) | sem horário pendente 99 | sem horário justificado 634.
+- **Junho/2026:** marcações ímpares 4 (confirmadas na fonte 4; divergências 0) | sem horário pendente 85 | sem horário justificado 544.
+- **Julho/2026:** marcações ímpares 19 (confirmadas na fonte 18; divergências 1) | sem horário pendente 80 | sem horário justificado 586.
 
 ## Maiores concentrações por unidade
 
