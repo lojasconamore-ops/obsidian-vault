@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 21/08/2026 19:01 BRT
+Atualizado: 22/08/2026 19:02 BRT
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 21/08/2026 19:01 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 22/08/2026 | [[GA4-Diario-2026-08-22]] | 19/08 vs 18/08 | D-3 vs D-4: sessões -13,0%, usuários -15,6%, engaj. +3,1 pp, eventos -12,8%, google / cpc 48%, linkedin paid crítico (12,2%), (not set) consent mode em dobro |
 | 21/08/2026 | [[GA4-Diario-2026-08-21]] | 18/08/2026 vs 17/08/2026 | D-3 vs D-4: sessões -0,5%, usuários +0,4%, engaj. -1,2 pp, google / cpc líder, direct fraco, linkedin paid crítico, (not set) no radar |
 | 20/08/2026 | [[GA4-Diario-2026-08-20]] | 17/08 vs 16/08 | D-3 vs D-4: sessões +13,8%, usuários +10,9%, engaj. -5,1 pp, direto dobrou (454), desktop 29%, LinkedIn paid 13,5%, 🆕 chatgpt/copilot como canal |
 | 19/08/2026 | [[GA4-Diario-2026-08-19]] | 16/08 vs 15/08 | D-3 vs D-4: sessões +11,1%, usuários +11,5%, engajamento +5,3 pp, Google Ads segue líder, LinkedIn paid 8,7%, (data not available) no radar |
