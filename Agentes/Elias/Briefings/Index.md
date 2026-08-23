@@ -7,6 +7,7 @@ Este índice organiza os briefings e entregas diárias do secretário executivo.
 ## Mais recentes
 
 - [[2026-08-23-Briefing-Matutino]]
+- [[2026-08-23-Briefing-Energia-Casa]]
 - [[2026-08-22 — Briefing Executivo Granola]]
 - [[2026-08-21-Briefing-Energia-Casa]]
 - [[2026-08-20-Briefing-Energia-Casa]]
