@@ -4,8 +4,9 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (56)
+## Pareceres (57)
 
+| 57 | NEIDIVALDO DOS SANTOS — Pedido 0118076 | [[Pareceres/Parecer - NEIDIVALDO DOS SANTOS - 0118076 - 2026-08-25]] |
 | 56 | Motel Guarapuava / F. C. Pacheco — Pedido 0116372 | [[Pareceres/Parecer - Motel Guarapuava - 0116372 - 2026-08-20]] |
 | 55 | Mix Gourmet Ltda — Pedido 0117332 | [[Pareceres/Parecer - Mix Gourmet Ltda - 0117332 - 2026-08-19]] |
 | 54 | Domo Bananeiras LTDA — Pedido 0116551 | [[Pareceres/Parecer - Domo Bananeiras - 0116551 - 2026-08-14]] |
