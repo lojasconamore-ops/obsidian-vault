@@ -144,14 +144,16 @@ Controles implementados:
 - Aplicação somente a lotes que ainda não possuem transmissão registrada;
 - Consulta parametrizada em `TEST_MATRIZ.F_SAIDAS`, por número da nota e data, exigindo `SAI_STATUS='I'` e `SAI_CHANFE` com 44 dígitos;
 - Exigência de uma única chave; ausência ou ambiguidade bloqueia o envio;
-- Conferência de que o número da NF embutido na chave corresponde ao documento original;
+- Validação estrutural completa da chave de 44 dígitos: modelo `55` (posições 20–21), dígito verificador módulo 11, número da nota (posições 25–33) e CNPJ do emitente (posições 6–19) quando disponível no XML;
 - Conversão somente de tipo `10` para tipo `22`; tipos inesperados falham fechados;
-- Criação de XML derivado em `runtime/production/normalized/`, com modo `600`, sem alterar o XML do DEBX;
+- Criação de XML derivado em `runtime/production/normalized/`, diretório `700` e arquivo `600`, sem alterar o XML do DEBX;
+- Links simbólicos são rejeitados tanto na sincronização SMB quanto na resolução do XML derivado;
 - Nova validação local e no XSD oficial antes da transmissão;
 - Idempotência aplicada ao hash e à chave de negócio do XML efetivamente transmitido;
-- Resultado `402` ou `403` com situações finais encerra a reconciliação;
-- Resultado parcial registra e alerta código, UF, receita, campo e motivo por guia, sem CPF/CNPJ/chave fiscal no alerta;
-- Situações transitórias `3`/`4` continuam sendo reconsultadas no mesmo recibo, sem retransmissão.
+- Resultado `402` ou `403` só é terminal quando nenhuma situação de guia é `3` ou `4`;
+- Resultado parcial registra e alerta código, UF, receita, campo e motivo por guia, com sequências fiscais de 11–44 dígitos (CPF/CNPJ/chave) mascaradas;
+- Situações transitórias `3`/`4` continuam sendo reconsultadas no mesmo recibo, sem retransmissão;
+- Banco de estado SQLite e credenciais com modo `600`; diretórios de produção com `700`.
 
 Validação realizada com o XML real de 2026-08-26 em diretório temporário: consulta Oracle aprovada, cópia derivada separada, quatro guias, total de R$ 1.358,45, UFs AL/GO/MG, XSD aprovado e hash do XML original inalterado. A simulação completa foi executada com `--dry-run`, sem transmissão.
 
