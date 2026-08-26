@@ -53,3 +53,20 @@
 - Handles TikTok × Instagram divergem em alguns casos (ex.: @thabarbosa1 vs @thabarboza; @juuvellyn vs @juuevellyn; @beamartinsx vs @beamartinsx00/@eubeamartinsx).
 - Vídeos de referência já publicados (coluna "vídeo" da planilha).
 - Endereço/telefone faltantes nas 4 primeiras da 2ª leva — pendente para envio.
+
+---
+
+## 📡 Monitoramento (job recorrente)
+
+- **Job:** `370631f67321` — "Monitoramento Influenciadoras - Ação Feed Conamore"
+- **Frequência:** diário, 09:00 BRT
+- **Envio:** 25/08/2026 (Correios) · previsão de posts ~3 dias (28/08+)
+- **Método:** GA4 (property 379729087, tráfego Instagram/TikTok + busca de marca) + web_search de menções por handle + tentativa de scraping de perfil (best effort).
+- **Continuidade:** ativa (deduplica menções já reportadas).
+
+### Handles monitorados (5 confirmadas)
+1. @thabarbosa1 / @thabarboza — Thays Barbosa
+2. @amandawolf / @amandawolf_ — Amanda Wolf
+3. @beamartinsx00 / @eubeamartinsx — Beatriz Martins
+4. @karlaalexandrina / @karlaalexandrinac — Karla Alexandrina
+5. @terezaporlugares / @terezaporlugares — Tereza Costa (patrocínio)
