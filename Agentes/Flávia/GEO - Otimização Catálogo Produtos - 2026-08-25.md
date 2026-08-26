@@ -119,4 +119,34 @@ Padrão: `[Produto + especificação] para hotelaria. [benefícios principais]. 
 
 ---
 
+## 🔁 Antes → Depois (transformação aplicada pelo ChatGPT)
+
+### Problemas no ORIGINAL que foram corrigidos
+
+**description:**
+- Tom de venda ao consumidor ("sensação gostosa de carinho", "domina o mercado", "super barato") → tom B2B consultivo
+- Depoimentos ("Coloquei debaixo da torneira…"), chamadas de varejo ("PRONTA ENTREGA!", "Nós fabricamos, por isso vendemos barato!") → removidos
+- Telefones/e-mail no corpo → removidos
+- FAQ GEO inexistente → adicionada (a peça-chave para rankear em IA)
+
+**meta_title:**
+- Inconsistente: SKU 29113011 vazio; demais longos com caixa-alta ("Fronha BRANCA… para Hoteis, Motéis e Pousadas - Resistente…") ou com "no atacado" → padronizado `Produto + especificação | Conamore` (~50 chars)
+
+**meta_keywords:**
+- 20+ termos bagunçados, erros de digitação propositais ("travisseiro", "fonha", "froinha"), duplicatas ("protetor para hoteis" 2x), públicos misturados ("toalha governanca, camareiras") → 7–8 termos limpos (categoria + produto + públicos + "enxoval profissional")
+
+**meta_description:**
+- Erros ("Linha de Linha de protetor…"), truncada, capitalização inconsistente → ~130 chars limpos (produto + benefícios + público)
+
+### Estado dos meta campos no ORIGINAL
+
+| SKU | meta_title | meta_keywords | meta_description |
+|---|---|---|---|
+| 29113011 | ❌ vazio | ❌ vazio | ❌ vazio |
+| 15709 | longo | 20+ bagunçados | "Linha de Linha…" (erro) |
+| 16446 | longo + caixa-alta | bagunçados c/ erros | inconsistente |
+| 18082 | c/ "atacado" | 21 bagunçados | truncada |
+
+---
+
 *Extraído por Flávia (Marketing) em 25/08/2026 do chat compartilhado por Sérgio.*
