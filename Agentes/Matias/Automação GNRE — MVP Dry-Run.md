@@ -135,6 +135,26 @@ Primeira execução em produção em 2026-08-17: recibo `26000405370641`, lote `
 
 Estado inicial: raiz remota sem XMLs; somente `antigos/` e o diretório do manual. Dry-run de produção retornou zero arquivos.
 
+## Proteção AL/100102 — Fase 1
+
+Implementada em 2026-08-26 após rejeição GNRE `217` em uma guia de Alagoas. A configuração oficial de produção confirmou que **AL + receita 100102** exige `documentoOrigem tipo="22"` com a chave completa da NF-e, enquanto o DEBX exportava `tipo="10"` com apenas o número da nota.
+
+Controles implementados:
+
+- Aplicação somente a lotes que ainda não possuem transmissão registrada;
+- Consulta parametrizada em `TEST_MATRIZ.F_SAIDAS`, por número da nota e data, exigindo `SAI_STATUS='I'` e `SAI_CHANFE` com 44 dígitos;
+- Exigência de uma única chave; ausência ou ambiguidade bloqueia o envio;
+- Conferência de que o número da NF embutido na chave corresponde ao documento original;
+- Conversão somente de tipo `10` para tipo `22`; tipos inesperados falham fechados;
+- Criação de XML derivado em `runtime/production/normalized/`, com modo `600`, sem alterar o XML do DEBX;
+- Nova validação local e no XSD oficial antes da transmissão;
+- Idempotência aplicada ao hash e à chave de negócio do XML efetivamente transmitido;
+- Resultado `402` ou `403` com situações finais encerra a reconciliação;
+- Resultado parcial registra e alerta código, UF, receita, campo e motivo por guia, sem CPF/CNPJ/chave fiscal no alerta;
+- Situações transitórias `3`/`4` continuam sendo reconsultadas no mesmo recibo, sem retransmissão.
+
+Validação realizada com o XML real de 2026-08-26 em diretório temporário: consulta Oracle aprovada, cópia derivada separada, quatro guias, total de R$ 1.358,45, UFs AL/GO/MG, XSD aprovado e hash do XML original inalterado. A simulação completa foi executada com `--dry-run`, sem transmissão.
+
 ## Relações
 
 - [[Banco de Dados e Oracle]]
