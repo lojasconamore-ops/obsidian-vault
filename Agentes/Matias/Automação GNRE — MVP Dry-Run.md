@@ -157,6 +157,13 @@ Controles implementados:
 
 Validação realizada com o XML real de 2026-08-26 em diretório temporário: consulta Oracle aprovada, cópia derivada separada, quatro guias, total de R$ 1.358,45, UFs AL/GO/MG, XSD aprovado e hash do XML original inalterado. A simulação completa foi executada com `--dry-run`, sem transmissão.
 
+Revisão independente (3 rodadas) concluída com veredito `PASS`, sem bloqueadores. Acompanhamento futuro (ressalvas não bloqueadoras):
+
+- Definir `umask` restritivo na criação do SQLite para cobrir também os sidecars `state.db-wal`/`state.db-shm` (hoje mitigado pelo diretório `700`);
+- Avaliar se `build_shared_pdf_name`/`_legacy_pdf_candidates` devem reconhecer também `document_type="22"` (chave NF-e) além de `"24"`, para detecção de guia manual em AL;
+- Mascarar também identificadores pontuados (CPF/CNPJ formatados) nas mensagens operacionais;
+- Mensagem de `402` com todas as guias `0` mas sem PDF pode ser aprimorada para não sugerir pendência inexistente.
+
 ## Relações
 
 - [[Banco de Dados e Oracle]]
