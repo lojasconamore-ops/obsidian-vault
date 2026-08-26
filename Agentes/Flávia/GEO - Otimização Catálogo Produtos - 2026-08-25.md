@@ -4,7 +4,7 @@
 **Link:** https://chatgpt.com/share/6a8e3cda-d614-83e9-b22a-af1b5576a81a
 **Título do chat:** FAQ Site Conamore
 **Tipo:** Execução de GEO/SEO em escala no catálogo de produtos
-**Conexão:** dá continuidade à [[GEO - Auditoria ChatGPT - 2026-08-11]] (P0: corrigir inconsistências de produtos)
+**Conexão:** dá continuidade à [[GEO - Auditoria ChatGPT - 2026-08-11]] (P0: corrigir inconsistências de produtos) · usa a [[GEO - Biblioteca de 100 FAQs - Conamore|Biblioteca de 100 FAQs]]
 
 ---
 
