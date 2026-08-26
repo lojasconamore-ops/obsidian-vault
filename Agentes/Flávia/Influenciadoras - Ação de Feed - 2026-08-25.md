@@ -65,8 +65,34 @@
 - **Continuidade:** ativa (deduplica menções já reportadas).
 
 ### Handles monitorados (5 confirmadas)
-1. @thabarbosa1 / @thabarboza — Thays Barbosa
+1. @thabarboza1 / @thabarbosa1 / @thabarboza — Thays Barbosa (⚠️ handle real no TikTok é @thabarboza1)
 2. @amandawolf / @amandawolf_ — Amanda Wolf
-3. @beamartinsx00 / @eubeamartinsx — Beatriz Martins
+3. @beamartinsx00 / @beamartinsx / @eubeamartinsx — Beatriz Martins
 4. @karlaalexandrina / @karlaalexandrinac — Karla Alexandrina
 5. @terezaporlugares / @terezaporlugares — Tereza Costa (patrocínio)
+
+---
+
+## 📜 Histórico de menções (validação — pesquisa 25/08)
+
+### ⭐ Tereza Costa — a viral ORIGINAL (maio/2023)
+- Vídeo 21/05/2023 revelou a marca de lençol do hotel (Conamore) → **~5M views**, repost viralizou no X/Twitter.
+- **Revista PEGN (Globo, ago/2023):** "Jovem viraliza ao 'revelar' marca de lençol do hotel" — vendas **5x por 4 dias** a cada post viral, faturamento **+25%**.
+- Já recebeu caixa da Conamore antes: TikTok 7246954442417802502 ("A ConAmore me enviou uma caixa recheada!").
+- Instagram: 53,7K seguidores · Fortaleza-CE.
+
+### Demais influenciadoras (menções orgânicas confirmadas)
+| Influenciadora | Evidência |
+|---|---|
+| Thays Barbosa (@thabarboza1) | TikTok 7286488406308293894 "Comprei a roupa de cama famosa do tiktok" #conamore |
+| Amanda Wolf (@amandawolf) | Unboxing Conamore — 8.025 likes, 131 comentários (discover "Loja Conamore Casa") |
+| Juuevellyn (@juuevellyn) | TikTok 7460150525162441990 "Dica de Lençol Conamore Testado por 1 Ano" |
+| Sarah Ribeiro (@__sarahribeiro) | TikTok 7240156225411828998 "Conamore - Compra de Produtos de Hotel Baratos" |
+| Karla Alexandrina | ❌ sem menção à Conamore (só conteúdo de make) |
+| Beatriz Martins | ❌ sem menção à Conamore encontrada |
+
+### Menções de terceiros (não na lista, mas relevantes)
+- @raissaraujooo — "Comprei a toalha mais hypada do tiktok! #conamore"
+- @hawktok — "Testando Produtos da Conamore: Golpe ou Realidade?"
+
+**Leitura:** 4 das 5 confirmadas já têm histórico orgânico de menção (Tereza é a maior). Karla e Beatriz ainda não mencionaram a Conamore publicamente — são apostas novas.
