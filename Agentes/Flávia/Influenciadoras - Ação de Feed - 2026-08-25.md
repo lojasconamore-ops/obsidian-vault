@@ -157,4 +157,4 @@
 
 **2023 (fora da cobertura):** a correlação foi documentada na época pela **Revista PEGN (ago/2023)** — vendas **5x por 4 dias** a cada viral, faturamento **+25%**, peças esgotando.
 
-**Vendas (Oracle DEBX):** pendente — janela de disponibilidade 08:00-18:00 BRT; consultar quando abrir para ver se há retenção de vendas de 2023.
+**Vendas (2023):** não é possível puxar do Oracle DEBX — ele **não era o ERP da época** (2023). O dado de vendas de 2023 só existe na forma documentada (PEGN) ou em sistemas legados daquele período.
