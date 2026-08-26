@@ -1,0 +1,3 @@
+﻿sku,name,tipo,observacao
+4230039,Toalha de Piso Pezinhos Cinza Hotelaria - 50x70CM - Gramatura 485g/m2 - Peso: 170g ,Divergência no cadastro,"O name informa 485 g/m² e 170 g; o início da description original informa 450 g/m² e 157 g, enquanto o corpo volta a informar 485 g/m². A versão otimizada mantém os dados do name (485 g/m² e 170 g). Validar antes da importação."
+29113054,Cobertor para Hotel Flannel King 240X260cm Azul,Divergência de medida,"O name informa 240 x 260 cm; a description original informa 2,40 x 2,70 m. A versão otimizada preserva a medida da description e mantém o name intacto. Validar a dimensão correta antes da importação."
