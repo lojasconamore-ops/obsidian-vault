@@ -118,3 +118,43 @@
 | **TOTAL (14 posts)** | **456.927** | **4.380** | **5.173.661** | **58.619** |
 
 **Leitura do alcance:** 14 posts já geraram ~**5,17M de views** e ~**457K likes** acumulados desde 2023. Sarah Ribeiro (200K likes / 1,7M views) é o maior alcance individual — e nem está nas 5 confirmadas. Tereza (original) é o 2º, Beatriz (unboxing) o 3º. Todas as 5 confirmadas + Sarah já têm histórico orgânico relevante.
+
+---
+
+## 📅 Datas dos posts (createTime TikTok)
+
+| Data | Influenciadora | Views |
+|---|---|---:|
+| 2023-05-22 | Tereza (original) | 1.200.000 |
+| 2023-05-23 | Laura Nuernberg | 174.200 |
+| 2023-06-02 | Sarah Ribeiro | 1.700.000 |
+| 2023-06-19 | Beatriz (unboxing) | 984.900 |
+| 2023-06-19 | Beatriz ("ilove you") | 226.400 |
+| 2023-06-21 | Tereza (caixa) | 130.800 |
+| 2023-06-29 | Beatriz ("mimos") | 11.600 |
+| 2023-07-07 | apto1107 | 165.800 |
+| 2023-07-10 | Raissa Araujo | 20.600 |
+| 2023-07-19 | Amanda Wolf | 230.800 |
+| 2023-09-05 | Hawktok | 25.900 |
+| 2023-10-05 | Thays Barbosa | 188.100 |
+| 2024-04-20 | Karla Alexandrina | 107.000 |
+| 2025-01-15 | Juuevellyn | 7.561 |
+
+---
+
+## 🔬 Correlação tráfego × posts (dados reais GA4)
+
+**Cobertura de dados:** GA4 (property 379729087) só tem dados **completos a partir de ~2024**. Para 2023, só um resíduo de 112 sessões em jun/2023 (quando a property foi criada) — os 12 posts de 2023 estão **fora** da cobertura de tráfego.
+
+**Correlação medida (posts dentro da cobertura):**
+
+| Post | Alcance (views) | Baseline tráfego | Pico após | Variação |
+|---|---:|---:|---:|---:|
+| Karla (20/04/2024) | 107.000 | 3.159 sess./dia | 5.598 (D+2/D+3) | **+77%** |
+| Juuevellyn (15/01/2025) | 7.561 | 2.197 sess./dia | 2.634 (D+0) | **+20%** |
+
+**Leitura:** correlação direta confirmada — post de maior alcance (Karla, 107K) gerou +77% de tráfego em 2-3 dias; post de baixo alcance (Juuevellyn, 7,5K) gerou só +20%. O impacto de tráfego escala com o alcance do post.
+
+**2023 (fora da cobertura):** a correlação foi documentada na época pela **Revista PEGN (ago/2023)** — vendas **5x por 4 dias** a cada viral, faturamento **+25%**, peças esgotando.
+
+**Vendas (Oracle DEBX):** pendente — janela de disponibilidade 08:00-18:00 BRT; consultar quando abrir para ver se há retenção de vendas de 2023.
