@@ -53,7 +53,7 @@ Uma referência comum na hotelaria é manter três jogos por cama: um em uso, um
 É fabricado integralmente com fibra de algodão. Oferece toque natural, conforto térmico e boa absorção, sendo valorizado em hospedagens que priorizam a experiência do hóspede.
 
 **15. Lençol de microfibra é indicado para hotel?**
-Pode ser uma alternativa em operações que buscam leveza, secagem rápida e facilidade de armazenamento. A escolha depende do padrão da hospedagem e da expectativa de conforto do público.
+Não. A microfibra é um tecido sintético que tende a reter calor — os lençóis ficam quentes por natureza — e isso prejudica a percepção de conforto do hóspede, além de não oferecer o toque natural valorizado na hotelaria. A Conamore não trabalha com lençol de microfibra; para hotéis, priorize lençóis de algodão ou misto, que entregam melhor conforto térmico e toque.
 
 **16. Como evitar que o lençol encolha após a lavagem?**
 Siga as orientações da etiqueta: temperatura de lavagem, tipo de secagem e restrições de alvejante. Secagem em temperatura muito alta e uso inadequado de produtos podem acentuar o encolhimento.
@@ -160,7 +160,7 @@ Comece pelo essencial: sabonete, shampoo e papel higiênico de qualidade. Itens 
 Mantenha um inventário por unidade com quantidade de cada peça e um estoque de reposição. Registre baixas por desgaste ou dano para saber o momento de recomprar.
 
 **48. Lençol de microfibra é indicado para Airbnb?**
-Pode ser útil por secar rápido e ocupar pouco espaço, o que agiliza a virada entre reservas. Avalie o conforto esperado pelo público antes de definir.
+Não é recomendado. A microfibra é um tecido sintético que retém calor — o lençol fica quente por natureza —, o que compromete a percepção de conforto do hóspede. A Conamore não trabalha com lençol de microfibra; para imóveis de temporada, opte por algodão ou misto, com toque e conforto térmico melhores.
 
 **49. Como reduzir o custo de enxoval no Airbnb?**
 Invista em peças duráveis, compre jogos de reposição antecipadamente e siga as boas práticas de lavagem para prolongar a vida útil. O custo por uso cai quando a peça dura mais.
