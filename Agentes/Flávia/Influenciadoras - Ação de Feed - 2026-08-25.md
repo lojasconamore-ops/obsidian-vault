@@ -85,14 +85,36 @@
 | Influenciadora | Evidência |
 |---|---|
 | Thays Barbosa (@thabarboza1) | TikTok 7286488406308293894 "Comprei a roupa de cama famosa do tiktok" #conamore |
-| Amanda Wolf (@amandawolf) | Unboxing Conamore — 8.025 likes, 131 comentários (discover "Loja Conamore Casa") |
+| Amanda Wolf (@amandawolf) | Unboxing Conamore — "A dica foi da @Tereza" |
 | Juuevellyn (@juuevellyn) | TikTok 7460150525162441990 "Dica de Lençol Conamore Testado por 1 Ano" |
 | Sarah Ribeiro (@__sarahribeiro) | TikTok 7240156225411828998 "Conamore - Compra de Produtos de Hotel Baratos" |
-| Karla Alexandrina | ❌ sem menção à Conamore (só conteúdo de make) |
-| Beatriz Martins | ❌ sem menção à Conamore encontrada |
+| Karla Alexandrina | TikTok 7359944412027211014 "Comprei a roupa de cama de hotel que viralizou" ✅ |
+| Beatriz Martins | 3 vídeos, incl. "Conamore ilove you 🫶🏼" ✅ |
 
 ### Menções de terceiros (não na lista, mas relevantes)
 - @raissaraujooo — "Comprei a toalha mais hypada do tiktok! #conamore"
-- @hawktok — "Testando Produtos da Conamore: Golpe ou Realidade?"
+- @hawktok — "Testando Produtos da Conamore"
 
-**Leitura:** 4 das 5 confirmadas já têm histórico orgânico de menção (Tereza é a maior). Karla e Beatriz ainda não mencionaram a Conamore publicamente — são apostas novas.
+---
+
+## 📊 Alcance das postagens identificadas (métricas TikTok, coletadas 25/08)
+
+| Post (influenciadora) | Likes | Comentários | Views | Shares |
+|---|---:|---:|---:|---:|
+| Sarah Ribeiro | 200.000 | 1.138 | 1.700.000 | 18.300 |
+| Tereza Costa — original | 115.900 | 1.245 | 1.200.000 | 22.000 |
+| Beatriz Martins — unboxing | 86.000 | 750 | 984.900 | 11.600 |
+| Amanda Wolf | 8.031 | 131 | 230.800 | 976 |
+| Beatriz Martins — "ilove you" | 13.500 | 354 | 226.400 | 2.071 |
+| Thays Barbosa | 7.980 | 78 | 188.100 | 469 |
+| Laura Nuernberg | 6.172 | 134 | 174.200 | 1.325 |
+| apto1107 | 2.624 | 72 | 165.800 | 500 |
+| Tereza Costa — caixa recebida | 11.300 | 253 | 130.800 | 530 |
+| Karla Alexandrina | 2.569 | 90 | 107.000 | 733 |
+| Hawktok (terceiro) | 2.065 | 74 | 25.900 | 62 |
+| Raissa Araujo (terceiro) | 193 | 18 | 20.600 | 22 |
+| Beatriz Martins — "mimos" | 452 | 39 | 11.600 | 17 |
+| Juuevellyn | 141 | 4 | 7.561 | 14 |
+| **TOTAL (14 posts)** | **456.927** | **4.380** | **5.173.661** | **58.619** |
+
+**Leitura do alcance:** 14 posts já geraram ~**5,17M de views** e ~**457K likes** acumulados desde 2023. Sarah Ribeiro (200K likes / 1,7M views) é o maior alcance individual — e nem está nas 5 confirmadas. Tereza (original) é o 2º, Beatriz (unboxing) o 3º. Todas as 5 confirmadas + Sarah já têm histórico orgânico relevante.
