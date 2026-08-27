@@ -53,3 +53,4 @@ Se o banco estiver degradando, a empresa inteira sente. Oracle não é só banco
 ## Referência prática
 
 - [[Projetos/Lojas Conamore/Oracle e DEBX - Treinamento de Agentes]] — guia compartilhado único para conectar no Oracle do DEBX e executar consultas seguras.
+- [[Replicação de Pedidos — Triggers de Segmento (F_PEDVENDA)]] — como os pedidos de `TEST_PED` são roteados/replicados para os schemas das lojas e matriz (triggers `DEBI_PEDVENDA_INDICA_SEGMENTO` e `DEBI_PEDVENDA_REPLICA`).
