@@ -6,6 +6,7 @@ Este índice organiza os briefings e entregas diárias do secretário executivo.
 
 ## Mais recentes
 
+- [[2026-08-28-Briefing-Energia-Casa]]
 - [[2026-08-27-Briefing-Energia-Casa]]
 - [[2026-08-26-Briefing-Energia-Casa]]
 - [[2026-08-25-Briefing-Energia-Casa]]
