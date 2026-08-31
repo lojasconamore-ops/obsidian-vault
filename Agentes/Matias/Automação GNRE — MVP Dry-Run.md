@@ -180,6 +180,8 @@ Correção executada em 2026-08-31: lote isolado de 1 guia com `tipo="11"` (mesm
 
 Pendência na origem: corrigir o gerador DEBX para emitir `tipo="11"` (não `tipo="21"`) nas guias do MS, evitando novas rejeições.
 
+Tratamento automático (stopgap): `gnre_automation/ms.py::prepare_ms_guides` normaliza MS + receita `100102` (converte `tipo="21"` único em `tipo="11"`) apenas para lotes nunca transmitidos, espelhando a proteção AL; falha fechada quando o `tipo="21"` difere de `valorGNRE` (possível multa/juros embutidos) e está encadeado no `production_automatic.py` após `prepare_alagoas_guides`. Cobertura em `tests/test_ms.py`.
+
 ## Relações
 
 - [[Banco de Dados e Oracle]]
