@@ -164,6 +164,22 @@ Revisão independente (3 rodadas) concluída com veredito `PASS`, sem bloqueador
 - Mascarar também identificadores pontuados (CPF/CNPJ formatados) nas mensagens operacionais;
 - Mensagem de `402` com todas as guias `0` mas sem PDF pode ser aprimorada para não sugerir pendência inexistente.
 
+## Proteção MS/100102 — Valor Principal
+
+Registrada em 2026-08-31 após rejeição GNRE `227` ("Valor Principal nao informado!", campo `valorPrincipal(tipo:11)`) em uma guia do Mato Grosso do Sul. A configuração oficial de produção (`GnreConfigUF`) confirmou que **MS + receita 100102** exige `valorExigido = P` (somente Valor Principal), com `exigeValorFecp = N`, `exigeCamposAdicionais = S` (campo extra código `88` = "Chave de Acesso da NFe ou do CTe/CTE-OS", obrigatório) e `exigeDocumentoOrigem = N`.
+
+O DEBX gerou a guia com `<valor tipo="21">` (Valor Total ICMS) em vez de `<valor tipo="11">` (Valor Principal ICMS). Semântica do atributo `tipo` do elemento `<valor>` (XSD `dados_gnre_v2.00.xsd`):
+
+- `11` = Valor Principal ICMS · `12` = Valor Principal Fundo de Pobreza (FP)
+- `21` = Valor Total ICMS · `22` = Valor Total FP
+- `31`/`32` = Multa ICMS/FP · `41`/`42` = Juros ICMS/FP · `51`/`52` = Atualização Monetária ICMS/FP
+
+O portal calcula o Valor Total automaticamente a partir do Valor Principal; enviar apenas `tipo="21"` sem `tipo="11"` é rejeitado pelas UFs cujo `valorExigido` inclui `P`.
+
+Correção executada em 2026-08-31: lote isolado de 1 guia com `tipo="11"` (mesmo valor 180.90), validado no XSD, transmitido (recibo `26000426902248`) e processado com código `402`, guia `0`; PDF publicado em `DIFAL` como `GUIA GNRE CORRECAO MS 31082026 - RECIBO 26000426902248.pdf`. As guias SC e DF do lote original (`403`, guias `0,0,1`) permaneceram aprovadas e não foram retransmitidas.
+
+Pendência na origem: corrigir o gerador DEBX para emitir `tipo="11"` (não `tipo="21"`) nas guias do MS, evitando novas rejeições.
+
 ## Relações
 
 - [[Banco de Dados e Oracle]]
