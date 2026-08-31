@@ -184,5 +184,6 @@ Tratamento automático (stopgap): `gnre_automation/ms.py::prepare_ms_guides` nor
 
 ## Relações
 
+- [[Exceções GNRE por UF — Registro de Correções ERP]]
 - [[Banco de Dados e Oracle]]
 - [[Integrações, Automação e Monitoramento]]
