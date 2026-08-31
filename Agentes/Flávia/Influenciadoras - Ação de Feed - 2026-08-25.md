@@ -158,3 +158,14 @@
 **2023 (fora da cobertura):** a correlação foi documentada na época pela **Revista PEGN (ago/2023)** — vendas **5x por 4 dias** a cada viral, faturamento **+25%**, peças esgotando.
 
 **Vendas (2023):** não é possível puxar do Oracle DEBX — ele **não era o ERP da época** (2023). O dado de vendas de 2023 só existe na forma documentada (PEGN) ou em sistemas legados daquele período.
+
+---
+
+## 📍 Posts da ação de feed (2026) — acompanhamento
+
+### Karla Alexandrina (@karlaalexandrina) — 31/08/2026 ✅ 1º post confirmado
+- **Vídeo:** https://www.tiktok.com/@karlaalexandrina/video/7680312450738031879
+- **Postado:** 31/08/2026 18:35 BRT
+- **Legenda:** "Ameeei 💝 #camamesaebanho #home #casa #fyp"
+- **Métricas iniciais (31/08, ~18:40 BRT):** 59 views · 3 likes · 3 shares · 0 comentários
+- **⚠️ Sem tag @conamore nem #conamore** — só hashtags genéricas (#camamesaebanho, #home, #casa, #fyp). O job de monitoramento (busca de marca/handle) pode não captar. Monitorar views em D+1/D+2.
