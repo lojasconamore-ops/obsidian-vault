@@ -176,3 +176,9 @@
 |---|---:|---:|---:|---:|---:|
 | 31/08 ~18:40 (baseline) | 59 | 3 | 0 | 3 | — |
 | 01/09 ~10:03 (D+1) | 586 | 39 | 4 | 9 | 3 |
+| 01/09 ~15:12 (D+1) | 707 | 45 | 5 | 10 | 4 |
+
+**Leitura (D+1, ~20,5h após o post):** 59 → **707 views** (+1.098%), 3 → 45 likes, 0 → 5 comentários, 3 → 10 shares. Cresceu forte nas primeiras horas e desacelerou à tarde (586 → 707 entre 10h e 15h). Sem tag @conamore/#conamore, o tráfego orgânico da marca não deve refletir o post de forma rastreável.
+
+### ⚠️ Falha de detecção no monitoramento (01/09) — corrigir
+O job diário `370631f67321` reportou "nenhuma menção nova" às 15:10, mas a Karla JÁ tinha postado (31/08 18:35). Causa raiz: o post **não tem @conamore nem #conamore** (só hashtags genéricas), então a busca de marca/handle não encontra; e o TikTok bloqueia scraping. **A detecção de posts sem tag depende do Sérgio enviar o link manualmente** — o job de busca não é suficiente. Registrar esse limite no job.
