@@ -42,7 +42,7 @@ Acompanhar, por UF/receita, as divergências entre o que o **DEBX** gera no XML 
 - **ConfigUF (produção):** `exigeDocumentoOrigem = S`; único tipo aceito `22 — CHAVE DA NFe` (chave de 44 dígitos).
 - **O que o DEBX faz:** `documentoOrigem tipo="10"` com apenas o número da nota.
 - **Correção esperada no ERP:** gerar `documentoOrigem tipo="22"` com a chave de acesso da NF-e (44 dígitos) para AL/100102.
-- **Stopgap:** `gnre_automation/alagoas.py::prepare_alagoas_guides` — resolve a chave via Oracle (`TEST_MATRIZ.F_SAIDAS.SAI_CHANFE`) e converte `10`→`22`; falha fechada se ausente/ambígua; valida modelo 55, DV e CNPJ emitente.
+- **Stopgap:** `gnre_automation/alagoas.py::prepare_documento_origem_guides` — resolve a chave via Oracle (`TEST_MATRIZ.F_SAIDAS.SAI_CHANFE`) e converte `10`→`22`; falha fechada se ausente/ambígua; valida modelo 55, DV e CNPJ emitente.
 - **Detecção:** 2026-08-26.
 
 ### MS + receita 100102
