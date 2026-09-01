@@ -4,6 +4,8 @@
 
 ## Contexto
 
+- **Identificação institucional confirmada por Sergio em 01/09/2026:** a Têxtil H. Carvalho é uma empresa da família da Camila e é distinta da Conamore.
+- **Referência Granola de 01/09/2026:** a reunião sobre análise de PERDCOMPs/INSS, com Ana Paula, Tatiana, Juliana Cunha e Alexandre citados, refere-se à Têxtil H. Carvalho, não à Conamore.
 - **Reunião realizada em:** 08/08/2026
 - **Participantes:** Sergio, Camila, dona Célia e Juliana (por vídeo)
 - **Tema:** possíveis modelos de negócio e estruturas para o grupo, incluindo Lucro Real, Lucro Presumido, Simples Nacional, modelos contábeis e modelos de gestão.
