@@ -199,6 +199,8 @@ Controles implementados (reaproveitando a proteção AL em `gnre_automation/alag
 
 Validação realizada com o XML real de 2026-09-01 (7 guias, UFs BA/MG/ES/RJ) em diretório temporário: as três guias BA convertidas para `tipo="22"` com a chave do `campoExtra 86`, XSD aprovado, hash do XML original inalterado e nenhuma chamada ao Oracle. Cobertura em `tests/test_bahia.py` (77 testes no total).
 
+Correção executada em 2026-09-01: lote isolado com as 3 guias BA (`GNRE_CORRECAO_BA_01092026.xml`, R$ 1.684,15), transmitido (recibo `26000428925971`) e processado com código `402`, guias `0,0,0`; PDF publicado em `DIFAL` como `GUIA GNRE CORRECAO BA 01092026 - RECIBO 26000428925971.pdf`. Script de correção em `scripts/build_ba_correction.py`.
+
 ## Relações
 
 - [[Exceções GNRE por UF — Registro de Correções ERP]]
