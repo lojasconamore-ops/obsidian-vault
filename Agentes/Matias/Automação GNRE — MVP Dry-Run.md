@@ -180,7 +180,24 @@ Correção executada em 2026-08-31: lote isolado de 1 guia com `tipo="11"` (mesm
 
 Pendência na origem: corrigir o gerador DEBX para emitir `tipo="11"` (não `tipo="21"`) nas guias do MS, evitando novas rejeições.
 
-Tratamento automático (stopgap): `gnre_automation/ms.py::prepare_ms_guides` normaliza MS + receita `100102` (converte `tipo="21"` único em `tipo="11"`) apenas para lotes nunca transmitidos, espelhando a proteção AL; falha fechada quando o `tipo="21"` difere de `valorGNRE` (possível multa/juros embutidos) e está encadeado no `production_automatic.py` após `prepare_alagoas_guides`. Cobertura em `tests/test_ms.py`.
+Tratamento automático (stopgap): `gnre_automation/ms.py::prepare_ms_guides` normaliza MS + receita `100102` (converte `tipo="21"` único em `tipo="11"`) apenas para lotes nunca transmitidos, espelhando a proteção AL; falha fechada quando o `tipo="21"` difere de `valorGNRE` (possível multa/juros embutidos) e está encadeado no `production_automatic.py` após `prepare_documento_origem_guides`. Cobertura em `tests/test_ms.py`.
+
+## Proteção BA/100102 — Chave NF-e no documentoOrigem
+
+Registrada em 2026-09-01 após rejeição GNRE `217` ("O Documento de Origem informado nao e usado pela Receita informada na UF favorecida!") em três guias da Bahia. A configuração oficial de produção (`GnreConfigUF`) confirmou que **BA + receita 100102** exige `documentoOrigem` tipo `22` (chave da NF-e) ou `23` (chave CTe), enquanto o DEBX exportava `tipo="10"` com apenas o número da nota.
+
+Diferente da AL — cuja chave não vem no XML e exige consulta ao `F_SAIDAS` — a **BA já emite a chave completa (44 díg.) no `campoExtra 86`** de cada item. Isso é decisivo porque o `F_SAIDAS` não tem a nota no mesmo dia da emissão (o lote é gerado e transmitido no dia da venda), então a consulta Oracle não seria viável para a BA.
+
+Controles implementados (reaproveitando a proteção AL em `gnre_automation/alagoas.py::prepare_documento_origem_guides`):
+
+- Aplicação somente a lotes sem transmissão registrada;
+- Para `AL`, resolve a chave via `TEST_MATRIZ.F_SAIDAS` (como antes);
+- Para `BA`, extrai a chave do `campoExtra 86` e converte `10`→`22`, sem tocar o Oracle;
+- Validação estrutural completa da chave: modelo `55`, dígito verificador, número da nota e CNPJ emitente;
+- Ausência ou valor inválido no `campoExtra 86` bloqueia o envio (fail-closed);
+- Conversão somente de `tipo="10"` para `tipo="22"`; tipos inesperados falham fechados.
+
+Validação realizada com o XML real de 2026-09-01 (7 guias, UFs BA/MG/ES/RJ) em diretório temporário: as três guias BA convertidas para `tipo="22"` com a chave do `campoExtra 86`, XSD aprovado, hash do XML original inalterado e nenhuma chamada ao Oracle. Cobertura em `tests/test_bahia.py` (77 testes no total).
 
 ## Relações
 
