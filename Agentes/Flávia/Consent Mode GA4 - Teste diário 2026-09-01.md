@@ -43,8 +43,9 @@ Principais fontes: Google 1.315 sessões / 39,54% bounce; direto 177 / 51,41%; I
 
 1. **Sem quebra sistêmica de tracking:** bounce consolidado de 40,75%, com engajamento normal nas principais fontes.
 2. **Risco técnico de ordem persiste:** na sessão limpa, `gtm.js` aparece antes do `consent default` (índices 1 e 2). O request observado respeitou a negação (`G100`, `npa=1`, `pscdl=denied`), mas a ordem continua sujeita a race condition e deve ser corrigida para o default entrar antes do GTM.
-3. **Recarregamento consentido sem default:** com a preferência já concedida, o dataLayer registrou `gtm.js` no índice 1 e somente `consent update` no índice 2; o beacon trouxe `gcs=G111`, porém `gcd=13n3n3n3n5l1` e `pscdl=noapi`. A coleta funcionou, mas reforça o risco estrutural de ordem/ausência do default nessa navegação.
-4. **Console:** sem erros JavaScript não capturados (`pageErrors=[]`). Falhas CORS do Reclame Aqui e Veels são de terceiros; sem causalidade demonstrada com GA4.
+3. **Marketing antes do aceite — anomalia LGPD:** ainda na carga inicial, antes de qualquer escolha, foram criados identificadores/cookies de marketing (`_gcl_au`, `_fbp`, `_uetsid`, `_uetvid` e `li_adsId`) e houve request do LinkedIn Pixel. O default negado foi respeitado pelo beacon GA4/Ads testado, mas não bloqueou todos os fornecedores. Encaminhar a Matias/Increazy para revisar os gatilhos de Meta, Microsoft Ads e LinkedIn; manter Adrian informado pelo risco de consentimento.
+4. **Recarregamento consentido sem default:** com a preferência já concedida, o dataLayer registrou `gtm.js` no índice 1 e somente `consent update` no índice 2; o beacon trouxe `gcs=G111`, porém `gcd=13n3n3n3n5l1` e `pscdl=noapi`. A coleta funcionou, mas reforça o risco estrutural de ordem/ausência do default nessa navegação.
+5. **Console:** sem erros JavaScript não capturados (`pageErrors=[]`). Falhas CORS do Reclame Aqui e Veels são de terceiros; sem causalidade demonstrada com GA4.
 
 ## Status
 
