@@ -169,3 +169,10 @@
 - **Legenda:** "Ameeei 💝 #camamesaebanho #home #casa #fyp"
 - **Métricas iniciais (31/08, ~18:40 BRT):** 59 views · 3 likes · 3 shares · 0 comentários
 - **⚠️ Sem tag @conamore nem #conamore** — só hashtags genéricas (#camamesaebanho, #home, #casa, #fyp). O job de monitoramento (busca de marca/handle) pode não captar. Monitorar views em D+1/D+2.
+
+### 📈 Evolução de métricas (monitoramento recorrente)
+
+| Coleta (BRT) | Views | Likes | Comentários | Shares | Saves |
+|---|---:|---:|---:|---:|---:|
+| 31/08 ~18:40 (baseline) | 59 | 3 | 0 | 3 | — |
+| 01/09 ~10:03 (D+1) | 586 | 39 | 4 | 9 | 3 |
