@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 03/09/2026 19:02 BRT  
+Atualizado: 05/09/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 03/09/2026 19:02 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 05/09/2026 | [[GA4-Diario-2026-09-05]] | 02/09 vs 01/09 | D-3 vs D-4: usuários -6,4%, sessões -9,6%, engaj. -6,0 p.p., eventos -22,4%; Google / cpc 513 usuários; `(not set)` 131 sessões; mobile 70,4%; direto com 30,5% de engajamento. |
 | 03/09/2026 | [[GA4-Diario-2026-09-03]] | 31/08 vs 30/08 | D-3 vs D-4: usuários -5,0%, sessões +1,4%, engaj. +2,4 p.p., eventos +7,3%; Google / cpc 547 usuários; `(not set)` 158 sessões; mobile 71,7%; RD Station / email 193 usuários. |
 | 02/09/2026 | [[GA4-Diario-2026-09-02]] | 30/08 vs 29/08 | D-3 vs D-4: usuários +16,9%, sessões +19,8%, engaj. -1,5 p.p., eventos +20,3%; Google / cpc 1.130 usuários; `(not set)` 152 sessões; mobile 91,8%; ChatGPT 24 usuários. |
 | 01/09/2026 | [[GA4-Diario-2026-09-01]] | 29/08 vs 28/08 | D-3 vs D-4: usuários -5,0%, sessões -9,6%, engaj. +5,2 p.p., eventos +0,7%; Google / cpc 1.005 usuários; `(not set)` 119 sessões; mobile 89,6%; ChatGPT 13 usuários. |
