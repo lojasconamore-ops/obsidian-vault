@@ -131,6 +131,18 @@ O container tem dois caminhos ativos de `purchase` para `G-BNBJFTE5VT`:
 
 Ambos carregam `transaction_id`; o GA4 pode deduplicar no relatório, mas o desenho deve ser validado em uma compra real no Tag Assistant para evitar eventos/requisições redundantes.
 
+## Origem confirmada do GA4 Hotelaria e Google Ads no Hospitalar
+
+Tag Assistant confirmou que os disparos indevidos não vêm da lista de destinos da Google tag Hospitalar. Eles vêm de uma configuração embutida na página/Increazy:
+
+- Nome mostrado: `Conamore Hotelaria Increazy`.
+- Origem: `gtag('config') na página`.
+- IDs da tag: `G-V0KMM7L6M6` e `GT-MK98TWV`.
+- Destinos: `G-V0KMM7L6M6` e `AW-1041572367`.
+- Hits observados: page_view para GA4 Hotelaria e Ads, `RD Popup e WhatsApp` para ambos, dados fornecidos pelo usuário e remarketing para Ads.
+
+Correção: condicionar/remover essa configuração no app Hospitalar `211`, sem removê-la globalmente da Hotelaria. Buscar no template/configuração Increazy por `GT-MK98TWV`, `G-V0KMM7L6M6`, `AW-1041572367` ou `gtag('config'...)`.
+
 ## Status e plano recomendado
 
 ### P0 — corrigir imediatamente
