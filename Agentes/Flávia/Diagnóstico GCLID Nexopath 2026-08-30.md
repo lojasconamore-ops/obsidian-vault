@@ -46,3 +46,11 @@ Consequência: mesmo capturando o gclid, não há campo de destino → o campo c
 
 - Token correto da Nexopath (painel) — precisa do valor de 36 chars.
 - Decisão: priorizar ECL (token) vs. campo `cf_gclid` (form), ou ambos.
+
+## Monitoramento — 06/09/2026 11:23 BRT
+
+- Campo `cf_gclid`: confirmado no RD Station (`dd42f7db-51a1-461f-bb26-303fb9a86581`, STRING/TEXT_INPUT).
+- Segmentação consultada: `373641` — Leads (estágio no funil).
+- Amostra: 10 contatos mais recentes, conversões entre 10:30 e 11:22 BRT de 06/09/2026.
+- Resultado: **0/10 com `cf_gclid` preenchido (0%)**.
+- Tendência: permanece zerado em relação ao relatório anterior; a captura no RD Station ainda não começou.
