@@ -62,6 +62,12 @@ Se a empresa for incorporadora, tiver várias empresas/obras simultâneas, conta
 - Integração com contabilidade, bancos, NF e WhatsApp oficial.
 - Tempo de implantação, suporte e custo total de 36 meses.
 
+## Limitação relevante da API do Mais Controle
+
+A documentação pública apresenta uma **API para Relatórios**, orientada à extração de dados, e não uma API transacional completa. Ela disponibiliza obras, propostas, orçamentos, cronogramas, medições, lançamentos, pagamentos, recebimentos e faturamentos. Há atualização semanal gratuita, diária paga ou de hora em hora paga. O acesso usa uma credencial única por conta, com acesso amplo aos dados.
+
+Consequência: é adequada para agentes de consulta, análise, alertas, BI e briefings, mas não está publicamente demonstrado que permita agentes criarem/alterarem registros, pedidos, RDOs, aprovações ou pagamentos. Antes da contratação, exigir confirmação sobre API de escrita, webhooks, sandbox, granularidade de permissões, limites e documentação técnica.
+
 ## Riscos e controles
 
 - Não automatizar processo desorganizado.
