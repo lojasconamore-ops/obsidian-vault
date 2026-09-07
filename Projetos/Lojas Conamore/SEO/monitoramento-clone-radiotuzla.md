@@ -11,6 +11,14 @@ Descoberto: 17/06/2026 · Disavow + DMCA: 08/08/2026
 | 17/06/2026 | resolve | 200 (servindo) | indexado | 🔴 ATIVO |
 | 08/08/2026 | resolve | 200 (servindo) | indexado | 🔴 ATIVO |
 | 17/08/2026 | resolve (94.72.141.240) | **503 Internal Server Error** | ainda indexado (Exa 1ª citação) | 🟡 EM PROGRESSO |
+| 07/09/2026 | resolve (94.72.141.240) | **HTTP 200 servindo o clone**; HTTPS 503 | ainda indexado (Exa 1ª citação) | 🔴 ATIVO |
+
+## Notas de execução (07/09/2026)
+
+- O clone voltou a servir conteúdo por HTTP com status **200**, título e canonical próprios; HTTPS segue em **503**.
+- Continua como 1ª citação na busca exata via `COMPOSIO_SEARCH_WEB`.
+- A propriedade `sc-domain:conamore.com.br` está acessível via Composio com permissão `siteOwner`, mas a API oficial do GSC não expõe o relatório de domínios de referência/links; contagem indisponível.
+- DNS permanece em `94.72.141.240`. Regressão em relação a 17/08: status elevado de 🟡 para 🔴.
 
 ## Notas de execução (17/08/2026)
 
