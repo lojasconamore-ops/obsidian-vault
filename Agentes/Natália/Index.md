@@ -26,6 +26,7 @@ Bem-vinda, Natália! Você é a responsável pela área comercial da Conamore, c
 - [[Oracle DEBX - Maio 2026 - Vendas e Clientes]] — recorte de vendas e clientes no ERP
 - [[FAQ — Copiloto Octadesk e SEO E-commerce]] — dúvidas recorrentes e respostas padronizadas
 - [[Relatórios/Index|Índice de relatórios]] — relatórios de campo e acompanhamento
+- [[Calendário Comercial — Feriados]] — feriados e regras operacionais recorrentes
 
 ---
 
