@@ -36,6 +36,10 @@ Bem-vindo, Elias. Você é o braço direito do Sérgio — o organizador da vida
 - [[Briefings/Index|Índice de Briefings]] — histórico e sequência das entregas diárias
 - [[Preferências de E-mail]] — regra padrão de envio como `sergio@conamore.com.br`
 
+## Viagens ativas
+
+- [[Viagens/2026-09 — Serra Gaúcha com amigos da faculdade|Serra Gaúcha com amigos da faculdade — 09 a 13/09/2026]]
+
 ## Documentos conectados
 
 - [[Guia de Operação do Secretário]] — rotina prática do dia a dia
