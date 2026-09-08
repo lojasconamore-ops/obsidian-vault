@@ -4,7 +4,7 @@ Este índice reúne os relatórios de acompanhamento financeiro e fiscal do Tiag
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Relatórios Diários (11)
+## Relatórios Diários (16)
 
 | # | Data | Arquivo |
 |---|---|---|
@@ -19,6 +19,11 @@ Este índice reúne os relatórios de acompanhamento financeiro e fiscal do Tiag
 | 9 | 10 Jun 2026 | [[Relatórios/Relatório Diário - 10 Jun 2026]] |
 | 10 | 11 Jun 2026 | [[Relatórios/Relatório Diário - 11 Jun 2026]] |
 | 11 | 12 Jun 2026 | [[Relatórios/Relatório Diário - 12 Jun 2026]] |
+| 12 | 04 Ago 2026 | [[Relatórios/Relatório Diário - 04 Ago 2026]] |
+| 13 | 05 Ago 2026 | [[Relatórios/Relatório Diário - 05 Ago 2026]] |
+| 14 | 11 Ago 2026 | [[Relatórios/Relatório Diário - 11 Ago 2026]] |
+| 15 | 06 Set 2026 | [[Relatórios/Relatório Diário - 06 Set 2026]] |
+| 16 | 08 Set 2026 | [[Relatórios/Relatório Diário - 08 Set 2026]] |
 
 ## Cruzamentos Lista Negra (6)
 
@@ -44,4 +49,4 @@ Este índice reúne os relatórios de acompanhamento financeiro e fiscal do Tiag
 
 ---
 
-*Atualizado em: 13/07/2026 — 17 relatórios*
+*Atualizado em: 08/09/2026 — 23 relatórios*
