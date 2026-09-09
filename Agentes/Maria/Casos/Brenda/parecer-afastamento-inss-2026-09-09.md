@@ -4,7 +4,7 @@
 
 ## Conclusão
 
-Recomenda-se dar andamento imediato ao afastamento previdenciário. O conjunto documenta incapacidade contínua de 24/08/2026 a 17/09/2026, total de 25 dias corridos. Os primeiros 15 dias correspondem a 24/08–07/09; o 16º dia é 08/09/2026.
+Recomenda-se dar andamento imediato ao afastamento previdenciário. O conjunto inicialmente analisado documenta incapacidade contínua de 24/08/2026 a 17/09/2026, total de 25 dias corridos. Posteriormente, o RH informou que o último dia efetivamente trabalhado foi 03/08/2026 e que houve outros atestados/CIDs entre 04/08 e 23/08. Portanto, a contagem definitiva da responsabilidade da empresa e o enquadramento dos eventos no eSocial dependem da leitura desses documentos anteriores e da verificação de eventual relação clínica entre os motivos.
 
 ## Cronologia
 
@@ -21,7 +21,7 @@ Para reduzir o risco de exigência, recomenda-se que a colaboradora obtenha, se 
 
 ## Ações
 
-1. Registrar imediatamente o S-2230 com início em 24/08/2026, como doença não relacionada ao trabalho, salvo evidência de nexo ocupacional.
+1. Não declarar 23/08 como último dia trabalhado: a UDT informada pelo RH é 03/08/2026. Antes de fechar o S-2230, conferir os atestados de 04/08 a 23/08 e avaliar se os motivos são distintos ou clinicamente relacionados; o código CID isolado não resolve essa classificação.
 2. Orientar e apoiar a colaboradora no pedido de auxílio por incapacidade temporária pelo Meu INSS, anexando os quatro documentos, preferencialmente versões integrais e legíveis.
 3. Solicitar fotografia/scan completo do resumo de alta, incluindo identificação e assinatura médica e recomendações finais.
 4. Acompanhar exigências e decisão do INSS; não lançar benefício como concedido antes da decisão.
