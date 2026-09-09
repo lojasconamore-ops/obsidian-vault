@@ -26,3 +26,10 @@
 - **Fonte:** Telegram — grupo de trabalho de RH
 - **Leitura objetiva:** confirma internação de 24/08/2026 a 29/08/2026 e apresenta hipóteses diagnósticas por extenso, evolução favorável, alta e seguimento ambulatorial. A fotografia não mostra o documento integral, assinatura/identificação médica final nem todas as recomendações.
 - **SHA-256:** `7460dfc76126a8b2c672e332bfb299215d958c9ff7797486a7cf5f7965700e24`
+
+- **Arquivo:** `Documentos/Declaracao-UDT-Rascunho-2026-09-09-Brenda.jpg`
+- **Tipo:** fotografia de rascunho de declaração empresarial ao INSS
+- **Fonte:** Telegram — grupo de trabalho de RH
+- **Leitura objetiva:** informa UDT em 03/08/2026 e lista períodos médicos a partir de 24/08. Revisão apontou sobreposição em 29/08, descrição imprecisa da data do primeiro documento, ausência de explicação do período entre 04/08 e 23/08, localidade de assinatura possivelmente inconsistente e falta de assinatura, nome e cargo do responsável.
+- **Status:** não enviar sem correção.
+- **SHA-256:** `7321660ff6f82fb178968b27c62fb99681b76a5a3fd8986ade5ecc8b7f7af2fb`
