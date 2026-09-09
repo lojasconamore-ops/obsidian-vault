@@ -8,7 +8,8 @@
 **CNPJ:** 03.350.922/0001-17  
 **Endereço:** Rua São Félix do Xingu, 744, Morada da Paz, Redenção/PA, CEP 68550-530  
 **Contato:** Leda  
-**Representante:** Carmem Lucia de Oliveira
+**Representante:** Carmem Lucia de Oliveira  
+**Arquivos consolidados:** orçamento Conamore nº 0119563 + relatório Equifax/Boa Vista nº 040753181-8, ambos do mesmo CNPJ.
 
 ## Etapa 0 — Lista Negra Conamore
 
@@ -72,20 +73,24 @@ O vínculo societário não foi confirmado. Portanto, por prudência, o históri
 
 ## Etapa 2 — Score / Bureau
 
-Foi utilizado o relatório Equifax/Boa Vista do mesmo CNPJ, emitido em **29/08/2026**, já arquivado na análise anterior do cliente:
+Relatório Equifax/Boa Vista nº **040753181-8**, emitido em **09/09/2026 às 16:53:04**, para o mesmo CNPJ do orçamento:
 
 - **Score Aprovação PJ:** 753 — muito forte;
 - **probabilidade de inadimplência:** 4,0% — excelente;
 - **Cadastro Positivo:** participante, com informação;
-- **pagamento pontual:** indicadores mensais entre 99% e 100%;
+- **pagamento pontual:** indicadores mensais entre 99% e 100% no período de setembro/2025 a agosto/2026;
+- **faixas de pagamento atrasado:** pontuação zero nas faixas de 6–15, 16–30, 31–60 e mais de 60 dias; o campo estatístico de atraso médio exibe dias em alguns meses, mas sem ocorrência restritiva ou percentual material associado no relatório;
+- **comprometimento futuro:** sem compromissos relevantes; indicação de crédito apenas até 30 dias, sem valores monetários divulgados;
 - **pendências/restrições financeiras:** nada consta;
 - **cheques sem fundos/sustados/devolvidos:** nada consta;
 - **protestos:** nada consta;
 - **situação cadastral:** ativa;
 - **fundação:** 16/08/1999;
-- **atividade principal:** atendimento hospitalar, exceto pronto-socorro.
+- **atividade principal:** atendimento hospitalar, exceto pronto-socorro;
+- **consultas ao bureau:** 8 no período de 01/09/2025 a 01/09/2026, incluindo consultas da própria Conamore em 05/05/2026 e 29/08/2026;
+- **endereço:** Rua São Félix do Xingu, 744, Morada da Paz, Redenção/PA, coincidente com o orçamento e o cadastro interno.
 
-O bureau recente é favorável e não contém sinal de veto. A consulta pública atual da Serasa confirma CNPJ ativo, razão social, endereço, data de abertura e CNAE; a página pública não substitui uma nova consulta paga para restrições.
+O bureau recebido nesta análise é favorável e não contém sinal de veto. Ele confirma integralmente o resultado do relatório anterior, agora substituído por esta consulta mais recente. A data de consulta cadastral à Receita impressa no bureau é 15/05/2023; por isso, a situação ativa também foi corroborada na consulta pública atual da Serasa.
 
 ## Etapa 3 — Coerência operacional do pedido
 
@@ -153,7 +158,7 @@ A conexão Oracle foi tentada em 09/09/2026 às 18:43 BRT e retornou `ORA-01033`
 
 ## Justificativa técnica objetiva
 
-O crédito é favorável porque a SOMEHR é cliente recorrente, possui 7 pedidos anteriores expedidos, já operou com 50% de entrada + 30/60 dias, apresenta bureau recente muito forte (score 753, PD 4%, Cadastro Positivo informado e nenhuma restrição/protesto) e mantém operação hospitalar pública, antiga e coerente. O pedido atual aumentou frente ao histórico, porém permanece apenas 16% acima do maior pedido expedido e tem 50% de entrada, limitando a exposição a R$ 2.724,00.
+O crédito é favorável porque a SOMEHR é cliente recorrente, possui 7 pedidos anteriores expedidos, já operou com 50% de entrada + 30/60 dias, apresenta bureau emitido no próprio dia da análise com score 753, PD 4%, Cadastro Positivo informado e nenhuma restrição, cheque ou protesto, e mantém operação hospitalar pública, antiga e coerente. O pedido atual aumentou frente ao histórico, porém permanece apenas 16% acima do maior pedido expedido e tem 50% de entrada, limitando a exposição a R$ 2.724,00.
 
 O impedimento atual é de controle, não de capacidade de crédito: o orçamento está vencido, o DEBX diverge do PDF em R$ 300,00 e registra pagamento `A DEFINIR`, além de a posição atual de títulos não ter sido validada por indisponibilidade do Oracle. Regularizados esses pontos e compensada a entrada, o faturamento pode prosseguir.
 
@@ -161,7 +166,7 @@ O impedimento atual é de controle, não de capacidade de crédito: o orçamento
 
 - orçamento Conamore nº 0119563, conferido por extração e imagem;
 - Lista Negra Conamore;
-- parecer anterior e relatório Equifax/Boa Vista de 29/08/2026 para o mesmo CNPJ;
+- relatório Equifax/Boa Vista nº 040753181-8, emitido em 09/09/2026 às 16:53:04;
 - Hotel Finder SQL Server: `conamore.Customers` e `debx.PDV_Detalhes`;
 - tentativa de consulta Oracle DEBX em 09/09/2026 às 18:43 BRT;
 - Serasa Experian pública;
