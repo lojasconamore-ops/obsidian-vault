@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 08/09/2026 19:01 BRT  
+Atualizado: 09/09/2026 19:01 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 08/09/2026 19:01 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 09/09/2026 | [[GA4-Diario-2026-09-09]] | 06/09 vs 05/09 | D-3 vs D-4: usuários -11,1%, sessões -10,0%, engaj. +3,5 p.p., eventos +6,8%; Google / cpc 545 usuários; `(not set)` 85 sessões e 98,8% de rejeição; mobile 88,4%; orgânico 75,2% de engajamento. |
 | 08/09/2026 | [[GA4-Diario-2026-09-08]] | 05/09 vs 04/09 | D-3 vs D-4: usuários +18,2%, sessões +10,3%, engaj. +1,4 p.p., eventos +10,8%; Google / cpc 664 usuários; `(not set)` 88 sessões e 98,9% de rejeição; mobile 83,8%; ChatGPT com 88,9% de engajamento. |
 | 07/09/2026 | [[GA4-Diario-2026-09-07]] | 04/09 vs 03/09 | D-3 vs D-4: usuários -5,6%, sessões -7,8%, engaj. +4,2 p.p., eventos -7,1%; Google / cpc 418 usuários; `(not set)` 126 sessões e 99,2% de rejeição; mobile 68,9%; ChatGPT com 74,4% de engajamento. |
 | 06/09/2026 | [[GA4-Diario-2026-09-06]] | 03/09 vs 02/09 | D-3 vs D-4: usuários -17,0%, sessões -12,3%, engaj. -0,1 p.p., eventos -3,7%; Google / cpc 427 usuários; `(not set)` 135 sessões e 96,3% de rejeição; mobile 66,4%; ChatGPT com 89,5% de engajamento. |
