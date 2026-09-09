@@ -4,8 +4,9 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (58)
+## Pareceres (59)
 
+| 59 | Hospital Santa Mônica / SOMEHR — Pedido 0119563 | [[Pareceres/Parecer - Hospital Santa Monica Redencao - 0119563 - 2026-09-09]] |
 | 58 | Hospital Santa Mônica / SOMEHR — Pedido 0118495 | [[Pareceres/Parecer - Hospital Santa Monica Redencao - 0118495 - 2026-08-29]] |
 | 57 | NEIDIVALDO DOS SANTOS — Pedido 0118076 | [[Pareceres/Parecer - NEIDIVALDO DOS SANTOS - 0118076 - 2026-08-25]] |
 | 56 | Motel Guarapuava / F. C. Pacheco — Pedido 0116372 | [[Pareceres/Parecer - Motel Guarapuava - 0116372 - 2026-08-20]] |
@@ -70,4 +71,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 29/08/2026 — 58 pareceres*
+*Atualizado em: 09/09/2026 — 59 pareceres*
