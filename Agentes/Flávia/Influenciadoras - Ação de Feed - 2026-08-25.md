@@ -197,5 +197,18 @@ A ação é B2C e a property mais aderente é a **Loja Casa `394358599`**, que n
 
 A proximidade temporal torna o pico de Linktree **compatível** com repercussão da ação, mas não prova autoria: a origem não possui UTM/campanha e os perfis TikTok consultados não exibem link de bio associável. O post da Karla foi publicado às 18:35 de 31/08 e sua legenda não contém link, `@conamore`, `#conamore` ou cupom. Portanto, a venda de 06/09 deve ser tratada como **potencialmente influenciada, não atribuída**.
 
+### Tereza Costa (@terezaporlugares) — 10/09/2026 ✅ 2º post confirmado
+
+- **Vídeo:** https://www.tiktok.com/@terezaporlugares/video/7683926090749906196
+- **Postado:** 10/09/2026 12:17 BRT
+- **Formato:** vídeo-resposta a comentário de @Luana Tambelini
+- **Duração:** 66 segundos
+- **Legenda:** “Respondendo a @Luana Tambelini roupa de cama e toalhas é com a Conamore ❤️ eles tão com diversas opções com estampas, cores lisas e texturas perfeitas pra nossa casa!”
+- **Marcações:** `#conamore`, `#enxovaldecasa`, `#casa`, `#camamesaebanho`, `@Conamore Casa` e `@Conamore Hotelaria`
+- **Métricas iniciais (10/09 ~20:10 BRT; ~8h):** 218 views · 18 likes · 0 comentários · 0 compartilhamentos · 7 salvamentos
+- **Taxas iniciais:** 8,26% likes/view · 3,21% saves/view · 11,47% engajamento bruto/view · alcance equivalente a 0,78% dos 27,9 mil seguidores
+
+**Leitura inicial:** alcance ainda baixo, mas qualidade proporcional forte, especialmente os 7 salvamentos. A execução de marca está muito melhor que a da Karla: nome da Conamore no texto, hashtag da marca e marcação das duas contas. O formato de resposta aproveita demanda explícita (“onde comprar roupa de cama e toalhas”), elevando intenção comercial. Ainda não há comentários ou compartilhamentos; monitorar D+1/D+2 antes de concluir desempenho. Sem link UTM ou cupom individual visível na legenda, a atribuição de tráfego/venda continua limitada.
+
 ### ⚠️ Falha de detecção no monitoramento (01/09) — corrigir
 O job diário `370631f67321` reportou "nenhuma menção nova" às 15:10, mas a Karla JÁ tinha postado (31/08 18:35). Causa raiz: o post **não tem @conamore nem #conamore** (só hashtags genéricas), então a busca de marca/handle não encontra; e o TikTok bloqueia scraping. **A detecção de posts sem tag depende do Sérgio enviar o link manualmente** — o job de busca não é suficiente. Registrar esse limite no job.
