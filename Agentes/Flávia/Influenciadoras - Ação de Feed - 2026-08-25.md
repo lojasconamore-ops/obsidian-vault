@@ -183,7 +183,19 @@
 
 **Atualização D+10 (10/09):** o vídeo chegou a **1.269 views, 54 likes, 5 comentários, 12 compartilhamentos e 4 salvamentos**. Desde a coleta de 01/09 às 15:12, as views cresceram 79,5%, mas likes e compartilhamentos apenas 20%, enquanto comentários e salvamentos ficaram estáveis. Engajamento bruto atual: **5,91%** por view; alcance equivalente a **2,38%** dos 53,3 mil seguidores exibidos no perfil. Leitura: distribuição residual/cauda longa, sem segunda onda viral.
 
-No GA4 Hotelaria, entre 25/08 e 07/09, não houve sessão atribuída ao TikTok. As fontes sociais/referral potencialmente orgânicas tiveram média de 24,8 sessões/dia entre 25–30/08 e 28,3 entre 31/08–07/09 (+13,8%), mas o resultado é puxado por 31/08. Excluindo o próprio dia da postagem, a média pós cai para 23,3/dia (-6,2% vs. pré). Portanto, **não há evidência de incremento sustentado de tráfego atribuível ao post da Karla**.
+No GA4 Hotelaria, entre 25/08 e 07/09, não houve sessão atribuída ao TikTok. As fontes sociais/referral potencialmente orgânicas tiveram média de 24,8 sessões/dia entre 25–30/08 e 28,3 entre 31/08–07/09 (+13,8%), mas o resultado é puxado por 31/08. Excluindo o próprio dia da postagem, a média pós cai para 23,3/dia (-6,2% vs. pré). Portanto, **não há evidência de incremento sustentado de tráfego atribuível ao post da Karla na property Hotelaria**.
+
+### Achado novo — impacto potencial na Loja Casa
+
+A ação é B2C e a property mais aderente é a **Loja Casa `394358599`**, que não estava no núcleo do monitoramento anterior. Nela foi observado:
+
+- `linktr.ee / referral`: média de **6,5 sessões/dia** entre 25–30/08;
+- 31/08: **67 sessões** de Linktree (+930,8% sobre a média anterior), sendo 66 na home e 1 em `/pillow-top`;
+- qualidade em 31/08: 97,0% de engajamento, 66 usuários na home, 64 novos;
+- tráfego total da Casa em 31/08: 331 sessões, +16,8% sobre a média de 25–30/08;
+- 06/09: 12 sessões de Linktree e **1 compra de R$ 1.466,70** (CVR de sessão 8,33%).
+
+A proximidade temporal torna o pico de Linktree **compatível** com repercussão da ação, mas não prova autoria: a origem não possui UTM/campanha e os perfis TikTok consultados não exibem link de bio associável. O post da Karla foi publicado às 18:35 de 31/08 e sua legenda não contém link, `@conamore`, `#conamore` ou cupom. Portanto, a venda de 06/09 deve ser tratada como **potencialmente influenciada, não atribuída**.
 
 ### ⚠️ Falha de detecção no monitoramento (01/09) — corrigir
 O job diário `370631f67321` reportou "nenhuma menção nova" às 15:10, mas a Karla JÁ tinha postado (31/08 18:35). Causa raiz: o post **não tem @conamore nem #conamore** (só hashtags genéricas), então a busca de marca/handle não encontra; e o TikTok bloqueia scraping. **A detecção de posts sem tag depende do Sérgio enviar o link manualmente** — o job de busca não é suficiente. Registrar esse limite no job.
