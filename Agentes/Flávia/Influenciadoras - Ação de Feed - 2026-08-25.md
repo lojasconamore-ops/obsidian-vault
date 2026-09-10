@@ -177,8 +177,13 @@
 | 31/08 ~18:40 (baseline) | 59 | 3 | 0 | 3 | — |
 | 01/09 ~10:03 (D+1) | 586 | 39 | 4 | 9 | 3 |
 | 01/09 ~15:12 (D+1) | 707 | 45 | 5 | 10 | 4 |
+| 10/09 ~20:10 (D+10) | 1.269 | 54 | 5 | 12 | 4 |
 
 **Leitura (D+1, ~20,5h após o post):** 59 → **707 views** (+1.098%), 3 → 45 likes, 0 → 5 comentários, 3 → 10 shares. Cresceu forte nas primeiras horas e desacelerou à tarde (586 → 707 entre 10h e 15h). Sem tag @conamore/#conamore, o tráfego orgânico da marca não deve refletir o post de forma rastreável.
+
+**Atualização D+10 (10/09):** o vídeo chegou a **1.269 views, 54 likes, 5 comentários, 12 compartilhamentos e 4 salvamentos**. Desde a coleta de 01/09 às 15:12, as views cresceram 79,5%, mas likes e compartilhamentos apenas 20%, enquanto comentários e salvamentos ficaram estáveis. Engajamento bruto atual: **5,91%** por view; alcance equivalente a **2,38%** dos 53,3 mil seguidores exibidos no perfil. Leitura: distribuição residual/cauda longa, sem segunda onda viral.
+
+No GA4 Hotelaria, entre 25/08 e 07/09, não houve sessão atribuída ao TikTok. As fontes sociais/referral potencialmente orgânicas tiveram média de 24,8 sessões/dia entre 25–30/08 e 28,3 entre 31/08–07/09 (+13,8%), mas o resultado é puxado por 31/08. Excluindo o próprio dia da postagem, a média pós cai para 23,3/dia (-6,2% vs. pré). Portanto, **não há evidência de incremento sustentado de tráfego atribuível ao post da Karla**.
 
 ### ⚠️ Falha de detecção no monitoramento (01/09) — corrigir
 O job diário `370631f67321` reportou "nenhuma menção nova" às 15:10, mas a Karla JÁ tinha postado (31/08 18:35). Causa raiz: o post **não tem @conamore nem #conamore** (só hashtags genéricas), então a busca de marca/handle não encontra; e o TikTok bloqueia scraping. **A detecção de posts sem tag depende do Sérgio enviar o link manualmente** — o job de busca não é suficiente. Registrar esse limite no job.
