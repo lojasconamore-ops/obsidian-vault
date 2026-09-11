@@ -210,5 +210,16 @@ A proximidade temporal torna o pico de Linktree **compatível** com repercussão
 
 **Leitura inicial:** alcance ainda baixo, mas qualidade proporcional forte, especialmente os 7 salvamentos. A execução de marca está muito melhor que a da Karla: nome da Conamore no texto, hashtag da marca e marcação das duas contas. O formato de resposta aproveita demanda explícita (“onde comprar roupa de cama e toalhas”), elevando intenção comercial. Ainda não há comentários ou compartilhamentos; monitorar D+1/D+2 antes de concluir desempenho. Sem link UTM ou cupom individual visível na legenda, a atribuição de tráfego/venda continua limitada.
 
+#### Amplificação pela Conamore Casa — 10/09/2026
+
+- **Repost:** https://www.tiktok.com/@conamorecasa/video/7683967999061019922
+- **Publicado:** 10/09/2026 15:00 BRT
+- **Formato:** repost/edição do vídeo da Tereza no perfil `@conamorecasa`
+- **Duração:** 66 segundos
+- **Oferta:** cupom `TEREZA10`, com 10% OFF no primeiro pedido pelo site
+- **Métricas iniciais (10/09 22:49 BRT; ~7h49):** 15 views · 1 like · 0 comentários · 2 compartilhamentos · 0 salvamentos
+
+**Leitura:** o alcance inicial do perfil próprio está muito baixo e as taxas percentuais (20% de interações; 13,3% de compartilhamento) não são estáveis com apenas 15 views. O cupom individual corrige parcialmente a atribuição comercial e deve ser monitorado no Magento/ERP. Pontos de melhoria da legenda: corrigir “você têm” para “você tem”; adicionar `#conamore`, `#lojaconamore`, `#enxovaldecasa` e link rastreável/UTM quando a plataforma permitir. O repost complementa a distribuição, mas não substitui a obrigação de alcance no perfil da influenciadora.
+
 ### ⚠️ Falha de detecção no monitoramento (01/09) — corrigir
 O job diário `370631f67321` reportou "nenhuma menção nova" às 15:10, mas a Karla JÁ tinha postado (31/08 18:35). Causa raiz: o post **não tem @conamore nem #conamore** (só hashtags genéricas), então a busca de marca/handle não encontra; e o TikTok bloqueia scraping. **A detecção de posts sem tag depende do Sérgio enviar o link manualmente** — o job de busca não é suficiente. Registrar esse limite no job.
