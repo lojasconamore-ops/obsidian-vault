@@ -4,8 +4,9 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (59)
+## Pareceres (60)
 
+| 60 | Pousada do Diney Ltda — Pedido 0118353 | [[Pareceres/Parecer - Pousada do Diney - 0118353 - 2026-09-14]] |
 | 59 | Hospital Santa Mônica / SOMEHR — Pedido 0119563 | [[Pareceres/Parecer - Hospital Santa Monica Redencao - 0119563 - 2026-09-09]] |
 | 58 | Hospital Santa Mônica / SOMEHR — Pedido 0118495 | [[Pareceres/Parecer - Hospital Santa Monica Redencao - 0118495 - 2026-08-29]] |
 | 57 | NEIDIVALDO DOS SANTOS — Pedido 0118076 | [[Pareceres/Parecer - NEIDIVALDO DOS SANTOS - 0118076 - 2026-08-25]] |
@@ -71,4 +72,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 09/09/2026 — 59 pareceres*
+*Atualizado em: 14/09/2026 — 60 pareceres*
