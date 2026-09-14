@@ -12,6 +12,8 @@
 **Emissão do orçamento:** 26/08/2026  
 **Validade:** 16/09/2026
 
+**Arquivos consolidados:** proposta comercial nº 0118353 + relatório Equifax/Boa Vista nº 040755752-3, ambos do CNPJ 54.559.084/0001-27.
+
 ## Etapa 0 — Lista Negra Conamore
 
 ✅ **O CNPJ 54.559.084/0001-27 não consta na Lista Negra Conamore**, após conferência por CNPJ, razão social, nome fantasia e similaridade.
@@ -20,19 +22,18 @@ O CNPJ relacionado 05.284.510/0001-51, Restaurante e Pousada do Diney Ltda, tamb
 
 ## Parecer
 
-🟡 **APROVAÇÃO PRELIMINAR COM RESTRIÇÕES — PENDENTE DE BUREAU E CORREÇÃO DA PROPOSTA**
+🟡 **APROVAR COM RESTRIÇÕES DE CONDIÇÃO E CONTROLE DOCUMENTAL**
 
 **Nível de risco:** moderado.
 
-A venda é comercialmente aceitável, considerando a operação real e o histórico confirmado do mesmo grupo econômico. Entretanto, **não aprovar boleto puro em 30/60/90/120 dias** e não iniciar a personalização antes da entrada.
+A venda é comercialmente aceitável, considerando a operação real, o histórico confirmado do grupo econômico e o bureau limpo. Entretanto, **não aprovar boleto puro em 30/60/90/120 dias** e não iniciar a personalização antes da entrada.
 
-A liberação final fica condicionada a:
+A liberação fica condicionada a:
 
-1. relatório Equifax/Boa Vista ou equivalente do CNPJ 54.559.084/0001-27 sem restrição ativa relevante;
-2. correção do PDF e do DEBX para uma única condição de pagamento;
-3. entrada mínima de 50% compensada antes da personalização;
-4. saldo em 30/60 dias, sem parcelas em 90/120 dias nesta primeira operação faturada do novo CNPJ;
-5. reemissão do orçamento se o faturamento ocorrer após 16/09/2026.
+1. correção do PDF e do DEBX para uma única condição de pagamento;
+2. entrada mínima de 50% compensada antes da personalização;
+3. saldo em 30/60 dias, sem parcelas em 90/120 dias nesta primeira operação faturada do novo CNPJ;
+4. reemissão do orçamento se o faturamento ocorrer após 16/09/2026.
 
 ## Etapa 1 — Histórico interno Conamore
 
@@ -94,7 +95,23 @@ Não há salto de ticket em relação ao histórico operacional do grupo.
 
 ## Etapa 2 — Score / Bureau
 
-⚠️ **Relatório de bureau pago não foi fornecido.**
+Relatório Equifax/Boa Vista nº **040755752-3**, emitido em **14/09/2026 às 15:07:29**, para o mesmo CNPJ da proposta:
+
+- **Score:** 668 — médio/aceitável;
+- **probabilidade de inadimplência:** 8,0% — administrável;
+- **Cadastro Positivo:** não participante;
+- **pendências e restrições financeiras:** nada consta;
+- **cheques sem fundos:** nada consta;
+- **cheques sustados motivo 21:** nada consta;
+- **cheques devolvidos informados pelo usuário:** nada consta;
+- **protestos:** nada consta;
+- **consultas:** nada consta;
+- **situação cadastral:** ativa;
+- **fundação:** 02/04/2024;
+- **atividade principal:** hotéis, CNAE 5510-8/01;
+- **endereço:** Rodovia Itapebi Belmonte, 118, térreo, Belmonte/BA, coincidente com a proposta e o cadastro interno.
+
+O score é aceitável e não existe restrição de veto. A ausência de Cadastro Positivo e de consultas reduz a profundidade comportamental do bureau, coerente com um CNPJ relativamente novo. Por isso, o relatório apoia a venda, mas não justifica exposição integral ou prazo de 120 dias. O histórico pago do grupo e a entrada de 50% são os principais mitigadores.
 
 Dados cadastrais públicos confirmados:
 
@@ -108,7 +125,7 @@ Dados cadastrais públicos confirmados:
 - sócia-administradora: Fabiana Assunção Souza;
 - endereço coincidente com o orçamento e o cadastro interno.
 
-A consulta pública não informa score, probabilidade de inadimplência, protestos, cheques ou pendências financeiras. Por isso, o parecer permanece **preliminar**. Restrição ativa relevante no bureau altera o resultado para reprovação do faturado.
+Os dados públicos corroboram a identidade e a atividade do bureau. A data da consulta à Receita impressa no relatório é 23/03/2025; a situação ativa foi também confirmada em fontes cadastrais públicas atuais.
 
 ## Etapa 3 — Coerência operacional do pedido
 
@@ -185,13 +202,14 @@ A presença online forte está concentrada na operação histórica do grupo e n
 
 O pedido é coerente e o grupo possui operação pública real, mesma sócia nos dois CNPJs e uma compra anterior de R$ 23.923,00 integralmente liquidada. O ticket atual é menor que o histórico do grupo, e a entrada de 50% reduz a exposição para R$ 6.370,90.
 
-Os riscos estão em três pontos: o novo CNPJ ainda não possui histórico próprio; a compra anterior foi feita em cartão, não testando boleto direto; e a proposta atual contradiz a própria política comercial ao imprimir quatro boletos sem entrada até 120 dias. Além disso, falta bureau pago e o DEBX está R$ 295,80 abaixo do PDF.
+Os riscos estão em três pontos: o novo CNPJ ainda não possui histórico próprio; a compra anterior foi feita em cartão, não testando boleto direto; e a proposta atual contradiz a própria política comercial ao imprimir quatro boletos sem entrada até 120 dias. Além disso, o DEBX está R$ 295,80 abaixo do PDF. O bureau é limpo, mas tem profundidade limitada pela ausência de Cadastro Positivo e de consultas.
 
-Assim, a venda pode avançar preliminarmente, mas somente com bureau sem restrições, correção documental, entrada de 50% compensada e saldo limitado a 30/60 dias.
+Assim, a venda está aprovada com restrições, condicionada à correção documental, entrada de 50% compensada e saldo limitado a 30/60 dias.
 
 ## Fontes consultadas
 
 - proposta comercial Conamore nº 0118353, conferida por extração e imagem;
+- relatório Equifax/Boa Vista nº 040755752-3, emitido em 14/09/2026 às 15:07:29;
 - Lista Negra Conamore;
 - Hotel Finder SQL Server: `conamore.Customers`, `debx.PDV_Detalhes` e `conamore.CAIXA_PERIODO_DETALHADO_POR_MATERIAL`;
 - Oracle DEBX: `TEST_MATRIZ.F_CDEMP`, `F_PEDVENDA` e `F_TITULOS`, com verificação adicional dos schemas TEST_ACL, TEST_CHC, TEST_GCL e TEST_BRG;
