@@ -1,11 +1,11 @@
 # Resumo executivo — 14/09/2026
 
-> **Fonte e rastreabilidade:** Granola, reunião  (ID ), realizada às 11:00 BRT. Os fatos abaixo vêm do resumo estruturado do Granola; a transcrição integral não estava disponível no plano conectado.
+> **Fonte e rastreabilidade:** Granola, reunião “Jr realinhamento” (ID 9f47dbeb-eef7-4eb5-acf0-fed438df3d7b), realizada às 11:00 BRT. Os fatos abaixo vêm do resumo estruturado do Granola; a transcrição integral não estava disponível no plano conectado.
 
 ## Reuniões do dia
 
 ### Jr realinhamento — 11:00 BRT
-- **Classificação:** reunião operacional real da Conamore (; ).
+- **Classificação:** reunião operacional real da Conamore (captured_by_me=true; listed_as_participant=true).
 - **Presença confirmada pelo Granola:** Sergio Ladeira. Demais participantes não registrados. Júnior e Noá são citados no conteúdo, mas a presença deles não foi confirmada no campo de participantes.
 - **Principais assuntos:** faturamento, novo painel consolidado, compradores sem segmento identificado, campanha de e-mail com vendedores, ação com influenciadoras, WhatsApp e Google Ads.
 - **Indicadores registrados:** meta mensal total de R$ 2 milhões; Hotelaria/site em R$ 218 mil, com projeção de R$ 490 mil; Hotelaria/interna em R$ 572 mil; Casa em R$ 46.531, com canal interno 22% abaixo do ritmo.
