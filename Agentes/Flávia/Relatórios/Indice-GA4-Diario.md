@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 16/09/2026 19:00 BRT  
+Atualizado: 18/09/2026 19:02 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 16/09/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 18/09/2026 | [[GA4-Diario-2026-09-18]] | 15/09 vs 14/09 | D-3 vs D-4: usuários +8,7%, sessões +8,9%, engaj. +3,6 p.p., eventos +8,3%; Google / cpc 850 usuários; `(not set)` 144 sessões em novos/recorrentes e landing com 0 pageviews/94,5% de rejeição; mobile 74,0%; LinkedIn pago com 7,7% de engajamento. |
 | 16/09/2026 | [[GA4-Diario-2026-09-16]] | 13/09 vs 12/09 | D-3 vs D-4: usuários +9,0%, sessões +8,2%, engaj. +4,3 p.p., eventos +19,3%; Google / cpc 781 usuários; `(not set)` 116 sessões em novos/recorrentes e landing com 0 pageviews/86,7% de rejeição; mobile 86,7%; LinkedIn pago com 0% de engajamento. |
 | 15/09/2026 | [[GA4-Diario-2026-09-15]] | 12/09 vs 11/09 | D-3 vs D-4: usuários -2,1%, sessões -4,0%, engaj. +1,3 p.p., eventos -5,1%; Google / cpc 776 usuários; `(not set)` 115 sessões em novos/recorrentes e landing com 94,4% de rejeição; mobile 85,0%; LinkedIn pago com 17,2% de engajamento. |
 | 14/09/2026 | [[GA4-Diario-2026-09-14]] | 11/09 vs 10/09 | D-3 vs D-4: usuários -1,2%, sessões -1,7%, engaj. +1,0 p.p., eventos -4,0%; Google / cpc 645 usuários; `(not set)` 121 sessões em novos/recorrentes e landing page com 94,3% de rejeição; mobile 77,5%; LinkedIn pago com 8,3% de engajamento. |
