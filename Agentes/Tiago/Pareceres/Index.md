@@ -4,8 +4,9 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (60)
+## Pareceres (61)
 
+| 61 | Pousada Santa Ana LTDA — Pedido 0121532 | [[Pareceres/Parecer - Pousada Santa Ana LTDA - 0121532 - 2026-09-18]] |
 | 60 | Pousada do Diney Ltda — Pedido 0118353 | [[Pareceres/Parecer - Pousada do Diney - 0118353 - 2026-09-14]] |
 | 59 | Hospital Santa Mônica / SOMEHR — Pedido 0119563 | [[Pareceres/Parecer - Hospital Santa Monica Redencao - 0119563 - 2026-09-09]] |
 | 58 | Hospital Santa Mônica / SOMEHR — Pedido 0118495 | [[Pareceres/Parecer - Hospital Santa Monica Redencao - 0118495 - 2026-08-29]] |
@@ -72,4 +73,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 14/09/2026 — 60 pareceres*
+*Atualizado em: 18/09/2026 — 61 pareceres*
