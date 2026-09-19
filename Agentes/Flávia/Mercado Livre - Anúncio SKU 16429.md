@@ -83,6 +83,15 @@ Este anúncio contém 2 lençóis.
 
 Fotografar duas unidades reais do SKU 16429 dobradas em pilha baixa, levemente deslocadas. Deixar o canto superior de uma unidade aberto para mostrar a bainha e a textura. Usar fundo branco `#FFFFFF`, iluminação difusa, balanço de branco neutro, sombra natural suave e enquadramento quadrado 1200x1200 px. O produto deve ocupar aproximadamente 85% da área. Não inserir texto, logotipo, selo, embalagem, adereços nem elementos de quarto.
 
+## Tratamento da imagem oficial
+
+A imagem oficial isolada do produto já tinha fundo branco e resolução de 1200 x 1200 px. Foi aplicado tratamento conservador: uniformização do branco, contraste leve e nitidez moderada, sem alterar embalagem, rótulo ou cor do produto.
+
+- Principal unitária tratada: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/sku16429_tratadas/sku16429-principal-tratada.jpg`
+- Prévia visual do kit com 2 unidades: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/sku16429_tratadas/sku16429-kit2-previa.jpg`
+
+A prévia do kit duplica digitalmente a foto oficial e serve somente para composição inicial. Antes da publicação, recomenda-se fotografar duas unidades reais juntas para representar exatamente o conteúdo do anúncio.
+
 ## Preço
 
 Preço-base pelo varejo atual: 2 x R$ 74,90 = R$ 149,80. Não publicar esse preço antes de incluir comissão, frete, impostos, embalagem, custo e devolução na DRE do canal.
