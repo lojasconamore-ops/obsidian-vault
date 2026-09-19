@@ -6,7 +6,7 @@
 
 ## Recomendação executiva
 
-A Conamore deve testar o Mercado Livre, mas não fazer uma migração ampla de catálogo. O melhor ponto de entrada é a linha Casa/B2C, com 10–15 SKUs ou kits de boa margem, estoque estável e baixa complexidade de variação. Hotelaria e Hospitalar devem continuar prioritariamente nos canais próprios e atendimento consultivo.
+A Conamore deve testar o Mercado Livre, mas não fazer uma migração ampla de catálogo. O piloto deve combinar produtos Casa/B2C com itens padronizados de Hotelaria voltados a pequenos hotéis, pousadas, Airbnb, clínicas e consumidores que buscam “cama de hotel em casa”. Começar com 20–30 SKUs/kits de boa margem, estoque estável e baixa complexidade. Projetos personalizados e grandes contas continuam nos canais próprios e no atendimento consultivo.
 
 ## Fundamentação
 
@@ -17,13 +17,14 @@ A Conamore deve testar o Mercado Livre, mas não fazer uma migração ampla de c
 
 ## Escopo proposto do piloto
 
-- Canal/marca: Conamore Casa.
-- Catálogo inicial: 10–15 anúncios.
-- Priorizar: kits de toalhas, jogos de cama, protetores, travesseiros/pillow top e cobre-leitos com estoque estável.
+- Canal/marca: operação Conamore com mix próprio para marketplace, sem copiar integralmente o ecommerce.
+- Catálogo inicial: 20–30 anúncios.
+- Priorizar: lençóis, kits de toalhas, protetores de colchão e travesseiro, travesseiros/pillow top, tapetes de banheiro, amenities em kits/caixas, cobre-leitos e kits padronizados para hotel/Airbnb.
+- Criar combinações exclusivas, como Kit Hotel Queen e Kit Airbnb por número de quartos, para reduzir comparação direta somente por preço.
 - Evitar no início: itens avulsos baratos, bordados/personalizados, produtos que exijam consultoria e linhas com muitas variações ou estoque instável.
 - Formato: anúncio Clássico como padrão; testar Premium apenas em SKUs de maior tíquete.
 - Logística: começar com estoque próprio via Mercado Envios; avaliar Full após validar giro, devoluções e margem.
-- Prazo de teste: 60–90 dias.
+- Prazo de teste: 90 dias em três fases: preparação e lançamento; aprendizado de conversão/margem; escala dos vencedores e avaliação de Full.
 
 ## Critérios de aprovação financeira
 
@@ -52,4 +53,4 @@ Só entrar com SKUs que preservem a margem mínima definida pela direção, sem 
 
 ## Próxima decisão necessária
 
-Obter custo, preço, estoque, peso e dimensões dos SKUs candidatos para simular a margem real e selecionar os 10–15 produtos do piloto.
+Obter custo, preço, estoque, peso e dimensões dos SKUs candidatos para simular a margem real e selecionar os 20–30 produtos do piloto. Investigar também preços por quantidade e recursos B2B do Mercado Livre para compras padronizadas de pequenos meios de hospedagem.
