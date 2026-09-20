@@ -148,3 +148,10 @@ Viagem enogastronômica em grupo, com programação concentrada em vinícolas bo
 - [ ] Confirmar as refeições ainda sem reserva.
 - [ ] Verificar clima de 09 a 13/09 e orientar roupas/calçados.
 - [ ] Manter alternativas para refeições e atividades ao ar livre.
+
+## Avaliação pós-viagem — relato de Sergio
+
+- **Resultado geral:** viagem deliciosa, memorável e muito acertada.
+- **Acolhimento:** o grupo foi muito bem recebido em todos os locais.
+- **Adega Dom Camilo:** contrariando a expectativa inicial da planilha, a visita foi **mágica e especial**; deve ser considerada um dos destaques reais da viagem.
+- **Aprendizado para roteiros futuros:** não avaliar uma experiência apenas pela qualidade técnica dos vinhos. Paisagem, hospitalidade, atmosfera, pôr do sol e conexão do grupo podem transformar uma parada aparentemente secundária em um momento memorável.
