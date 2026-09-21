@@ -25,7 +25,7 @@ Bem-vinda, Flávia! Aqui está seu **treinamento completo** para se tornar a mel
 - [[Plano de Correções - Site Conamore]] — plano mestre de SEO, URLs e melhorias
 - [[Checklist - Correção de URLs e 404s]] — backlog de correções técnicas
 - [[Relatórios/Index|Índice de relatórios]] — auditorias e validações publicadas
-- [[SEO - Visibilidade IA - 2026-09-14|Visibilidade em IA — ciclo mais recente (14/09/2026)]] — monitoramento semanal Gemini
+- [[SEO - Visibilidade IA - 2026-09-21|Visibilidade em IA — ciclo mais recente (21/09/2026)]] — monitoramento semanal Gemini
 - [[Conamore - Visão Geral da Empresa]] — página-base para copy e posicionamento
 
 ---
