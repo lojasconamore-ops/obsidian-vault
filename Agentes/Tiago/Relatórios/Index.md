@@ -42,6 +42,12 @@ Este índice reúne os relatórios de acompanhamento financeiro e fiscal do Tiag
 |---|---|---|
 | 08 Ago 2026 | Hotel Casa Blanca II | [[Relatórios/Títulos em Aberto - Hotel Casa Blanca II - 2026-08-08]] |
 
+## Históricos Comerciais
+
+| Data | Grupo/Cliente | Arquivo |
+|---|---|---|
+| 23 Set 2026 | Terça da Serra | [[Relatórios/Histórico Comercial - Terça da Serra - 2026-09-23]] |
+
 ## Outros Documentos Relacionados
 
 - [[Lista Negra]] — base de restrição e análise de risco
@@ -49,4 +55,4 @@ Este índice reúne os relatórios de acompanhamento financeiro e fiscal do Tiag
 
 ---
 
-*Atualizado em: 08/09/2026 — 23 relatórios*
+*Atualizado em: 23/09/2026 — 24 relatórios*
