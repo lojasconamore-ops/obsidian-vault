@@ -302,8 +302,8 @@ A entrega aos empregados deve ocorrer após a aprovação técnica e empresarial
 ## 10. Fundamentos jurídicos consultados
 
 - CLT, art. 157, incisos I a IV: dever empresarial de cumprir/fazer cumprir normas de segurança, instruir empregados por ordens de serviço, adotar medidas determinadas e facilitar fiscalização.
-- NR-1, especialmente itens 1.4.1, 1.4.2, 1.4.3 e 1.4.4: deveres da organização e dos trabalhadores, interrupção diante de risco grave e iminente e informações sobre riscos, controles e emergências.
-- NR-1, capítulo 1.5: gerenciamento de riscos ocupacionais e integração do PGR, com atenção à vigência normativa aplicável em 2026.
+- NR-1 vigente em 23/09/2026: o capítulo 1.5 entrou em vigor em 26/05/2026. O item 1.4.1 exige informar riscos e medidas, elaborar OS dando ciência, estabelecer procedimentos de acidente/doença e implementar controles na hierarquia eliminação → proteção coletiva → medidas administrativas/organização → EPI. O item 1.4.4 exige informação na admissão ou mudança de função com alteração de risco, incluindo emergência e direito de interrupção por risco grave e iminente. O item 1.5.7.2 determina que os documentos integrantes do PGR sejam datados e assinados.
+- NR-1, capítulo 1.5: gerenciamento de riscos ocupacionais, incluindo riscos de acidentes, ergonômicos e psicossociais relacionados ao trabalho; planos de ação com responsáveis, cronograma, acompanhamento e aferição de resultados.
 - NR-6, especialmente seleção, fornecimento, CA, orientação, treinamento, uso, guarda, conservação e comunicação de inadequação do EPI.
 - NR-17: AEP, AET, organização do trabalho, sobrecarga, posturas, repetitividade, pausas, alternância e participação dos trabalhadores.
 - NR-23: medidas de prevenção contra incêndios, saídas, informação e requisitos aplicáveis ao estabelecimento.
