@@ -44,6 +44,22 @@ Consulta realizada no SQL Server `hotel-finder`, usando CNPJ normalizado, razão
 
 **Classificação interna:** sem histórico Conamore comprovado / primeira compra efetiva.
 
+### Verificação ampliada realizada em 23/09/2026 às 18:20 BRT
+
+Após questionamento do CEO, a busca foi repetida de forma ampliada por:
+
+- CNPJ normalizado `32679264000100`;
+- pedido `0122329`;
+- razão atual e anterior;
+- nomes `Quinta da Colina`, `Santa Marcelina` e `Residencial Senior L J`;
+- endereço Rua Salim Feres, 299;
+- códigos `06998`, `A6998`, `6998` e equivalentes numéricos `6998/106998`;
+- tabelas `conamore.Customers`, `debx.PDV_Detalhes` e `conamore.CAIXA_PERIODO_DETALHADO_POR_MATERIAL`.
+
+**Resultado:** nenhum pedido ou venda foi encontrado para este CNPJ, razão social ou endereço. O código legado `A6998` pertence a **ALIRIO GOMES FONSECA LTDA / Depósito Bonfim**, CNPJ 71.681.571/0001-87, em Taubaté/SP; portanto, é uma colisão de código e foi expressamente excluído do histórico do cliente.
+
+Foram encontrados pedidos de outras unidades da marca Terça da Serra, como Chácara Primavera e Hortolândia, mas são CNPJs distintos e não foram transferidos para Santa Marcelina.
+
 ### Limitação Oracle
 
 A consulta ocorreu às 18:11 BRT, fora da janela operacional diária do Oracle DEBX. Conforme treinamento, o Oracle fica indisponível após as 18:00. A análise prosseguiu com o SQL Server e as demais fontes, sem inventar posição de títulos Oracle.
