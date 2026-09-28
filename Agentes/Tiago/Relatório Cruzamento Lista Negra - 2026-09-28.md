@@ -19,6 +19,12 @@
 
 _Consulta somente leitura em `TEST_MATRIZ.F_CDEMP`; sessão validada em `conamore/conamore/TEST_PED` com `SELECT 1 FROM DUAL`. Resultado obtido na tentativa 1._
 
+**Novidades desde 21/09/2026:**
+- 3 novos bloqueios `STATUS=1`: `A1102`, `A6683` e `15876`.
+- 1 novo cancelamento `STATUS=2`: `06939`.
+- `06780` e `06868`, antes em `STATUS=2`, aparecem agora como ativos (`STATUS=0`) e saem da fila de avaliação.
+- `STATUS=3` e os 2 registros para revisão permaneceram inalterados.
+
 **Conferência de integridade Oracle:** 88 consistentes + 6 STATUS=1 + 3 STATUS=3 + 100 STATUS=2 = 197 inativas.
 
 ---
@@ -35,6 +41,12 @@ _Consulta somente leitura em `TEST_MATRIZ.F_CDEMP`; sessão validada em `conamor
 | 88693 | SERGIO TESTE 2 | 012.345.678-90 |
 
 **Ação sugerida:** Incluir na Lista Negra somente após validação do Sérgio.
+
+**Pontos de controle:**
+- `A1102`, `A6683` e `15876` são novos bloqueios desta semana; confirmar dívida/motivo antes da inclusão.
+- `15876 — MARCELLE BUSTAMANTE` possui CPF de 11 dígitos e última movimentação em 07/07/2026.
+- `A5636` tem razão social contendo CPF, mas documento Oracle em formato CNPJ; confirmar identidade.
+- `88693 — SERGIO TESTE 2` aparenta cadastro de teste; não incluir automaticamente.
 
 ---
 
