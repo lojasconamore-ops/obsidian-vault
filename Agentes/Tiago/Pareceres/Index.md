@@ -4,8 +4,9 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (62)
+## Pareceres (63)
 
+| 63 | Yannai Chalé Praia LTDA — Pedido 0123125 | [[Pareceres/Parecer - Yannai Chale Praia - 0123125 - 2026-09-29]] |
 | 62 | Residencial Sênior L J Santa Marcelina — Pedido 0122329 | [[Pareceres/Parecer - Residencial Senior L J Santa Marcelina - 0122329 - 2026-09-23]] |
 | 61 | Pousada Santa Ana LTDA — Pedido 0121532 | [[Pareceres/Parecer - Pousada Santa Ana LTDA - 0121532 - 2026-09-18]] |
 | 60 | Pousada do Diney Ltda — Pedido 0118353 | [[Pareceres/Parecer - Pousada do Diney - 0118353 - 2026-09-14]] |
@@ -74,4 +75,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 23/09/2026 — 62 pareceres*
+*Atualizado em: 29/09/2026 — 63 pareceres*
