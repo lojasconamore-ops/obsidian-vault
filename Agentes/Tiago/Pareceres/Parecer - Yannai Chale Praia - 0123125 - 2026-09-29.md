@@ -5,7 +5,7 @@ cnpj: 26.011.689/0001-43
 pedido: "0123125"
 data: 2026-09-29
 parecer: aprovar-com-restricao
-risco: baixo-moderado
+risco: moderado
 ---
 
 # Parecer de Crédito — Yannai Chalé Praia LTDA
@@ -19,7 +19,7 @@ risco: baixo-moderado
 ## Resumo executivo
 
 **Parecer: 🟡 APROVAR COM RESTRIÇÃO OPERACIONAL**  
-**Nível de risco: baixo a moderado**
+**Nível de risco: moderado**
 
 O cliente possui quatro pedidos confirmados e expedidos sob o CNPJ/razão atual, totalizando R$ 9.464,60. Todos os 12 títulos desses pedidos estão pagos, sem saldo em aberto ou vencido. Foram observados nove atrasos curtos, entre 1 e 4 dias, com média de 1,78 dia entre os atrasados. O comportamento é compatível com Classe B: bom pagador, com pequena fricção de compensação.
 
@@ -97,21 +97,37 @@ O pedido 0123125 não apareceu ainda no SQL Server nem no Oracle no corte da con
 
 ## Etapa 2 — Score / Bureau
 
-Não foi fornecido relatório pago de bureau Equifax/Serasa para este pedido. A análise externa foi feita pelo cadastro público e pela operação online; não foram inventados score, probabilidade de inadimplência ou consulta de protestos.
+Relatório **Equifax | Boa Vista — Define Risco Positivo**, emitido em **29/09/2026 às 11:37:19**, conferido visualmente nas quatro páginas:
 
-Cadastro público atualizado em 29/09/2026:
-
-- Situação cadastral: **ativa**
+- CNPJ: 26.011.689/0001-43
+- Razão social: Yannai Chalé Praia LTDA
+- Número de resposta: **040763946-5**
+- Score Aprovação PJ: **594**
+- Probabilidade de inadimplência: **13%**
+- Cadastro Positivo: participante com informação
+- Pendências e restrições financeiras: **nada consta**
+- Cheques sem fundos: **nada consta**
+- Cheques sustados motivo 21: **nada consta**
+- Cheques devolvidos informados pelo usuário: **nada consta**
+- Protestos: **nada consta**
+- Consultas ao bureau: 8 entre 01/09/2025 e 01/09/2026; duas foram da Conamore, em 16/02/2026 e 17/04/2026
+- Situação cadastral apresentada: ativa
 - Fundação: 23/08/2016
-- Idade empresarial: aproximadamente 10 anos
-- CNAE principal: hotéis
-- Porte: microempresa
-- Capital social: R$ 51.000,00
-- Optante do Simples Nacional
-- Sócia-administradora atual: Cinthia Fabian de Almeida Duarte, desde 08/03/2023
-- Endereço e CNPJ coerentes com a proposta e a operação pública
+- Atividade: hotéis — CNAE 5510-8/01
+- Faixa de funcionários: 1 a 19
+- Endereço: Av. Pedro Paula de Moraes, 549, Vila Saco da Capela, Ilhabela/SP
 
-A ausência do bureau é mitigada pelo histórico interno direto de quatro pedidos e 12 títulos quitados, mas justifica não liberar condição `A DEFINIR` ou boleto sem entrada.
+O cadastro da Receita embutido no relatório tem data de consulta de **31/07/2023**, portanto é antigo. A situação ativa e os dados societários foram corroborados por consulta pública atualizada em 29/09/2026.
+
+### Comportamento no Cadastro Positivo
+
+O painel indica pagamentos concentrados em até cinco dias após o vencimento e ocorrências na faixa de 6 a 15 dias em alguns meses. As colunas são índices/pontuações do modelo, e não valores monetários ou percentuais diretamente somáveis. Não há indicação nas faixas de 16 a 30, 31 a 60 ou acima de 60 dias.
+
+Esse padrão é coerente com o Oracle da Conamore: títulos integralmente pagos, com atrasos curtos de no máximo quatro dias.
+
+### Interpretação
+
+O score 594 e a probabilidade de 13% representam risco estatístico moderado. Entretanto, não existem restrições, protestos ou cheques negativos, e o histórico direto da Conamore é positivo. Para cliente recorrente, o comportamento interno prevalece sobre o score médio. O bureau confirma a manutenção da aprovação com entrada e não justifica faturamento com condição indefinida ou sem entrada.
 
 ## Etapa 3 — Coerência operacional do pedido
 
@@ -186,7 +202,7 @@ O acesso automatizado direto ao site oficial sofreu reset de conexão, mas o dom
 
 ## Decisão final
 
-**🟡 APROVAR COM RESTRIÇÃO OPERACIONAL — risco baixo a moderado.**
+**🟡 APROVAR COM RESTRIÇÃO OPERACIONAL — risco moderado.**
 
 Liberar após:
 
@@ -195,4 +211,4 @@ Liberar após:
 3. manter exposição máxima de R$ 2.083,80;
 4. reemitir a proposta se o faturamento ocorrer após 29/09/2026.
 
-**Justificativa técnica objetiva:** o Yannai possui histórico direto e positivo, com quatro pedidos expedidos, R$ 9.464,60 em compras e 12 títulos integralmente pagos. Os atrasos foram pequenos, de no máximo quatro dias, e o pedido atual é coerente com o ticket histórico. A restrição decorre apenas da condição `A DEFINIR`, da ausência de entrada no documento e da falta de bureau pago atualizado.
+**Justificativa técnica objetiva:** o Yannai possui histórico direto e positivo, com quatro pedidos expedidos, R$ 9.464,60 em compras e 12 títulos integralmente pagos. Os atrasos foram pequenos, de no máximo quatro dias, e o pedido atual é coerente com o ticket histórico. O bureau atual confirma ausência de pendências, protestos e cheques negativos, embora o score 594 e a probabilidade de inadimplência de 13% recomendem controle de exposição. O parecer anterior foi **confirmado sem alteração**: a restrição decorre da condição `A DEFINIR`, da ausência de entrada no documento e do risco estatístico moderado.
