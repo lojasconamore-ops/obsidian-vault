@@ -14,7 +14,7 @@
 
 ## Conclusão executiva
 
-**Existe canibalização forte e mensurável no termo de marca da Hotelaria.** Quando o investimento na marca exata aumenta, o CTR e os cliques orgânicos de “conamore” caem de forma quase espelhada. A correlação mensal entre gasto exato e CTR orgânico exato foi **r = -0,72**, associação inversa muito forte.
+**Existe canibalização forte e mensurável no termo de marca da Hotelaria.** Quando o investimento na marca exata aumenta, o CTR e os cliques orgânicos de “conamore” caem de forma quase espelhada. A correlação mensal entre gasto exato e CTR orgânico exato foi **r = -0,94**, associação inversa muito forte.
 
 Nos meses de marca pausada, o CTR orgânico exato da Hotelaria foi **72,9%**, contra **20,9%** nos meses comparáveis de marca ativa. A posição orgânica permaneceu próxima de 1, demonstrando que a queda de CTR não foi causada por perda relevante de ranking.
 
