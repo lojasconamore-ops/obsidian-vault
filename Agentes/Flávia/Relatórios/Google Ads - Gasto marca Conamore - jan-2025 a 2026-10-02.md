@@ -14,6 +14,16 @@
 - **Marca exata/variação isolada:** R$ 17.321,44 de gasto; R$ 2.391.456,98 de valor atribuído; ROAS 138,06x.
 - **Marca associada a outros termos:** R$ 51.060,38 de gasto; R$ 1.434.918,38 de valor atribuído; ROAS 28,10x.
 
+### Distribuição pelas grafias pesquisadas
+
+| Grafia contida no termo | Gasto | Cliques | Valor Ads | ROAS |
+|---|---:|---:|---:|---:|
+| conamore | R$ 68.139,09 | 115.127 | R$ 3.800.735,28 | 55,78x |
+| canamore | R$ 218,63 | 1.138 | R$ 25.334,71 | 115,88x |
+| comamore | R$ 14,01 | 16 | R$ 305,37 | 21,80x |
+| consmore | R$ 8,12 | 2 | R$ 0,00 | 0,00x |
+| conamorr | R$ 1,97 | 1 | R$ 0,00 | 0,00x |
+
 > **Leitura correta do retorno:** “valor de conversão” e ROAS são os números atribuídos pelo Google Ads. Não representam lucro líquido e não foram conciliados nesta análise com pedidos cancelados, impostos, margem ou ERP. A conta possui ações de conversão de naturezas diferentes; portanto, conversões não devem ser chamadas automaticamente de vendas.
 
 ## Histórico mensal
