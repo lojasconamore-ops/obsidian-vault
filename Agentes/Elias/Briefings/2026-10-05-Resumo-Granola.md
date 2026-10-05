@@ -32,7 +32,7 @@
 | Crítica | Tratar dispensas de Ruth e Tamara e iniciar seleção para a Loja 3 | Não registrado | Ruth: fim do contrato ou antes; Tamara: aviso imediato | **Manhã, 30–45 min:** confirmar execução com RH e responsáveis locais |
 | Alta | Travar emissão de nota sem orçamento prévio no GVM | Não registrado | O quanto antes | **Manhã, 30 min:** definir responsável técnico e data de implantação |
 | Alta | Iniciar baixa dos títulos acumulados, treinar Dona Célia e identificar o banco de recebimento | Não registrado | Não registrado | **Manhã, 45 min:** definir fluxo, responsável e primeiro lote |
-| Alta | Classificar os 26–31 clientes novos do site com pedidos acima de R$ 500 | Andrea | Neste mês; ação imediata | **Início da tarde, 45 min:** distribuir a lista e iniciar contatos |
+| Alta | Classificar os 26–31 clientes novos do site com pedidos acima de R$ 500 | Andrea | Não registrado (ação imediata) | **Início da tarde, 45 min:** distribuir a lista e iniciar contatos |
 | Alta | Revisar orçamentos em aberto e conversas antigas no Octadesk | Andrea | Nesta semana | **Início da tarde, 45 min:** iniciar limpeza do pipeline |
 | Alta | Confirmar e ativar o parâmetro de travamento de preço | Samira | Não registrado | **Início da tarde, 15 min:** cobrar confirmação e próximo passo |
 | Média | Criar tabelas de preço por vendedor | Não registrado | Não registrado | **Início da tarde, 45 min:** definir padrão, responsáveis e sequência de cadastro |
@@ -46,13 +46,13 @@
 3. **Preservar o crescimento do site com disciplina comercial:** classificar os novos compradores e corrigir cadastros antes de ampliar campanhas de aquisição.
 4. **Cobrar evidência de execução, não apenas alinhamento:** protocolo antifraude comunicado, dispensas encaminhadas, primeiro lote de baixas processado e parâmetros do GVM confirmados.
 
+## Fonte e rastreabilidade
+- Granola, reunião `b5c86357-9136-43fd-9d02-30117cfb46f2` — “Reunião mensal Lojas Físicas”, 05/10/2026 às 09:23 BRT.
+- Granola, reunião `a306b622-4670-470b-9c7c-e59f326b6fa7` — “Configuração e operação do GVM”, 05/10/2026 às 14:46 BRT.
+- O plano do Granola excluiu notas públicas do workspace; o briefing usa apenas os registros retornados para as duas reuniões acima.
+
 ## Alertas ao Sergio
 - **Acompanhamento direto:** confirmar amanhã se o protocolo antifraude foi formalmente reforçado e se o caixa passou a exigir autorização direta e confirmada para qualquer retirada.
 - **Acompanhamento direto:** assegurar que as mudanças de pessoal sejam conduzidas com RH e documentação adequada.
 - **Alinhamento com Camila:** validar em consenso a condução das dispensas, da nova contratação e das metas/campanha de outubro, por envolverem cultura, RH e direcionamento comercial.
 - **Controle operacional:** a geração automática de títulos foi reativada durante o treinamento; vale monitorar os primeiros lançamentos reais para detectar duplicidades ou classificação incorreta.
-
-## Fonte e rastreabilidade
-- Granola, reunião `b5c86357-9136-43fd-9d02-30117cfb46f2` — “Reunião mensal Lojas Físicas”, 05/10/2026 às 09:23 BRT.
-- Granola, reunião `a306b622-4670-470b-9c7c-e59f326b6fa7` — “Configuração e operação do GVM”, 05/10/2026 às 14:46 BRT.
-- O plano do Granola excluiu notas públicas do workspace; o briefing usa apenas os registros retornados para as duas reuniões acima.
