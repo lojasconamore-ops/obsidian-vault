@@ -95,3 +95,13 @@ tags: [log, comunicacoes, atila]
 - **Anexo preservado:** `Documentos/Atestado-Medico-2026-07-31-Antonio-Atila.jpg`
 - **Registro detalhado em:** `[[registro-atestado-medico-2026-07-31]]`
 - **Próximo passo indicado:** lançar o período no ponto/DP, encaminhar à Medicina Ocupacional, dar ciência ao Adrian e confirmar aptidão/restrições antes do retorno.
+
+## #007 — Informação sobre pausas terapêuticas e decisão de registro no ponto
+
+- **Data da informação:** 06/10/2026
+- **Tipo:** OUT
+- **De/Para:** Sérgio Ladeira → Maria (RH)
+- **Assunto:** Pausas de 15 minutos a cada hora para exercícios de fisioterapia/alongamento
+- **Resumo:** Sérgio informou que existe pedido da médica determinando pausas de 15 minutos a cada hora para exercícios de fisioterapia e alongamento, documento ainda não encaminhado ao RH. A direção decidiu documentar os intervalos no controle de ponto, com abono integral, sem prejuízo remuneratório ou de jornada ao colaborador.
+- **Situação documental:** informação registrada por relato da direção; pendente recebimento, leitura e arquivamento do pedido médico para confirmação do texto literal, vigência, frequência e demais condições.
+- **Próximo passo indicado:** receber o documento médico, validar a parametrização com Isabel/DP e testar no Secullum uma ocorrência específica de pausa terapêutica abonada, sem exposição de diagnóstico e sem distorção do cálculo da jornada.
