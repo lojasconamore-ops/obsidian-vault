@@ -139,8 +139,18 @@ O cadastro retornou 1.548 unidades saláveis na coleta. Isso representa no máxi
 
 O estoque deve ser confirmado no ERP e sincronizado antes da publicação.
 
+## Fotografias produzidas
+
+1. Principal provisória — 5 embalagens sobre fundo branco: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/ml_fronhas/21929/finais/01-principal-kit5-previa.jpg`
+2. Aplicação e conteúdo do kit: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/ml_fronhas/21929/finais/02-aplicacao-kit5-abas.jpg`
+3. Detalhe do acabamento com abas: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/ml_fronhas/21929/finais/03-detalhe-abas.jpg`
+4. Ficha técnica: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/ml_fronhas/21929/finais/04-ficha-tecnica-kit5.jpg`
+5. Aplicações em hotelaria: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/ml_fronhas/21929/finais/05-hotelaria-kit5-abas.jpg`
+
+A imagem principal mostra cinco embalagens por duplicação digital e serve como prévia. Como a embalagem fotografada é genérica para a linha Confort e o marcador da variante não está claramente visível, recomenda-se substituir a principal por uma fotografia real das cinco unidades com abas antes da publicação definitiva.
+
 ## Status
 
-- **Executado:** anúncio textual do kit com 5 fronhas com 3 abas criado.
+- **Executado:** anúncio textual e conjunto de cinco imagens do kit com 5 fronhas com 3 abas criados.
 - **Evidência:** SKU 21929, 50 x 70 cm, percal 180 fios, 50% algodão/50% poliéster, branca e acabamento com abas.
 - **Status:** texto concluído; publicação condicionada à validação da DRE e à reserva de estoque.

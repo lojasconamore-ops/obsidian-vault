@@ -135,8 +135,18 @@ O cadastro retornou 14.952 unidades saláveis na coleta. Isso representa no máx
 
 O estoque deve ser confirmado no ERP e sincronizado antes da publicação.
 
+## Fotografias produzidas
+
+1. Principal provisória — 10 embalagens sobre fundo branco: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/ml_fronhas/16446/finais/01-principal-kit10-previa.jpg`
+2. Aplicação e conteúdo do kit: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/ml_fronhas/16446/finais/02-aplicacao-kit10.jpg`
+3. Tecido e acabamento: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/ml_fronhas/16446/finais/03-tecido-acabamento.jpg`
+4. Ficha técnica: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/ml_fronhas/16446/finais/04-ficha-tecnica-kit10.jpg`
+5. Aplicações em hotelaria: `/home/sergio-ladeira/.hermes/profiles/marketing/cache/ml_fronhas/16446/finais/05-hotelaria-kit10.jpg`
+
+A imagem principal mostra dez embalagens por duplicação digital e serve como prévia. Como a embalagem fotografada é genérica para a linha Confort e o marcador da variante não está claramente visível, recomenda-se substituir a principal por uma fotografia real das dez unidades corretas antes da publicação definitiva.
+
 ## Status
 
-- **Executado:** anúncio textual do kit com 10 fronhas criado.
+- **Executado:** anúncio textual e conjunto de cinco imagens do kit com 10 fronhas criados.
 - **Evidência:** SKU 16446, 50 x 70 cm, percal 180 fios, 50% algodão/50% poliéster, branca e envelope simples.
 - **Status:** texto concluído; publicação condicionada à validação da DRE e à reserva de estoque.
