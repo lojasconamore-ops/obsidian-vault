@@ -46,6 +46,7 @@ Reporta ao **DigitalCEO**.
 ## Sistemas de RH
 
 - [[Sistemas de RH/Integração Secullum RH - Conamore|Integração Secullum RH — Conamore]] — conta técnica, cliente somente leitura, segurança e validação
+- [[Sistemas de RH/Manuais/Guia de acesso às marcações de ponto - BRG e Conamore Filial - Fabricia|Guia Secullum para Fabrícia — BRG e Conamore Filial]] — consulta, coleta, exportação e conferência segura das marcações
 
 ## Regras de Ouro
 
