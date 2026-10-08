@@ -32,7 +32,7 @@
 | R | Parada (outros) | hora | outras paradas |
 | S | Tempo Unitario | texto HH:MM:SS | tempo padrão por peça |
 | T | Tempo Produtivo Total | hora | Qtd × Tempo Unitário |
-| U | Tempo Realizado | hora | tempo efetivo (início→fim − paradas) |
+| U | Tempo Realizado | hora | tempo de presença (jornada − faltas − atrasos, + hora extra) |
 | V | Dia (num) | número | dia numérico |
 | W | Mes | número | mês |
 | X | Ano | número | ano |
@@ -46,10 +46,26 @@
 
 ```
 Tempo Produtivo = Qtd × Tempo Unitário
-Produtividade   = Tempo Produtivo ÷ Tempo Disponível
-Eficiência      = Tempo Produtivo ÷ Tempo Realizado
-IGE             = Produtividade × Eficiência
+
+Produtividade BRUTA (Funcionário) = Tempo Produtivo ÷ Disponibilidade Bruta (8:18/dia)
+Produtividade LÍQUIDA (Gestão)    = Tempo Produtivo ÷ Tempo Realizado (presença)
+
+IGE = Produtividade × Eficiência
 ```
+
+### Nomenclatura oficial (Sérgio Ladeira)
+
+- **Disponibilidade Bruta** = jornada padrão fixa (8:18/dia).
+- **Tempo Realizado** = tempo de PRESENÇA = jornada − faltas − atrasos (+ hora extra).
+  - Sem falta nem atraso → Realizado = Disponibilidade = 8:18 → **Bruta = Líquida** (comportamento esperado, NÃO é erro).
+- **Produtividade Bruta (funcionário)** = Produtivo ÷ Disponibilidade → pune ausência.
+- **Produtividade Líquida (gestão)** = Produtivo ÷ Tempo Realizado → isola ausência, mede eficiência pura.
+
+### Leitura da diferença Bruta × Líquida
+
+- `Líquida = Bruta` → cumpriu a jornada completa (sem falta/atraso).
+- `Líquida > Bruta` → faltou/atrasou, mas rendeu bem no tempo presente.
+- `Líquida < Bruta` → hora extra que não virou produção.
 
 - **% > 1** = produziu mais rápido que o padrão.
 - **% < 1** = produziu mais devagar que o padrão.
