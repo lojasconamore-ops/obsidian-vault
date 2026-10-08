@@ -75,13 +75,21 @@ IGE = Produtividade × Eficiência
 1. **Colaborador** legível e sem variação de nome (ex.: ANDRE vs ANDRÉ).
 2. **Data correta** (Dia, Mes, Ano consistentes entre si).
 3. **Horário coerente** — Hora Fim > Hora Inicio; sem sobreposição com a operação anterior do mesmo colaborador.
-4. **Paradas descontadas** — almoço/lanche subtraídos do Tempo Realizado.
-5. **Qtd × Tempo Unitário ≈ Tempo Produtivo Total** (bater a conta).
-6. **Tempo Realizado ≈ (Fim − Início) − paradas** (bater a conta).
-7. **Código/Sigla/Operação** existem e batem (validar contra abas `códigos`, `OPERAÇÕES` ou `De para Operacao`).
-8. **Qtd suspeita** — valor muito alto/baixo para a operação (provável erro de digitação).
-9. **Tempo Unitário** em formato correto (HH:MM:SS), sem "00:02:0" malformado.
-10. **Disponibilidade Bruta** preenchida na 1ª linha do dia do colaborador.
+4. **Almoço** — todo colaborador deve ter **1:00 de almoço/dia apontado, SE ficou na empresa mais de 6:00**. Se presença ≤ 6:00, almoço pode ser zero (não obrigatório).
+5. **Lanches** — direito a **2 intervalos de 0:15 por dia** (total 0:30). Pode aparecer **0:30 consolidado** (não 0:15+0:15) quando o funcionário passa o dia inteiro numa única função.
+6. **Paradas descontadas** — almoço/lanche subtraídos do Tempo Realizado.
+7. **Qtd × Tempo Unitário ≈ Tempo Produtivo Total** (bater a conta).
+8. **Código/Sigla/Operação** existem e batem (validar contra abas `códigos`, `OPERAÇÕES` ou `De para Operacao`).
+9. **Qtd suspeita** — valor muito alto/baixo para a operação (provável erro de digitação).
+10. **Tempo Unitário** em formato correto (HH:MM:SS), sem "00:02:0" malformado.
+11. **Disponibilidade Bruta** preenchida na 1ª linha do dia do colaborador.
+
+### Regras de paradas (Sérgio Ladeira)
+
+| Parada | Regra | Condição |
+|---|---|---|
+| **Almoço** | 1:00/dia | obrigatório se presença > 6:00 |
+| **Lanches** | 2 × 0:15 = 0:30/dia | pode vir consolidado em 0:30 (função única o dia todo) |
 
 ## Referências
 
