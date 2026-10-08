@@ -23,16 +23,24 @@
 - Não registrar senha, token, CPF, PIS ou dados individuais nesta nota.
 - Não enviar senha pelo Telegram ou e-mail.
 - Credencial local da Maria em `~/.hermes/profiles/maria/secrets/secullum.json`, com permissão `600`.
-- Por autorização expressa de Sérgio em **08/10/2026**, uma cópia protegida da mesma conta técnica foi instalada em `~/.hermes/profiles/natalia/secrets/secullum.json`, também com permissão `600`, para acesso da Natália pela API em modo somente leitura.
-- Scripts da Maria em `~/.hermes/profiles/maria/scripts/secullum/`; cliente da Natália em `~/.hermes/profiles/natalia/scripts/secullum/`.
+- Por autorização expressa de Sérgio em **08/10/2026**, cópias protegidas da mesma conta técnica foram instaladas em `~/.hermes/profiles/natalia/secrets/secullum.json` e `~/.hermes/profiles/fabricia/secrets/secullum.json`, ambas com permissão `600`, para acesso pela API em modo somente leitura.
+- Scripts da Maria em `~/.hermes/profiles/maria/scripts/secullum/`; clientes da Natália e da Fabrícia nos respectivos diretórios `scripts/secullum/` de seus perfis.
 - A fase atual permite apenas consultas de leitura.
-- O compartilhamento da identidade técnica reduz a rastreabilidade individual; em caso de suspeita de exposição, rotacionar a senha e atualizar os dois perfis.
+- O compartilhamento da identidade técnica reduz a rastreabilidade individual; em caso de suspeita de exposição, rotacionar a senha e atualizar os três perfis.
 
 ## Validação da Natália — 08/10/2026
 
 - Autenticação na API: sucesso.
 - Banco autorizado: `66279` — CONAMORE SSL CAMA MESA E BANHO LTDA.
 - `GET Empresas`: sucesso — 6 registros.
+- Nenhuma operação de escrita ou exclusão foi executada.
+
+## Validação da Fabrícia — 08/10/2026
+
+- Autenticação na API: sucesso.
+- Banco autorizado: `66279` — CONAMORE SSL CAMA MESA E BANHO LTDA.
+- `GET Empresas`: sucesso — 6 registros.
+- Leitura agregada de `Funcionarios` e `Batidas` validada para BRG e Conamore Filial.
 - Nenhuma operação de escrita ou exclusão foi executada.
 
 ## Procedimento de ativação técnica
