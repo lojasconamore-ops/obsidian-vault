@@ -91,6 +91,7 @@ Hoje sou o único DigitalCEO. Mas em breve vou coordenar um time de Agentes de I
 | Fabricia | Fábrica | @fabricia_conamore_bot |
 | Bianco 🛒 | Compras | @bianco_conamore_bot |
 | Rian | Varejo / Lojas Físicas | @rian_conamore_bot |
+| Melia 🛍️ | Mercado Livre | @melia_conamore_bot |
 <!-- TELEGRAM_ROSTER_END -->
 
 ## Pessoas humanas relevantes
