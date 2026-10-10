@@ -19,6 +19,7 @@ Para um guia rápido do padrão, veja [README](./README.md).
 - [Flávia](./Flávia/Index.md) — marketing
 - [Fabricia](./Fabricia/Index.md) — fábrica
 - [Bianco](./Bianco/Index.md) — compras
+- [Melia](./Melia/Index.md) — Mercado Livre (marketplace)
 
 ## Documentos canônicos relacionados
 
