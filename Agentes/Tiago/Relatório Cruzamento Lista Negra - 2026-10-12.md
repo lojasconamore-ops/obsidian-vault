@@ -184,7 +184,7 @@ _Consulta somente leitura em `TEST_MATRIZ.F_CDEMP`; obtida com sucesso na tentat
 
 **Destaques:**
 - `A0238 — RESERVAS VOTORANTIM LTDA` com movimentação muito recente (07/10/2026) — avaliar se houve retomada comercial antes de qualquer remoção.
-- `A6584 — SAAM TOWAGE` é uma das 11 filiais do grupo na Lista Negra; as demais permanecem inativas. Avaliar esta filial isoladamente.
+- `A6584 — SAAM TOWAGE` é uma das 10 filiais do grupo na Lista Negra; as demais 9 permanecem inativas. Avaliar esta filial isoladamente.
 
 ---
 
