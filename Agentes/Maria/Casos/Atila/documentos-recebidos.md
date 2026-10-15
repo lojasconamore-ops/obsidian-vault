@@ -3,7 +3,7 @@ caso: Átila
 tipo: inventario-documentos
 responsavel: Maria (RH)
 confidencialidade: alta
-ultima_atualizacao: 2026-08-21
+ultima_atualizacao: 2026-10-15
 tags: [caso-rh, acidente-trabalho, atila, documentos]
 ---
 
@@ -68,3 +68,11 @@ Período operacional calculado de 31/07/2026 a 09/08/2026, com retorno teórico 
 ### Alerta RH
 
 A segunda linha foi emitida sem a palavra “não”, criando aparente contradição com a natureza restritiva do parecer e com o documento anterior. Não corrigir nem interpretar por suposição: solicitar confirmação/retificação formal da clínica e, preventivamente, manter atividade sem carga, sem esforço intenso e sem repetição com o membro superior direito até esclarecimento. Ver [[registro-reavaliacao-retorno-2026-08-20]].
+
+## Leitura do atestado recebido em 15/10/2026
+
+**Documento:** Atestado de Atendimento (Ficha de Atendimento Emergência) — Hospital Municipal Dr. Mário Gatti  \n**Colaborador:** Antonio Átila Lima Oliveira de Carvalho  \n**Data de registro no sistema (SGHX):** 14/10/2026 08:59  \n**Tipo marcado:** consulta de urgência  \n**Recomendação marcada:** repouso por período de ( ) dias — número de dias manuscrito e parcialmente ilegível na foto  \n**CID-10:** inicia com “M5” (último dígito não legível com segurança)  \n**Médico:** Dr. Gustavo Naia (CRM não legível com segurança)
+
+### Observação RH
+
+Campos manuscritos (dias de repouso, CID, CRM e data manuscrita) ficaram parcialmente ilegíveis na imagem e devem ser confirmados visualmente antes de qualquer lançamento no ponto/DP. Ver [[registro-atestado-medico-2026-10-14]].

@@ -51,6 +51,7 @@ Usar o documento jurídico para riscos e conduta, mas considerar o `[[Dossie Mes
 | `[[registro-ausencia-sem-atestado-2026-07-28-29]]` | Registro operacional da ausência de 28/07 e informação em 29/07 de que não houve ida ao médico/atestado |
 | `[[registro-atestado-medico-2026-07-31]]` | Atestado emitido em 31/07/2026 com repouso por 10 dias; retorno teórico em 10/08, sujeito à Medicina Ocupacional |
 | `[[registro-reavaliacao-retorno-2026-08-20]]` | Reavaliação de 20/08: apto com restrições por mais 30 dias; documento contém aparente erro de redação e demanda confirmação da clínica |
+| `[[registro-atestado-medico-2026-10-14]]` | Atestado de atendimento de 14/10/2026 (Hospital Mário Gatti): consulta de urgência com recomendação de repouso; campos manuscritos parcialmente ilegíveis, a confirmar |
 | `[[encaminhamentos-juridico]]` | Quando e como escalar o Adrian |
 
 ## Princípios de conduta (do Jurídico, pra gente não esquecer)

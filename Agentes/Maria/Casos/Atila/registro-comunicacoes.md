@@ -105,3 +105,16 @@ tags: [log, comunicacoes, atila]
 - **Resumo:** Sérgio informou que existe pedido da médica determinando pausas de 15 minutos a cada hora para exercícios de fisioterapia e alongamento, documento ainda não encaminhado ao RH. A direção decidiu documentar os intervalos no controle de ponto, com abono integral, sem prejuízo remuneratório ou de jornada ao colaborador.
 - **Situação documental:** informação registrada por relato da direção; pendente recebimento, leitura e arquivamento do pedido médico para confirmação do texto literal, vigência, frequência e demais condições.
 - **Próximo passo indicado:** receber o documento médico, validar a parametrização com Isabel/DP e testar no Secullum uma ocorrência específica de pausa terapêutica abonada, sem exposição de diagnóstico e sem distorção do cálculo da jornada.
+
+## #008 — Recebimento de atestado de atendimento emitido em 14/10/2026
+
+- **Data do atendimento/emissão:** 14/10/2026 (registro SGHX 08:59)
+- **Data do recebimento pelo RH:** 15/10/2026
+- **Tipo:** OUT
+- **De/Para:** Sérgio Ladeira → Maria (RH), imagem enviada no Telegram (grupo RH)
+- **Assunto:** Atestado de atendimento de emergência com recomendação de repouso
+- **Resumo:** Recebida imagem de atestado de atendimento (Ficha de Atendimento Emergência) do Hospital Municipal Dr. Mário Gatti, com consulta de urgência e recomendação de repouso por período a confirmar. Campos manuscritos (número de dias de repouso, CID-10 — que inicia com “M5” —, CRM e data manuscrita) ficaram parcialmente ilegíveis na foto e serão confirmados visualmente antes de qualquer lançamento.
+- **Pontos sensíveis:** novo afastamento em caso de acidente de trabalho com histórico previdenciário; não concluir nexo ou diagnóstico apenas pelo documento; verificar repercussão com Medicina Ocupacional, DP e Jurídico.
+- **Anexo preservado:** `Documentos/Atestado-Atendimento-2026-10-14-Antonio-Atila.jpg`
+- **Registro detalhado em:** `[[registro-atestado-medico-2026-10-14]]`
+- **Próximo passo indicado:** confirmar os campos ilegíveis, calcular o período de afastamento, encaminhar à Medicina Ocupacional, dar ciência ao Adrian e lançar no ponto/DP somente após confirmação documental e validação médica.
