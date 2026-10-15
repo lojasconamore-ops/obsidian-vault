@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 14/10/2026 19:00 BRT  
+Atualizado: 15/10/2026 19:01 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 14/10/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 15/10/2026 | [[GA4-Diario-2026-10-15]] | 12/10 vs 11/10 | D-3 vs D-4: usuários +7,2%, sessões +7,4%, engaj. +2,9 p.p., eventos +14,0%; Google / cpc 1.023 usuários (60,1%, +12,0%); LinkedIn pago 10→34 (5,6% engaj., 7º dia crítico); orgânico 164→181 (71,3% engaj.); `(not set)` 112 sessões em novos/recorrentes e landing com 91,5% de rejeição; mobile 91,8%; nova landing crítica protetor-de-colch-o (8,0%); nova fonte similarsearch.net/referral; ChatGPT fora do top 15. |
 | 14/10/2026 | [[GA4-Diario-2026-10-14]] | 11/10 vs 10/10 | D-3 vs D-4: usuários +7,6%, sessões +8,2%, engaj. -0,4 p.p., eventos +15,7%; Google / cpc 913 usuários (57,5%, +12,6%); LinkedIn pago 41→10 (10,0% engaj., 6º dia crítico); orgânico 152→164 (64,6% engaj.); `(not set)` 116 sessões em novos/recorrentes e landing com 94,6% de rejeição; mobile 87,4%; nova landing crítica lencol-redondo (9,5%); ChatGPT 2 usuários. |
 | 13/10/2026 | [[GA4-Diario-2026-10-13]] | 10/10 vs 09/10 | D-3 vs D-4: usuários -3,3%, sessões -7,4%, engaj. -1,5 p.p., eventos -11,6%; Google / cpc 811 usuários (55,0%, engaj. 42,8%); LinkedIn pago 18→41 (11,6% engaj., 5º dia crítico); orgânico 187→152 (65,7% engaj.); `(not set)` 103 sessões em novos/recorrentes e landing com 89,3% de rejeição; mobile 83,5%; tablet 11,1% engaj.; novos refs de spam (inspiredtoday, cnnbrasil, ysl); ChatGPT 5 usuários. |
 | 12/10/2026 | [[GA4-Diario-2026-10-12]] | 09/10 vs 08/10 | D-3 vs D-4: usuários +8,3%, sessões +9,2%, engaj. -3,3 p.p., eventos +6,8%; Google / cpc 782 usuários (51,2%); LinkedIn pago 18 usuários (19,0% engaj.); Instagram pago 17→33 (63,4% engaj.); `(not set)` 113 sessões em novos/recorrentes e landing com 94,0% de rejeição; mobile 77,4%; ChatGPT 10→4; novas landings críticas jogo-de-cama-400-fios (15,0%). |
