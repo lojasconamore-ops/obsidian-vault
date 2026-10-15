@@ -113,8 +113,8 @@ tags: [log, comunicacoes, atila]
 - **Tipo:** OUT
 - **De/Para:** Sérgio Ladeira → Maria (RH), imagem enviada no Telegram (grupo RH)
 - **Assunto:** Atestado de atendimento de emergência com recomendação de repouso
-- **Resumo:** Recebida imagem de atestado de atendimento (Ficha de Atendimento Emergência) do Hospital Municipal Dr. Mário Gatti, com consulta de urgência e recomendação de repouso por período a confirmar. Campos manuscritos (número de dias de repouso, CID-10 — que inicia com “M5” —, CRM e data manuscrita) ficaram parcialmente ilegíveis na foto e serão confirmados visualmente antes de qualquer lançamento.
+- **Resumo:** Recebida imagem de atestado de atendimento (Ficha de Atendimento Emergência) do Hospital Municipal Dr. Mário Gatti, com consulta de urgência e recomendação de repouso por 7 (sete) dias. CID-10 M75 (lesões do ombro); médico Dr. Gustavo Naia — CRM 288580. Campos confirmados por Sérgio em 15/10/2026.
 - **Pontos sensíveis:** novo afastamento em caso de acidente de trabalho com histórico previdenciário; não concluir nexo ou diagnóstico apenas pelo documento; verificar repercussão com Medicina Ocupacional, DP e Jurídico.
 - **Anexo preservado:** `Documentos/Atestado-Atendimento-2026-10-14-Antonio-Atila.jpg`
 - **Registro detalhado em:** `[[registro-atestado-medico-2026-10-14]]`
-- **Próximo passo indicado:** confirmar os campos ilegíveis, calcular o período de afastamento, encaminhar à Medicina Ocupacional, dar ciência ao Adrian e lançar no ponto/DP somente após confirmação documental e validação médica.
+- **Próximo passo indicado:** período operacional de 14/10 a 20/10/2026 com retorno teórico em 21/10/2026; encaminhar à Medicina Ocupacional, dar ciência ao Adrian e lançar no ponto/DP somente após validação médica.

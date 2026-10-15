@@ -20,7 +20,7 @@ tags: [caso-rh, acidente-trabalho, atila, documentos]
 | 2026-07-28 | `Documentos/WhatsApp-2026-07-28-Atila-dor-braco-e-INSS.jpg` | JPG | Captura de WhatsApp enviada no Workspace RH | Átila relata dor no braço e atraso; captura também mostra cobrança anterior sobre INSS/recurso e possibilidade de procurar outros caminhos se não aprovado | `559fb2e7541cc973c4dcb17fe7626c4518390594f73e46bd2590f7f0cbe968b1` |
 | 2026-08-03 | `Documentos/Atestado-Medico-2026-07-31-Antonio-Atila.jpg` | JPG | Imagem enviada no Workspace RH | Atestado do Hospital Municipal Dr. Mário Gatti, emitido em 31/07/2026, com consulta de urgência e repouso por 10 dias | `308d54c3646334958f52ce9205658c3c4c3ab85d57e83588e2828346ba68986d` |
 | 2026-08-21 | `Documentos/Encaminhamento-Reavaliacao-Retorno-Work-2026-08-20-Antonio-Atila.pdf` | PDF | Enviado no Workspace RH | Reavaliação da Work: apto com restrições por mais 30 dias; segunda restrição contém aparente erro de redação e requer confirmação formal da clínica | `c1cd7e0831d8a6b01b4df40acf3677db4ba5ce656aee45e10a1e0d09f6328c19` |
-| 2026-10-15 | `Documentos/Atestado-Atendimento-2026-10-14-Antonio-Atila.jpg` | JPG | Imagem enviada no Telegram (grupo RH) | Atestado de atendimento do Hospital Mário Gatti com consulta de urgência e recomendação de repouso; dias de repouso, CID e CRM parcialmente ilegíveis na foto, a confirmar | `912252c11b30060255db148162e9135c047bc3f8f7e782caada433a02fa42a37` |
+| 2026-10-15 | `Documentos/Atestado-Atendimento-2026-10-14-Antonio-Atila.jpg` | JPG | Imagem enviada no Telegram (grupo RH) | Atestado de atendimento do Hospital Mário Gatti com consulta de urgência e repouso por 7 dias; CID M75 (lesões do ombro); Dr. Gustavo Naia — CRM 288580 | `912252c11b30060255db148162e9135c047bc3f8f7e782caada433a02fa42a37` |
 
 ## Leitura do PDF recebido em 23/07/2026
 
@@ -71,8 +71,8 @@ A segunda linha foi emitida sem a palavra “não”, criando aparente contradi�
 
 ## Leitura do atestado recebido em 15/10/2026
 
-**Documento:** Atestado de Atendimento (Ficha de Atendimento Emergência) — Hospital Municipal Dr. Mário Gatti  \n**Colaborador:** Antonio Átila Lima Oliveira de Carvalho  \n**Data de registro no sistema (SGHX):** 14/10/2026 08:59  \n**Tipo marcado:** consulta de urgência  \n**Recomendação marcada:** repouso por período de ( ) dias — número de dias manuscrito e parcialmente ilegível na foto  \n**CID-10:** inicia com “M5” (último dígito não legível com segurança)  \n**Médico:** Dr. Gustavo Naia (CRM não legível com segurança)
+**Documento:** Atestado de Atendimento (Ficha de Atendimento Emergência) — Hospital Municipal Dr. Mário Gatti  \n**Colaborador:** Antonio Átila Lima Oliveira de Carvalho  \n**Data de registro no sistema (SGHX):** 14/10/2026 08:59  \n**Tipo marcado:** consulta de urgência  \n**Recomendação marcada:** repouso por 7 (sete) dias  \n**CID-10:** M75 — Lesões do ombro  \n**Médico:** Dr. Gustavo Naia — CRM 288580
 
 ### Observação RH
 
-Campos manuscritos (dias de repouso, CID, CRM e data manuscrita) ficaram parcialmente ilegíveis na imagem e devem ser confirmados visualmente antes de qualquer lançamento no ponto/DP. Ver [[registro-atestado-medico-2026-10-14]].
+Período operacional de 14/10/2026 a 20/10/2026, com retorno teórico em 21/10/2026, sujeito à confirmação da Medicina Ocupacional. Ver [[registro-atestado-medico-2026-10-14]].
