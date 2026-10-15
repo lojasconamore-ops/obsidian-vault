@@ -20,6 +20,7 @@ tags: [caso-rh, acidente-trabalho, atila, documentos]
 | 2026-07-28 | `Documentos/WhatsApp-2026-07-28-Atila-dor-braco-e-INSS.jpg` | JPG | Captura de WhatsApp enviada no Workspace RH | Átila relata dor no braço e atraso; captura também mostra cobrança anterior sobre INSS/recurso e possibilidade de procurar outros caminhos se não aprovado | `559fb2e7541cc973c4dcb17fe7626c4518390594f73e46bd2590f7f0cbe968b1` |
 | 2026-08-03 | `Documentos/Atestado-Medico-2026-07-31-Antonio-Atila.jpg` | JPG | Imagem enviada no Workspace RH | Atestado do Hospital Municipal Dr. Mário Gatti, emitido em 31/07/2026, com consulta de urgência e repouso por 10 dias | `308d54c3646334958f52ce9205658c3c4c3ab85d57e83588e2828346ba68986d` |
 | 2026-08-21 | `Documentos/Encaminhamento-Reavaliacao-Retorno-Work-2026-08-20-Antonio-Atila.pdf` | PDF | Enviado no Workspace RH | Reavaliação da Work: apto com restrições por mais 30 dias; segunda restrição contém aparente erro de redação e requer confirmação formal da clínica | `c1cd7e0831d8a6b01b4df40acf3677db4ba5ce656aee45e10a1e0d09f6328c19` |
+| 2026-10-15 | `Documentos/Atestado-Atendimento-2026-10-14-Antonio-Atila.jpg` | JPG | Imagem enviada no Telegram (grupo RH) | Atestado de atendimento do Hospital Mário Gatti com consulta de urgência e recomendação de repouso; dias de repouso, CID e CRM parcialmente ilegíveis na foto, a confirmar | `912252c11b30060255db148162e9135c047bc3f8f7e782caada433a02fa42a37` |
 
 ## Leitura do PDF recebido em 23/07/2026
 
