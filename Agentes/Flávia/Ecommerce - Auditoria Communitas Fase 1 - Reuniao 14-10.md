@@ -24,11 +24,42 @@ Sérgio falou com João e combinou avançar com ajustes de ecommerce sugeridos p
 
 ## Pendências
 - [x] Sérgio solicitou os 15 ajustes da Fase 1 à Increazy (09/10).
-- [ ] Validar os 15 itens após deploy da Increazy (checklist de aceite).
+- [x] Increazy informou que implementou os ajustes em staging, não em produção.
+- [x] Documento de implementação consultado: **Feedback de melhorias - Conamore**.
+- [ ] Validar os 15 itens após revisão de João e aprovação da Conamore (checklist de aceite).
 - [ ] Saber o que é o "Samurai" (analytics/heatmap/BI?) para avaliar integração com GA4+RD Station+sGTM.
 - [ ] (Opcional) Preparar briefing de 1 página antes de terça.
 
+## Ambientes de teste informados
+- Hotelaria: https://www_conamore_com_br.lab.increazy.com/
+- Casa: https://lojas_conamore_com_br.lab.increazy.com/
+- Produção: **não autorizar publicação ainda**.
+
+## Documento da Increazy — status informado
+### Concluídos em ambiente de teste
+- Altura do header reduzida.
+- Texto de categoria movido para o final.
+- Mensagem de carrinho vazio.
+- Remoção de HTML de parcelamento escondido.
+- Ajuste de cor de preço e botão de compra.
+- Header fixo nos sites.
+
+### Pendentes
+- Altura de banner reduzida.
+- Barra de benefício no Casa.
+- Regra de frete.
+
+### Dúvidas
+- Item marcado como "Dúvidas" no documento compartilhado; confirmar o conteúdo/deliberação com João/Increazy antes de aprovar.
+
+## Validação preliminar dos stagings
+- Ambos os ambientes respondem e exibem catálogo/home.
+- Hotelaria: H1 aparece após o bloco inicial; scripts públicos incluem GTM `GTM-MMGX8ZL` e GA4 `G-CDCKFVTR5M`/`G-V0KMM7L6M6`.
+- Casa: catálogo e produtos aparecem; é necessário validar formalmente a presença/consentimento do tracking antes do aceite.
+- Esta checagem não substitui QA funcional: ainda faltam testes de carrinho, frete, parcelamento, checkout, eventos GA4/RD e compra ERP.
+
 ## Validação pós-Increazy (meus guardrails)
-- #8 SEO: H1, meta tags e indexabilidade preservados (não remover, só reposicionar o bloco de 4.022 chars).
-- #10 + layout: Consent Mode, GA4, RD Station e `compra_erp` não podem quebrar após mudanças de CSS/layout.
+- SEO: H1, meta tags e indexabilidade preservados (não remover, só reposicionar o bloco de 4.022 chars).
+- Tracking: Consent Mode, GA4, RD Station e `compra_erp` não podem quebrar após mudanças de CSS/layout.
 - Reportar em `Executado | Evidência | Status`.
+
