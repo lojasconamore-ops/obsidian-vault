@@ -23,5 +23,12 @@ Sérgio falou com João e combinou avançar com ajustes de ecommerce sugeridos p
 - #10 (27 domínios 3º / 187KB JS): inclui GTM/Consent/RD — testar tracking após qualquer mudança de layout.
 
 ## Pendências
+- [x] Sérgio solicitou os 15 ajustes da Fase 1 à Increazy (09/10).
+- [ ] Validar os 15 itens após deploy da Increazy (checklist de aceite).
 - [ ] Saber o que é o "Samurai" (analytics/heatmap/BI?) para avaliar integração com GA4+RD Station+sGTM.
 - [ ] (Opcional) Preparar briefing de 1 página antes de terça.
+
+## Validação pós-Increazy (meus guardrails)
+- #8 SEO: H1, meta tags e indexabilidade preservados (não remover, só reposicionar o bloco de 4.022 chars).
+- #10 + layout: Consent Mode, GA4, RD Station e `compra_erp` não podem quebrar após mudanças de CSS/layout.
+- Reportar em `Executado | Evidência | Status`.
