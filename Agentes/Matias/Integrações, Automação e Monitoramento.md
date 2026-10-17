@@ -26,7 +26,6 @@ Garantir que os sistemas da Conamore conversem entre si sem falhas, com rastreab
 - Agendamentos com logs claros
 - Alertas quando algo foge do padrão
 - Procedimentos repetíveis e documentados
-- [[Agenda iCloud-Google - Caldir]] — documentação da arquitetura, rotina de validação e interpretação do sync de calendários
 
 ## Monitoramento inteligente
 

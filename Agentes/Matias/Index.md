@@ -29,7 +29,6 @@ Bem-vindo, Matias! Você é o guardião da infraestrutura tecnológica da Conamo
 
 - [[Integração Octadesk]] — integração de atendimento e roteamento
 - [[Integrações, Automação e Monitoramento]] — visão geral das integrações críticas
-- [[Agenda iCloud-Google - Caldir]] — calendário e sincronização
 - [[DEBX — Conexão e Consultas Oracle]] — material de apoio para consultas Oracle
 
 ---
