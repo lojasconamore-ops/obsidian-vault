@@ -8,7 +8,7 @@
 ## 🔢 Resumo
 
 | Métrica | Qtd |
-|---|---|
+|---|---:|
 | Lista Negra Conamore | 90 |
 | Inativas Oracle (STATUS≠0) | 198 |
 | ✅ Consistentes (bloqueadas E inativas) | 86 |
@@ -16,6 +16,17 @@
 | 🟡 Sugestão INCLUIR (STATUS=3) | 4 |
 | 🟠 Avaliar (STATUS=2) | 101 |
 | ⚠️ Revisar (bloqueadas mas ATIVAS) | 4 |
+
+_Consulta somente leitura em `TEST_MATRIZ.F_CDEMP`; obtida com sucesso na tentativa 1._
+
+**Novidade desde 12/10/2026:**
+- `A2649 — NORTE LANCHONETE LTDA` entrou em `STATUS=1` (Bloqueado). **Novo item** na fila de inclusão 🔴.
+- `06055 — BEATRIZ PORTARO` (CPF 411.378.138-90) entrou em `STATUS=3` (Encerrado). **Novo item** na fila de inclusão 🟡.
+- `07358 — POUSADA KALIMAN LTDA` entrou em `STATUS=2` (cadastro 13/10/2026). Novo item na fila de avaliação 🟠.
+- `07385 — CONAMORE SSL CAMA MESA E BANHO LTDA` (entidade própria) entrou em `STATUS=2`. **NÃO incluir** — é a própria Conamore.
+- As demais sugestões (6 `STATUS=1` e 3 `STATUS=3` anteriores) e as 4 entradas em REVISÃO permanecem **inalteradas** desde a semana passada.
+
+**Conferência de integridade Oracle:** 86 consistentes + 7 STATUS=1 + 4 STATUS=3 + 101 STATUS=2 = 198 inativas.
 
 ---
 
@@ -31,7 +42,11 @@
 | 15876 | MARCELLE BUSTAMANTE | 390.540.538-52 |
 | 88693 | SERGIO TESTE 2 ⚠️ [TESTE] | 012.345.678-90 |
 
-**Ação sugerida:** Incluir na Lista Negra (exceto registros de teste, se houver).
+**Ação sugerida:** Incluir na Lista Negra somente após validação do Sérgio.
+
+**Pontos de controle:**
+- `88693 — SERGIO TESTE 2` aparenta cadastro de teste (CPF 012.345.678-90); não incluir automaticamente.
+- `15876 — MARCELLE BUSTAMANTE` possui CPF de 11 dígitos; confirmar identidade.
 
 ---
 
@@ -44,7 +59,7 @@
 | 05918 | MILENE  NASCIMENTO | 087.499.252-45 |
 | 06055 | BEATRIZ PORTARO | 411.378.138-90 |
 
-**Ação sugerida:** Avaliar inclusão na Lista Negra.
+**Ação sugerida:** Avaliar inclusão na Lista Negra; encerramento cadastral não comprova dívida por si só.
 
 ---
 
@@ -156,27 +171,33 @@
 | 99511 | MUNDIAL JACARANDÁ | 13.232.728/0001-90 |
 | 99559 | FIORELLA BUENO | 235.375.478-38 |
 
+**Nota de controle:** STATUS=2 pode representar cadastro cancelado, teste ou cliente sem compra. Não incluir automaticamente; validar dívida, movimentação e identidade.
+
 ---
 
 ## ⚠️ Para REVISÃO — Bloqueadas mas ATIVAS no Oracle
 
-| Código LN | Razão Social | CNPJ/CPF |
-|---|---|---|
-| A0238 | RESERVAS VOTORANTIM LTDA | 23.613.510/0002-10 |
-| A5509 | SANDI SILVA CARVALHO | 30.400.619/0001-54 |
-| A6561 | LOC STYLLO LOCACAO DE TOALHAS LTDA | 34.758.089/0001-71 |
-| A6584 | SAAM TOWAGE BRASIL S.A. | 05.436.047/0005-40 |
+| Código LN | Razão Social | CNPJ/CPF | Situação Oracle | Últ. Mov. |
+|---|---|---|---|---|
+| A0238 | RESERVAS VOTORANTIM LTDA | 23.613.510/0002-10 | ATIVO | 2026-10-07 |
+| A5509 | SANDI SILVA CARVALHO | 30.400.619/0001-54 | ATIVO | 2025-10-29 |
+| A6561 | LOC STYLLO LOCACAO DE TOALHAS LTDA | 34.758.089/0001-71 | ATIVO | 2026-08-28 |
+| A6584 | SAAM TOWAGE BRASIL S.A. | 05.436.047/0005-40 | ATIVO | 2025-09-04 |
 
-**Ação sugerida:** Verificar se ainda há dívida ativa. Se não, considerar remoção.
+**Ação sugerida:** Verificar se ainda há dívida ativa. Se não houver, considerar remoção somente após aprovação do Sérgio.
+
+**Destaques:**
+- `A0238 — RESERVAS VOTORANTIM LTDA` com movimentação recente (07/10/2026) — avaliar se houve retomada comercial antes de qualquer remoção.
+- `A6584 — SAAM TOWAGE` é uma das 10 filiais do grupo na Lista Negra; as demais 9 permanecem inativas. Avaliar esta filial isoladamente.
 
 ---
 
 ## 📈 Totalização para Aprovação
 
 | Ação | Qtd |
-|---|---|
+|---|---:|
 | 🔴 Incluir (STATUS=1) | 7 |
 | 🟡 Incluir (STATUS=3) | 4 |
-| ⚠️ Remover (ativos sem dívida) | 4 |
+| ⚠️ Remover (ativos, após validação de dívida) | 4 |
 
-Aguardando validação do Sérgio.
+Aguardando validação do Sérgio. A Lista Negra **não foi alterada automaticamente**.
