@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 18/10/2026 19:00 BRT  
+Atualizado: 19/10/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 18/10/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 19/10/2026 | [[GA4-Diario-2026-10-19]] | 16/10 vs 15/10 | D-3 vs D-4: usuários -27,8%, sessões -24,2%, engaj. +7,4 p.p., eventos -16,8%; Google / cpc 494 usuários (43,8%, -28,3%, engaj. recuperou p/ 53,0%); 🚨 LinkedIn pago 10 usuários (0,0% engaj., 10º dia crítico); orgânico 210 usuários (76,9% engaj., +15,4%); ig/paid disparou 76 usuários (72,6%); `(not set)` 86 sessões em novos/recorrentes e 55 em landing (98,2% de rejeição); mobile 79,4%; desktop 20,0% (59,3% engaj., 6m12s); landing interna /erp-faturamento no top 10; chatgpt.com recuperou (90,9% engaj.). |
 | 18/10/2026 | [[GA4-Diario-2026-10-18]] | 15/10 vs 14/10 | D-3 vs D-4: usuários -16,7%, sessões -17,5%, engaj. +5,2 p.p., eventos -5,7%; Google / cpc 689 usuários (44,2%, -25,6% vs 13/10); 🚨 disparo de e-mail ~169 usuários (RD Station+rd-email+RD+Station); LinkedIn pago 9 usuários (0,0% engaj., 9º dia crítico); orgânico 182 usuários (70,0% engaj.); `(not set)` 106 sessões em novos/recorrentes e 47 em landing (97,9% de rejeição); mobile 74,1%; desktop 25,6% (56,2% engaj., 13m 36s); landing crítica jogo-de-cama-400-fios (18,8%); chatgpt.com recuperou (88,9% engaj.); similarsearch.net baixa qualidade. |
 | 16/10/2026 | [[GA4-Diario-2026-10-16]] | 13/10 vs 12/10 | D-3 vs D-4: usuários +6,0%, sessões +8,0%, engaj. -2,2 p.p., eventos +3,0%; Google / cpc 926 usuários (51,3%, engaj. 34,7% — mínima recente); LinkedIn pago 34→18 (21,1% engaj., 8º dia crítico); orgânico 181→250 (68,4% engaj.); `(not set)` 115 sessões em novos/recorrentes e 72 em landing (100% de rejeição); mobile 79,2%; desktop 52,0% engaj. (acima do mobile); `/erp-faturamento` interno no top 10; perplexity.ai + similarsearch.net no radar; landings críticas saia-cama-box (22,2%) e lencol-redondo (22,2%). |
 | 15/10/2026 | [[GA4-Diario-2026-10-15]] | 12/10 vs 11/10 | D-3 vs D-4: usuários +7,2%, sessões +7,4%, engaj. +2,9 p.p., eventos +14,0%; Google / cpc 1.023 usuários (60,1%, +12,0%); LinkedIn pago 10→34 (5,6% engaj., 7º dia crítico); orgânico 164→181 (71,3% engaj.); `(not set)` 112 sessões em novos/recorrentes e landing com 91,5% de rejeição; mobile 91,8%; nova landing crítica protetor-de-colch-o (8,0%); nova fonte similarsearch.net/referral; ChatGPT fora do top 15. |
