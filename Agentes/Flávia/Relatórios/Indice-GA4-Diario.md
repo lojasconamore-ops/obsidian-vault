@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 19/10/2026 19:00 BRT  
+Atualizado: 20/10/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 19/10/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 20/10/2026 | [[GA4-Diario-2026-10-20]] | 17/10 vs 16/10 | D-3 vs D-4: usuários -5,2%, sessões -7,5%, engaj. -3,5 p.p., eventos -9,9%; Google / cpc 530 usuários (49,6%, engaj. caiu p/ 49,6%); 🚨 LinkedIn pago 5 usuários (14,3% engaj., 11º dia crítico); orgânico 167 usuários (69,1% engaj., 13m54s); 🆕 linktree/social 13 usuários (80,0%); desktop 12,1% com tempo anômalo 15m17s; mobile 87,6%; `(not set)` 80 sessões novos/recorrentes e 28 landing (96,4% rejeição); /erp-faturamento saiu do top 10. |
 | 19/10/2026 | [[GA4-Diario-2026-10-19]] | 16/10 vs 15/10 | D-3 vs D-4: usuários -27,8%, sessões -24,2%, engaj. +7,4 p.p., eventos -16,8%; Google / cpc 494 usuários (43,8%, -28,3%, engaj. recuperou p/ 53,0%); 🚨 LinkedIn pago 10 usuários (0,0% engaj., 10º dia crítico); orgânico 210 usuários (76,9% engaj., +15,4%); ig/paid disparou 76 usuários (72,6%); `(not set)` 86 sessões em novos/recorrentes e 55 em landing (98,2% de rejeição); mobile 79,4%; desktop 20,0% (59,3% engaj., 6m12s); landing interna /erp-faturamento no top 10; chatgpt.com recuperou (90,9% engaj.). |
 | 18/10/2026 | [[GA4-Diario-2026-10-18]] | 15/10 vs 14/10 | D-3 vs D-4: usuários -16,7%, sessões -17,5%, engaj. +5,2 p.p., eventos -5,7%; Google / cpc 689 usuários (44,2%, -25,6% vs 13/10); 🚨 disparo de e-mail ~169 usuários (RD Station+rd-email+RD+Station); LinkedIn pago 9 usuários (0,0% engaj., 9º dia crítico); orgânico 182 usuários (70,0% engaj.); `(not set)` 106 sessões em novos/recorrentes e 47 em landing (97,9% de rejeição); mobile 74,1%; desktop 25,6% (56,2% engaj., 13m 36s); landing crítica jogo-de-cama-400-fios (18,8%); chatgpt.com recuperou (88,9% engaj.); similarsearch.net baixa qualidade. |
 | 16/10/2026 | [[GA4-Diario-2026-10-16]] | 13/10 vs 12/10 | D-3 vs D-4: usuários +6,0%, sessões +8,0%, engaj. -2,2 p.p., eventos +3,0%; Google / cpc 926 usuários (51,3%, engaj. 34,7% — mínima recente); LinkedIn pago 34→18 (21,1% engaj., 8º dia crítico); orgânico 181→250 (68,4% engaj.); `(not set)` 115 sessões em novos/recorrentes e 72 em landing (100% de rejeição); mobile 79,2%; desktop 52,0% engaj. (acima do mobile); `/erp-faturamento` interno no top 10; perplexity.ai + similarsearch.net no radar; landings críticas saia-cama-box (22,2%) e lencol-redondo (22,2%). |
