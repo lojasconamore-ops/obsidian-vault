@@ -27,6 +27,7 @@ Bem-vinda, Flávia! Aqui está seu **treinamento completo** para se tornar a mel
 - [[Relatórios/Index|Índice de relatórios]] — auditorias e validações publicadas
 - [[SEO - Visibilidade IA - 2026-10-19|Visibilidade em IA — ciclo mais recente (19/10/2026)]] — monitoramento semanal Gemini
 - [[Conamore - Visão Geral da Empresa]] — página-base para copy e posicionamento
+- [[Comparativo Mensal - Lençóis 180 Fios - Conamore e Concorrentes|Comparativo mensal de preços — lençóis 180 fios]] — atualização automática todo dia 01
 
 ---
 
