@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 22/10/2026 19:00 BRT  
+Atualizado: 23/10/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 22/10/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 23/10/2026 | [[GA4-Diario-2026-10-23]] | 20/10 vs 19/10 | Usuários -6,6%, sessões -8,3%, engajamento -0,6 p.p., eventos -13,4%; Google CPC 510 usuários (55,1% de engajamento), orgânico 208 (63,1%); `(not set)` 108 sessões em novos/recorrentes e 57 landing (94,7% rejeição); mobile 75,2%; LinkedIn pago 28,6% (7 sessões); `/erp-faturamento` 67 sessões. |
 | 22/10/2026 | [[GA4-Diario-2026-10-22]] | 19/10 vs 18/10 | Usuários +8,9%, sessões +22,7%, engajamento -4,7 p.p., eventos +17,5%; Google CPC 570 usuários e engajamento 48,0% (-9,9 p.p.); orgânico 224; LinkedIn pago 22,2% (9 sessões); `(not set)` 129 sessões novos/recorrentes e 84 sessões landing (92,9% rejeição); mobile 76,6%; `/erp-faturamento` no top 10. |
 | 20/10/2026 | [[GA4-Diario-2026-10-20]] | 17/10 vs 16/10 | D-3 vs D-4: usuários -5,2%, sessões -7,5%, engaj. -3,5 p.p., eventos -9,9%; Google / cpc 530 usuários (49,6%, engaj. caiu p/ 49,6%); 🚨 LinkedIn pago 5 usuários (14,3% engaj., 11º dia crítico); orgânico 167 usuários (69,1% engaj., 13m54s); 🆕 linktree/social 13 usuários (80,0%); desktop 12,1% com tempo anômalo 15m17s; mobile 87,6%; `(not set)` 80 sessões novos/recorrentes e 28 landing (96,4% rejeição); /erp-faturamento saiu do top 10. |
 | 19/10/2026 | [[GA4-Diario-2026-10-19]] | 16/10 vs 15/10 | D-3 vs D-4: usuários -27,8%, sessões -24,2%, engaj. +7,4 p.p., eventos -16,8%; Google / cpc 494 usuários (43,8%, -28,3%, engaj. recuperou p/ 53,0%); 🚨 LinkedIn pago 10 usuários (0,0% engaj., 10º dia crítico); orgânico 210 usuários (76,9% engaj., +15,4%); ig/paid disparou 76 usuários (72,6%); `(not set)` 86 sessões em novos/recorrentes e 55 em landing (98,2% de rejeição); mobile 79,4%; desktop 20,0% (59,3% engaj., 6m12s); landing interna /erp-faturamento no top 10; chatgpt.com recuperou (90,9% engaj.). |
