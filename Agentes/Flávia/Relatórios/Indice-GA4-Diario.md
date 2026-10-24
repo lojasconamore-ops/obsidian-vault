@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 23/10/2026 19:00 BRT  
+Atualizado: 24/10/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 23/10/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 24/10/2026 | [[GA4-Diario-2026-10-24]] | 21/10 vs 20/10 | Usuários +9,1%, sessões +3,6%, engajamento +4,7 p.p., eventos +11,1%; Google CPC 587 usuários (53,6% de engajamento), orgânico 210 (71,8%); `(not set)` 83 sessões novos/recorrentes e 52 landing (94,2% de rejeição); mobile 76,5%; desktop 16m00s de duração média; `/erp-faturamento` 45 sessões. |
 | 23/10/2026 | [[GA4-Diario-2026-10-23]] | 20/10 vs 19/10 | Usuários -6,6%, sessões -8,3%, engajamento -0,6 p.p., eventos -13,4%; Google CPC 510 usuários (55,1% de engajamento), orgânico 208 (63,1%); `(not set)` 108 sessões em novos/recorrentes e 57 landing (94,7% rejeição); mobile 75,2%; LinkedIn pago 28,6% (7 sessões); `/erp-faturamento` 67 sessões. |
 | 22/10/2026 | [[GA4-Diario-2026-10-22]] | 19/10 vs 18/10 | Usuários +8,9%, sessões +22,7%, engajamento -4,7 p.p., eventos +17,5%; Google CPC 570 usuários e engajamento 48,0% (-9,9 p.p.); orgânico 224; LinkedIn pago 22,2% (9 sessões); `(not set)` 129 sessões novos/recorrentes e 84 sessões landing (92,9% rejeição); mobile 76,6%; `/erp-faturamento` no top 10. |
 | 20/10/2026 | [[GA4-Diario-2026-10-20]] | 17/10 vs 16/10 | D-3 vs D-4: usuários -5,2%, sessões -7,5%, engaj. -3,5 p.p., eventos -9,9%; Google / cpc 530 usuários (49,6%, engaj. caiu p/ 49,6%); 🚨 LinkedIn pago 5 usuários (14,3% engaj., 11º dia crítico); orgânico 167 usuários (69,1% engaj., 13m54s); 🆕 linktree/social 13 usuários (80,0%); desktop 12,1% com tempo anômalo 15m17s; mobile 87,6%; `(not set)` 80 sessões novos/recorrentes e 28 landing (96,4% rejeição); /erp-faturamento saiu do top 10. |
