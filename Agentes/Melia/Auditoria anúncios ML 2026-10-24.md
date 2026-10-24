@@ -1,0 +1,19 @@
+# Auditoria dos anúncios ML — 24/10/2026
+
+Conta `CONAMORE_HOTELARIA`. API ML: `GET /users/3742322571/items/search?status=active|paused`, itens e descrições; página oficial Conamore dos 19 SKUs base; visitas por item de 18 a 24/10 (com atraso de consolidação). Snapshot local: `~/.hermes/profiles/melia/cache/scratch/ml_listing_audit_20261024.json`, `site_sku_audit_20261024.jsonl`, `ml_visits_audit_20261024.jsonl`.
+
+**Escopo:** 23 IDs ativos, 19 SKUs únicos, 4 pares com mesmo SKU em versões catálogo e fora do catálogo. Preços dos 19 anúncios principais conferem com preço unitário exibido no site × unidades do kit. 83 visitas somadas nos 19 anúncios principais na janela de 7 dias; 13 vendas acumuladas desde a criação desses anúncios (períodos diferentes, não calcular conversão). Os anúncios criados hoje podem mostrar zero visitas por atraso da métrica.
+
+## Prioridade crítica
+
+1. Saldo do site zerado para os SKUs base `16429` (Queen sem elástico; ML 9 kits), `16411` (Solteiro sem elástico; ML 9 kits) e `16438` (King sem elástico; ML 10 kits). **Zero no site não prova zero no DEBX**; validar `v_estoq` e reservas antes de decidir pausa/redução. Não ajustar estoque automaticamente.
+2. Descrições de protetores de colchão com dimensões conflitantes: Queen `MLB5354263571` anuncia na descrição **160×190×35**, enquanto título do site e atributo ML indicam **160×200×35**; o site cita tecido **158×198×35**. Casal `MLB7792560454` anuncia **140×190×35** na descrição, enquanto site e atributo ML indicam **140×190×30** (site cita tecido 138×188×30). Corrigir apenas a descrição após confirmar medida comercial; evitar promessas não fundamentadas como hipoalergenicidade, ausência de calor/ruído se não houver ficha técnica.
+3. Duplicados ativos com mesmo SKU e `catalog_product_id`: `18082-4` (`MLB7771896658` fora de catálogo / `MLB7877182790` catálogo), `16429-2` (`MLB7771790724` / `MLB7880085208`), `16411-2` (`MLB5408881109` / `MLB7877182738`), `17689-2` (`MLB7829370556` / `MLB7877182712`). Os quatro itens de catálogo surgiram hoje, vendidas 0 unidades cada; têm descrição vinculada ao produto de catálogo (endpoint /description 404 **não significa sem descrição**). Conferir comprabilidade real e vínculo/estoque antes de encerrar ou consolidar; não inferir indisponibilidade apenas de `buy_box_winner:null`.
+
+## Melhorias comerciais e operacionais
+
+- **Peso/frete:** em 13 dos 19 anúncios principais, `SELLER_PACKAGE_WEIGHT` no ML está abaixo da soma do peso cadastral unitário do site. Exemplos: King sem elástico 765 g no ML vs 1.800 g pelas duas peças do site; Queen sem elástico 765 g vs 1.600 g; protetor King 925 g vs 1.600 g; protetor Queen 840 g vs 1.400 g; kit 4 fronhas com abas 485 g vs 800 g e sem abas 550 g vs 800 g. O peso do site pode ser estimativo ou incluir embalagem unitária; só pesagem do pacote pronto resolve. Revisar também dimensões e custo de frete com Tobias/Tiago; não atualizar por cálculo sem medição.
+- **Fotos:** capa do kit de 4 protetores de travesseiro `MLB7880271166` mostra líquido caindo sobre superfície branca, não permite identificar a peça nem o zíper. Substituir por foto oficial da peça completa e adicionar detalhe do zíper; fotos de teste como secundárias. Capas das fronhas mostram uma fronha, mas não 4 peças; adicionar foto secundária real das quatro juntas, sem induzir inclusão de travesseiros.
+- **Tráfego:** visitas baixas nos anúncios maduros; após correções de ficha e margem, avaliar títulos/fotos e teste controlado de Product Ads com Flávia, medindo ROI. Não usar vendas acumuladas sobre visitas de sete dias como taxa de conversão.
+
+Nenhum anúncio, preço, foto ou estoque foi alterado nesta auditoria.
