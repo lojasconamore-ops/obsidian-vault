@@ -25,7 +25,7 @@ Este índice reúne os relatórios de acompanhamento financeiro e fiscal do Tiag
 | 15 | 06 Set 2026 | [[Relatórios/Relatório Diário - 06 Set 2026]] |
 | 16 | 08 Set 2026 | [[Relatórios/Relatório Diário - 08 Set 2026]] |
 
-## Cruzamentos Lista Negra (7)
+## Cruzamentos Lista Negra (8)
 
 | # | Data | Arquivo |
 |---|---|---|
@@ -36,6 +36,7 @@ Este índice reúne os relatórios de acompanhamento financeiro e fiscal do Tiag
 | 5 | 06 Jul 2026 | [[Relatórios/Relatório Cruzamento Lista Negra - 06 Jul 2026]] |
 | 6 | 13 Jul 2026 | [[Relatórios/Relatório Cruzamento Lista Negra - 2026-07-13]] |
 | 7 | 28 Set 2026 | [[Agentes/Tiago/Relatório Cruzamento Lista Negra - 2026-09-28]] |
+| 8 | 26 Out 2026 | [[Agentes/Tiago/Relatório Cruzamento Lista Negra - 2026-10-26]] |
 
 ## Títulos em Aberto
 
