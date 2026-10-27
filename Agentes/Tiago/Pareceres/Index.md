@@ -4,8 +4,9 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 - [[Agentes/Tiago/Index|Voltar ao índice do Tiago]]
 
-## Pareceres (65)
+## Pareceres (66)
 
+| 66 | Hotel J C LTDA — Pedido 0127237 | [[Pareceres/Parecer - Hotel J C - 0127237 - 2026-10-27]] |
 | 65 | Catu Palace Hotel / Costa Garrido & Rocha — Pedido 0123117 | [[Pareceres/Parecer - Catu Palace Hotel - 0123117 - 2026-10-14]] |
 | 64 | Enseada Hotéis e Turismo LTDA — Pedido 0124008 | [[Pareceres/Parecer - Enseada Hoteis e Turismo - 0124008 - 2026-10-07]] |
 | 63 | Yannai Chalé Praia LTDA — Pedido 0123125 | [[Pareceres/Parecer - Yannai Chale Praia - 0123125 - 2026-09-29]] |
@@ -77,4 +78,4 @@ Este índice organiza todos os pareceres e análises de crédito realizados pelo
 
 ---
 
-*Atualizado em: 14/10/2026 — 65 pareceres*
+*Atualizado em: 27/10/2026 — 66 pareceres*
