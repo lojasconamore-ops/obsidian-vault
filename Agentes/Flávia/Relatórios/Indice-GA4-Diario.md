@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 27/10/2026 19:00 BRT  
+Atualizado: 28/10/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 27/10/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 28/10/2026 | [[GA4-Diario-2026-10-28]] | 25/10 vs 24/10 | Usuários -0,1%, sessões -2,7%, engajamento -1,1 p.p., eventos -5,7%; Google CPC 527 usuários (57,0% engaj.), orgânico 77 (-21,4%); direto com 41,8% de engajamento; `(not set)` 102 sessões em novos/recorrentes (95,1% rejeição) e 16 na landing (93,8%); mobile 86,2%; desktop 36,1% de engajamento. |
 | 27/10/2026 | [[GA4-Diario-2026-10-27]] | 24/10 vs 23/10 | Usuários -9,6%, sessões -14,2%, engajamento -2,6 p.p., eventos -15,4%; Google CPC 507 usuários (54,5% engaj.), orgânico 98 (-34,7%); `(not set)` 120 sessões em novos/recorrentes (95,0% rejeição) e 25 na landing (92,0%); mobile 89,5%; Instagram paid 137 usuários. |
 | 26/10/2026 | [[GA4-Diario-2026-10-26]] | 23/10 vs 22/10 | Usuários -11,6%, sessões -7,9%, engajamento +1,2 p.p., eventos -11,2%; Google CPC 568 usuários (58,3% engaj.), orgânico 150 (66,8%); `(not set)` 141 sessões em novos/recorrentes (94,3% rejeição) e 57 landing (98,2%); mobile 82,0%; LinkedIn pago 2 sessões sem engajamento. |
 | 25/10/2026 | [[GA4-Diario-2026-10-25]] | 22/10 vs 21/10 | Usuários +11,7%, sessões +14,2%, engajamento +1,3 p.p., eventos +12,5%; Google CPC 618 usuários (56,2% engaj.), orgânico 262 (69,0%); `(not set)` 94 sessões em novos/recorrentes e 57 landing (96,5% rejeição); mobile 78,4% dos usuários; LinkedIn pago 10% engajamento em 10 sessões; `/saia-para-cama-box-queen` 65,5% rejeição. |
