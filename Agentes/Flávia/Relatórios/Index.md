@@ -6,6 +6,8 @@ Este índice reúne as auditorias e validações do site e catálogo.
 
 ## Relatórios estratégicos
 
+- [[Consent-Mode-2026-10-28|Consent Mode — reteste 28/10/2026]]
+
 - [[GA4-Diario-2026-08-11]]
 - [[GA4-Diario-2026-08-10]]
 - [[Checkagem Completa Site Conamore - 2026-06-13]]
