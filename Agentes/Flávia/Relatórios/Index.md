@@ -6,6 +6,7 @@ Este índice reúne as auditorias e validações do site e catálogo.
 
 ## Relatórios estratégicos
 
+- [[Consent-Mode-2026-10-29|Consent Mode — reteste 29/10/2026]]
 - [[Consent-Mode-2026-10-28|Consent Mode — reteste 28/10/2026]]
 
 - [[GA4-Diario-2026-08-11]]
