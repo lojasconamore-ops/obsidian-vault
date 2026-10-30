@@ -33,3 +33,29 @@ O material menciona acompanhamento individual de um colaborador por produtividad
 ## A confirmar
 
 Horário efetivo e resultado da reunião; escopo de Fred versus decisão final de Rogério; destino das atividades de Kaique; cobertura de recebimento/reposição nos períodos sem Lucas; competência e regras dos números 725/906; existência dos dados e ajuste da planilha; prioridades abertas da calculadora; evidências de manutenção da organização após a força-tarefa.
+
+## Complemento — notas do Granola da reunião da tarde
+
+> Recebidas posteriormente de Sérgio, sob título “Productivity and organization review”. A data/hora da reunião não constam no texto; não inferir que cada ação já ocorreu ou que “amanhã” corresponda a um dia específico sem confirmação.
+
+### Resultados relatados e controles
+
+- Na sexta-feira da força-tarefa, duplas teriam trabalhado das **14h10 até aproximadamente 17h20**. A equipe relatou melhora visível e **corredores livres**, embora o estado do estoque ainda não seja considerado ideal. Espaço do 180 teria sido finalizado na manhã da reunião. Atribuição da melhora à organização, em vez de insuficiência de espaço, é percepção da reunião; validar capacidade e segurança com o estoque efetivo.
+- Lucas acompanhará diariamente a entrada pela planilha de recebimento: verificar se mercadoria foi conferida, guardada e posicionada corretamente; reportar problemas a Rogério. Reposição definida para terças e quintas, ajustável se o volume exigir.
+- Cinco paletes de madeira foram relatados como recebidos para contingência e proteção de mercadorias contra contato com o chão. Verificar capacidade, integridade, estabilidade, área apropriada e normas locais de armazenagem.
+- Conversar com Luizinho e Chayenne sobre padronização dos fardos que chegam da confecção; números para fronha (200) e lençol (24 ou 30) aparecem como **exemplos**, não padrão aprovado.
+- Fred assume alinhamento entre separação e mesa, sequência numerada de pedidos e intercalação de pedidos grandes/pequenos respeitando prioridades.
+
+### Apontamento e interpretação
+
+- Hipótese nova para mesa registrar mais eventos que separação: pedidos com bordado/pendência podem passar **duas vezes pela mesa**. Continua possível apontamento incompleto da separação; a causa não foi demonstrada por conciliação pedido a pedido. Definir duas métricas separadas: **pedidos únicos** e **passagens/retrabalhos na mesa**. Conciliar por ID do pedido, data e etapa antes de avaliar produtividade de pessoas.
+- Notas dizem iniciar **no dia seguinte à reunião** o apontamento diário individual de separação (nome, quantidade de pedidos e valor) para **Eduardo e Mateus**, no formato da mesa. Restrição de acesso, finalidade, qualidade da fonte e interpretação contextual são necessárias; valor isolado não mede esforço. Não compartilhar publicamente comparação individual.
+- Pendência relatada: Sérgio descer com a comanda do bordado para ajustar o fluxo/registro. A entrega não está confirmada neste material.
+
+### Pendências após o complemento
+
+1. Confirmar quando ocorreu a reunião e se a planilha de separação foi iniciada; não converter “amanhã” em data presumida.
+2. Conferir, por amostra de IDs, se a dupla passagem pela mesa explica a divergência entre as contagens, e distinguir retrabalho de produção final.
+3. Confirmar se os corredores permanecem livres, inclusive após novos recebimentos, e se o volume excedente cabe com segurança.
+4. Definir padrão de fardos com responsáveis da confecção, após validar capacidade e identificação; não aplicar números exemplificativos automaticamente.
+5. Confirmar que os papéis de Fred e Lucas foram comunicados e que Rogério segue responsável pela integração do processo.
