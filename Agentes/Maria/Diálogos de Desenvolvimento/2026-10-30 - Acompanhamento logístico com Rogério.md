@@ -1,6 +1,6 @@
-# Acompanhamento com Rogério — logística — 30/10/2026
+# Acompanhamento com Rogério — reuniões de 29/10/2026 (registro recebido em 30/10)
 
-> **Uso interno e confidencial — direção e RH.** Fonte: anotações do Granola encaminhadas por Sérgio; [transcrição indicada na fonte](https://notes.granola.ai/t/e19fea8d-f730-4044-88e7-5ff98dff611c) não conferida neste registro. Relacionado a [[2026-10-23 - Força-tarefa do pátio logístico]]. Registrar acordos relatados, sem presumir execução posterior.
+> **Uso interno e confidencial — direção e RH.** O PDF comparativo enviado posteriormente identifica explicitamente as conversas como ocorridas em **29/10/2026**; o arquivo desta nota foi criado em 30/10, data do recebimento das mensagens nesta sessão. Fonte: anotações do Granola encaminhadas por Sérgio; [transcrição indicada na fonte](https://notes.granola.ai/t/e19fea8d-f730-4044-88e7-5ff98dff611c) não conferida neste registro. Relacionado a [[2026-10-23 - Força-tarefa do pátio logístico]]. Registrar acordos relatados, sem presumir execução posterior.
 
 ## Balanço relatado
 
