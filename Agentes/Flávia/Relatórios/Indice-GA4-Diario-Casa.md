@@ -4,6 +4,7 @@ Relatórios diários de tráfego da **Conamore Casa** (lojas.conamore.com.br) ·
 
 | Data de geração | Dados comparados | Arquivo |
 |---|---|---|
+| 31/10/2026 | 28/10 (D-3) vs 27/10 (D-4) | [[GA4-Diario-Casa-2026-10-31]] |
 | 30/10/2026 | 27/10 (D-3) vs 26/10 (D-4) | [[GA4-Diario-Casa-2026-10-30]] |
 | 29/10/2026 | 26/10 (D-3) vs 25/10 (D-4) | [[GA4-Diario-Casa-2026-10-29]] |
 | 28/10/2026 | 25/10 (D-3) vs 24/10 (D-4) | [[GA4-Diario-Casa-2026-10-28]] |
