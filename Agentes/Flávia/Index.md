@@ -28,7 +28,7 @@ Bem-vinda, Flávia! Aqui está seu **treinamento completo** para se tornar a mel
 - [[SEO - Visibilidade IA - 2026-10-26|Visibilidade em IA — ciclo mais recente (26/10/2026)]] — monitoramento semanal Gemini; [[SEO - Visibilidade IA - 2026-10-19|ciclo anterior]]
 - [[Consent Mode - Validação 2026-10-30|Consent Mode — validação 30/10/2026]] — cinco contextos limpos, GA4 D-3 e alerta de cookies pré-escolha
 - [[Conamore - Visão Geral da Empresa]] — página-base para copy e posicionamento
-- [[Comparativo Mensal - Lençóis 180 Fios - Conamore e Concorrentes|Comparativo mensal de preços — lençóis 180 fios]] — atualização automática todo dia 01
+- [[Comparativo Mensal - Lençóis 180 Fios - Conamore e Concorrentes|Comparativo mensal de preços — lençóis 180 fios e toalhas de banho]] — atualização automática todo dia 01
 
 ---
 
