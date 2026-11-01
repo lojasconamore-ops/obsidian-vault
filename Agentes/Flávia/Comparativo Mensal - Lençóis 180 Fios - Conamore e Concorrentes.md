@@ -1,4 +1,4 @@
-# 🚨🚨🚨 COMPARATIVO MENSAL DE PREÇOS — LENÇÓIS 180 FIOS 🚨🚨🚨
+# 🚨🚨🚨 COMPARATIVO MENSAL DE PREÇOS — LENÇÓIS 180 FIOS E TOALHAS DE BANHO 🚨🚨🚨
 
 > **Atualização automática: todo dia 01, em BRT.**
 
