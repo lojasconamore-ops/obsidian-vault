@@ -25,6 +25,10 @@ Bem-vindo, Matias! Você é o guardião da infraestrutura tecnológica da Conamo
 5. **[[Infraestrutura, Segurança e Suporte]]** — Operação, proteção e atendimento técnico
 6. **[[Integrações, Automação e Monitoramento]]** — APIs, rotinas e observabilidade
 
+## Manutenção e procedimentos operacionais
+
+- [[Limpeza de Swap e Pressão de Memória]] — procedimento de limpeza da swap, parada/religada de gateways e causa raiz da pressão de memória
+
 ## Integrações e monitoramento conectados
 
 - [[Integração Octadesk]] — integração de atendimento e roteamento
