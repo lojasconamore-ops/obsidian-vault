@@ -195,4 +195,8 @@
 | 🟡 Candidatos à inclusão (STATUS=3) | 5 |
 | ⚠️ Revisar, possível remoção apenas sem dívida | 5 |
 
-**Aguardando validação do Sérgio. A Lista Negra não foi alterada.**
+**Situação na emissão do relatório (08:07 BRT): aguardando validação; a Lista Negra ainda não havia sido alterada.**
+
+## Decisão posterior — 02/11/2026, 08:31 BRT
+
+Sérgio autorizou a inclusão dos sugeridos, exceto Sérgio Ladeira e DOUGLAS RAUTEMBERG PE. Os 14 candidatos de STATUS=1/3 foram revalidados por código, razão, documento e status em `TEST_MATRIZ.F_CDEMP`; nenhum era nominalmente Sérgio Ladeira. Por cautela, o cadastro de teste `88693 — SERGIO TESTE 2` também foi excluído, assim como `31508 — DOUGLAS RAUTEMBERG PE`. **12 cadastros incluídos** na [[Lista Negra]] (7 STATUS=1 e 5 STATUS=3), passando de 90 para 102 entradas únicas. STATUS=2 continuou fora da inclusão. A decisão é bloqueio comercial autorizado, não afirmação de dívida comprovada; a verificação de obrigação financeira não foi realizada para cada incluído.
