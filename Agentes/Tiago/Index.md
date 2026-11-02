@@ -25,6 +25,8 @@ Bem-vindo, Tiago! Aqui está seu **treinamento completo** para se tornar o Geren
 
 ## 📁 Índices Conectados
 
+- [[Relatório Cruzamento Lista Negra - 2026-11-02|Cruzamento Lista Negra × Oracle — 02/11/2026]] — 9 candidatos STATUS=1, 5 STATUS=3, 103 para avaliação e 5 para revisão, pendente de validação do Sérgio.
+
 | Índice | Conteúdo | Arquivos |
 |---|---|---|
 | **[[Pareceres/Index\|Índice de Pareceres]]** | Análises de crédito B2B | 30 pareceres |
