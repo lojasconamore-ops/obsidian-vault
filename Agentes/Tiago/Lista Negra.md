@@ -1,7 +1,7 @@
 # 🚫 Lista Negra Conamore
 
-**Total: 90 clientes bloqueados**
-**Atualizado em:** 29/06/2026
+**Total: 102 clientes bloqueados**
+**Atualizado em:** 02/11/2026 — inclusão autorizada por Sérgio Ladeira conforme cruzamento Oracle de 02/11/2026
 
 | Código | Razão Social | Nome Fantasia | CPF/CNPJ |
 |--------|-------------|---------------|----------|
@@ -94,4 +94,18 @@
 | 97485 | DESPORTIVO BRASIL PARTICIPACOES LTDA | DESPORTIVO BRASIL PARTICIPACOES LTDA | 07.695.300/0001-81 |
 || 99215 | RENATA MANCINELLI | RENATA MANCINELLI | 00.027.968/3388-75 |
 || 99225 | MARIANA ZARATINI DE GOES MACIEL | MARIANA ZARATINI DE GOES MACIEL | 00.030.711/6478-52 |
-|| A6563 | ASSOC. BRAS. IGREJA DE JESUS CRISTO S.U.D. | ASSOC. BRAS. IGREJA DE JESUS CRISTO S.U.D. | 61.012.019/0001-42 |
+| A6563 | ASSOC. BRAS. IGREJA DE JESUS CRISTO S.U.D. | ASSOC. BRAS. IGREJA DE JESUS CRISTO S.U.D. | 61.012.019/0001-42 |
+| A1102 | ANDRE RIBEIRO DE OLIVEIRA HOTEL NOSSA SENHORA APARECIDA | ANDRE RIBEIRO DE OLIVEIRA HOTEL NOSSA SE | 40.059.557/0001-12 |
+| A2416 | RF HOTELARIA E TURISMO LTDA | RF HOTELARIA E TURISMO LTDA | 49.993.730/0001-20 |
+| A2649 | NORTE LANCHONETE LTDA | NORTE LANCHONETE LTDA | 46.798.325/0001-62 |
+| A5636 | CARLOS HENRIQUE FERREIRA SILVA 05982531650 | ACALA | 42.588.949/0001-02 |
+| A6683 | ALINE ESPINDOLA DA CRUZ RESTAURANTE GOMERAL | ALINE ESPINDOLA DA CRUZ RESTAURANTE GOME | 08.801.387/0001-97 |
+| 07649 | GABRIELLI DEBASTIANI | GABRIELLI DEBASTIANI | 039.537.079-57 |
+| 15876 | MARCELLE BUSTAMANTE | MARCELLE BUSTAMANTE | 390.540.538-52 |
+| A0111 | SERRANOS HOTELARIA LTDA SERRABOS HOTEL | SERRANOS HOTELARIA LTDA SERRABOS HOTEL | 09.232.888/0001-62 |
+| 02475 | FORTE SERVICOS LTDA | HOTEL MATINHA | 48.022.257/0001-70 |
+| 02565 | G & C HOTELARIA POUSADA E PESCA ESPORTIVA LTDA | POUSADA PESCA E ESPORTIVA | 60.303.044/0001-12 |
+| 05918 | MILENE NASCIMENTO | MILENE NASCIMENTO | 087.499.252-45 |
+| 06055 | BEATRIZ PORTARO | BEATRIZ PORTARO | 411.378.138-90 |
+
+**Registro da inclusão de 02/11/2026:** 12 cadastros sugeridos no [[Relatório Cruzamento Lista Negra - 2026-11-02]] e confirmados novamente em `TEST_MATRIZ.F_CDEMP` às 08:31 BRT. Sete estavam com `EMP_STATUS=1` (bloqueados no Oracle) e cinco com `EMP_STATUS=3` (encerrados). Inclusão determinada pelo Sérgio; o status cadastral isolado não constitui prova de dívida. Excluídos expressamente desta inclusão: `31508 — DOUGLAS RAUTEMBERG PE`; e `88693 — SERGIO TESTE 2`, cadastro de teste com nome Sérgio, por cautela diante da exceção a Sérgio Ladeira. Nenhum cadastro nominal `SERGIO LADEIRA` constava das sugestões. Os registros `EMP_STATUS=2` (cancelados) não integram a lista de sugestões de inclusão e não foram adicionados.
