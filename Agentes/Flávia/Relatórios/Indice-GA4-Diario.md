@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 02/11/2026 19:00 BRT  
+Atualizado: 03/11/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 02/11/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 03/11/2026 | [[GA4-Diario-2026-11-03]] | 31/10 vs 30/10 | Usuários -20,0%, sessões -23,4%, engajamento -1,2 p.p., eventos -16,4%; Google CPC 430 usuários (-1,4%); `(not set)` 92 sessões em novos/recorrentes (93,5% rejeição) e 27 na landing (92,6%); mobile 87,4%; `/erp-faturamento` 11 sessões. |
 | 02/11/2026 | [[GA4-Diario-2026-11-02]] | 30/10 vs 29/10 | Usuários -12,2%, sessões -13,4%, engajamento +0,9 p.p., eventos -10,3%; Google CPC 436 usuários (-15,8%), direto 199 e orgânico 119; `(not set)` 99 sessões em novos/recorrentes (94,9% rejeição) e 49 na landing (95,9%); mobile 75,4%; `/erp-faturamento` 76 sessões — verificar escopo. |
 | 01/11/2026 | [[GA4-Diario-2026-11-01]] | 29/10 vs 28/10 | Usuários -1,4%, sessões -0,4%, engajamento -1,9 p.p., eventos -0,5%; Google CPC 518 usuários; `(not set)` 125 sessões em novos/recorrentes (94,4% rejeição) e 75 na landing (94,7%); mobile 74,5%; `/toalhas-para-hoteis-pousadas` 35,6% engajamento; `/erp-faturamento` 42 sessões. |
 | 31/10/2026 | [[GA4-Diario-2026-10-31]] | 28/10 vs 27/10 | Usuários -8,1%, sessões -8,2%, engajamento +2,2 p.p., eventos -10,9%; Google CPC 505 usuários; `(not set)` 163 sessões em novos/recorrentes (95,1% rejeição) e 49 na landing (98,0%); mobile 80,9%; `/lencol-para-hotelaria` 49,0% engajamento; `/erp-faturamento` 31 sessões. |
