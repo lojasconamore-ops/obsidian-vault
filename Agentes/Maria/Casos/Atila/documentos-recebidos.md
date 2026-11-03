@@ -3,7 +3,7 @@ caso: Átila
 tipo: inventario-documentos
 responsavel: Maria (RH)
 confidencialidade: alta
-ultima_atualizacao: 2026-10-27
+ultima_atualizacao: 2026-11-03
 tags: [caso-rh, acidente-trabalho, atila, documentos]
 ---
 
@@ -22,6 +22,7 @@ tags: [caso-rh, acidente-trabalho, atila, documentos]
 | 2026-08-21 | `Documentos/Encaminhamento-Reavaliacao-Retorno-Work-2026-08-20-Antonio-Atila.pdf` | PDF | Enviado no Workspace RH | Reavaliação da Work: apto com restrições por mais 30 dias; segunda restrição contém aparente erro de redação e requer confirmação formal da clínica | `c1cd7e0831d8a6b01b4df40acf3677db4ba5ce656aee45e10a1e0d09f6328c19` |
 | 2026-10-15 | `Documentos/Atestado-Atendimento-2026-10-06-Antonio-Atila.jpg` | JPG | Imagem enviada no Telegram (grupo RH) | Atestado de atendimento do Hospital Mário Gatti apresentado à Conamore em 06/10/2026; consulta de urgência e repouso por 7 dias; CID M75 (lesões do ombro); Dr. Gustavo Naia — CRM 288580 | `912252c11b30060255db148162e9135c047bc3f8f7e782caada433a02fa42a37` |
 | 2026-10-27 | `Documentos/Relatorio-Fisioterapia-Ao-Ortopedista-2026-10-23-Antonio-Atila.pdf` | PDF | Enviado no Telegram (grupo RH) | Relatório da fisioterapia dirigido ao ortopedista, datado de 23/10; relata dor intensa e ausência de melhora; não é ASO ou atestado de afastamento. Segundo Sérgio, já encaminhado à Medicina Ocupacional. Ver [[registro-relatorio-fisioterapia-2026-10-23]]. | `6d6d3f13a2ec8b326128a310e0bd57c08b8ee50ca368f2669ed163734bb2c8ec` |
+| 2026-11-03 | `Documentos/Audio-Dra-Victoria-Atualizacao-Ocupacional-2026-11-03-1.m4a` | M4A | Áudio enviado no grupo RH por Sérgio | Relato verbal da médica sobre fisioterapia continuada, nova avaliação ortopédica e manutenção das restrições; transcrições dos áudios 2 e 3 recebidas em texto, sem arquivos originais. Ver [[registro-audios-dra-victoria-2026-11-03]]. | `2f45c6090fc0a934d73b8780a79a7b8df6d68bc4f7f3b63921ca379b3a5dbc17` |
 
 ## Leitura do PDF recebido em 23/07/2026
 

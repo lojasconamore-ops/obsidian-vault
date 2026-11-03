@@ -53,6 +53,7 @@ Usar o documento jurídico para riscos e conduta, mas considerar o `[[Dossie Mes
 | `[[registro-reavaliacao-retorno-2026-08-20]]` | Reavaliação de 20/08: apto com restrições por mais 30 dias; documento contém aparente erro de redação e demanda confirmação da clínica |
 | `[[registro-atestado-medico-2026-10-06]]` | Atestado de atendimento apresentado à Conamore em 06/10/2026 (Hospital Mário Gatti): consulta de urgência com repouso por 7 dias; CID M75 (lesões do ombro); retorno teórico 13/10/2026 |
 | `[[registro-relatorio-fisioterapia-2026-10-23]]` | Relatório de fisioterapia dirigido ao ortopedista, datado de 23/10/2026; relata dor intensa e ausência de melhora. Encaminhamento à Medicina Ocupacional informado por Sérgio; não substitui parecer ocupacional. |
+| `[[registro-audios-dra-victoria-2026-11-03]]` | Três relatos verbais recebidos em 03/11: alta do ortopedista segundo a médica, fisioterapia continuada, segunda opinião solicitada e restrições laborais mantidas; aguarda parecer ocupacional escrito. |
 | `[[encaminhamentos-juridico]]` | Quando e como escalar o Adrian |
 
 ## Princípios de conduta (do Jurídico, pra gente não esquecer)
