@@ -118,3 +118,12 @@ tags: [log, comunicacoes, atila]
 - **Anexo preservado:** `Documentos/Atestado-Atendimento-2026-10-06-Antonio-Atila.jpg`
 - **Registro detalhado em:** `[[registro-atestado-medico-2026-10-06]]`
 - **Próximo passo indicado:** período operacional de 06/10 a 12/10/2026 com retorno teórico em 13/10/2026; encaminhar à Medicina Ocupacional, dar ciência ao Adrian e lançar no ponto/DP somente após validação médica.
+
+## #009 — Relato verbal da Dra. Victoria e transcrições dos áudios
+
+- **Data de recebimento:** 03/11/2026; data da avaliação narrada não informada.
+- **Tipo:** OUT (áudio 1 recebido; transcrições dos áudios 1, 2 e 3 fornecidas por Sérgio).
+- **Assunto:** continuidade de fisioterapia, segunda opinião ortopédica, alta especializada relatada e manutenção das restrições ocupacionais.
+- **Resumo:** Dra. Victoria relata decisão conservadora do ortopedista, leve melhora lenta, solicitação de mais 10 sessões de fisioterapia e nova avaliação por outro ortopedista. Afirma ter **mantido as restrições**. Em outro áudio, considera possível alta do especialista sem declaração escrita após fim do atestado e retorno sem nova conduta. Não há, apenas por esses relatos, alta ocupacional irrestrita nem parecer escrito atual.
+- **Pontos sensíveis:** relatório fisioterapêutico de 23/10 relata dor intensa e ausência de melhora; esclarecer a diferença com a médica. Requerer restrições, prazo e tarefas compatíveis por escrito, sem alterar ponto, folha, função ou situação previdenciária automaticamente.
+- **Anexo e nota:** `Documentos/Audio-Dra-Victoria-Atualizacao-Ocupacional-2026-11-03-1.m4a`; `[[registro-audios-dra-victoria-2026-11-03]]`. Áudios 2 e 3 somente em transcrição enviada pelo usuário.
