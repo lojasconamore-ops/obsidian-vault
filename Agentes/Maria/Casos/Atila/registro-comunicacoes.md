@@ -127,3 +127,13 @@ tags: [log, comunicacoes, atila]
 - **Resumo:** Dra. Victoria relata decisão conservadora do ortopedista, leve melhora lenta, solicitação de mais 10 sessões de fisioterapia e nova avaliação por outro ortopedista. Afirma ter **mantido as restrições**. Em outro áudio, considera possível alta do especialista sem declaração escrita após fim do atestado e retorno sem nova conduta. Não há, apenas por esses relatos, alta ocupacional irrestrita nem parecer escrito atual.
 - **Pontos sensíveis:** relatório fisioterapêutico de 23/10 relata dor intensa e ausência de melhora; esclarecer a diferença com a médica. Requerer restrições, prazo e tarefas compatíveis por escrito, sem alterar ponto, folha, função ou situação previdenciária automaticamente.
 - **Anexo e nota:** `Documentos/Audio-Dra-Victoria-Atualizacao-Ocupacional-2026-11-03-1.m4a`; `[[registro-audios-dra-victoria-2026-11-03]]`. Áudios 2 e 3 somente em transcrição enviada pelo usuário.
+
+## #010 — Recebimento do encaminhamento escrito da Work de 03/11/2026
+
+- **Data do documento:** 03/11/2026.
+- **Data do recebimento e guarda:** 04/11/2026 (BRT); hora exata da mensagem não registrada aqui.
+- **Tipo:** OUT (PDF recebido de Sérgio no grupo RH; sem comunicação externa expedida por Maria).
+- **Assunto:** aptidão com restrição, carga zero, sugestão de pausas, alongamento e reavaliação.
+- **Resumo documental:** Work / Dra. Victoria: “APTO COM RESTRIÇÃO”; “CARGA ZERO”; “SUGIRO PAUSAS DE 15 MINUTOS A CADA 1H TRABALHADA”; alongamento durante a jornada e avaliação após 30 dias. Relata encaminhamento a médico assistente. Documento é encaminhamento à empresa, não ASO.
+- **Anexo/nota:** `Documentos/Encaminhamento-Restricoes-Work-2026-11-03-Antonio-Atila.pdf`; `[[registro-encaminhamento-work-2026-11-03]]`.
+- **Próximo passo sugerido, sujeito à decisão humana:** Isabel e gestão verificar atividade compatível e execução de pausas/alongamento sem prejuízo ao colaborador, conforme decisão de Sérgio; confirmar com a Work repetição do MSD, esforço, tarefas permitidas, ASO se houver e agenda de reavaliação. Não fazer ajustes de ponto/folha nem comunicações a terceiros automaticamente.
