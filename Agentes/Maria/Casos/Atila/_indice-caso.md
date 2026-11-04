@@ -25,7 +25,7 @@ Por orientação de Sérgio em 23/07/2026, usar como base principal o `[[Dossie 
 
 ## Situação em uma linha
 
-Colaborador em **acidente de trabalho** ocorrido em **24/02/2026** ao carregar rolo de tecido, com **CAT emitida**, primeiros 15 dias pagos pela empresa e encaminhamento previdenciário. Em **20/08/2026**, a Medicina Ocupacional manteve o parecer de **apto com restrições por mais 30 dias**, porém a segunda restrição foi redigida sem a palavra “não”, exigindo confirmação/retificação formal da clínica; até esclarecimento, o RH deve manter preventivamente carga zero, sem movimento repetitivo com o membro superior direito e sem esforço intenso.
+Em **03/11/2026**, a Work emitiu novo **encaminhamento à empresa**: colaborador **apto com restrição**, com **carga zero**, sugestão de pausas de **15 minutos a cada hora trabalhada**, alongamento durante a jornada e avaliação após 30 dias. O documento não é ASO e não repete expressamente as limitações sobre movimento repetitivo do membro superior direito e esforço intenso descritas em julho, nem corrige a linha conflitante de agosto. Confirmar com a Work o alcance dessas limitações e tarefas compatíveis; não presumir liberação pela omissão. Ver [[registro-encaminhamento-work-2026-11-03]].
 
 ## Origem jurídica do caso
 
@@ -53,7 +53,8 @@ Usar o documento jurídico para riscos e conduta, mas considerar o `[[Dossie Mes
 | `[[registro-reavaliacao-retorno-2026-08-20]]` | Reavaliação de 20/08: apto com restrições por mais 30 dias; documento contém aparente erro de redação e demanda confirmação da clínica |
 | `[[registro-atestado-medico-2026-10-06]]` | Atestado de atendimento apresentado à Conamore em 06/10/2026 (Hospital Mário Gatti): consulta de urgência com repouso por 7 dias; CID M75 (lesões do ombro); retorno teórico 13/10/2026 |
 | `[[registro-relatorio-fisioterapia-2026-10-23]]` | Relatório de fisioterapia dirigido ao ortopedista, datado de 23/10/2026; relata dor intensa e ausência de melhora. Encaminhamento à Medicina Ocupacional informado por Sérgio; não substitui parecer ocupacional. |
-| `[[registro-audios-dra-victoria-2026-11-03]]` | Três relatos verbais recebidos em 03/11: alta do ortopedista segundo a médica, fisioterapia continuada, segunda opinião solicitada e restrições laborais mantidas; aguarda parecer ocupacional escrito. |
+| `[[registro-audios-dra-victoria-2026-11-03]]` | Três relatos verbais recebidos em 03/11: alta do ortopedista segundo a médica, fisioterapia continuada, segunda opinião solicitada e restrições laborais mantidas; confrontar com o encaminhamento escrito de 03/11. |
+| `[[registro-encaminhamento-work-2026-11-03]]` | Encaminhamento da Work à empresa: apto com restrição; carga zero, pausas de 15 minutos por hora sugeridas, alongamento durante a jornada e avaliação após 30 dias. Não é ASO. |
 | `[[encaminhamentos-juridico]]` | Quando e como escalar o Adrian |
 
 ## Princípios de conduta (do Jurídico, pra gente não esquecer)

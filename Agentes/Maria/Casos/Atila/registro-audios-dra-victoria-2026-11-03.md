@@ -3,7 +3,7 @@ caso: Átila
 tipo: atualizacao-ocupacional-verbal
 confidencialidade: alta
 data_recebimento: 2026-11-03
-status: aguarda-confirmacao-escrita
+status: encaminhamento-escrito-recebido-pendencias-de-especificacao
 ---
 # Áudios da Dra. Victoria — atualização verbal (recebidos em 03/11/2026)
 
@@ -32,3 +32,7 @@ status: aguarda-confirmacao-escrita
 - Até resposta formal, assegurar atividades compatíveis com as restrições previamente documentadas; caso não haja tarefa compatível ou haja dor/agravamento, solicitar avaliação ocupacional imediata e envolver Adrian, sem decidir afastamento por conta própria.
 - Confirmar com Isabel a data efetiva da avaliação narrada e, se houver, receber arquivos originais dos áudios 2 e 3 para preservar a cadeia documental.
 - Não usar a opinião verbal de alta automática para alterar status previdenciário, ponto, folha ou autorizar trabalho irrestrito.
+
+## Atualização documental recebida em 04/11/2026
+
+Sérgio enviou **encaminhamento à empresa datado de 03/11/2026**, emitido pela Work e assinado pela Dra. Victoria. Agora há respaldo escrito para **apto com restrição**, **carga zero**, **sugestão de pausas de 15 minutos a cada 1h trabalhada**, **alongamento durante a jornada** e **avaliação após 30 dias**. O documento menciona encaminhamento ao médico assistente, mas não detalha especialidade, repetição do membro superior direito, esforço intenso ou tarefas concretas; não é ASO. Este registro documental complementa e prevalece sobre a antiga pendência de obter *algum* documento escrito, sem apagar as dúvidas sobre o alcance das restrições. Ver [[registro-encaminhamento-work-2026-11-03]].
