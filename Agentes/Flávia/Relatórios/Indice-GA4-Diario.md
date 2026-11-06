@@ -9,6 +9,7 @@ Atualizado: 05/11/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 06/11/2026 | [[GA4-Diario-2026-11-06]] | 03/11 vs 02/11 | Usuários +13,6%, sessões +24,8%, engajamento +3,8 p.p., eventos +32,5%; 03/11 foi o pico dos últimos 15 dias; Google / cpc 603 usuários; Facebook referral somado 293 usuários; `(not set)` 139 sessões em novos/recorrentes e 93 na landing (rejeição ~96%); mobile 79,2%. |
 | 05/11/2026 | [[GA4-Diario-2026-11-05]] | 02/11 vs 01/11 | Usuários +29,0%, sessões +28,2%, engajamento -0,2 p.p., eventos +35,1%; Google CPC 801 usuários (+27,3%); RD automação 58 usuários; `(not set)` 109 sessões em novos/recorrentes (95,4% rejeição) e 36 na landing (88,9%); mobile 88,2%; `/toalhas-para-hoteis-pousadas` 45,0% engajamento em 151 sessões. |
 | 04/11/2026 | [[GA4-Diario-2026-11-04]] | 01/11 vs 31/10 | Usuários +40,9%, sessões +35,1%, engajamento +2,1 p.p., eventos +25,4%; domingo praticamente estável ante domingos anteriores (+1,3% vs 25/10); Google CPC 629 usuários (+46,3%); `(not set)` 83 sessões em novos/recorrentes (91,6% rejeição) e 36 na landing (94,4%); mobile 89,2%; `/toalhas-para-hoteis-pousadas` 39,2% engajamento em 120 sessões. |
 | 03/11/2026 | [[GA4-Diario-2026-11-03]] | 31/10 vs 30/10 | Usuários -20,0%, sessões -23,4%, engajamento -1,2 p.p., eventos -16,4%; Google CPC 430 usuários (-1,4%); `(not set)` 92 sessões em novos/recorrentes (93,5% rejeição) e 27 na landing (92,6%); mobile 87,4%; `/erp-faturamento` 11 sessões. |
