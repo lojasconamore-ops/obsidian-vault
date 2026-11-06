@@ -4,6 +4,7 @@ Relatórios diários de tráfego do **Blog** (hotelaria.conamore.com.br) · Prop
 
 | Data de geração | Dados comparados | Arquivo |
 |---|---|---|
+| 06/11/2026 | 03/11 (D-3) vs 02/11 (D-4) | [[GA4-Diario-Blog-2026-11-06]] |
 | 05/11/2026 | 02/11 (D-3) vs 01/11 (D-4) | [[GA4-Diario-Blog-2026-11-05]] |
 | 04/11/2026 | 01/11 (D-3) vs 31/10 (D-4) | [[GA4-Diario-Blog-2026-11-04]] |
 | 03/11/2026 | 31/10 (D-3) vs 30/10 (D-4) | [[GA4-Diario-Blog-2026-11-03]] |
