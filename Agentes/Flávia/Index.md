@@ -31,6 +31,7 @@ Bem-vinda, Flávia! Aqui está seu **treinamento completo** para se tornar a mel
 - [[Comparativo Mensal - Lençóis 180 Fios - Conamore e Concorrentes|Comparativo mensal de preços — lençóis 180 fios e toalhas de banho]] — atualização automática todo dia 01
 - [[Ecommerce - Comparação staging Hotelaria vs produção - 2026-11-08|Ecommerce Hotelaria — comparação staging × produção (08/11)]] — ganhos de UX, regressão de conteúdo SEO e pendências para aceite
 - [[Ecommerce - Fase 1 Communitas - Aderência do staging - 2026-11-08|Fase 1 Communitas — aderência do staging (15 itens)]] — checklist Hotelaria e Casa, com bloqueios para publicação
+- [[Diagnóstico GA4 e Google Ads - Enhanced e Offline - 2026-11-08|GA4 + Google Ads — enhanced e conversões off-line (08/11)]] — diagnóstico ao vivo, cronologia e pendências de atribuição
 
 ---
 
