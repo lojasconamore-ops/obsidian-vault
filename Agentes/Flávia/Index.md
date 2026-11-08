@@ -29,6 +29,7 @@ Bem-vinda, Flávia! Aqui está seu **treinamento completo** para se tornar a mel
 - [[Consent Mode - Validação 2026-11-05|Consent Mode — validação 05/11/2026]] — teste ao vivo, GA4 D-3 e alerta de cookies pré-escolha; [[Consent Mode - Validação 2026-11-03|validação anterior de 03/11]]
 - [[Conamore - Visão Geral da Empresa]] — página-base para copy e posicionamento
 - [[Comparativo Mensal - Lençóis 180 Fios - Conamore e Concorrentes|Comparativo mensal de preços — lençóis 180 fios e toalhas de banho]] — atualização automática todo dia 01
+- [[Ecommerce - Comparação staging Hotelaria vs produção - 2026-11-08|Ecommerce Hotelaria — comparação staging × produção (08/11)]] — ganhos de UX, regressão de conteúdo SEO e pendências para aceite
 
 ---
 
