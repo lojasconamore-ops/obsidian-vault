@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 08/11/2026 19:01 BRT  
+Atualizado: 09/11/2026 19:01 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 08/11/2026 19:01 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 09/11/2026 | [[GA4-Diario-2026-11-09]] | 06/11 vs 05/11 | Usuários −7,5%, sessões −10,3%, engajamento −4,2 p.p., eventos −15,8%; Google CPC 519 usuários; direto 305 sessões (36,7% engaj.); `(not set)` 112 sessões novos/recorrentes e 64 landing (0 pageviews); mobile ~70,0%; `/erp-faturamento` 47 sessões. |
 | 08/11/2026 | [[GA4-Diario-2026-11-08]] | 05/11 vs 04/11 | Usuários −15,0%, sessões −11,3%, engajamento +7,4 p.p., eventos −0,8%; Google CPC 543 usuários; direto 323 sessões (38,7% engaj.); `(not set)` 116 sessões novos/recorrentes e 74 landing (0 pageviews); mobile 67,7%; `/erp-faturamento` 49 sessões. |
 | 07/11/2026 | [[GA4-Diario-2026-11-07]] | 04/11 vs 03/11 | Usuários −19,1%, sessões −21,2%, engajamento −13,2 p.p., eventos −31,8%; direto saltou para 492 sessões (+73,9%) com 24,6% engajamento; desktop direto 330 sessões com 13,3%; `(not set)` 126 sessões novos/recorrentes e 84 landing (0 pageviews); mobile 60,8%. |
 | 06/11/2026 | [[GA4-Diario-2026-11-06]] | 03/11 vs 02/11 | Usuários +13,6%, sessões +24,8%, engajamento +3,8 p.p., eventos +32,5%; 03/11 foi o pico dos últimos 15 dias; Google / cpc 603 usuários; Facebook referral somado 293 usuários; `(not set)` 139 sessões em novos/recorrentes e 93 na landing (rejeição ~96%); mobile 79,2%. |
