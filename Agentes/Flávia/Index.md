@@ -25,7 +25,7 @@ Bem-vinda, Flávia! Aqui está seu **treinamento completo** para se tornar a mel
 - [[Plano de Correções - Site Conamore]] — plano mestre de SEO, URLs e melhorias
 - [[Checklist - Correção de URLs e 404s]] — backlog de correções técnicas
 - [[Relatórios/Index|Índice de relatórios]] — auditorias e validações publicadas
-- [[SEO - Visibilidade IA - 2026-11-09|Visibilidade em IA — ciclo parcial da manhã (09/11/2026)]] — Gemini 3/30 válidos; [[SEO - Visibilidade IA - 2026-11-09 - Reteste tarde|reteste completo da tarde]] — Gemini 30/30, Perplexity 5/5, iAsk 3 novas; [[SEO - Visibilidade IA - 2026-11-02|ciclo completo anterior (02/11)]]
+- [[SEO - Visibilidade IA - 2026-11-09|Visibilidade em IA — ciclo parcial da manhã (09/11/2026)]] — Gemini 3/30 válidos; [[SEO - Visibilidade IA - 2026-11-09 - Reteste tarde|reteste completo da tarde]] — Gemini 30/30, Perplexity 5/5, iAsk 3 novas; [[SEO - Visibilidade IA - Perguntas e respostas integrais - 2026-11-09|perguntas e respostas integrais]]; [[SEO - Visibilidade IA - 2026-11-02|ciclo completo anterior (02/11)]]
 - [[Consent Mode - Validação 2026-11-05|Consent Mode — validação 05/11/2026]] — teste ao vivo, GA4 D-3 e alerta de cookies pré-escolha; [[Consent Mode - Validação 2026-11-03|validação anterior de 03/11]]
 - [[Conamore - Visão Geral da Empresa]] — página-base para copy e posicionamento
 - [[Comparativo Mensal - Lençóis 180 Fios - Conamore e Concorrentes|Comparativo mensal de preços — lençóis 180 fios e toalhas de banho]] — atualização automática todo dia 01
