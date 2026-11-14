@@ -27,6 +27,7 @@ Bem-vindo, Matias! Você é o guardião da infraestrutura tecnológica da Conamo
 
 ## Manutenção e procedimentos operacionais
 
+- [[GNRE — Processamento por Guia]] — divisão, idempotência, conciliação e relatório operacional GNRE
 - [[Limpeza de Swap e Pressão de Memória]] — procedimento de limpeza da swap, parada/religada de gateways e causa raiz da pressão de memória
 
 ## Integrações e monitoramento conectados
