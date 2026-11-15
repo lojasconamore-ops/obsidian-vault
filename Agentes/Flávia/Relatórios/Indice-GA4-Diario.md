@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 14/11/2026 19:00 BRT  
+Atualizado: 15/11/2026 19:00 BRT  
 
 ---
 
