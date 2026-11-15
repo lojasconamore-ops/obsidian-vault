@@ -21,3 +21,9 @@
 - Preservados relatórios canônicos do Obsidian, RH, briefings executivos, XMLs/PDFs GNRE, logs ativos, bancos SQLite, sessões, snapshots/backups, Playwright, ambientes virtuais e instalações Hermes/Node.
 - Node ativo permaneceu em `~/.hermes/node/bin/node` (v24.18.1). **13 gateways ativos** após a limpeza: 5 do systemd de sistema e 8 do systemd do usuário, nenhum falho.
 - Limpeza pontual: **não** foi criada retenção automática nem agendamento novo.
+
+## Complemento — perfis temporários de navegador em `/tmp`
+
+Às 07:56 BRT, por autorização específica do Sergio, foram removidos **somente sete diretórios**: cinco `chrome-consent-*` (incluindo `chrome-consent-flavia`), um `chrome_bu_profile4` e um `agent-browser-chrome-*`. Todos eram diretórios reais sob `/tmp`, sem symlinks na raiz, e não havia referências nos `cwd`, `exe`, descritores abertos nem linhas de comando dos processos examinados imediatamente antes da remoção. Nenhum outro arquivo de `/tmp`, perfil persistente ou binário do navegador foi removido. Os sete caminhos não existem mais.
+
+Medição do filesystem na operação: de **25.853.337.504** para **25.497.956.352 bytes usados**, recuperação observada de **355.381.248 bytes**. Disco raiz passou a **83% de uso**, com aproximadamente **5,2 GiB livres**. Os 13 gateways permaneceram ativos (5 systemd de sistema e 8 do usuário).
