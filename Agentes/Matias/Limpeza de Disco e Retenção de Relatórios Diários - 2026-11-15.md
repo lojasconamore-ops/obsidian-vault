@@ -27,3 +27,7 @@
 Às 07:56 BRT, por autorização específica do Sergio, foram removidos **somente sete diretórios**: cinco `chrome-consent-*` (incluindo `chrome-consent-flavia`), um `chrome_bu_profile4` e um `agent-browser-chrome-*`. Todos eram diretórios reais sob `/tmp`, sem symlinks na raiz, e não havia referências nos `cwd`, `exe`, descritores abertos nem linhas de comando dos processos examinados imediatamente antes da remoção. Nenhum outro arquivo de `/tmp`, perfil persistente ou binário do navegador foi removido. Os sete caminhos não existem mais.
 
 Medição do filesystem na operação: de **25.853.337.504** para **25.497.956.352 bytes usados**, recuperação observada de **355.381.248 bytes**. Disco raiz passou a **83% de uso**, com aproximadamente **5,2 GiB livres**. Os 13 gateways permaneceram ativos (5 systemd de sistema e 8 do usuário).
+
+## Complemento — ambiente Growatt antigo do Elias
+
+Às 08:35 BRT, por autorização específica do Sergio, removido apenas `~/.hermes/profiles/elias/cache/growatt-venv311` (Python 3.11 antigo). A rotina operacional documentada utiliza `growatt-venv` (Python 3.13); não havia referências abertas nem processo usando o binário do diretório antigo na verificação imediatamente anterior. O diretório antigo deixou de existir. **48.529.408 bytes** recuperados pelo filesystem. O ambiente atual permaneceu presente e passou na importação local de `growatt_public_api`/`pydantic_core`, sem usar token ou rede. Os 13 gateways permaneceram ativos. Nenhum outro ambiente foi removido.
