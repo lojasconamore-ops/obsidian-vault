@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 15/11/2026 19:00 BRT  
+Atualizado: 16/11/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 15/11/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 16/11/2026 | [[GA4-Diario-2026-11-16]] | 13/11 vs 12/11 | Usuários −19,1%, sessões −20,4%, engajamento +0,4 p.p., eventos −21,8%; queda quinta→sexta (padrão de dia útil, quinta 12/11 atípica com 1.688 sessões); Google / cpc 554 usuários; orgânico 88 (81,9% engaj.); 🚨 `(not set)` 88 sessões novos/recorrentes (93,2% rejeição) e 73 landings (97,3%); mobile 70,0%; home 463 usuários; chatgpt.com 6 usuários (100% engaj.). |
 | 15/11/2026 | [[GA4-Diario-2026-11-15]] | 12/11 vs 11/11 | Usuários +10,9%, sessões +11,1%, engajamento −0,7 p.p., eventos +12,5%; Google / cpc liderou com 603 usuários; `(not set)` em 105 sessões de novos/recorrentes (97,1% rejeição) e 84 landings (94,0%); mobile 68,2%; home 507 usuários; ChatGPT 9 usuários. |
 | 14/11/2026 | [[GA4-Diario-2026-11-14]] | 11/11 vs 10/11 | Usuários −5,5%, sessões −2,8%, engajamento +1,0 p.p., eventos −1,9%; tempo médio 5m57s (+27%); Google CPC 599 usuários (65,4% engaj.); orgânico 126 (72,2%); 🚨 `(not set)` 107 sessões novos/recorrentes e 81 landing (98,8%); direto 54,4% engaj.; mobile 70,6%, desktop 29,0%; chatgpt.com 15 usuários (82,4% engaj.); `/toalhas-para-hoteis-pousadas` recuperou p/ 66,7%. |
 | 13/11/2026 | [[GA4-Diario-2026-11-13]] | 10/11 vs 09/11 | Usuários +2,4%, sessões +1,1%, engajamento +0,9 p.p., eventos +2,8%; tempo médio 4m41s (−13,5%); Google CPC 596 usuários (67,6% engaj.); orgânico 113 (69,4%); 🚨 `(not set)` 101 sessões novos/recorrentes e 59 landing (rejeição ~96%); direto 45% engaj.; `/toalhas-para-hoteis-pousadas` 44,1% (3º dia <45%); mobile 68,4%, desktop 31,4%; chatgpt.com 9 usuários (81,8% engaj.). |
