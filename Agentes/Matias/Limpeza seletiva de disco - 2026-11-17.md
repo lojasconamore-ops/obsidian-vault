@@ -18,3 +18,7 @@
 - O candidato `~/.hermes/hermes-workspace/node_modules` e o cache Vite apontados antes não existiam mais na vistoria atual; `growatt-venv311` já havia sido removido em 15/11.
 
 Não pedir nem registrar senha sudo no chat. Pendências privilegiadas dependem de execução do Sergio no terminal da VM ou disponibilização de um caminho de administração seguro.
+
+## Complemento — saídas antigas do job GNRE
+
+Às 07:47 BRT, por autorização específica do Sergio, foram removidas **somente 16 saídas Markdown de 16/11/2026** do job `13b0904ff094` em `~/.hermes/profiles/matias/cron/output/13b0904ff094/`. Antes de remover, confirmado job por ID/nome/script, arquivo real `.md`, data no nome e `mtime` anteriores a 17/11 BRT, inode/tamanho/mtime e ausência de hardlink. Foram excluídos **2.976 bytes lógicos / 65.536 bytes alocados**, e o filesystem mediu ganho imediato de **65.536 bytes**. Restaram **34 saídas de 17/11**, nenhuma anterior à data atual. Job permanece habilitado, último status `ok`; `state.db` e `guide-status.txt` produtivos preservados. Isso não apaga histórico fiscal, XMLs, PDFs, logs de gateway nem mensagens do Telegram.
