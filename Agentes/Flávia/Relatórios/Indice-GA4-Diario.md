@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 17/11/2026 19:00 BRT  
+Atualizado: 18/11/2026 19:02 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 17/11/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 18/11/2026 | [[GA4-Diario-2026-11-18]] | 15/11 vs 14/11 | Usuários +8,8%, sessões +20,1%, engajamento −3,1 p.p., eventos +18,7%; t.co/referral liderou com 1.643 usuários; `(not set)` em novos/recorrentes teve 174 sessões e 97,1% de rejeição; mobile 92,7%; landing `/lencol-para-hotelaria` com 1.954 usuários. |
 | 17/11/2026 | [[GA4-Diario-2026-11-17]] | 14/11 vs 13/11 | Usuários +181,8%, sessões +134,0%, engajamento +6,2 p.p., eventos +113,8%; 🔥 pico viral sábado 14/11 (3.145 sessões) puxado por t.co/referral (1.543 usuários) → /lencol-para-hotelaria (1.846); google/cpc 620 (2º) e direto 488 (3º); `(not set)` 93 sessões novos/recorrentes (92,5% rejeição) e 52 landings; mobile 92%; chatgpt.com 12 usuários. |
 | 16/11/2026 | [[GA4-Diario-2026-11-16]] | 13/11 vs 12/11 | Usuários −19,1%, sessões −20,4%, engajamento +0,4 p.p., eventos −21,8%; queda quinta→sexta (padrão de dia útil, quinta 12/11 atípica com 1.688 sessões); Google / cpc 554 usuários; orgânico 88 (81,9% engaj.); 🚨 `(not set)` 88 sessões novos/recorrentes (93,2% rejeição) e 73 landings (97,3%); mobile 70,0%; home 463 usuários; chatgpt.com 6 usuários (100% engaj.). |
 | 15/11/2026 | [[GA4-Diario-2026-11-15]] | 12/11 vs 11/11 | Usuários +10,9%, sessões +11,1%, engajamento −0,7 p.p., eventos +12,5%; Google / cpc liderou com 603 usuários; `(not set)` em 105 sessões de novos/recorrentes (97,1% rejeição) e 84 landings (94,0%); mobile 68,2%; home 507 usuários; ChatGPT 9 usuários. |
