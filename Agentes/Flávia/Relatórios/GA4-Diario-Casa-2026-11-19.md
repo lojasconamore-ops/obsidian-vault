@@ -89,7 +89,7 @@
 - **Volume:** usuários, sessões, novos usuários, pageviews e eventos caíram entre 7,9% e 23,7% no D-3; a retração mais forte foi em novos usuários e pageviews.
 - **Qualidade:** apesar da queda de volume, o tempo médio subiu de 4m14s para 6m47s (+152s), indicando sessões menores em quantidade, mas mais longas. Engajamento caiu 2,0 p.p.; acompanhar a evolução.
 - **E-commerce:** houve 1 transação e R$ 353,43 no D-3. O tracking não está zerado, mas o resultado ficou bem abaixo do D-4 (4 transações; R$ 2.160,25).
-- **Aquisição:** google/cpc liderou em volume, porém com engajamento de 75,6%, abaixo da média geral de 83,6%. Instagram pago teve 23 usuários combinados e engajamento de 95,7% agregado por nomenclatura separada.
+- **Aquisição:** google/cpc liderou em volume, porém com engajamento de 75,6%, abaixo da média geral de 83,6%. Instagram pago teve 23 usuários combinados; as nomenclaturas separadas registraram engajamento de 92,9% (`ig/paid`) e 100,0% (`instagram/paid`).
 - **Consent/tracking:** `(not set)` em `newVsReturning` foi irrelevante (1 sessão), mas landing page `(not set)` teve 5 sessões e 4 usuários sem pageviews; manter monitoramento.
 - **Dispositivo:** mobile segue majoritário; priorizar QA do fluxo de navegação e compra nesse dispositivo.
 
