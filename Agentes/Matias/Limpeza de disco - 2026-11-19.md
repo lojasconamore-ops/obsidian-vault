@@ -15,3 +15,9 @@ Antes da limpeza, nenhum processo mantinha descritor aberto nos três diretório
 - `~/.cache/puccinialin` (~695 MiB) reapareceu após exclusão de 17/11; conteúdo Rust/toolchain teve mtime em 18/11. Preservado por potencial reconstrução recorrente e para não gerar downloads/recompilação desnecessários. Investigar quem o recria se o crescimento persistir.
 - Revisões Snap desabilitadas e cache APT mantidos. `sudo -n true` retornou status 1, sem privilégio não interativo. Nunca apagar Snap diretamente; não solicitar senha no chat.
 - Navegadores/perfis, bancos SQLite, GNRE XML/PDF/estado, node_modules e stores compartilhados intactos.
+
+## Complemento GNRE — 06:39 BRT
+
+Por autorização do Sergio para dados e logs até ontem, inventariado o job `13b0904ff094` (único GNRE identificado em `cron/jobs.json` Matias). Excluídas **30 saídas Markdown de 18/11/2026** de `cron/output/13b0904ff094/`, com dupla verificação de data no nome e mtime anterior a 19/11 BRT, extensão, inode, tamanho, ausência de symlink/hardlink. **122.880 bytes efetivamente liberados**, 20 saídas de 19/11 preservadas e nenhuma saída anterior restante neste job.
+
+**Dados fiscais não foram apagados:** `runtime/production/archive/` contém 384 XML/PDF (cerca de 98 MB alocados), inclusive evidência de requisição, resposta e resultado fiscal; `runtime/production/state.db` e WAL registram estado e bloqueio contra reenvio; `runtime/production/inbox/` contém XMLs de origem. Esses arquivos não são logs descartáveis, e a idade não prova quitação ou fim da obrigação de guarda. Apagá-los sem retenção aprovada e reconciliação verificável pode perder evidência e induzir envio duplicado. Cópia operacional `GNRE_STATUS_GUIAS.txt` não foi alterada.
