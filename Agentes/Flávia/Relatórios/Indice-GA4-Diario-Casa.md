@@ -4,6 +4,7 @@ Relatórios diários de tráfego da **Conamore Casa** (lojas.conamore.com.br) ·
 
 | Data de geração | Dados comparados | Arquivo |
 |---|---|---|
+| 19/11/2026 | 16/11 (D-3) vs 15/11 (D-4) | [[GA4-Diario-Casa-2026-11-19]] |
 | 18/11/2026 | 15/11 (D-3) vs 14/11 (D-4) | [[GA4-Diario-Casa-2026-11-18]] |
 | 17/11/2026 | 14/11 (D-3) vs 13/11 (D-4) | [[GA4-Diario-Casa-2026-11-17]] |
 | 16/11/2026 | 13/11 (D-3) vs 12/11 (D-4) | [[GA4-Diario-Casa-2026-11-16]] |
@@ -23,13 +24,13 @@ Relatórios diários de tráfego da **Conamore Casa** (lojas.conamore.com.br) ·
 | 02/11/2026 | 30/10 (D-3) vs 29/10 (D-4) | [[GA4-Diario-Casa-2026-11-02]] |
 | 01/11/2026 | 29/10 (D-3) vs 28/10 (D-4) | [[GA4-Diario-Casa-2026-11-01]] |
 | 31/10/2026 | 28/10 (D-3) vs 27/10 (D-4) | [[GA4-Diario-Casa-2026-10-31]] |
-| 30/10/2026 | 27/10 (D-3) vs 26/10 (D-4) | [[GA4-Diario-Casa-2026-10-30]] |
+| 30/10/2026 | 26/10 (D-3) vs 26/10 (D-4) | [[GA4-Diario-Casa-2026-10-30]] |
 | 29/10/2026 | 26/10 (D-3) vs 25/10 (D-4) | [[GA4-Diario-Casa-2026-10-29]] |
-| 28/10/2026 | 25/10 (D-3) vs 24/10 (D-4) | [[GA4-Diario-Casa-2026-10-28]] |
-| 27/10/2026 | 24/10 (D-3) vs 23/10 (D-4) | [[GA4-Diario-Casa-2026-10-27]] |
+| 28/10/2026 | 24/10 (D-3) vs 24/10 (D-4) | [[GA4-Diario-Casa-2026-10-28]] |
+| 27/10/2026 | 23/10 (D-3) vs 22/10 (D-4) | [[GA4-Diario-Casa-2026-10-27]] |
 | 26/10/2026 | 23/10 (D-3) vs 22/10 (D-4) | [[GA4-Diario-Casa-2026-10-26]] |
-| 25/10/2026 | 22/10 (D-3) vs 21/10 (D-4) | [[GA4-Diario-Casa-2026-10-25]] |
-| 24/10/2026 | 21/10 (D-3) vs 20/10 (D-4) | [[GA4-Diario-Casa-2026-10-24]] |
+| 25/10/2026 | 23/10 (D-3) vs 22/10 (D-4) | [[GA4-Diario-Casa-2026-10-25]] |
+| 24/10/2026 | 20/10 (D-3) vs 20/10 (D-4) | [[GA4-Diario-Casa-2026-10-24]] |
 | 23/10/2026 | 20/10 (D-3) vs 19/10 (D-4) | [[GA4-Diario-Casa-2026-10-23]] |
 | 22/10/2026 | 19/10 (D-3) vs 18/10 (D-4) | [[GA4-Diario-Casa-2026-10-22]] |
 | 20/10/2026 | 17/10 (D-3) vs 16/10 (D-4) | [[GA4-Diario-Casa-2026-10-20]] |
@@ -79,4 +80,4 @@ Relatórios diários de tráfego da **Conamore Casa** (lojas.conamore.com.br) ·
 | 01/09/2026 | 29/08 (D-3) vs 28/08 (D-4) | [[GA4-Diario-Casa-2026-09-01]] |
 | 31/08/2026 | 28/08 (D-3) vs 27/08 (D-4) | [[GA4-Diario-Casa-2026-08-31]] |
 | 30/08/2026 | 27/08 (D-3) vs 26/08 (D-4) | [[GA4-Diario-Casa-2026-08-30]] |
-| 29/08/2026 | 26/08 (D-3) vs 25/08 (D-4) | [[GA4-Diario-Casa-2026-08-29]] |
+| 29/08/2026 | 25/08 (D-3) vs 25/08 (D-4) | [[GA4-Diario-Casa-2026-08-29]] |
