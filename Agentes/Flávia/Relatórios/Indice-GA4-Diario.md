@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 18/11/2026 19:02 BRT  
+Atualizado: 20/11/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 18/11/2026 19:02 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 20/11/2026 | [[GA4-Diario-2026-11-20]] | 17/11 vs 16/11 | Usuários +5,5%, sessões +3,0%, engajamento +2,1 p.p., eventos +13,0%, pageviews +18,6%; tempo médio −27% (6m30s→4m44s, por peso de novos 73%); Google / cpc 583 usuários (48,7%); orgânico 145 (65,6% engaj.); 🚨 `(not set)` 141 sessões novos/recorrentes (95,7% rejeição) e 89 landings (5,6%); mobile 73,9%; normalização pós-pico viral de 14–15/11. |
 | 19/11/2026 | [[GA4-Diario-2026-11-19]] | 16/11 vs 15/11 | Usuários −64,0%, sessões −58,3%, engajamento −6,2 p.p., eventos −57,8%; normalização após pico de 15/11; Google / cpc 539 usuários; `(not set)` 156 sessões em novos/recorrentes (96,8% rejeição) e 85 landings (94,1%, 0 pageviews); mobile 69,8%; home 461 usuários; ChatGPT 8 usuários. |
 | 18/11/2026 | [[GA4-Diario-2026-11-18]] | 15/11 vs 14/11 | Usuários +8,8%, sessões +20,1%, engajamento −3,1 p.p., eventos +18,7%; t.co/referral liderou com 1.643 usuários; `(not set)` em novos/recorrentes teve 174 sessões e 97,1% de rejeição; mobile 92,7%; landing `/lencol-para-hotelaria` com 1.954 usuários. |
 | 17/11/2026 | [[GA4-Diario-2026-11-17]] | 14/11 vs 13/11 | Usuários +181,8%, sessões +134,0%, engajamento +6,2 p.p., eventos +113,8%; 🔥 pico viral sábado 14/11 (3.145 sessões) puxado por t.co/referral (1.543 usuários) → /lencol-para-hotelaria (1.846); google/cpc 620 (2º) e direto 488 (3º); `(not set)` 93 sessões novos/recorrentes (92,5% rejeição) e 52 landings; mobile 92%; chatgpt.com 12 usuários. |
