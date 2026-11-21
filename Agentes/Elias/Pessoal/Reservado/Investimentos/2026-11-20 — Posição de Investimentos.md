@@ -17,13 +17,13 @@ Snapshot registrado para comparação futura. Fonte: API Pluggy (open finance), 
 
 ## Fundos
 
-| Fundo | Tipo | Saldo |
-|---|---|---|
-| Privilege DI | Renda fixa (DI) | R$ 175.447,18 |
-| Diferenciado Crédito Privado Renda Fixa | Renda fixa crédito privado | R$ 174.310,92 |
-| Itaú Crédito Bancário Renda Fixa Crédito Privado | Renda fixa crédito privado | R$ 64.624,17 |
-| Itaú Global Dinâmico Baixa Vol Multimercado | Multimercado | R$ 64.194,48 |
-| Absolute Hidra CDI Seleção Infra Renda Fixa CP | Renda fixa crédito privado | R$ 0 (zerado) |
+| Fundo | Tipo | Retorno 12m | Saldo |
+|---|---|---|---|
+| Privilege DI | Renda fixa (DI) | 12,32% | R$ 175.447,18 |
+| Diferenciado Crédito Privado Renda Fixa | Renda fixa crédito privado | 12,31% | R$ 174.310,92 |
+| Itaú Crédito Bancário Renda Fixa Crédito Privado | Renda fixa crédito privado | n/d | R$ 64.624,17 |
+| Itaú Global Dinâmico Baixa Vol Multimercado | Multimercado | 11,95% | R$ 64.194,48 |
+| Absolute Hidra CDI Seleção Infra Renda Fixa CP | Renda fixa crédito privado | resgatado | R$ 0 (resgatado) |
 
 ## CDBs / renda fixa
 
