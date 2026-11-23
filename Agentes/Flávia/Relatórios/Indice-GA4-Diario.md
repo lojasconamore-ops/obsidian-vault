@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 22/11/2026 19:00 BRT  
+Atualizado: 23/11/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 22/11/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 23/11/2026 | [[GA4-Diario-2026-11-23]] | 20/11 vs 19/11 | Usuários −0,9%, sessões −7,3%, engajamento −0,5 p.p., eventos +2,2%, pageviews +2,3%; tempo médio −29,8% (6m05s→4m16s, mais peso de novos/CPC); Google / cpc 498 usuários (49%); orgânico 157 (71,9% engaj.); 🚨 `(not set)` 106 sessões novos/recorrentes (93,4% rejeição) e 29 landings (0 pageviews); mobile 85,0%; 20/11 menor dia útil dos 15 dias; pico 14–15/11 normalizado. |
 | 22/11/2026 | [[GA4-Diario-2026-11-22]] | 19/11 vs 18/11 | Usuários +1,0%, sessões −0,6%, engajamento −0,4 p.p., eventos −4,5%, pageviews −5,7%; novos +5,9% (791); dia estável/platô; Google / cpc 521 usuários (63,1% engaj.); orgânico 139 (73,4% engaj.); 🚨 `(not set)` 143 sessões novos/recorrentes (92,3% rejeição) e 43 landings (9,4%); mobile 76,5%; pico viral 14–15/11 normalizado; ChatGPT 14 usuários. |
 | 21/11/2026 | [[GA4-Diario-2026-11-21]] | 18/11 vs 17/11 | Usuários −15,0%, sessões −14,0%, engajamento +0,9 p.p., eventos −11,3%; queda puxada pelo CPC (google/cpc 583→456, −21,8%); tempo médio +44,1% (4m44s→6m50s, sessões mais profundas); facebook/cpc disparou 13→41 (86,0% engaj.); orgânico estável (151); 🚨 `(not set)` 147 sessões novos/recorrentes (92,5% rejeição) e 76 landings (3,9%); mobile 72,2%. |
 | 20/11/2026 | [[GA4-Diario-2026-11-20]] | 17/11 vs 16/11 | Usuários +5,5%, sessões +3,0%, engajamento +2,1 p.p., eventos +13,0%, pageviews +18,6%; tempo médio −27% (6m30s→4m44s, por peso de novos 73%); Google / cpc 583 usuários (48,7%); orgânico 145 (65,6% engaj.); 🚨 `(not set)` 141 sessões novos/recorrentes (95,7% rejeição) e 89 landings (5,6%); mobile 73,9%; normalização pós-pico viral de 14–15/11. |
