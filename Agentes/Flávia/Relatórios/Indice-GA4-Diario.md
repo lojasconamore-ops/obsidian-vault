@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 24/11/2026 19:00 BRT  
+Atualizado: 25/11/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 24/11/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 25/11/2026 | [[GA4-Diario-2026-11-25]] | 22/11 vs 21/11 | Usuários +19,9%, sessões +18,7% (domingo recuperou sobre sábado); engajamento +4,2 p.p. (65,9%), eventos +31,3%, pageviews +34,6%; tempo médio +5,0% (4m20s); Google / cpc 553 usuários (~54%, +17,9%); orgânico 97→133 (+37%); 🚨 `(not set)` 102 sessões novos/recorrentes (93,1% rejeição) e 31 landings (0 pageviews); mobile 86,0%; chatgpt.com 17 usuários; `/enxoval-para-airbnb` 2ª nas landings (82 usuários). |
 | 24/11/2026 | [[GA4-Diario-2026-11-24]] | 21/11 vs 20/11 | Usuários −16,8%, sessões −12,8% (sexta→sábado, sazonalidade B2B); engajamento −0,9 p.p. (61,7%), eventos −22,4%, pageviews −21,7%; tempo médio estável (4m08s, −3,4%); Google / cpc 469 usuários (~55%); orgânico 157→97 (−38%); 🚨 `(not set)` 128 sessões novos/recorrentes (97,7% rejeição) e 27 landings (0 pageviews); mobile 86,9%; `/toalhas-para-hoteis-pousadas` voltou ao top 10; 21/11 é o menor dia recente (sábado normal — 14/11 foi pico viral). |
 | 23/11/2026 | [[GA4-Diario-2026-11-23]] | 20/11 vs 19/11 | Usuários −0,9%, sessões −7,3%, engajamento −0,5 p.p., eventos +2,2%, pageviews +2,3%; tempo médio −29,8% (6m05s→4m16s, mais peso de novos/CPC); Google / cpc 498 usuários (49%); orgânico 157 (71,9% engaj.); 🚨 `(not set)` 106 sessões novos/recorrentes (93,4% rejeição) e 29 landings (0 pageviews); mobile 85,0%; 20/11 menor dia útil dos 15 dias; pico 14–15/11 normalizado. |
 | 22/11/2026 | [[GA4-Diario-2026-11-22]] | 19/11 vs 18/11 | Usuários +1,0%, sessões −0,6%, engajamento −0,4 p.p., eventos −4,5%, pageviews −5,7%; novos +5,9% (791); dia estável/platô; Google / cpc 521 usuários (63,1% engaj.); orgânico 139 (73,4% engaj.); 🚨 `(not set)` 143 sessões novos/recorrentes (92,3% rejeição) e 43 landings (9,4%); mobile 76,5%; pico viral 14–15/11 normalizado; ChatGPT 14 usuários. |
