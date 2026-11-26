@@ -1,7 +1,7 @@
 # Índice de Relatórios GA4 Diários
 
 **Conamore Hotelaria** · Property 379729087  
-Atualizado: 25/11/2026 19:00 BRT  
+Atualizado: 26/11/2026 19:00 BRT  
 
 ---
 
@@ -9,6 +9,7 @@ Atualizado: 25/11/2026 19:00 BRT
 
 | Data | Arquivo | Período dos dados | Destaque |
 |---|---|---|---|
+| 26/11/2026 | [[GA4-Diario-2026-11-26]] | 23/11 vs 22/11 | Usuários +8,9%, sessões +13,3% (segunda superou domingo — atípico p/ B2B); engajamento −1,6 p.p. (64,3%), eventos +5,3%, pageviews +1,8%; tempo médio +8,6% (4m42s); Google / cpc caiu 553→489 (−11,6%) — alta veio de direto (+18,5%) e orgânico (+30,1%); 🚨 `(not set)` 136 sessões novos/recorrentes (97,8% rejeição) e 58 landings (6,8% engaj.); desktop saltou p/ 26,9% (13,6% domingo) — dia útil B2B; `/calculadora-roupa-de-cama-de-hotel` 73,3% rejeição. |
 | 25/11/2026 | [[GA4-Diario-2026-11-25]] | 22/11 vs 21/11 | Usuários +19,9%, sessões +18,7% (domingo recuperou sobre sábado); engajamento +4,2 p.p. (65,9%), eventos +31,3%, pageviews +34,6%; tempo médio +5,0% (4m20s); Google / cpc 553 usuários (~54%, +17,9%); orgânico 97→133 (+37%); 🚨 `(not set)` 102 sessões novos/recorrentes (93,1% rejeição) e 31 landings (0 pageviews); mobile 86,0%; chatgpt.com 17 usuários; `/enxoval-para-airbnb` 2ª nas landings (82 usuários). |
 | 24/11/2026 | [[GA4-Diario-2026-11-24]] | 21/11 vs 20/11 | Usuários −16,8%, sessões −12,8% (sexta→sábado, sazonalidade B2B); engajamento −0,9 p.p. (61,7%), eventos −22,4%, pageviews −21,7%; tempo médio estável (4m08s, −3,4%); Google / cpc 469 usuários (~55%); orgânico 157→97 (−38%); 🚨 `(not set)` 128 sessões novos/recorrentes (97,7% rejeição) e 27 landings (0 pageviews); mobile 86,9%; `/toalhas-para-hoteis-pousadas` voltou ao top 10; 21/11 é o menor dia recente (sábado normal — 14/11 foi pico viral). |
 | 23/11/2026 | [[GA4-Diario-2026-11-23]] | 20/11 vs 19/11 | Usuários −0,9%, sessões −7,3%, engajamento −0,5 p.p., eventos +2,2%, pageviews +2,3%; tempo médio −29,8% (6m05s→4m16s, mais peso de novos/CPC); Google / cpc 498 usuários (49%); orgânico 157 (71,9% engaj.); 🚨 `(not set)` 106 sessões novos/recorrentes (93,4% rejeição) e 29 landings (0 pageviews); mobile 85,0%; 20/11 menor dia útil dos 15 dias; pico 14–15/11 normalizado. |
